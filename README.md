@@ -21,3 +21,9 @@ Installed pwa plugin with
 Added the plugin to the config
 
 Remembered that proper devolopers use git and ran `git init`
+
+Added vue-i18n
+`bun add vue-i18n`
+
+Add vue-router
+`bun add vue-router`
