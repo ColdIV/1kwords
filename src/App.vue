@@ -1,21 +1,10 @@
 <template>
-  <div id="app">
-    <LanguageSelector />
+  <AppHeader />
+  <main>
     <router-view />
-  </div>
+  </main>
 </template>
 
-<script>
-import LanguageSelector from './components/LanguageSelector.vue';
-
-export default {
-  components: {
-    LanguageSelector,
-  },
-};
+<script setup>
+import AppHeader from './components/AppHeader.vue'
 </script>
-
-
-<style scoped>
-
-</style>
