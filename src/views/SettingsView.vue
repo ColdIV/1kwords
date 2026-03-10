@@ -39,6 +39,7 @@
       <select v-model="settings.uiLocale" class="setting-input" @change="changeLocale">
         <option value="en">English</option>
         <option value="fr">Français</option>
+        <option value="de">Deutsch</option>
       </select>
     </div>
 

@@ -4,17 +4,17 @@ A Vue 3 PWA for learning the 1000 most common words in French, Spanish, Korean, 
 
 ## Local development
 
-**Prerequisites:** Node.js 18+ or Bun
+**Prerequisites:** Node.js 18+
 
 ```bash
 # Install dependencies
-bun install
+npm install
 
 # Start dev server
-bun run dev
+npm run dev
 
 # Build for production
-bun run build
+npm run build
 ```
 
 ## Adding a new language
@@ -27,20 +27,19 @@ bun run build
     "id": 1,
     "word": "o",
     "translation": "the",
-    "pos": "det",
-    "example": "O gato está aqui."
+    "pos": "det"
   }
 ]
 ```
 
-Each entry needs: `id` (sequential integer), `word` (target language), `translation` (English), `pos` (part of speech: noun, verb, adj, adv, det, prep, conj, pron, num, interj), and `example` (a sentence using the word).
+Each entry needs: `id` (sequential integer), `word` (target language), `translation` (English), and `pos` (part of speech: noun, verb, adj, adv, det, prep, conj, pron, num, interj).
 
 2. Register the language in `src/data/languages.js`:
 
 ```js
 export const languages = {
   // ...existing languages
-  pt: { name: 'Portuguese', nativeName: 'Português', flag: '🇧🇷' },
+  pt: { name: 'Portuguese', nativeName: 'Português', flag: '🇵🇹' },
 }
 ```
 
