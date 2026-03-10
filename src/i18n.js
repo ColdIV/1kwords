@@ -2,7 +2,12 @@ import { createI18n } from 'vue-i18n'
 
 const messages = {
   en: {
-    nav: { home: 'Home', practice: 'Practice', stats: 'Stats', settings: 'Settings' },
+    nav: {
+      home: 'Home',
+      practice: 'Practice',
+      stats: 'Stats',
+      settings: 'Settings',
+    },
     home: {
       title: '1kwords',
       wordsLearned: 'Words Learned',
@@ -56,7 +61,12 @@ const messages = {
     },
   },
   fr: {
-    nav: { home: 'Accueil', practice: 'Pratique', stats: 'Stats', settings: 'Réglages' },
+    nav: {
+      home: 'Accueil',
+      practice: 'Pratique',
+      stats: 'Stats',
+      settings: 'Réglages',
+    },
     home: {
       title: '1kwords',
       wordsLearned: 'Mots appris',

@@ -1,29 +1,52 @@
-# Vue 3 + Vite
+# 1kwords
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A Vue 3 PWA for learning the 1000 most common words in French, Spanish, Korean, and Indonesian through spaced repetition flashcards.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Local development
 
+**Prerequisites:** Node.js 18+
 
-## notes / rough dev log:
-Created with
-`bun create vite`
+```bash
+# Install dependencies
+npm install
 
-Install with
-`bun install`
+# Start dev server
+npm run dev
 
-Run dev with
-`bun run dev`
+# Build for production
+npm run build
+```
 
-Installed pwa plugin with
-`bun install vite-plugin-pwa`
+## Adding a new language
 
-Added the plugin to the config
+1. Create a word data file at `src/data/words/<code>.json` (e.g. `pt.json` for Portuguese). The file should be a JSON array of objects:
 
-Remembered that proper devolopers use git and ran `git init`
+```json
+[
+  {
+    "id": 1,
+    "word": "o",
+    "translation": "the",
+    "pos": "det"
+  }
+]
+```
 
-Added vue-i18n
-`bun add vue-i18n`
+Each entry needs: `id` (sequential integer), `word` (target language), `translation` (English), and `pos` (part of speech: noun, verb, adj, adv, det, prep, conj, pron, num, interj).
 
-Add vue-router
-`bun add vue-router`
+2. Register the language in `src/data/languages.js`:
+
+```js
+export const languages = {
+  // ...existing languages
+  pt: { name: 'Portuguese', nativeName: 'Português', flag: '🇵🇹' },
+}
+```
+
+## Updating word data
+
+Edit the JSON file in `src/data/words/` directly. Keep IDs sequential and ensure no duplicate words exist in the same file.
+
+## Adding UI translations
+
+Edit `src/i18n.js` and add a new locale object following the structure of the existing `en` or `fr` entries. The locale key should match a language code users might set as their interface language.
