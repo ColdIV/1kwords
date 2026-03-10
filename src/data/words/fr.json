@@ -1,1002 +1,5600 @@
 [
-  {"id": 1, "word": "de", "translation": "of / from", "pos": "prep"},
-  {"id": 2, "word": "le", "translation": "the", "pos": "det"},
-  {"id": 3, "word": "être", "translation": "to be", "pos": "verb"},
-  {"id": 4, "word": "et", "translation": "and", "pos": "conj"},
-  {"id": 5, "word": "un", "translation": "a / one", "pos": "det"},
-  {"id": 6, "word": "à", "translation": "to / at", "pos": "prep"},
-  {"id": 7, "word": "il", "translation": "he / it", "pos": "pron"},
-  {"id": 8, "word": "avoir", "translation": "to have", "pos": "verb"},
-  {"id": 9, "word": "ne", "translation": "not", "pos": "adv"},
-  {"id": 10, "word": "je", "translation": "I", "pos": "pron"},
-  {"id": 11, "word": "son", "translation": "his / her / its", "pos": "det"},
-  {"id": 12, "word": "que", "translation": "that / which", "pos": "conj"},
-  {"id": 13, "word": "se", "translation": "oneself", "pos": "pron"},
-  {"id": 14, "word": "qui", "translation": "who / which", "pos": "pron"},
-  {"id": 15, "word": "ce", "translation": "this / that", "pos": "det"},
-  {"id": 16, "word": "dans", "translation": "in / within", "pos": "prep"},
-  {"id": 17, "word": "en", "translation": "in / of it", "pos": "prep"},
-  {"id": 18, "word": "du", "translation": "of the / some", "pos": "det"},
-  {"id": 19, "word": "elle", "translation": "she / her", "pos": "pron"},
-  {"id": 20, "word": "au", "translation": "to the / at the", "pos": "prep"},
-  {"id": 21, "word": "pour", "translation": "for / in order to", "pos": "prep"},
-  {"id": 22, "word": "sur", "translation": "on / upon", "pos": "prep"},
-  {"id": 23, "word": "pas", "translation": "not / step", "pos": "adv"},
-  {"id": 24, "word": "me", "translation": "me / myself", "pos": "pron"},
-  {"id": 25, "word": "avec", "translation": "with", "pos": "prep"},
-  {"id": 26, "word": "tout", "translation": "all / everything", "pos": "det"},
-  {"id": 27, "word": "faire", "translation": "to do / to make", "pos": "verb"},
-  {"id": 28, "word": "on", "translation": "one / we", "pos": "pron"},
-  {"id": 29, "word": "pouvoir", "translation": "can / to be able to", "pos": "verb"},
-  {"id": 30, "word": "dire", "translation": "to say / to tell", "pos": "verb"},
-  {"id": 31, "word": "plus", "translation": "more / most", "pos": "adv"},
-  {"id": 32, "word": "nous", "translation": "we / us", "pos": "pron"},
-  {"id": 33, "word": "aller", "translation": "to go", "pos": "verb"},
-  {"id": 34, "word": "bien", "translation": "well / good", "pos": "adv"},
-  {"id": 35, "word": "homme", "translation": "man", "pos": "noun"},
-  {"id": 36, "word": "mais", "translation": "but", "pos": "conj"},
-  {"id": 37, "word": "aussi", "translation": "also / too", "pos": "adv"},
-  {"id": 38, "word": "grand", "translation": "big / great", "pos": "adj"},
-  {"id": 39, "word": "mon", "translation": "my", "pos": "det"},
-  {"id": 40, "word": "lui", "translation": "him / to him", "pos": "pron"},
-  {"id": 41, "word": "te", "translation": "you / yourself", "pos": "pron"},
-  {"id": 42, "word": "où", "translation": "where", "pos": "adv"},
-  {"id": 43, "word": "tu", "translation": "you", "pos": "pron"},
-  {"id": 44, "word": "vouloir", "translation": "to want", "pos": "verb"},
-  {"id": 45, "word": "savoir", "translation": "to know", "pos": "verb"},
-  {"id": 46, "word": "voir", "translation": "to see", "pos": "verb"},
-  {"id": 47, "word": "leur", "translation": "their / to them", "pos": "det"},
-  {"id": 48, "word": "temps", "translation": "time / weather", "pos": "noun"},
-  {"id": 49, "word": "très", "translation": "very", "pos": "adv"},
-  {"id": 50, "word": "quand", "translation": "when", "pos": "adv"},
-  {"id": 51, "word": "comme", "translation": "like / as", "pos": "conj"},
-  {"id": 52, "word": "par", "translation": "by / through", "pos": "prep"},
-  {"id": 53, "word": "venir", "translation": "to come", "pos": "verb"},
-  {"id": 54, "word": "deux", "translation": "two", "pos": "num"},
-  {"id": 55, "word": "encore", "translation": "still / again", "pos": "adv"},
-  {"id": 56, "word": "donner", "translation": "to give", "pos": "verb"},
-  {"id": 57, "word": "petit", "translation": "small / little", "pos": "adj"},
-  {"id": 58, "word": "même", "translation": "same / even", "pos": "adj"},
-  {"id": 59, "word": "autre", "translation": "other / another", "pos": "adj"},
-  {"id": 60, "word": "prendre", "translation": "to take", "pos": "verb"},
-  {"id": 61, "word": "femme", "translation": "woman / wife", "pos": "noun"},
-  {"id": 62, "word": "premier", "translation": "first", "pos": "adj"},
-  {"id": 63, "word": "si", "translation": "if / so", "pos": "conj"},
-  {"id": 64, "word": "devoir", "translation": "to have to / must", "pos": "verb"},
-  {"id": 65, "word": "bon", "translation": "good", "pos": "adj"},
-  {"id": 66, "word": "non", "translation": "no", "pos": "adv"},
-  {"id": 67, "word": "croire", "translation": "to believe", "pos": "verb"},
-  {"id": 68, "word": "y", "translation": "there / to it", "pos": "pron"},
-  {"id": 69, "word": "trouver", "translation": "to find", "pos": "verb"},
-  {"id": 70, "word": "jour", "translation": "day", "pos": "noun"},
-  {"id": 71, "word": "ou", "translation": "or", "pos": "conj"},
-  {"id": 72, "word": "main", "translation": "hand", "pos": "noun"},
-  {"id": 73, "word": "vie", "translation": "life", "pos": "noun"},
-  {"id": 74, "word": "là", "translation": "there", "pos": "adv"},
-  {"id": 75, "word": "falloir", "translation": "to be necessary", "pos": "verb"},
-  {"id": 76, "word": "parler", "translation": "to speak / to talk", "pos": "verb"},
-  {"id": 77, "word": "mettre", "translation": "to put / to place", "pos": "verb"},
-  {"id": 78, "word": "sans", "translation": "without", "pos": "prep"},
-  {"id": 79, "word": "alors", "translation": "then / so", "pos": "adv"},
-  {"id": 80, "word": "monde", "translation": "world / people", "pos": "noun"},
-  {"id": 81, "word": "trop", "translation": "too / too much", "pos": "adv"},
-  {"id": 82, "word": "sous", "translation": "under / beneath", "pos": "prep"},
-  {"id": 83, "word": "père", "translation": "father", "pos": "noun"},
-  {"id": 84, "word": "après", "translation": "after", "pos": "prep"},
-  {"id": 85, "word": "heure", "translation": "hour / time", "pos": "noun"},
-  {"id": 86, "word": "passer", "translation": "to pass / to spend", "pos": "verb"},
-  {"id": 87, "word": "rien", "translation": "nothing", "pos": "pron"},
-  {"id": 88, "word": "moins", "translation": "less / least", "pos": "adv"},
-  {"id": 89, "word": "jamais", "translation": "never", "pos": "adv"},
-  {"id": 90, "word": "nouveau", "translation": "new", "pos": "adj"},
-  {"id": 91, "word": "regarder", "translation": "to look at / to watch", "pos": "verb"},
-  {"id": 92, "word": "tête", "translation": "head", "pos": "noun"},
-  {"id": 93, "word": "entre", "translation": "between / among", "pos": "prep"},
-  {"id": 94, "word": "votre", "translation": "your", "pos": "det"},
-  {"id": 95, "word": "moi", "translation": "me / myself", "pos": "pron"},
-  {"id": 96, "word": "quelque", "translation": "some / a few", "pos": "det"},
-  {"id": 97, "word": "peu", "translation": "little / few", "pos": "adv"},
-  {"id": 98, "word": "cela", "translation": "that / it", "pos": "pron"},
-  {"id": 99, "word": "reste", "translation": "rest / remainder", "pos": "noun"},
-  {"id": 100, "word": "demander", "translation": "to ask / to request", "pos": "verb"},
-  {"id": 101, "word": "enfant", "translation": "child", "pos": "noun"},
-  {"id": 102, "word": "seul", "translation": "alone / only", "pos": "adj"},
-  {"id": 103, "word": "rester", "translation": "to stay / to remain", "pos": "verb"},
-  {"id": 104, "word": "chose", "translation": "thing", "pos": "noun"},
-  {"id": 105, "word": "depuis", "translation": "since / for", "pos": "prep"},
-  {"id": 106, "word": "oui", "translation": "yes", "pos": "adv"},
-  {"id": 107, "word": "pays", "translation": "country", "pos": "noun"},
-  {"id": 108, "word": "toujours", "translation": "always / still", "pos": "adv"},
-  {"id": 109, "word": "chez", "translation": "at the home of", "pos": "prep"},
-  {"id": 110, "word": "trois", "translation": "three", "pos": "num"},
-  {"id": 111, "word": "mort", "translation": "death / dead", "pos": "noun"},
-  {"id": 112, "word": "an", "translation": "year", "pos": "noun"},
-  {"id": 113, "word": "dernier", "translation": "last / latest", "pos": "adj"},
-  {"id": 114, "word": "contre", "translation": "against", "pos": "prep"},
-  {"id": 115, "word": "déjà", "translation": "already", "pos": "adv"},
-  {"id": 116, "word": "connaître", "translation": "to know / to be familiar with", "pos": "verb"},
-  {"id": 117, "word": "année", "translation": "year", "pos": "noun"},
-  {"id": 118, "word": "monsieur", "translation": "mister / sir", "pos": "noun"},
-  {"id": 119, "word": "devant", "translation": "in front of / before", "pos": "prep"},
-  {"id": 120, "word": "notre", "translation": "our", "pos": "det"},
-  {"id": 121, "word": "pendant", "translation": "during", "pos": "prep"},
-  {"id": 122, "word": "entendre", "translation": "to hear", "pos": "verb"},
-  {"id": 123, "word": "moment", "translation": "moment", "pos": "noun"},
-  {"id": 124, "word": "parti", "translation": "party / side", "pos": "noun"},
-  {"id": 125, "word": "cet", "translation": "this / that", "pos": "det"},
-  {"id": 126, "word": "répondre", "translation": "to answer / to reply", "pos": "verb"},
-  {"id": 127, "word": "penser", "translation": "to think", "pos": "verb"},
-  {"id": 128, "word": "place", "translation": "place / seat", "pos": "noun"},
-  {"id": 129, "word": "point", "translation": "point / dot", "pos": "noun"},
-  {"id": 130, "word": "vers", "translation": "towards / around", "pos": "prep"},
-  {"id": 131, "word": "mot", "translation": "word", "pos": "noun"},
-  {"id": 132, "word": "cependant", "translation": "however / yet", "pos": "adv"},
-  {"id": 133, "word": "ni", "translation": "neither / nor", "pos": "conj"},
-  {"id": 134, "word": "oeil", "translation": "eye", "pos": "noun"},
-  {"id": 135, "word": "maintenant", "translation": "now", "pos": "adv"},
-  {"id": 136, "word": "jeune", "translation": "young", "pos": "adj"},
-  {"id": 137, "word": "mieux", "translation": "better / best", "pos": "adv"},
-  {"id": 138, "word": "eau", "translation": "water", "pos": "noun"},
-  {"id": 139, "word": "comprendre", "translation": "to understand", "pos": "verb"},
-  {"id": 140, "word": "ami", "translation": "friend", "pos": "noun"},
-  {"id": 141, "word": "long", "translation": "long", "pos": "adj"},
-  {"id": 142, "word": "tenir", "translation": "to hold / to keep", "pos": "verb"},
-  {"id": 143, "word": "porter", "translation": "to carry / to wear", "pos": "verb"},
-  {"id": 144, "word": "noir", "translation": "black", "pos": "adj"},
-  {"id": 145, "word": "ainsi", "translation": "thus / so", "pos": "adv"},
-  {"id": 146, "word": "terre", "translation": "earth / land", "pos": "noun"},
-  {"id": 147, "word": "part", "translation": "part / share", "pos": "noun"},
-  {"id": 148, "word": "porte", "translation": "door", "pos": "noun"},
-  {"id": 149, "word": "nom", "translation": "name", "pos": "noun"},
-  {"id": 150, "word": "maison", "translation": "house / home", "pos": "noun"},
-  {"id": 151, "word": "roi", "translation": "king", "pos": "noun"},
-  {"id": 152, "word": "assez", "translation": "enough / quite", "pos": "adv"},
-  {"id": 153, "word": "sortir", "translation": "to go out / to leave", "pos": "verb"},
-  {"id": 154, "word": "tant", "translation": "so much / so many", "pos": "adv"},
-  {"id": 155, "word": "car", "translation": "because / for", "pos": "conj"},
-  {"id": 156, "word": "sentir", "translation": "to feel / to smell", "pos": "verb"},
-  {"id": 157, "word": "côté", "translation": "side", "pos": "noun"},
-  {"id": 158, "word": "état", "translation": "state / condition", "pos": "noun"},
-  {"id": 159, "word": "dieu", "translation": "god", "pos": "noun"},
-  {"id": 160, "word": "vieux", "translation": "old", "pos": "adj"},
-  {"id": 161, "word": "fois", "translation": "time / occasion", "pos": "noun"},
-  {"id": 162, "word": "peur", "translation": "fear", "pos": "noun"},
-  {"id": 163, "word": "arriver", "translation": "to arrive / to happen", "pos": "verb"},
-  {"id": 164, "word": "crier", "translation": "to shout / to cry out", "pos": "verb"},
-  {"id": 165, "word": "voix", "translation": "voice", "pos": "noun"},
-  {"id": 166, "word": "tomber", "translation": "to fall", "pos": "verb"},
-  {"id": 167, "word": "retrouver", "translation": "to find again / to meet", "pos": "verb"},
-  {"id": 168, "word": "chambre", "translation": "room / bedroom", "pos": "noun"},
-  {"id": 169, "word": "guerre", "translation": "war", "pos": "noun"},
-  {"id": 170, "word": "écrire", "translation": "to write", "pos": "verb"},
-  {"id": 171, "word": "comment", "translation": "how", "pos": "adv"},
-  {"id": 172, "word": "corps", "translation": "body", "pos": "noun"},
-  {"id": 173, "word": "devenir", "translation": "to become", "pos": "verb"},
-  {"id": 174, "word": "coup", "translation": "blow / hit", "pos": "noun"},
-  {"id": 175, "word": "loin", "translation": "far / far away", "pos": "adv"},
-  {"id": 176, "word": "fin", "translation": "end", "pos": "noun"},
-  {"id": 177, "word": "mère", "translation": "mother", "pos": "noun"},
-  {"id": 178, "word": "appeler", "translation": "to call", "pos": "verb"},
-  {"id": 179, "word": "beau", "translation": "beautiful / handsome", "pos": "adj"},
-  {"id": 180, "word": "parti", "translation": "political party", "pos": "noun"},
-  {"id": 181, "word": "ville", "translation": "city / town", "pos": "noun"},
-  {"id": 182, "word": "rue", "translation": "street", "pos": "noun"},
-  {"id": 183, "word": "suivre", "translation": "to follow", "pos": "verb"},
-  {"id": 184, "word": "montrer", "translation": "to show", "pos": "verb"},
-  {"id": 185, "word": "chercher", "translation": "to look for / to seek", "pos": "verb"},
-  {"id": 186, "word": "manger", "translation": "to eat", "pos": "verb"},
-  {"id": 187, "word": "travail", "translation": "work / job", "pos": "noun"},
-  {"id": 188, "word": "esprit", "translation": "mind / spirit", "pos": "noun"},
-  {"id": 189, "word": "coeur", "translation": "heart", "pos": "noun"},
-  {"id": 190, "word": "nuit", "translation": "night", "pos": "noun"},
-  {"id": 191, "word": "commencer", "translation": "to begin / to start", "pos": "verb"},
-  {"id": 192, "word": "aimer", "translation": "to love / to like", "pos": "verb"},
-  {"id": 193, "word": "attendre", "translation": "to wait / to expect", "pos": "verb"},
-  {"id": 194, "word": "entrer", "translation": "to enter", "pos": "verb"},
-  {"id": 195, "word": "jeter", "translation": "to throw", "pos": "verb"},
-  {"id": 196, "word": "perdre", "translation": "to lose", "pos": "verb"},
-  {"id": 197, "word": "lettre", "translation": "letter", "pos": "noun"},
-  {"id": 198, "word": "vivre", "translation": "to live", "pos": "verb"},
-  {"id": 199, "word": "blanc", "translation": "white", "pos": "adj"},
-  {"id": 200, "word": "ouvrir", "translation": "to open", "pos": "verb"},
-  {"id": 201, "word": "pied", "translation": "foot", "pos": "noun"},
-  {"id": 202, "word": "idée", "translation": "idea", "pos": "noun"},
-  {"id": 203, "word": "force", "translation": "strength / force", "pos": "noun"},
-  {"id": 204, "word": "ceux", "translation": "those / the ones", "pos": "pron"},
-  {"id": 205, "word": "ici", "translation": "here", "pos": "adv"},
-  {"id": 206, "word": "raison", "translation": "reason", "pos": "noun"},
-  {"id": 207, "word": "bout", "translation": "end / tip", "pos": "noun"},
-  {"id": 208, "word": "reprendre", "translation": "to take back / to resume", "pos": "verb"},
-  {"id": 209, "word": "compte", "translation": "account / count", "pos": "noun"},
-  {"id": 210, "word": "servir", "translation": "to serve", "pos": "verb"},
-  {"id": 211, "word": "doute", "translation": "doubt", "pos": "noun"},
-  {"id": 212, "word": "lire", "translation": "to read", "pos": "verb"},
-  {"id": 213, "word": "droit", "translation": "right / law", "pos": "noun"},
-  {"id": 214, "word": "manière", "translation": "manner / way", "pos": "noun"},
-  {"id": 215, "word": "cause", "translation": "cause", "pos": "noun"},
-  {"id": 216, "word": "question", "translation": "question", "pos": "noun"},
-  {"id": 217, "word": "peine", "translation": "trouble / sorrow / penalty", "pos": "noun"},
-  {"id": 218, "word": "fils", "translation": "son", "pos": "noun"},
-  {"id": 219, "word": "figure", "translation": "face / figure", "pos": "noun"},
-  {"id": 220, "word": "paraître", "translation": "to appear / to seem", "pos": "verb"},
-  {"id": 221, "word": "mourir", "translation": "to die", "pos": "verb"},
-  {"id": 222, "word": "bras", "translation": "arm", "pos": "noun"},
-  {"id": 223, "word": "partir", "translation": "to leave / to depart", "pos": "verb"},
-  {"id": 224, "word": "air", "translation": "air / look", "pos": "noun"},
-  {"id": 225, "word": "certain", "translation": "certain / sure", "pos": "adj"},
-  {"id": 226, "word": "marcher", "translation": "to walk", "pos": "verb"},
-  {"id": 227, "word": "fille", "translation": "girl / daughter", "pos": "noun"},
-  {"id": 228, "word": "forme", "translation": "form / shape", "pos": "noun"},
-  {"id": 229, "word": "revenir", "translation": "to come back / to return", "pos": "verb"},
-  {"id": 230, "word": "haut", "translation": "high / tall", "pos": "adj"},
-  {"id": 231, "word": "politique", "translation": "political / politics", "pos": "adj"},
-  {"id": 232, "word": "histoire", "translation": "history / story", "pos": "noun"},
-  {"id": 233, "word": "mouvement", "translation": "movement", "pos": "noun"},
-  {"id": 234, "word": "pensée", "translation": "thought", "pos": "noun"},
-  {"id": 235, "word": "livre", "translation": "book", "pos": "noun"},
-  {"id": 236, "word": "fond", "translation": "bottom / background", "pos": "noun"},
-  {"id": 237, "word": "suite", "translation": "continuation / sequel", "pos": "noun"},
-  {"id": 238, "word": "France", "translation": "France", "pos": "noun"},
-  {"id": 239, "word": "français", "translation": "French", "pos": "adj"},
-  {"id": 240, "word": "peuple", "translation": "people / nation", "pos": "noun"},
-  {"id": 241, "word": "visage", "translation": "face", "pos": "noun"},
-  {"id": 242, "word": "lever", "translation": "to raise / to lift", "pos": "verb"},
-  {"id": 243, "word": "laisser", "translation": "to leave / to let", "pos": "verb"},
-  {"id": 244, "word": "possible", "translation": "possible", "pos": "adj"},
-  {"id": 245, "word": "travail", "translation": "work / labor", "pos": "noun"},
-  {"id": 246, "word": "général", "translation": "general", "pos": "adj"},
-  {"id": 247, "word": "ordre", "translation": "order", "pos": "noun"},
-  {"id": 248, "word": "parti", "translation": "party", "pos": "noun"},
-  {"id": 249, "word": "garder", "translation": "to keep / to guard", "pos": "verb"},
-  {"id": 250, "word": "autour", "translation": "around", "pos": "adv"},
-  {"id": 251, "word": "besoin", "translation": "need", "pos": "noun"},
-  {"id": 252, "word": "image", "translation": "image / picture", "pos": "noun"},
-  {"id": 253, "word": "million", "translation": "million", "pos": "num"},
-  {"id": 254, "word": "milieu", "translation": "middle / environment", "pos": "noun"},
-  {"id": 255, "word": "lit", "translation": "bed", "pos": "noun"},
-  {"id": 256, "word": "reconnaître", "translation": "to recognize", "pos": "verb"},
-  {"id": 257, "word": "vraiment", "translation": "really / truly", "pos": "adv"},
-  {"id": 258, "word": "amour", "translation": "love", "pos": "noun"},
-  {"id": 259, "word": "tirer", "translation": "to pull / to shoot", "pos": "verb"},
-  {"id": 260, "word": "plupart", "translation": "most / majority", "pos": "noun"},
-  {"id": 261, "word": "doigt", "translation": "finger", "pos": "noun"},
-  {"id": 262, "word": "frère", "translation": "brother", "pos": "noun"},
-  {"id": 263, "word": "ciel", "translation": "sky / heaven", "pos": "noun"},
-  {"id": 264, "word": "public", "translation": "public", "pos": "adj"},
-  {"id": 265, "word": "quatre", "translation": "four", "pos": "num"},
-  {"id": 266, "word": "parole", "translation": "word / speech", "pos": "noun"},
-  {"id": 267, "word": "possible", "translation": "possible", "pos": "adj"},
-  {"id": 268, "word": "chaque", "translation": "each / every", "pos": "det"},
-  {"id": 269, "word": "lorsque", "translation": "when", "pos": "conj"},
-  {"id": 270, "word": "ailleurs", "translation": "elsewhere", "pos": "adv"},
-  {"id": 271, "word": "travail", "translation": "work", "pos": "noun"},
-  {"id": 272, "word": "nature", "translation": "nature", "pos": "noun"},
-  {"id": 273, "word": "million", "translation": "million", "pos": "num"},
-  {"id": 274, "word": "regard", "translation": "look / gaze", "pos": "noun"},
-  {"id": 275, "word": "groupe", "translation": "group", "pos": "noun"},
-  {"id": 276, "word": "problème", "translation": "problem", "pos": "noun"},
-  {"id": 277, "word": "nouveau", "translation": "new", "pos": "adj"},
-  {"id": 278, "word": "cours", "translation": "course / class", "pos": "noun"},
-  {"id": 279, "word": "ajouter", "translation": "to add", "pos": "verb"},
-  {"id": 280, "word": "connaître", "translation": "to know / to be acquainted with", "pos": "verb"},
-  {"id": 281, "word": "apprendre", "translation": "to learn / to teach", "pos": "verb"},
-  {"id": 282, "word": "mourir", "translation": "to die", "pos": "verb"},
-  {"id": 283, "word": "devenir", "translation": "to become", "pos": "verb"},
-  {"id": 284, "word": "recevoir", "translation": "to receive", "pos": "verb"},
-  {"id": 285, "word": "jouer", "translation": "to play", "pos": "verb"},
-  {"id": 286, "word": "sembler", "translation": "to seem", "pos": "verb"},
-  {"id": 287, "word": "sens", "translation": "sense / meaning / direction", "pos": "noun"},
-  {"id": 288, "word": "société", "translation": "society / company", "pos": "noun"},
-  {"id": 289, "word": "effet", "translation": "effect", "pos": "noun"},
-  {"id": 290, "word": "exemple", "translation": "example", "pos": "noun"},
-  {"id": 291, "word": "rapport", "translation": "report / relationship", "pos": "noun"},
-  {"id": 292, "word": "soir", "translation": "evening", "pos": "noun"},
-  {"id": 293, "word": "sorte", "translation": "sort / kind", "pos": "noun"},
-  {"id": 294, "word": "action", "translation": "action", "pos": "noun"},
-  {"id": 295, "word": "route", "translation": "road / route", "pos": "noun"},
-  {"id": 296, "word": "service", "translation": "service", "pos": "noun"},
-  {"id": 297, "word": "pouvoir", "translation": "power", "pos": "noun"},
-  {"id": 298, "word": "lumière", "translation": "light", "pos": "noun"},
-  {"id": 299, "word": "vue", "translation": "view / sight", "pos": "noun"},
-  {"id": 300, "word": "expliquer", "translation": "to explain", "pos": "verb"},
-  {"id": 301, "word": "rue", "translation": "street", "pos": "noun"},
-  {"id": 302, "word": "cas", "translation": "case", "pos": "noun"},
-  {"id": 303, "word": "matin", "translation": "morning", "pos": "noun"},
-  {"id": 304, "word": "table", "translation": "table", "pos": "noun"},
-  {"id": 305, "word": "plein", "translation": "full", "pos": "adj"},
-  {"id": 306, "word": "situation", "translation": "situation", "pos": "noun"},
-  {"id": 307, "word": "famille", "translation": "family", "pos": "noun"},
-  {"id": 308, "word": "projet", "translation": "project / plan", "pos": "noun"},
-  {"id": 309, "word": "dès", "translation": "from / as soon as", "pos": "prep"},
-  {"id": 310, "word": "souvent", "translation": "often", "pos": "adv"},
-  {"id": 311, "word": "cela", "translation": "that", "pos": "pron"},
-  {"id": 312, "word": "ensemble", "translation": "together", "pos": "adv"},
-  {"id": 313, "word": "arriver", "translation": "to arrive / to happen", "pos": "verb"},
-  {"id": 314, "word": "simple", "translation": "simple", "pos": "adj"},
-  {"id": 315, "word": "écrire", "translation": "to write", "pos": "verb"},
-  {"id": 316, "word": "type", "translation": "type / kind", "pos": "noun"},
-  {"id": 317, "word": "noir", "translation": "black", "pos": "adj"},
-  {"id": 318, "word": "sûr", "translation": "sure / certain", "pos": "adj"},
-  {"id": 319, "word": "jeu", "translation": "game / play", "pos": "noun"},
-  {"id": 320, "word": "politique", "translation": "politics / policy", "pos": "noun"},
-  {"id": 321, "word": "intérêt", "translation": "interest", "pos": "noun"},
-  {"id": 322, "word": "réponse", "translation": "answer / response", "pos": "noun"},
-  {"id": 323, "word": "droit", "translation": "right / straight", "pos": "adj"},
-  {"id": 324, "word": "marché", "translation": "market", "pos": "noun"},
-  {"id": 325, "word": "condition", "translation": "condition", "pos": "noun"},
-  {"id": 326, "word": "produire", "translation": "to produce", "pos": "verb"},
-  {"id": 327, "word": "résultat", "translation": "result", "pos": "noun"},
-  {"id": 328, "word": "propre", "translation": "own / clean", "pos": "adj"},
-  {"id": 329, "word": "économie", "translation": "economy", "pos": "noun"},
-  {"id": 330, "word": "région", "translation": "region", "pos": "noun"},
-  {"id": 331, "word": "décider", "translation": "to decide", "pos": "verb"},
-  {"id": 332, "word": "important", "translation": "important", "pos": "adj"},
-  {"id": 333, "word": "développement", "translation": "development", "pos": "noun"},
-  {"id": 334, "word": "meilleur", "translation": "better / best", "pos": "adj"},
-  {"id": 335, "word": "loi", "translation": "law", "pos": "noun"},
-  {"id": 336, "word": "système", "translation": "system", "pos": "noun"},
-  {"id": 337, "word": "mesure", "translation": "measure", "pos": "noun"},
-  {"id": 338, "word": "changement", "translation": "change", "pos": "noun"},
-  {"id": 339, "word": "payer", "translation": "to pay", "pos": "verb"},
-  {"id": 340, "word": "produire", "translation": "to produce", "pos": "verb"},
-  {"id": 341, "word": "président", "translation": "president", "pos": "noun"},
-  {"id": 342, "word": "nombre", "translation": "number", "pos": "noun"},
-  {"id": 343, "word": "oeuvre", "translation": "work / artwork", "pos": "noun"},
-  {"id": 344, "word": "programme", "translation": "program", "pos": "noun"},
-  {"id": 345, "word": "gros", "translation": "big / fat", "pos": "adj"},
-  {"id": 346, "word": "champ", "translation": "field", "pos": "noun"},
-  {"id": 347, "word": "terre", "translation": "earth / ground", "pos": "noun"},
-  {"id": 348, "word": "création", "translation": "creation", "pos": "noun"},
-  {"id": 349, "word": "offrir", "translation": "to offer / to give", "pos": "verb"},
-  {"id": 350, "word": "permettre", "translation": "to allow / to permit", "pos": "verb"},
-  {"id": 351, "word": "présenter", "translation": "to present / to introduce", "pos": "verb"},
-  {"id": 352, "word": "joie", "translation": "joy", "pos": "noun"},
-  {"id": 353, "word": "chemin", "translation": "path / way", "pos": "noun"},
-  {"id": 354, "word": "mur", "translation": "wall", "pos": "noun"},
-  {"id": 355, "word": "soleil", "translation": "sun", "pos": "noun"},
-  {"id": 356, "word": "sang", "translation": "blood", "pos": "noun"},
-  {"id": 357, "word": "ancien", "translation": "old / former", "pos": "adj"},
-  {"id": 358, "word": "cinq", "translation": "five", "pos": "num"},
-  {"id": 359, "word": "face", "translation": "face / front", "pos": "noun"},
-  {"id": 360, "word": "million", "translation": "million", "pos": "num"},
-  {"id": 361, "word": "accepter", "translation": "to accept", "pos": "verb"},
-  {"id": 362, "word": "toucher", "translation": "to touch", "pos": "verb"},
-  {"id": 363, "word": "ouvrir", "translation": "to open", "pos": "verb"},
-  {"id": 364, "word": "occuper", "translation": "to occupy / to be busy", "pos": "verb"},
-  {"id": 365, "word": "vrai", "translation": "true / real", "pos": "adj"},
-  {"id": 366, "word": "différent", "translation": "different", "pos": "adj"},
-  {"id": 367, "word": "entreprise", "translation": "company / business", "pos": "noun"},
-  {"id": 368, "word": "garçon", "translation": "boy", "pos": "noun"},
-  {"id": 369, "word": "intérieur", "translation": "interior / inside", "pos": "noun"},
-  {"id": 370, "word": "changer", "translation": "to change", "pos": "verb"},
-  {"id": 371, "word": "particulier", "translation": "particular / private", "pos": "adj"},
-  {"id": 372, "word": "fermer", "translation": "to close", "pos": "verb"},
-  {"id": 373, "word": "silence", "translation": "silence", "pos": "noun"},
-  {"id": 374, "word": "âge", "translation": "age", "pos": "noun"},
-  {"id": 375, "word": "plan", "translation": "plan / map", "pos": "noun"},
-  {"id": 376, "word": "mois", "translation": "month", "pos": "noun"},
-  {"id": 377, "word": "dix", "translation": "ten", "pos": "num"},
-  {"id": 378, "word": "présent", "translation": "present / current", "pos": "adj"},
-  {"id": 379, "word": "question", "translation": "question / issue", "pos": "noun"},
-  {"id": 380, "word": "avancer", "translation": "to advance / to move forward", "pos": "verb"},
-  {"id": 381, "word": "intéresser", "translation": "to interest", "pos": "verb"},
-  {"id": 382, "word": "réalité", "translation": "reality", "pos": "noun"},
-  {"id": 383, "word": "musique", "translation": "music", "pos": "noun"},
-  {"id": 384, "word": "cheval", "translation": "horse", "pos": "noun"},
-  {"id": 385, "word": "sourire", "translation": "to smile / smile", "pos": "verb"},
-  {"id": 386, "word": "frapper", "translation": "to hit / to knock", "pos": "verb"},
-  {"id": 387, "word": "pierre", "translation": "stone", "pos": "noun"},
-  {"id": 388, "word": "âme", "translation": "soul", "pos": "noun"},
-  {"id": 389, "word": "vent", "translation": "wind", "pos": "noun"},
-  {"id": 390, "word": "boire", "translation": "to drink", "pos": "verb"},
-  {"id": 391, "word": "compte", "translation": "account", "pos": "noun"},
-  {"id": 392, "word": "demi", "translation": "half", "pos": "adj"},
-  {"id": 393, "word": "mal", "translation": "badly / evil / pain", "pos": "adv"},
-  {"id": 394, "word": "arbre", "translation": "tree", "pos": "noun"},
-  {"id": 395, "word": "fenêtre", "translation": "window", "pos": "noun"},
-  {"id": 396, "word": "courir", "translation": "to run", "pos": "verb"},
-  {"id": 397, "word": "risque", "translation": "risk", "pos": "noun"},
-  {"id": 398, "word": "derrière", "translation": "behind", "pos": "prep"},
-  {"id": 399, "word": "travailleur", "translation": "worker", "pos": "noun"},
-  {"id": 400, "word": "signe", "translation": "sign", "pos": "noun"},
-  {"id": 401, "word": "dormir", "translation": "to sleep", "pos": "verb"},
-  {"id": 402, "word": "agir", "translation": "to act", "pos": "verb"},
-  {"id": 403, "word": "tourner", "translation": "to turn", "pos": "verb"},
-  {"id": 404, "word": "chien", "translation": "dog", "pos": "noun"},
-  {"id": 405, "word": "obtenir", "translation": "to obtain / to get", "pos": "verb"},
-  {"id": 406, "word": "long", "translation": "long", "pos": "adj"},
-  {"id": 407, "word": "passer", "translation": "to pass / to spend time", "pos": "verb"},
-  {"id": 408, "word": "peau", "translation": "skin", "pos": "noun"},
-  {"id": 409, "word": "président", "translation": "president / chairman", "pos": "noun"},
-  {"id": 410, "word": "raconter", "translation": "to tell / to narrate", "pos": "verb"},
-  {"id": 411, "word": "exister", "translation": "to exist", "pos": "verb"},
-  {"id": 412, "word": "proposer", "translation": "to propose / to suggest", "pos": "verb"},
-  {"id": 413, "word": "montagne", "translation": "mountain", "pos": "noun"},
-  {"id": 414, "word": "choisir", "translation": "to choose", "pos": "verb"},
-  {"id": 415, "word": "créer", "translation": "to create", "pos": "verb"},
-  {"id": 416, "word": "bureau", "translation": "office / desk", "pos": "noun"},
-  {"id": 417, "word": "objectif", "translation": "objective / goal", "pos": "noun"},
-  {"id": 418, "word": "sécurité", "translation": "safety / security", "pos": "noun"},
-  {"id": 419, "word": "médecin", "translation": "doctor", "pos": "noun"},
-  {"id": 420, "word": "difficile", "translation": "difficult", "pos": "adj"},
-  {"id": 421, "word": "attention", "translation": "attention", "pos": "noun"},
-  {"id": 422, "word": "gouvernement", "translation": "government", "pos": "noun"},
-  {"id": 423, "word": "membre", "translation": "member", "pos": "noun"},
-  {"id": 424, "word": "moyen", "translation": "means / way / average", "pos": "noun"},
-  {"id": 425, "word": "jardin", "translation": "garden", "pos": "noun"},
-  {"id": 426, "word": "pourquoi", "translation": "why", "pos": "adv"},
-  {"id": 427, "word": "animal", "translation": "animal", "pos": "noun"},
-  {"id": 428, "word": "culture", "translation": "culture", "pos": "noun"},
-  {"id": 429, "word": "mal", "translation": "evil / pain / harm", "pos": "noun"},
-  {"id": 430, "word": "chanter", "translation": "to sing", "pos": "verb"},
-  {"id": 431, "word": "fleuve", "translation": "river", "pos": "noun"},
-  {"id": 432, "word": "couper", "translation": "to cut", "pos": "verb"},
-  {"id": 433, "word": "mauvais", "translation": "bad / wrong", "pos": "adj"},
-  {"id": 434, "word": "second", "translation": "second", "pos": "adj"},
-  {"id": 435, "word": "entier", "translation": "whole / entire", "pos": "adj"},
-  {"id": 436, "word": "décision", "translation": "decision", "pos": "noun"},
-  {"id": 437, "word": "recherche", "translation": "research / search", "pos": "noun"},
-  {"id": 438, "word": "période", "translation": "period", "pos": "noun"},
-  {"id": 439, "word": "voyage", "translation": "trip / travel", "pos": "noun"},
-  {"id": 440, "word": "ministre", "translation": "minister", "pos": "noun"},
-  {"id": 441, "word": "pièce", "translation": "room / piece / coin", "pos": "noun"},
-  {"id": 442, "word": "effort", "translation": "effort", "pos": "noun"},
-  {"id": 443, "word": "pensée", "translation": "thought / thinking", "pos": "noun"},
-  {"id": 444, "word": "article", "translation": "article", "pos": "noun"},
-  {"id": 445, "word": "cour", "translation": "court / courtyard", "pos": "noun"},
-  {"id": 446, "word": "terrain", "translation": "ground / land", "pos": "noun"},
-  {"id": 447, "word": "genre", "translation": "kind / type / gender", "pos": "noun"},
-  {"id": 448, "word": "énergie", "translation": "energy", "pos": "noun"},
-  {"id": 449, "word": "quoi", "translation": "what", "pos": "pron"},
-  {"id": 450, "word": "phrase", "translation": "sentence", "pos": "noun"},
-  {"id": 451, "word": "couleur", "translation": "color", "pos": "noun"},
-  {"id": 452, "word": "profond", "translation": "deep / profound", "pos": "adj"},
-  {"id": 453, "word": "valeur", "translation": "value", "pos": "noun"},
-  {"id": 454, "word": "rapport", "translation": "report / relation", "pos": "noun"},
-  {"id": 455, "word": "élève", "translation": "student / pupil", "pos": "noun"},
-  {"id": 456, "word": "rencontrer", "translation": "to meet / to encounter", "pos": "verb"},
-  {"id": 457, "word": "espérer", "translation": "to hope", "pos": "verb"},
-  {"id": 458, "word": "essayer", "translation": "to try", "pos": "verb"},
-  {"id": 459, "word": "entier", "translation": "entire / whole", "pos": "adj"},
-  {"id": 460, "word": "monter", "translation": "to go up / to climb", "pos": "verb"},
-  {"id": 461, "word": "secrétaire", "translation": "secretary", "pos": "noun"},
-  {"id": 462, "word": "coucher", "translation": "to lie down / to put to bed", "pos": "verb"},
-  {"id": 463, "word": "descendre", "translation": "to go down / to descend", "pos": "verb"},
-  {"id": 464, "word": "rire", "translation": "to laugh", "pos": "verb"},
-  {"id": 465, "word": "ombre", "translation": "shadow / shade", "pos": "noun"},
-  {"id": 466, "word": "population", "translation": "population", "pos": "noun"},
-  {"id": 467, "word": "compter", "translation": "to count / to matter", "pos": "verb"},
-  {"id": 468, "word": "écouter", "translation": "to listen", "pos": "verb"},
-  {"id": 469, "word": "tuer", "translation": "to kill", "pos": "verb"},
-  {"id": 470, "word": "brûler", "translation": "to burn", "pos": "verb"},
-  {"id": 471, "word": "travailler", "translation": "to work", "pos": "verb"},
-  {"id": 472, "word": "manquer", "translation": "to miss / to lack", "pos": "verb"},
-  {"id": 473, "word": "oublier", "translation": "to forget", "pos": "verb"},
-  {"id": 474, "word": "poser", "translation": "to put down / to ask", "pos": "verb"},
-  {"id": 475, "word": "voiture", "translation": "car", "pos": "noun"},
-  {"id": 476, "word": "surtout", "translation": "especially / above all", "pos": "adv"},
-  {"id": 477, "word": "cacher", "translation": "to hide", "pos": "verb"},
-  {"id": 478, "word": "naître", "translation": "to be born", "pos": "verb"},
-  {"id": 479, "word": "produire", "translation": "to produce", "pos": "verb"},
-  {"id": 480, "word": "parmi", "translation": "among", "pos": "prep"},
-  {"id": 481, "word": "doucement", "translation": "gently / softly", "pos": "adv"},
-  {"id": 482, "word": "plaisir", "translation": "pleasure", "pos": "noun"},
-  {"id": 483, "word": "ligne", "translation": "line", "pos": "noun"},
-  {"id": 484, "word": "apporter", "translation": "to bring", "pos": "verb"},
-  {"id": 485, "word": "conduire", "translation": "to drive / to lead", "pos": "verb"},
-  {"id": 486, "word": "étude", "translation": "study", "pos": "noun"},
-  {"id": 487, "word": "grave", "translation": "serious / grave", "pos": "adj"},
-  {"id": 488, "word": "saisir", "translation": "to seize / to grasp", "pos": "verb"},
-  {"id": 489, "word": "continuer", "translation": "to continue", "pos": "verb"},
-  {"id": 490, "word": "bataille", "translation": "battle", "pos": "noun"},
-  {"id": 491, "word": "construire", "translation": "to build / to construct", "pos": "verb"},
-  {"id": 492, "word": "ferme", "translation": "farm / firm", "pos": "noun"},
-  {"id": 493, "word": "réussir", "translation": "to succeed", "pos": "verb"},
-  {"id": 494, "word": "entretien", "translation": "interview / maintenance", "pos": "noun"},
-  {"id": 495, "word": "santé", "translation": "health", "pos": "noun"},
-  {"id": 496, "word": "caractère", "translation": "character / personality", "pos": "noun"},
-  {"id": 497, "word": "école", "translation": "school", "pos": "noun"},
-  {"id": 498, "word": "danger", "translation": "danger", "pos": "noun"},
-  {"id": 499, "word": "droit", "translation": "right / law", "pos": "noun"},
-  {"id": 500, "word": "puissance", "translation": "power / strength", "pos": "noun"},
-  {"id": 501, "word": "seulement", "translation": "only / merely", "pos": "adv"},
-  {"id": 502, "word": "pourtant", "translation": "however / yet", "pos": "adv"},
-  {"id": 503, "word": "ailleurs", "translation": "elsewhere", "pos": "adv"},
-  {"id": 504, "word": "justement", "translation": "precisely / exactly", "pos": "adv"},
-  {"id": 505, "word": "dessus", "translation": "on top / above", "pos": "adv"},
-  {"id": 506, "word": "titre", "translation": "title", "pos": "noun"},
-  {"id": 507, "word": "épaule", "translation": "shoulder", "pos": "noun"},
-  {"id": 508, "word": "Europe", "translation": "Europe", "pos": "noun"},
-  {"id": 509, "word": "retour", "translation": "return", "pos": "noun"},
-  {"id": 510, "word": "rôle", "translation": "role", "pos": "noun"},
-  {"id": 511, "word": "paix", "translation": "peace", "pos": "noun"},
-  {"id": 512, "word": "langue", "translation": "language / tongue", "pos": "noun"},
-  {"id": 513, "word": "occasion", "translation": "occasion / opportunity", "pos": "noun"},
-  {"id": 514, "word": "résultat", "translation": "result / outcome", "pos": "noun"},
-  {"id": 515, "word": "préparer", "translation": "to prepare", "pos": "verb"},
-  {"id": 516, "word": "pousser", "translation": "to push / to grow", "pos": "verb"},
-  {"id": 517, "word": "acheter", "translation": "to buy", "pos": "verb"},
-  {"id": 518, "word": "envoyer", "translation": "to send", "pos": "verb"},
-  {"id": 519, "word": "douleur", "translation": "pain / sorrow", "pos": "noun"},
-  {"id": 520, "word": "réaliser", "translation": "to realize / to achieve", "pos": "verb"},
-  {"id": 521, "word": "compagnie", "translation": "company", "pos": "noun"},
-  {"id": 522, "word": "habiter", "translation": "to live / to inhabit", "pos": "verb"},
-  {"id": 523, "word": "refuser", "translation": "to refuse", "pos": "verb"},
-  {"id": 524, "word": "étranger", "translation": "foreigner / foreign", "pos": "noun"},
-  {"id": 525, "word": "front", "translation": "forehead / front", "pos": "noun"},
-  {"id": 526, "word": "futur", "translation": "future", "pos": "noun"},
-  {"id": 527, "word": "colère", "translation": "anger", "pos": "noun"},
-  {"id": 528, "word": "bonheur", "translation": "happiness", "pos": "noun"},
-  {"id": 529, "word": "besoin", "translation": "need", "pos": "noun"},
-  {"id": 530, "word": "position", "translation": "position", "pos": "noun"},
-  {"id": 531, "word": "lèvre", "translation": "lip", "pos": "noun"},
-  {"id": 532, "word": "prêt", "translation": "ready", "pos": "adj"},
-  {"id": 533, "word": "empêcher", "translation": "to prevent", "pos": "verb"},
-  {"id": 534, "word": "soeur", "translation": "sister", "pos": "noun"},
-  {"id": 535, "word": "mouvement", "translation": "movement / motion", "pos": "noun"},
-  {"id": 536, "word": "plaire", "translation": "to please", "pos": "verb"},
-  {"id": 537, "word": "pousser", "translation": "to push", "pos": "verb"},
-  {"id": 538, "word": "genou", "translation": "knee", "pos": "noun"},
-  {"id": 539, "word": "suffire", "translation": "to suffice / to be enough", "pos": "verb"},
-  {"id": 540, "word": "développer", "translation": "to develop", "pos": "verb"},
-  {"id": 541, "word": "éducation", "translation": "education", "pos": "noun"},
-  {"id": 542, "word": "entraîner", "translation": "to train / to lead to", "pos": "verb"},
-  {"id": 543, "word": "dépasser", "translation": "to exceed / to overtake", "pos": "verb"},
-  {"id": 544, "word": "matière", "translation": "matter / material / subject", "pos": "noun"},
-  {"id": 545, "word": "liberté", "translation": "freedom / liberty", "pos": "noun"},
-  {"id": 546, "word": "sombre", "translation": "dark / somber", "pos": "adj"},
-  {"id": 547, "word": "rêve", "translation": "dream", "pos": "noun"},
-  {"id": 548, "word": "étoile", "translation": "star", "pos": "noun"},
-  {"id": 549, "word": "traverser", "translation": "to cross", "pos": "verb"},
-  {"id": 550, "word": "neige", "translation": "snow", "pos": "noun"},
-  {"id": 551, "word": "exprimer", "translation": "to express", "pos": "verb"},
-  {"id": 552, "word": "représenter", "translation": "to represent", "pos": "verb"},
-  {"id": 553, "word": "distinguer", "translation": "to distinguish", "pos": "verb"},
-  {"id": 554, "word": "information", "translation": "information / news", "pos": "noun"},
-  {"id": 555, "word": "travers", "translation": "across / through", "pos": "noun"},
-  {"id": 556, "word": "revenir", "translation": "to come back", "pos": "verb"},
-  {"id": 557, "word": "passage", "translation": "passage / passing", "pos": "noun"},
-  {"id": 558, "word": "protéger", "translation": "to protect", "pos": "verb"},
-  {"id": 559, "word": "supérieur", "translation": "upper / superior", "pos": "adj"},
-  {"id": 560, "word": "maladie", "translation": "illness / disease", "pos": "noun"},
-  {"id": 561, "word": "herbe", "translation": "grass / herb", "pos": "noun"},
-  {"id": 562, "word": "rencontrer", "translation": "to meet", "pos": "verb"},
-  {"id": 563, "word": "jouer", "translation": "to play", "pos": "verb"},
-  {"id": 564, "word": "exiger", "translation": "to demand / to require", "pos": "verb"},
-  {"id": 565, "word": "former", "translation": "to form / to train", "pos": "verb"},
-  {"id": 566, "word": "promettre", "translation": "to promise", "pos": "verb"},
-  {"id": 567, "word": "étonner", "translation": "to astonish / to surprise", "pos": "verb"},
-  {"id": 568, "word": "disparu", "translation": "disappeared / missing", "pos": "adj"},
-  {"id": 569, "word": "maintenir", "translation": "to maintain", "pos": "verb"},
-  {"id": 570, "word": "professeur", "translation": "teacher / professor", "pos": "noun"},
-  {"id": 571, "word": "chaise", "translation": "chair", "pos": "noun"},
-  {"id": 572, "word": "soldat", "translation": "soldier", "pos": "noun"},
-  {"id": 573, "word": "industrie", "translation": "industry", "pos": "noun"},
-  {"id": 574, "word": "communauté", "translation": "community", "pos": "noun"},
-  {"id": 575, "word": "nez", "translation": "nose", "pos": "noun"},
-  {"id": 576, "word": "installer", "translation": "to install / to settle", "pos": "verb"},
-  {"id": 577, "word": "détruire", "translation": "to destroy", "pos": "verb"},
-  {"id": 578, "word": "aspect", "translation": "aspect / appearance", "pos": "noun"},
-  {"id": 579, "word": "pauvre", "translation": "poor", "pos": "adj"},
-  {"id": 580, "word": "oiseau", "translation": "bird", "pos": "noun"},
-  {"id": 581, "word": "riche", "translation": "rich", "pos": "adj"},
-  {"id": 582, "word": "médecine", "translation": "medicine", "pos": "noun"},
-  {"id": 583, "word": "cou", "translation": "neck", "pos": "noun"},
-  {"id": 584, "word": "placer", "translation": "to place / to put", "pos": "verb"},
-  {"id": 585, "word": "vêtement", "translation": "clothing / garment", "pos": "noun"},
-  {"id": 586, "word": "chaud", "translation": "hot / warm", "pos": "adj"},
-  {"id": 587, "word": "froid", "translation": "cold", "pos": "adj"},
-  {"id": 588, "word": "réduire", "translation": "to reduce", "pos": "verb"},
-  {"id": 589, "word": "atteindre", "translation": "to reach / to attain", "pos": "verb"},
-  {"id": 590, "word": "vendre", "translation": "to sell", "pos": "verb"},
-  {"id": 591, "word": "souvenir", "translation": "memory / souvenir", "pos": "noun"},
-  {"id": 592, "word": "poète", "translation": "poet", "pos": "noun"},
-  {"id": 593, "word": "printemps", "translation": "spring", "pos": "noun"},
-  {"id": 594, "word": "durer", "translation": "to last", "pos": "verb"},
-  {"id": 595, "word": "chapeau", "translation": "hat", "pos": "noun"},
-  {"id": 596, "word": "glisser", "translation": "to slide / to slip", "pos": "verb"},
-  {"id": 597, "word": "respirer", "translation": "to breathe", "pos": "verb"},
-  {"id": 598, "word": "conseil", "translation": "advice / council", "pos": "noun"},
-  {"id": 599, "word": "disparaître", "translation": "to disappear", "pos": "verb"},
-  {"id": 600, "word": "ressembler", "translation": "to resemble / to look like", "pos": "verb"},
-  {"id": 601, "word": "pleuvoir", "translation": "to rain", "pos": "verb"},
-  {"id": 602, "word": "relation", "translation": "relationship / relation", "pos": "noun"},
-  {"id": 603, "word": "article", "translation": "article / item", "pos": "noun"},
-  {"id": 604, "word": "poche", "translation": "pocket", "pos": "noun"},
-  {"id": 605, "word": "rejoindre", "translation": "to join / to reach", "pos": "verb"},
-  {"id": 606, "word": "sujet", "translation": "subject / topic", "pos": "noun"},
-  {"id": 607, "word": "expérience", "translation": "experience / experiment", "pos": "noun"},
-  {"id": 608, "word": "avenir", "translation": "future", "pos": "noun"},
-  {"id": 609, "word": "vérité", "translation": "truth", "pos": "noun"},
-  {"id": 610, "word": "habitude", "translation": "habit / custom", "pos": "noun"},
-  {"id": 611, "word": "sauver", "translation": "to save / to rescue", "pos": "verb"},
-  {"id": 612, "word": "prononcer", "translation": "to pronounce / to utter", "pos": "verb"},
-  {"id": 613, "word": "couler", "translation": "to flow / to sink", "pos": "verb"},
-  {"id": 614, "word": "solitude", "translation": "solitude / loneliness", "pos": "noun"},
-  {"id": 615, "word": "briller", "translation": "to shine", "pos": "verb"},
-  {"id": 616, "word": "supporter", "translation": "to bear / to support", "pos": "verb"},
-  {"id": 617, "word": "immense", "translation": "immense / huge", "pos": "adj"},
-  {"id": 618, "word": "doux", "translation": "soft / sweet / gentle", "pos": "adj"},
-  {"id": 619, "word": "écriture", "translation": "writing / handwriting", "pos": "noun"},
-  {"id": 620, "word": "volonté", "translation": "will / willpower", "pos": "noun"},
-  {"id": 621, "word": "désir", "translation": "desire / wish", "pos": "noun"},
-  {"id": 622, "word": "nourrir", "translation": "to feed / to nourish", "pos": "verb"},
-  {"id": 623, "word": "tendre", "translation": "to stretch / tender", "pos": "verb"},
-  {"id": 624, "word": "manquer", "translation": "to miss / to be lacking", "pos": "verb"},
-  {"id": 625, "word": "forêt", "translation": "forest", "pos": "noun"},
-  {"id": 626, "word": "époque", "translation": "era / period", "pos": "noun"},
-  {"id": 627, "word": "écrire", "translation": "to write", "pos": "verb"},
-  {"id": 628, "word": "obligation", "translation": "obligation", "pos": "noun"},
-  {"id": 629, "word": "rendre", "translation": "to give back / to make", "pos": "verb"},
-  {"id": 630, "word": "poisson", "translation": "fish", "pos": "noun"},
-  {"id": 631, "word": "sable", "translation": "sand", "pos": "noun"},
-  {"id": 632, "word": "remplacer", "translation": "to replace", "pos": "verb"},
-  {"id": 633, "word": "signifier", "translation": "to mean / to signify", "pos": "verb"},
-  {"id": 634, "word": "emporter", "translation": "to take away / to carry off", "pos": "verb"},
-  {"id": 635, "word": "transformer", "translation": "to transform", "pos": "verb"},
-  {"id": 636, "word": "craindre", "translation": "to fear", "pos": "verb"},
-  {"id": 637, "word": "champ", "translation": "field", "pos": "noun"},
-  {"id": 638, "word": "autorité", "translation": "authority", "pos": "noun"},
-  {"id": 639, "word": "approcher", "translation": "to approach", "pos": "verb"},
-  {"id": 640, "word": "laver", "translation": "to wash", "pos": "verb"},
-  {"id": 641, "word": "technologie", "translation": "technology", "pos": "noun"},
-  {"id": 642, "word": "bateau", "translation": "boat", "pos": "noun"},
-  {"id": 643, "word": "cigarette", "translation": "cigarette", "pos": "noun"},
-  {"id": 644, "word": "retirer", "translation": "to withdraw / to remove", "pos": "verb"},
-  {"id": 645, "word": "prévoir", "translation": "to foresee / to plan", "pos": "verb"},
-  {"id": 646, "word": "arrêter", "translation": "to stop / to arrest", "pos": "verb"},
-  {"id": 647, "word": "imaginer", "translation": "to imagine", "pos": "verb"},
-  {"id": 648, "word": "séparer", "translation": "to separate", "pos": "verb"},
-  {"id": 649, "word": "appartenir", "translation": "to belong to", "pos": "verb"},
-  {"id": 650, "word": "souffrir", "translation": "to suffer", "pos": "verb"},
-  {"id": 651, "word": "ignorer", "translation": "to not know / to ignore", "pos": "verb"},
-  {"id": 652, "word": "nommer", "translation": "to name / to appoint", "pos": "verb"},
-  {"id": 653, "word": "disposer", "translation": "to arrange / to have available", "pos": "verb"},
-  {"id": 654, "word": "assurer", "translation": "to ensure / to insure", "pos": "verb"},
-  {"id": 655, "word": "charger", "translation": "to load / to charge", "pos": "verb"},
-  {"id": 656, "word": "couvrir", "translation": "to cover", "pos": "verb"},
-  {"id": 657, "word": "cacher", "translation": "to hide", "pos": "verb"},
-  {"id": 658, "word": "éviter", "translation": "to avoid", "pos": "verb"},
-  {"id": 659, "word": "désirer", "translation": "to desire / to wish", "pos": "verb"},
-  {"id": 660, "word": "prouver", "translation": "to prove", "pos": "verb"},
-  {"id": 661, "word": "fumer", "translation": "to smoke", "pos": "verb"},
-  {"id": 662, "word": "clé", "translation": "key", "pos": "noun"},
-  {"id": 663, "word": "promesse", "translation": "promise", "pos": "noun"},
-  {"id": 664, "word": "glace", "translation": "ice / mirror / ice cream", "pos": "noun"},
-  {"id": 665, "word": "limite", "translation": "limit / boundary", "pos": "noun"},
-  {"id": 666, "word": "voisin", "translation": "neighbor", "pos": "noun"},
-  {"id": 667, "word": "succès", "translation": "success", "pos": "noun"},
-  {"id": 668, "word": "doute", "translation": "doubt", "pos": "noun"},
-  {"id": 669, "word": "escalier", "translation": "staircase / stairs", "pos": "noun"},
-  {"id": 670, "word": "remarquer", "translation": "to notice / to remark", "pos": "verb"},
-  {"id": 671, "word": "supprimer", "translation": "to delete / to remove", "pos": "verb"},
-  {"id": 672, "word": "crainte", "translation": "fear / dread", "pos": "noun"},
-  {"id": 673, "word": "cri", "translation": "cry / shout", "pos": "noun"},
-  {"id": 674, "word": "poitrine", "translation": "chest / breast", "pos": "noun"},
-  {"id": 675, "word": "appartement", "translation": "apartment", "pos": "noun"},
-  {"id": 676, "word": "conseiller", "translation": "to advise / advisor", "pos": "verb"},
-  {"id": 677, "word": "réfléchir", "translation": "to reflect / to think", "pos": "verb"},
-  {"id": 678, "word": "heureux", "translation": "happy", "pos": "adj"},
-  {"id": 679, "word": "inviter", "translation": "to invite", "pos": "verb"},
-  {"id": 680, "word": "défendre", "translation": "to defend / to forbid", "pos": "verb"},
-  {"id": 681, "word": "résister", "translation": "to resist", "pos": "verb"},
-  {"id": 682, "word": "annoncer", "translation": "to announce", "pos": "verb"},
-  {"id": 683, "word": "remonter", "translation": "to go back up / to wind up", "pos": "verb"},
-  {"id": 684, "word": "pluie", "translation": "rain", "pos": "noun"},
-  {"id": 685, "word": "nuage", "translation": "cloud", "pos": "noun"},
-  {"id": 686, "word": "fleuve", "translation": "river", "pos": "noun"},
-  {"id": 687, "word": "lune", "translation": "moon", "pos": "noun"},
-  {"id": 688, "word": "plante", "translation": "plant", "pos": "noun"},
-  {"id": 689, "word": "feu", "translation": "fire", "pos": "noun"},
-  {"id": 690, "word": "cheveu", "translation": "hair", "pos": "noun"},
-  {"id": 691, "word": "amener", "translation": "to bring / to lead", "pos": "verb"},
-  {"id": 692, "word": "prière", "translation": "prayer", "pos": "noun"},
-  {"id": 693, "word": "bonhomme", "translation": "fellow / good man", "pos": "noun"},
-  {"id": 694, "word": "observer", "translation": "to observe / to watch", "pos": "verb"},
-  {"id": 695, "word": "passer", "translation": "to pass / to happen", "pos": "verb"},
-  {"id": 696, "word": "toit", "translation": "roof", "pos": "noun"},
-  {"id": 697, "word": "accorder", "translation": "to grant / to tune", "pos": "verb"},
-  {"id": 698, "word": "retourner", "translation": "to return / to turn over", "pos": "verb"},
-  {"id": 699, "word": "contenir", "translation": "to contain", "pos": "verb"},
-  {"id": 700, "word": "expliquer", "translation": "to explain", "pos": "verb"},
-  {"id": 701, "word": "accompagner", "translation": "to accompany", "pos": "verb"},
-  {"id": 702, "word": "juger", "translation": "to judge", "pos": "verb"},
-  {"id": 703, "word": "costume", "translation": "suit / costume", "pos": "noun"},
-  {"id": 704, "word": "posséder", "translation": "to own / to possess", "pos": "verb"},
-  {"id": 705, "word": "souffler", "translation": "to blow / to whisper", "pos": "verb"},
-  {"id": 706, "word": "constituer", "translation": "to constitute / to form", "pos": "verb"},
-  {"id": 707, "word": "transformer", "translation": "to transform / to change", "pos": "verb"},
-  {"id": 708, "word": "quitter", "translation": "to leave / to quit", "pos": "verb"},
-  {"id": 709, "word": "horizon", "translation": "horizon", "pos": "noun"},
-  {"id": 710, "word": "commun", "translation": "common / shared", "pos": "adj"},
-  {"id": 711, "word": "diriger", "translation": "to direct / to manage", "pos": "verb"},
-  {"id": 712, "word": "éprouver", "translation": "to feel / to experience", "pos": "verb"},
-  {"id": 713, "word": "plonger", "translation": "to dive / to plunge", "pos": "verb"},
-  {"id": 714, "word": "tromper", "translation": "to deceive / to be wrong", "pos": "verb"},
-  {"id": 715, "word": "consacrer", "translation": "to devote / to dedicate", "pos": "verb"},
-  {"id": 716, "word": "aider", "translation": "to help", "pos": "verb"},
-  {"id": 717, "word": "réclamer", "translation": "to claim / to demand", "pos": "verb"},
-  {"id": 718, "word": "prier", "translation": "to pray / to beg", "pos": "verb"},
-  {"id": 719, "word": "combattre", "translation": "to fight / to combat", "pos": "verb"},
-  {"id": 720, "word": "reposer", "translation": "to rest / to put down", "pos": "verb"},
-  {"id": 721, "word": "entourer", "translation": "to surround", "pos": "verb"},
-  {"id": 722, "word": "respecter", "translation": "to respect", "pos": "verb"},
-  {"id": 723, "word": "traiter", "translation": "to treat / to deal with", "pos": "verb"},
-  {"id": 724, "word": "définir", "translation": "to define", "pos": "verb"},
-  {"id": 725, "word": "préparer", "translation": "to prepare", "pos": "verb"},
-  {"id": 726, "word": "supposer", "translation": "to suppose / to assume", "pos": "verb"},
-  {"id": 727, "word": "publier", "translation": "to publish", "pos": "verb"},
-  {"id": 728, "word": "augmenter", "translation": "to increase", "pos": "verb"},
-  {"id": 729, "word": "lutter", "translation": "to fight / to struggle", "pos": "verb"},
-  {"id": 730, "word": "participer", "translation": "to participate", "pos": "verb"},
-  {"id": 731, "word": "vérifier", "translation": "to verify / to check", "pos": "verb"},
-  {"id": 732, "word": "contrôler", "translation": "to control / to check", "pos": "verb"},
-  {"id": 733, "word": "organiser", "translation": "to organize", "pos": "verb"},
-  {"id": 734, "word": "déterminer", "translation": "to determine", "pos": "verb"},
-  {"id": 735, "word": "fonctionner", "translation": "to function / to work", "pos": "verb"},
-  {"id": 736, "word": "améliorer", "translation": "to improve", "pos": "verb"},
-  {"id": 737, "word": "adresser", "translation": "to address / to direct", "pos": "verb"},
-  {"id": 738, "word": "rocher", "translation": "rock", "pos": "noun"},
-  {"id": 739, "word": "taille", "translation": "size / waist", "pos": "noun"},
-  {"id": 740, "word": "geste", "translation": "gesture", "pos": "noun"},
-  {"id": 741, "word": "rivière", "translation": "river", "pos": "noun"},
-  {"id": 742, "word": "sourire", "translation": "smile", "pos": "noun"},
-  {"id": 743, "word": "chapelle", "translation": "chapel", "pos": "noun"},
-  {"id": 744, "word": "marche", "translation": "walk / step / march", "pos": "noun"},
-  {"id": 745, "word": "poussière", "translation": "dust", "pos": "noun"},
-  {"id": 746, "word": "papier", "translation": "paper", "pos": "noun"},
-  {"id": 747, "word": "intelligence", "translation": "intelligence", "pos": "noun"},
-  {"id": 748, "word": "voie", "translation": "way / path / track", "pos": "noun"},
-  {"id": 749, "word": "verre", "translation": "glass", "pos": "noun"},
-  {"id": 750, "word": "avion", "translation": "airplane", "pos": "noun"},
-  {"id": 751, "word": "merci", "translation": "thank you / thanks", "pos": "interj"},
-  {"id": 752, "word": "cercle", "translation": "circle", "pos": "noun"},
-  {"id": 753, "word": "justice", "translation": "justice", "pos": "noun"},
-  {"id": 754, "word": "passage", "translation": "passage / crossing", "pos": "noun"},
-  {"id": 755, "word": "entrée", "translation": "entrance / entry", "pos": "noun"},
-  {"id": 756, "word": "armée", "translation": "army", "pos": "noun"},
-  {"id": 757, "word": "navire", "translation": "ship", "pos": "noun"},
-  {"id": 758, "word": "dent", "translation": "tooth", "pos": "noun"},
-  {"id": 759, "word": "chiffre", "translation": "number / figure", "pos": "noun"},
-  {"id": 760, "word": "mémoire", "translation": "memory", "pos": "noun"},
-  {"id": 761, "word": "campagne", "translation": "countryside / campaign", "pos": "noun"},
-  {"id": 762, "word": "larme", "translation": "tear", "pos": "noun"},
-  {"id": 763, "word": "miracle", "translation": "miracle", "pos": "noun"},
-  {"id": 764, "word": "réponse", "translation": "answer / reply", "pos": "noun"},
-  {"id": 765, "word": "goût", "translation": "taste", "pos": "noun"},
-  {"id": 766, "word": "château", "translation": "castle", "pos": "noun"},
-  {"id": 767, "word": "victime", "translation": "victim", "pos": "noun"},
-  {"id": 768, "word": "combat", "translation": "fight / combat", "pos": "noun"},
-  {"id": 769, "word": "village", "translation": "village", "pos": "noun"},
-  {"id": 770, "word": "conséquence", "translation": "consequence", "pos": "noun"},
-  {"id": 771, "word": "réseau", "translation": "network", "pos": "noun"},
-  {"id": 772, "word": "machine", "translation": "machine", "pos": "noun"},
-  {"id": 773, "word": "cellule", "translation": "cell", "pos": "noun"},
-  {"id": 774, "word": "plaisir", "translation": "pleasure / enjoyment", "pos": "noun"},
-  {"id": 775, "word": "vertu", "translation": "virtue", "pos": "noun"},
-  {"id": 776, "word": "malheur", "translation": "misfortune / unhappiness", "pos": "noun"},
-  {"id": 777, "word": "aventure", "translation": "adventure", "pos": "noun"},
-  {"id": 778, "word": "réforme", "translation": "reform", "pos": "noun"},
-  {"id": 779, "word": "chambre", "translation": "room / chamber", "pos": "noun"},
-  {"id": 780, "word": "abandon", "translation": "abandonment", "pos": "noun"},
-  {"id": 781, "word": "expression", "translation": "expression", "pos": "noun"},
-  {"id": 782, "word": "existence", "translation": "existence", "pos": "noun"},
-  {"id": 783, "word": "maître", "translation": "master / teacher", "pos": "noun"},
-  {"id": 784, "word": "dimension", "translation": "dimension / size", "pos": "noun"},
-  {"id": 785, "word": "musée", "translation": "museum", "pos": "noun"},
-  {"id": 786, "word": "richesse", "translation": "wealth / richness", "pos": "noun"},
-  {"id": 787, "word": "science", "translation": "science", "pos": "noun"},
-  {"id": 788, "word": "théâtre", "translation": "theater", "pos": "noun"},
-  {"id": 789, "word": "soirée", "translation": "evening / party", "pos": "noun"},
-  {"id": 790, "word": "montrer", "translation": "to show / to display", "pos": "verb"},
-  {"id": 791, "word": "espace", "translation": "space", "pos": "noun"},
-  {"id": 792, "word": "budget", "translation": "budget", "pos": "noun"},
-  {"id": 793, "word": "fête", "translation": "party / holiday", "pos": "noun"},
-  {"id": 794, "word": "couteau", "translation": "knife", "pos": "noun"},
-  {"id": 795, "word": "bruit", "translation": "noise", "pos": "noun"},
-  {"id": 796, "word": "enquête", "translation": "investigation / survey", "pos": "noun"},
-  {"id": 797, "word": "accident", "translation": "accident", "pos": "noun"},
-  {"id": 798, "word": "conversation", "translation": "conversation", "pos": "noun"},
-  {"id": 799, "word": "discours", "translation": "speech / discourse", "pos": "noun"},
-  {"id": 800, "word": "téléphone", "translation": "telephone / phone", "pos": "noun"},
-  {"id": 801, "word": "chanson", "translation": "song", "pos": "noun"},
-  {"id": 802, "word": "personnage", "translation": "character / figure", "pos": "noun"},
-  {"id": 803, "word": "plat", "translation": "dish / flat", "pos": "noun"},
-  {"id": 804, "word": "cuisine", "translation": "kitchen / cooking", "pos": "noun"},
-  {"id": 805, "word": "quartier", "translation": "neighborhood / quarter", "pos": "noun"},
-  {"id": 806, "word": "tribunal", "translation": "court / tribunal", "pos": "noun"},
-  {"id": 807, "word": "monument", "translation": "monument", "pos": "noun"},
-  {"id": 808, "word": "passion", "translation": "passion", "pos": "noun"},
-  {"id": 809, "word": "univers", "translation": "universe", "pos": "noun"},
-  {"id": 810, "word": "conscience", "translation": "consciousness / conscience", "pos": "noun"},
-  {"id": 811, "word": "technique", "translation": "technique / technical", "pos": "noun"},
-  {"id": 812, "word": "troupe", "translation": "troop / troupe", "pos": "noun"},
-  {"id": 813, "word": "ventre", "translation": "belly / stomach", "pos": "noun"},
-  {"id": 814, "word": "croix", "translation": "cross", "pos": "noun"},
-  {"id": 815, "word": "promenade", "translation": "walk / stroll", "pos": "noun"},
-  {"id": 816, "word": "colline", "translation": "hill", "pos": "noun"},
-  {"id": 817, "word": "chaussure", "translation": "shoe", "pos": "noun"},
-  {"id": 818, "word": "peinture", "translation": "painting / paint", "pos": "noun"},
-  {"id": 819, "word": "spectacle", "translation": "show / spectacle", "pos": "noun"},
-  {"id": 820, "word": "voyage", "translation": "journey / travel", "pos": "noun"},
-  {"id": 821, "word": "religion", "translation": "religion", "pos": "noun"},
-  {"id": 822, "word": "prison", "translation": "prison", "pos": "noun"},
-  {"id": 823, "word": "citoyen", "translation": "citizen", "pos": "noun"},
-  {"id": 824, "word": "photographie", "translation": "photograph / photography", "pos": "noun"},
-  {"id": 825, "word": "héros", "translation": "hero", "pos": "noun"},
-  {"id": 826, "word": "respirer", "translation": "to breathe", "pos": "verb"},
-  {"id": 827, "word": "courant", "translation": "current / common", "pos": "adj"},
-  {"id": 828, "word": "nécessaire", "translation": "necessary", "pos": "adj"},
-  {"id": 829, "word": "exact", "translation": "exact / accurate", "pos": "adj"},
-  {"id": 830, "word": "naturel", "translation": "natural", "pos": "adj"},
-  {"id": 831, "word": "capable", "translation": "capable / able", "pos": "adj"},
-  {"id": 832, "word": "responsable", "translation": "responsible", "pos": "adj"},
-  {"id": 833, "word": "normal", "translation": "normal", "pos": "adj"},
-  {"id": 834, "word": "léger", "translation": "light / slight", "pos": "adj"},
-  {"id": 835, "word": "étrange", "translation": "strange", "pos": "adj"},
-  {"id": 836, "word": "unique", "translation": "unique / only", "pos": "adj"},
-  {"id": 837, "word": "politique", "translation": "political", "pos": "adj"},
-  {"id": 838, "word": "social", "translation": "social", "pos": "adj"},
-  {"id": 839, "word": "international", "translation": "international", "pos": "adj"},
-  {"id": 840, "word": "national", "translation": "national", "pos": "adj"},
-  {"id": 841, "word": "économique", "translation": "economic", "pos": "adj"},
-  {"id": 842, "word": "militaire", "translation": "military", "pos": "adj"},
-  {"id": 843, "word": "européen", "translation": "European", "pos": "adj"},
-  {"id": 844, "word": "local", "translation": "local", "pos": "adj"},
-  {"id": 845, "word": "secret", "translation": "secret", "pos": "adj"},
-  {"id": 846, "word": "actuel", "translation": "current / present", "pos": "adj"},
-  {"id": 847, "word": "humain", "translation": "human", "pos": "adj"},
-  {"id": 848, "word": "direct", "translation": "direct", "pos": "adj"},
-  {"id": 849, "word": "immédiat", "translation": "immediate", "pos": "adj"},
-  {"id": 850, "word": "personnel", "translation": "personal", "pos": "adj"},
-  {"id": 851, "word": "traditionnel", "translation": "traditional", "pos": "adj"},
-  {"id": 852, "word": "pratique", "translation": "practical / practice", "pos": "adj"},
-  {"id": 853, "word": "correct", "translation": "correct", "pos": "adj"},
-  {"id": 854, "word": "précis", "translation": "precise / specific", "pos": "adj"},
-  {"id": 855, "word": "entendre", "translation": "to hear / to understand", "pos": "verb"},
-  {"id": 856, "word": "solide", "translation": "solid / sturdy", "pos": "adj"},
-  {"id": 857, "word": "sauvage", "translation": "wild / savage", "pos": "adj"},
-  {"id": 858, "word": "fidèle", "translation": "faithful / loyal", "pos": "adj"},
-  {"id": 859, "word": "curieux", "translation": "curious", "pos": "adj"},
-  {"id": 860, "word": "calme", "translation": "calm / quiet", "pos": "adj"},
-  {"id": 861, "word": "modeste", "translation": "modest", "pos": "adj"},
-  {"id": 862, "word": "célèbre", "translation": "famous", "pos": "adj"},
-  {"id": 863, "word": "agréable", "translation": "pleasant / nice", "pos": "adj"},
-  {"id": 864, "word": "rapide", "translation": "fast / quick", "pos": "adj"},
-  {"id": 865, "word": "terrible", "translation": "terrible / terrific", "pos": "adj"},
-  {"id": 866, "word": "étroit", "translation": "narrow / tight", "pos": "adj"},
-  {"id": 867, "word": "lent", "translation": "slow", "pos": "adj"},
-  {"id": 868, "word": "triste", "translation": "sad", "pos": "adj"},
-  {"id": 869, "word": "absolument", "translation": "absolutely", "pos": "adv"},
-  {"id": 870, "word": "simplement", "translation": "simply", "pos": "adv"},
-  {"id": 871, "word": "exactement", "translation": "exactly", "pos": "adv"},
-  {"id": 872, "word": "directement", "translation": "directly", "pos": "adv"},
-  {"id": 873, "word": "certainement", "translation": "certainly", "pos": "adv"},
-  {"id": 874, "word": "rapidement", "translation": "quickly / rapidly", "pos": "adv"},
-  {"id": 875, "word": "facilement", "translation": "easily", "pos": "adv"},
-  {"id": 876, "word": "heureusement", "translation": "fortunately / happily", "pos": "adv"},
-  {"id": 877, "word": "naturellement", "translation": "naturally", "pos": "adv"},
-  {"id": 878, "word": "lentement", "translation": "slowly", "pos": "adv"},
-  {"id": 879, "word": "longtemps", "translation": "for a long time", "pos": "adv"},
-  {"id": 880, "word": "autrefois", "translation": "in the past / formerly", "pos": "adv"},
-  {"id": 881, "word": "bientôt", "translation": "soon", "pos": "adv"},
-  {"id": 882, "word": "dehors", "translation": "outside", "pos": "adv"},
-  {"id": 883, "word": "dedans", "translation": "inside", "pos": "adv"},
-  {"id": 884, "word": "partout", "translation": "everywhere", "pos": "adv"},
-  {"id": 885, "word": "presque", "translation": "almost / nearly", "pos": "adv"},
-  {"id": 886, "word": "environ", "translation": "about / approximately", "pos": "adv"},
-  {"id": 887, "word": "davantage", "translation": "more / further", "pos": "adv"},
-  {"id": 888, "word": "plutôt", "translation": "rather", "pos": "adv"},
-  {"id": 889, "word": "soudain", "translation": "suddenly", "pos": "adv"},
-  {"id": 890, "word": "durant", "translation": "during", "pos": "prep"},
-  {"id": 891, "word": "malgré", "translation": "despite / in spite of", "pos": "prep"},
-  {"id": 892, "word": "selon", "translation": "according to", "pos": "prep"},
-  {"id": 893, "word": "envers", "translation": "towards / to", "pos": "prep"},
-  {"id": 894, "word": "jusque", "translation": "until / as far as", "pos": "prep"},
-  {"id": 895, "word": "tandis", "translation": "while / whereas", "pos": "conj"},
-  {"id": 896, "word": "puisque", "translation": "since / because", "pos": "conj"},
-  {"id": 897, "word": "quoique", "translation": "although / even though", "pos": "conj"},
-  {"id": 898, "word": "donc", "translation": "so / therefore", "pos": "conj"},
-  {"id": 899, "word": "cependant", "translation": "however / nevertheless", "pos": "conj"},
-  {"id": 900, "word": "néanmoins", "translation": "nevertheless", "pos": "adv"},
-  {"id": 901, "word": "six", "translation": "six", "pos": "num"},
-  {"id": 902, "word": "sept", "translation": "seven", "pos": "num"},
-  {"id": 903, "word": "huit", "translation": "eight", "pos": "num"},
-  {"id": 904, "word": "neuf", "translation": "nine / new", "pos": "num"},
-  {"id": 905, "word": "vingt", "translation": "twenty", "pos": "num"},
-  {"id": 906, "word": "cent", "translation": "hundred", "pos": "num"},
-  {"id": 907, "word": "mille", "translation": "thousand", "pos": "num"},
-  {"id": 908, "word": "salon", "translation": "living room / lounge", "pos": "noun"},
-  {"id": 909, "word": "patron", "translation": "boss / employer", "pos": "noun"},
-  {"id": 910, "word": "hôtel", "translation": "hotel", "pos": "noun"},
-  {"id": 911, "word": "vallée", "translation": "valley", "pos": "noun"},
-  {"id": 912, "word": "café", "translation": "coffee / cafe", "pos": "noun"},
-  {"id": 913, "word": "palais", "translation": "palace", "pos": "noun"},
-  {"id": 914, "word": "île", "translation": "island", "pos": "noun"},
-  {"id": 915, "word": "journal", "translation": "newspaper / diary", "pos": "noun"},
-  {"id": 916, "word": "sourire", "translation": "smile", "pos": "noun"},
-  {"id": 917, "word": "poste", "translation": "post / position / mail", "pos": "noun"},
-  {"id": 918, "word": "épaisseur", "translation": "thickness", "pos": "noun"},
-  {"id": 919, "word": "sommet", "translation": "summit / top", "pos": "noun"},
-  {"id": 920, "word": "marque", "translation": "brand / mark", "pos": "noun"},
-  {"id": 921, "word": "chair", "translation": "flesh", "pos": "noun"},
-  {"id": 922, "word": "oreille", "translation": "ear", "pos": "noun"},
-  {"id": 923, "word": "estomac", "translation": "stomach", "pos": "noun"},
-  {"id": 924, "word": "bouche", "translation": "mouth", "pos": "noun"},
-  {"id": 925, "word": "dos", "translation": "back", "pos": "noun"},
-  {"id": 926, "word": "chaise", "translation": "chair", "pos": "noun"},
-  {"id": 927, "word": "écrire", "translation": "writing", "pos": "noun"},
-  {"id": 928, "word": "frontière", "translation": "border / frontier", "pos": "noun"},
-  {"id": 929, "word": "accident", "translation": "accident", "pos": "noun"},
-  {"id": 930, "word": "mariage", "translation": "marriage / wedding", "pos": "noun"},
-  {"id": 931, "word": "pain", "translation": "bread", "pos": "noun"},
-  {"id": 932, "word": "fruit", "translation": "fruit", "pos": "noun"},
-  {"id": 933, "word": "vin", "translation": "wine", "pos": "noun"},
-  {"id": 934, "word": "repas", "translation": "meal", "pos": "noun"},
-  {"id": 935, "word": "fleur", "translation": "flower", "pos": "noun"},
-  {"id": 936, "word": "mer", "translation": "sea", "pos": "noun"},
-  {"id": 937, "word": "hiver", "translation": "winter", "pos": "noun"},
-  {"id": 938, "word": "été", "translation": "summer", "pos": "noun"},
-  {"id": 939, "word": "automne", "translation": "autumn / fall", "pos": "noun"},
-  {"id": 940, "word": "lundi", "translation": "Monday", "pos": "noun"},
-  {"id": 941, "word": "mardi", "translation": "Tuesday", "pos": "noun"},
-  {"id": 942, "word": "mercredi", "translation": "Wednesday", "pos": "noun"},
-  {"id": 943, "word": "jeudi", "translation": "Thursday", "pos": "noun"},
-  {"id": 944, "word": "vendredi", "translation": "Friday", "pos": "noun"},
-  {"id": 945, "word": "samedi", "translation": "Saturday", "pos": "noun"},
-  {"id": 946, "word": "dimanche", "translation": "Sunday", "pos": "noun"},
-  {"id": 947, "word": "janvier", "translation": "January", "pos": "noun"},
-  {"id": 948, "word": "février", "translation": "February", "pos": "noun"},
-  {"id": 949, "word": "mars", "translation": "March", "pos": "noun"},
-  {"id": 950, "word": "avril", "translation": "April", "pos": "noun"},
-  {"id": 951, "word": "mai", "translation": "May", "pos": "noun"},
-  {"id": 952, "word": "juin", "translation": "June", "pos": "noun"},
-  {"id": 953, "word": "juillet", "translation": "July", "pos": "noun"},
-  {"id": 954, "word": "août", "translation": "August", "pos": "noun"},
-  {"id": 955, "word": "septembre", "translation": "September", "pos": "noun"},
-  {"id": 956, "word": "octobre", "translation": "October", "pos": "noun"},
-  {"id": 957, "word": "novembre", "translation": "November", "pos": "noun"},
-  {"id": 958, "word": "décembre", "translation": "December", "pos": "noun"},
-  {"id": 959, "word": "rouge", "translation": "red", "pos": "adj"},
-  {"id": 960, "word": "bleu", "translation": "blue", "pos": "adj"},
-  {"id": 961, "word": "vert", "translation": "green", "pos": "adj"},
-  {"id": 962, "word": "jaune", "translation": "yellow", "pos": "adj"},
-  {"id": 963, "word": "gris", "translation": "gray", "pos": "adj"},
-  {"id": 964, "word": "rose", "translation": "pink", "pos": "adj"},
-  {"id": 965, "word": "brun", "translation": "brown", "pos": "adj"},
-  {"id": 966, "word": "chat", "translation": "cat", "pos": "noun"},
-  {"id": 967, "word": "loup", "translation": "wolf", "pos": "noun"},
-  {"id": 968, "word": "mouton", "translation": "sheep", "pos": "noun"},
-  {"id": 969, "word": "canard", "translation": "duck", "pos": "noun"},
-  {"id": 970, "word": "vache", "translation": "cow", "pos": "noun"},
-  {"id": 971, "word": "cochon", "translation": "pig", "pos": "noun"},
-  {"id": 972, "word": "nager", "translation": "to swim", "pos": "verb"},
-  {"id": 973, "word": "voler", "translation": "to fly / to steal", "pos": "verb"},
-  {"id": 974, "word": "dessiner", "translation": "to draw", "pos": "verb"},
-  {"id": 975, "word": "peindre", "translation": "to paint", "pos": "verb"},
-  {"id": 976, "word": "coudre", "translation": "to sew", "pos": "verb"},
-  {"id": 977, "word": "utiliser", "translation": "to use", "pos": "verb"},
-  {"id": 978, "word": "préférer", "translation": "to prefer", "pos": "verb"},
-  {"id": 979, "word": "regretter", "translation": "to regret", "pos": "verb"},
-  {"id": 980, "word": "remercier", "translation": "to thank", "pos": "verb"},
-  {"id": 981, "word": "féliciter", "translation": "to congratulate", "pos": "verb"},
-  {"id": 982, "word": "encourager", "translation": "to encourage", "pos": "verb"},
-  {"id": 983, "word": "interdire", "translation": "to forbid / to prohibit", "pos": "verb"},
-  {"id": 984, "word": "pardonner", "translation": "to forgive", "pos": "verb"},
-  {"id": 985, "word": "bonjour", "translation": "hello / good morning", "pos": "interj"},
-  {"id": 986, "word": "bonsoir", "translation": "good evening", "pos": "interj"},
-  {"id": 987, "word": "salut", "translation": "hi / bye", "pos": "interj"},
-  {"id": 988, "word": "bravo", "translation": "bravo / well done", "pos": "interj"},
-  {"id": 989, "word": "hélas", "translation": "alas / unfortunately", "pos": "interj"},
-  {"id": 990, "word": "eh", "translation": "hey / eh", "pos": "interj"},
-  {"id": 991, "word": "ah", "translation": "ah / oh", "pos": "interj"},
-  {"id": 992, "word": "oh", "translation": "oh", "pos": "interj"},
-  {"id": 993, "word": "cinquante", "translation": "fifty", "pos": "num"},
-  {"id": 994, "word": "trente", "translation": "thirty", "pos": "num"},
-  {"id": 995, "word": "quarante", "translation": "forty", "pos": "num"},
-  {"id": 996, "word": "soixante", "translation": "sixty", "pos": "num"},
-  {"id": 997, "word": "douze", "translation": "twelve", "pos": "num"},
-  {"id": 998, "word": "quinze", "translation": "fifteen", "pos": "num"},
-  {"id": 999, "word": "onze", "translation": "eleven", "pos": "num"},
-  {"id": 1000, "word": "treize", "translation": "thirteen", "pos": "num"}
+  {
+    "id": 1,
+    "word": "de",
+    "translation": "of / from",
+    "pos": "prep"
+  },
+  {
+    "id": 2,
+    "word": "le",
+    "translation": "the",
+    "pos": "det"
+  },
+  {
+    "id": 3,
+    "word": "être",
+    "translation": "to be",
+    "pos": "verb"
+  },
+  {
+    "id": 4,
+    "word": "et",
+    "translation": "and",
+    "pos": "conj"
+  },
+  {
+    "id": 5,
+    "word": "un",
+    "translation": "a / one",
+    "pos": "det"
+  },
+  {
+    "id": 6,
+    "word": "à",
+    "translation": "to / at",
+    "pos": "prep"
+  },
+  {
+    "id": 7,
+    "word": "il",
+    "translation": "he / it",
+    "pos": "pron"
+  },
+  {
+    "id": 8,
+    "word": "avoir",
+    "translation": "to have",
+    "pos": "verb"
+  },
+  {
+    "id": 9,
+    "word": "ne",
+    "translation": "not",
+    "pos": "adv"
+  },
+  {
+    "id": 10,
+    "word": "je",
+    "translation": "I",
+    "pos": "pron"
+  },
+  {
+    "id": 11,
+    "word": "son",
+    "translation": "his / her / its",
+    "pos": "det"
+  },
+  {
+    "id": 12,
+    "word": "que",
+    "translation": "that / which",
+    "pos": "conj"
+  },
+  {
+    "id": 13,
+    "word": "se",
+    "translation": "oneself",
+    "pos": "pron"
+  },
+  {
+    "id": 14,
+    "word": "qui",
+    "translation": "who / which",
+    "pos": "pron"
+  },
+  {
+    "id": 15,
+    "word": "ce",
+    "translation": "this / that",
+    "pos": "det"
+  },
+  {
+    "id": 16,
+    "word": "dans",
+    "translation": "in / within",
+    "pos": "prep"
+  },
+  {
+    "id": 17,
+    "word": "en",
+    "translation": "in / of it",
+    "pos": "prep"
+  },
+  {
+    "id": 18,
+    "word": "du",
+    "translation": "of the / some",
+    "pos": "det"
+  },
+  {
+    "id": 19,
+    "word": "elle",
+    "translation": "she / her",
+    "pos": "pron"
+  },
+  {
+    "id": 20,
+    "word": "au",
+    "translation": "to the / at the",
+    "pos": "prep"
+  },
+  {
+    "id": 21,
+    "word": "pour",
+    "translation": "for / in order to",
+    "pos": "prep"
+  },
+  {
+    "id": 22,
+    "word": "sur",
+    "translation": "on / upon",
+    "pos": "prep"
+  },
+  {
+    "id": 23,
+    "word": "pas",
+    "translation": "not / step",
+    "pos": "adv"
+  },
+  {
+    "id": 24,
+    "word": "me",
+    "translation": "me / myself",
+    "pos": "pron"
+  },
+  {
+    "id": 25,
+    "word": "avec",
+    "translation": "with",
+    "pos": "prep"
+  },
+  {
+    "id": 26,
+    "word": "tout",
+    "translation": "all / everything",
+    "pos": "det"
+  },
+  {
+    "id": 27,
+    "word": "faire",
+    "translation": "to do / to make",
+    "pos": "verb"
+  },
+  {
+    "id": 28,
+    "word": "on",
+    "translation": "one / we",
+    "pos": "pron"
+  },
+  {
+    "id": 29,
+    "word": "pouvoir",
+    "translation": "can / to be able to",
+    "pos": "verb"
+  },
+  {
+    "id": 30,
+    "word": "dire",
+    "translation": "to say / to tell",
+    "pos": "verb"
+  },
+  {
+    "id": 31,
+    "word": "plus",
+    "translation": "more / most",
+    "pos": "adv"
+  },
+  {
+    "id": 32,
+    "word": "nous",
+    "translation": "we / us",
+    "pos": "pron"
+  },
+  {
+    "id": 33,
+    "word": "aller",
+    "translation": "to go",
+    "pos": "verb"
+  },
+  {
+    "id": 34,
+    "word": "bien",
+    "translation": "well / good",
+    "pos": "adv"
+  },
+  {
+    "id": 35,
+    "word": "homme",
+    "translation": "man",
+    "pos": "noun"
+  },
+  {
+    "id": 36,
+    "word": "mais",
+    "translation": "but",
+    "pos": "conj"
+  },
+  {
+    "id": 37,
+    "word": "aussi",
+    "translation": "also / too",
+    "pos": "adv"
+  },
+  {
+    "id": 38,
+    "word": "grand",
+    "translation": "big / great",
+    "pos": "adj"
+  },
+  {
+    "id": 39,
+    "word": "mon",
+    "translation": "my",
+    "pos": "det"
+  },
+  {
+    "id": 40,
+    "word": "lui",
+    "translation": "him / to him",
+    "pos": "pron"
+  },
+  {
+    "id": 41,
+    "word": "te",
+    "translation": "you / yourself",
+    "pos": "pron"
+  },
+  {
+    "id": 42,
+    "word": "où",
+    "translation": "where",
+    "pos": "adv"
+  },
+  {
+    "id": 43,
+    "word": "tu",
+    "translation": "you",
+    "pos": "pron"
+  },
+  {
+    "id": 44,
+    "word": "vouloir",
+    "translation": "to want",
+    "pos": "verb"
+  },
+  {
+    "id": 45,
+    "word": "savoir",
+    "translation": "to know",
+    "pos": "verb"
+  },
+  {
+    "id": 46,
+    "word": "voir",
+    "translation": "to see",
+    "pos": "verb"
+  },
+  {
+    "id": 47,
+    "word": "leur",
+    "translation": "their / to them",
+    "pos": "det"
+  },
+  {
+    "id": 48,
+    "word": "temps",
+    "translation": "time / weather",
+    "pos": "noun"
+  },
+  {
+    "id": 49,
+    "word": "très",
+    "translation": "very",
+    "pos": "adv"
+  },
+  {
+    "id": 50,
+    "word": "quand",
+    "translation": "when",
+    "pos": "adv"
+  },
+  {
+    "id": 51,
+    "word": "comme",
+    "translation": "like / as",
+    "pos": "conj"
+  },
+  {
+    "id": 52,
+    "word": "par",
+    "translation": "by / through",
+    "pos": "prep"
+  },
+  {
+    "id": 53,
+    "word": "venir",
+    "translation": "to come",
+    "pos": "verb"
+  },
+  {
+    "id": 54,
+    "word": "deux",
+    "translation": "two",
+    "pos": "num"
+  },
+  {
+    "id": 55,
+    "word": "encore",
+    "translation": "still / again",
+    "pos": "adv"
+  },
+  {
+    "id": 56,
+    "word": "donner",
+    "translation": "to give",
+    "pos": "verb"
+  },
+  {
+    "id": 57,
+    "word": "petit",
+    "translation": "small / little",
+    "pos": "adj"
+  },
+  {
+    "id": 58,
+    "word": "même",
+    "translation": "same / even",
+    "pos": "adj"
+  },
+  {
+    "id": 59,
+    "word": "autre",
+    "translation": "other / another",
+    "pos": "adj"
+  },
+  {
+    "id": 60,
+    "word": "prendre",
+    "translation": "to take",
+    "pos": "verb"
+  },
+  {
+    "id": 61,
+    "word": "femme",
+    "translation": "woman / wife",
+    "pos": "noun"
+  },
+  {
+    "id": 62,
+    "word": "premier",
+    "translation": "first",
+    "pos": "adj"
+  },
+  {
+    "id": 63,
+    "word": "si",
+    "translation": "if / so",
+    "pos": "conj"
+  },
+  {
+    "id": 64,
+    "word": "devoir",
+    "translation": "to have to / must",
+    "pos": "verb"
+  },
+  {
+    "id": 65,
+    "word": "bon",
+    "translation": "good",
+    "pos": "adj"
+  },
+  {
+    "id": 66,
+    "word": "non",
+    "translation": "no",
+    "pos": "adv"
+  },
+  {
+    "id": 67,
+    "word": "croire",
+    "translation": "to believe",
+    "pos": "verb"
+  },
+  {
+    "id": 68,
+    "word": "y",
+    "translation": "there / to it",
+    "pos": "pron"
+  },
+  {
+    "id": 69,
+    "word": "trouver",
+    "translation": "to find",
+    "pos": "verb"
+  },
+  {
+    "id": 70,
+    "word": "jour",
+    "translation": "day",
+    "pos": "noun"
+  },
+  {
+    "id": 71,
+    "word": "ou",
+    "translation": "or",
+    "pos": "conj"
+  },
+  {
+    "id": 72,
+    "word": "main",
+    "translation": "hand",
+    "pos": "noun"
+  },
+  {
+    "id": 73,
+    "word": "vie",
+    "translation": "life",
+    "pos": "noun"
+  },
+  {
+    "id": 74,
+    "word": "là",
+    "translation": "there",
+    "pos": "adv"
+  },
+  {
+    "id": 75,
+    "word": "falloir",
+    "translation": "to be necessary",
+    "pos": "verb"
+  },
+  {
+    "id": 76,
+    "word": "parler",
+    "translation": "to speak / to talk",
+    "pos": "verb"
+  },
+  {
+    "id": 77,
+    "word": "mettre",
+    "translation": "to put / to place",
+    "pos": "verb"
+  },
+  {
+    "id": 78,
+    "word": "sans",
+    "translation": "without",
+    "pos": "prep"
+  },
+  {
+    "id": 79,
+    "word": "alors",
+    "translation": "then / so",
+    "pos": "adv"
+  },
+  {
+    "id": 80,
+    "word": "monde",
+    "translation": "world / people",
+    "pos": "noun"
+  },
+  {
+    "id": 81,
+    "word": "trop",
+    "translation": "too / too much",
+    "pos": "adv"
+  },
+  {
+    "id": 82,
+    "word": "sous",
+    "translation": "under / beneath",
+    "pos": "prep"
+  },
+  {
+    "id": 83,
+    "word": "père",
+    "translation": "father",
+    "pos": "noun"
+  },
+  {
+    "id": 84,
+    "word": "après",
+    "translation": "after",
+    "pos": "prep"
+  },
+  {
+    "id": 85,
+    "word": "heure",
+    "translation": "hour / time",
+    "pos": "noun"
+  },
+  {
+    "id": 86,
+    "word": "passer",
+    "translation": "to pass / to spend",
+    "pos": "verb"
+  },
+  {
+    "id": 87,
+    "word": "rien",
+    "translation": "nothing",
+    "pos": "pron"
+  },
+  {
+    "id": 88,
+    "word": "moins",
+    "translation": "less / least",
+    "pos": "adv"
+  },
+  {
+    "id": 89,
+    "word": "jamais",
+    "translation": "never",
+    "pos": "adv"
+  },
+  {
+    "id": 90,
+    "word": "nouveau",
+    "translation": "new",
+    "pos": "adj"
+  },
+  {
+    "id": 91,
+    "word": "regarder",
+    "translation": "to look at / to watch",
+    "pos": "verb"
+  },
+  {
+    "id": 92,
+    "word": "tête",
+    "translation": "head",
+    "pos": "noun"
+  },
+  {
+    "id": 93,
+    "word": "entre",
+    "translation": "between / among",
+    "pos": "prep"
+  },
+  {
+    "id": 94,
+    "word": "votre",
+    "translation": "your",
+    "pos": "det"
+  },
+  {
+    "id": 95,
+    "word": "moi",
+    "translation": "me / myself",
+    "pos": "pron"
+  },
+  {
+    "id": 96,
+    "word": "quelque",
+    "translation": "some / a few",
+    "pos": "det"
+  },
+  {
+    "id": 97,
+    "word": "peu",
+    "translation": "little / few",
+    "pos": "adv"
+  },
+  {
+    "id": 98,
+    "word": "cela",
+    "translation": "that / it",
+    "pos": "pron"
+  },
+  {
+    "id": 99,
+    "word": "reste",
+    "translation": "rest / remainder",
+    "pos": "noun"
+  },
+  {
+    "id": 100,
+    "word": "demander",
+    "translation": "to ask / to request",
+    "pos": "verb"
+  },
+  {
+    "id": 101,
+    "word": "enfant",
+    "translation": "child",
+    "pos": "noun"
+  },
+  {
+    "id": 102,
+    "word": "seul",
+    "translation": "alone / only",
+    "pos": "adj"
+  },
+  {
+    "id": 103,
+    "word": "rester",
+    "translation": "to stay / to remain",
+    "pos": "verb"
+  },
+  {
+    "id": 104,
+    "word": "chose",
+    "translation": "thing",
+    "pos": "noun"
+  },
+  {
+    "id": 105,
+    "word": "depuis",
+    "translation": "since / for",
+    "pos": "prep"
+  },
+  {
+    "id": 106,
+    "word": "oui",
+    "translation": "yes",
+    "pos": "adv"
+  },
+  {
+    "id": 107,
+    "word": "pays",
+    "translation": "country",
+    "pos": "noun"
+  },
+  {
+    "id": 108,
+    "word": "toujours",
+    "translation": "always / still",
+    "pos": "adv"
+  },
+  {
+    "id": 109,
+    "word": "chez",
+    "translation": "at the home of",
+    "pos": "prep"
+  },
+  {
+    "id": 110,
+    "word": "trois",
+    "translation": "three",
+    "pos": "num"
+  },
+  {
+    "id": 111,
+    "word": "mort",
+    "translation": "death / dead",
+    "pos": "noun"
+  },
+  {
+    "id": 112,
+    "word": "an",
+    "translation": "year",
+    "pos": "noun"
+  },
+  {
+    "id": 113,
+    "word": "dernier",
+    "translation": "last / latest",
+    "pos": "adj"
+  },
+  {
+    "id": 114,
+    "word": "contre",
+    "translation": "against",
+    "pos": "prep"
+  },
+  {
+    "id": 115,
+    "word": "déjà",
+    "translation": "already",
+    "pos": "adv"
+  },
+  {
+    "id": 116,
+    "word": "connaître",
+    "translation": "to know / to be familiar with",
+    "pos": "verb"
+  },
+  {
+    "id": 117,
+    "word": "année",
+    "translation": "year",
+    "pos": "noun"
+  },
+  {
+    "id": 118,
+    "word": "monsieur",
+    "translation": "mister / sir",
+    "pos": "noun"
+  },
+  {
+    "id": 119,
+    "word": "devant",
+    "translation": "in front of / before",
+    "pos": "prep"
+  },
+  {
+    "id": 120,
+    "word": "notre",
+    "translation": "our",
+    "pos": "det"
+  },
+  {
+    "id": 121,
+    "word": "pendant",
+    "translation": "during",
+    "pos": "prep"
+  },
+  {
+    "id": 122,
+    "word": "entendre",
+    "translation": "to hear",
+    "pos": "verb"
+  },
+  {
+    "id": 123,
+    "word": "moment",
+    "translation": "moment",
+    "pos": "noun"
+  },
+  {
+    "id": 124,
+    "word": "parti",
+    "translation": "party / side",
+    "pos": "noun"
+  },
+  {
+    "id": 125,
+    "word": "cet",
+    "translation": "this / that",
+    "pos": "det"
+  },
+  {
+    "id": 126,
+    "word": "répondre",
+    "translation": "to answer / to reply",
+    "pos": "verb"
+  },
+  {
+    "id": 127,
+    "word": "penser",
+    "translation": "to think",
+    "pos": "verb"
+  },
+  {
+    "id": 128,
+    "word": "place",
+    "translation": "place / seat",
+    "pos": "noun"
+  },
+  {
+    "id": 129,
+    "word": "point",
+    "translation": "point / dot",
+    "pos": "noun"
+  },
+  {
+    "id": 130,
+    "word": "vers",
+    "translation": "towards / around",
+    "pos": "prep"
+  },
+  {
+    "id": 131,
+    "word": "mot",
+    "translation": "word",
+    "pos": "noun"
+  },
+  {
+    "id": 132,
+    "word": "cependant",
+    "translation": "however / yet",
+    "pos": "adv"
+  },
+  {
+    "id": 133,
+    "word": "ni",
+    "translation": "neither / nor",
+    "pos": "conj"
+  },
+  {
+    "id": 134,
+    "word": "oeil",
+    "translation": "eye",
+    "pos": "noun"
+  },
+  {
+    "id": 135,
+    "word": "maintenant",
+    "translation": "now",
+    "pos": "adv"
+  },
+  {
+    "id": 136,
+    "word": "jeune",
+    "translation": "young",
+    "pos": "adj"
+  },
+  {
+    "id": 137,
+    "word": "mieux",
+    "translation": "better / best",
+    "pos": "adv"
+  },
+  {
+    "id": 138,
+    "word": "eau",
+    "translation": "water",
+    "pos": "noun"
+  },
+  {
+    "id": 139,
+    "word": "comprendre",
+    "translation": "to understand",
+    "pos": "verb"
+  },
+  {
+    "id": 140,
+    "word": "ami",
+    "translation": "friend",
+    "pos": "noun"
+  },
+  {
+    "id": 141,
+    "word": "long",
+    "translation": "long",
+    "pos": "adj"
+  },
+  {
+    "id": 142,
+    "word": "tenir",
+    "translation": "to hold / to keep",
+    "pos": "verb"
+  },
+  {
+    "id": 143,
+    "word": "porter",
+    "translation": "to carry / to wear",
+    "pos": "verb"
+  },
+  {
+    "id": 144,
+    "word": "noir",
+    "translation": "black",
+    "pos": "adj"
+  },
+  {
+    "id": 145,
+    "word": "ainsi",
+    "translation": "thus / so",
+    "pos": "adv"
+  },
+  {
+    "id": 146,
+    "word": "terre",
+    "translation": "earth / land",
+    "pos": "noun"
+  },
+  {
+    "id": 147,
+    "word": "part",
+    "translation": "part / share",
+    "pos": "noun"
+  },
+  {
+    "id": 148,
+    "word": "porte",
+    "translation": "door",
+    "pos": "noun"
+  },
+  {
+    "id": 149,
+    "word": "nom",
+    "translation": "name",
+    "pos": "noun"
+  },
+  {
+    "id": 150,
+    "word": "maison",
+    "translation": "house / home",
+    "pos": "noun"
+  },
+  {
+    "id": 151,
+    "word": "roi",
+    "translation": "king",
+    "pos": "noun"
+  },
+  {
+    "id": 152,
+    "word": "assez",
+    "translation": "enough / quite",
+    "pos": "adv"
+  },
+  {
+    "id": 153,
+    "word": "sortir",
+    "translation": "to go out / to leave",
+    "pos": "verb"
+  },
+  {
+    "id": 154,
+    "word": "tant",
+    "translation": "so much / so many",
+    "pos": "adv"
+  },
+  {
+    "id": 155,
+    "word": "car",
+    "translation": "because / for",
+    "pos": "conj"
+  },
+  {
+    "id": 156,
+    "word": "sentir",
+    "translation": "to feel / to smell",
+    "pos": "verb"
+  },
+  {
+    "id": 157,
+    "word": "côté",
+    "translation": "side",
+    "pos": "noun"
+  },
+  {
+    "id": 158,
+    "word": "état",
+    "translation": "state / condition",
+    "pos": "noun"
+  },
+  {
+    "id": 159,
+    "word": "dieu",
+    "translation": "god",
+    "pos": "noun"
+  },
+  {
+    "id": 160,
+    "word": "vieux",
+    "translation": "old",
+    "pos": "adj"
+  },
+  {
+    "id": 161,
+    "word": "fois",
+    "translation": "time / occasion",
+    "pos": "noun"
+  },
+  {
+    "id": 162,
+    "word": "peur",
+    "translation": "fear",
+    "pos": "noun"
+  },
+  {
+    "id": 163,
+    "word": "arriver",
+    "translation": "to arrive / to happen",
+    "pos": "verb"
+  },
+  {
+    "id": 164,
+    "word": "crier",
+    "translation": "to shout / to cry out",
+    "pos": "verb"
+  },
+  {
+    "id": 165,
+    "word": "voix",
+    "translation": "voice",
+    "pos": "noun"
+  },
+  {
+    "id": 166,
+    "word": "tomber",
+    "translation": "to fall",
+    "pos": "verb"
+  },
+  {
+    "id": 167,
+    "word": "retrouver",
+    "translation": "to find again / to meet",
+    "pos": "verb"
+  },
+  {
+    "id": 168,
+    "word": "chambre",
+    "translation": "room / bedroom",
+    "pos": "noun"
+  },
+  {
+    "id": 169,
+    "word": "guerre",
+    "translation": "war",
+    "pos": "noun"
+  },
+  {
+    "id": 170,
+    "word": "écrire",
+    "translation": "to write",
+    "pos": "verb"
+  },
+  {
+    "id": 171,
+    "word": "comment",
+    "translation": "how",
+    "pos": "adv"
+  },
+  {
+    "id": 172,
+    "word": "corps",
+    "translation": "body",
+    "pos": "noun"
+  },
+  {
+    "id": 173,
+    "word": "devenir",
+    "translation": "to become",
+    "pos": "verb"
+  },
+  {
+    "id": 174,
+    "word": "coup",
+    "translation": "blow / hit",
+    "pos": "noun"
+  },
+  {
+    "id": 175,
+    "word": "loin",
+    "translation": "far / far away",
+    "pos": "adv"
+  },
+  {
+    "id": 176,
+    "word": "fin",
+    "translation": "end",
+    "pos": "noun"
+  },
+  {
+    "id": 177,
+    "word": "mère",
+    "translation": "mother",
+    "pos": "noun"
+  },
+  {
+    "id": 178,
+    "word": "appeler",
+    "translation": "to call",
+    "pos": "verb"
+  },
+  {
+    "id": 179,
+    "word": "beau",
+    "translation": "beautiful / handsome",
+    "pos": "adj"
+  },
+  {
+    "id": 180,
+    "word": "ville",
+    "translation": "city / town",
+    "pos": "noun"
+  },
+  {
+    "id": 181,
+    "word": "rue",
+    "translation": "street",
+    "pos": "noun"
+  },
+  {
+    "id": 182,
+    "word": "suivre",
+    "translation": "to follow",
+    "pos": "verb"
+  },
+  {
+    "id": 183,
+    "word": "montrer",
+    "translation": "to show",
+    "pos": "verb"
+  },
+  {
+    "id": 184,
+    "word": "chercher",
+    "translation": "to look for / to seek",
+    "pos": "verb"
+  },
+  {
+    "id": 185,
+    "word": "manger",
+    "translation": "to eat",
+    "pos": "verb"
+  },
+  {
+    "id": 186,
+    "word": "travail",
+    "translation": "work / job",
+    "pos": "noun"
+  },
+  {
+    "id": 187,
+    "word": "esprit",
+    "translation": "mind / spirit",
+    "pos": "noun"
+  },
+  {
+    "id": 188,
+    "word": "coeur",
+    "translation": "heart",
+    "pos": "noun"
+  },
+  {
+    "id": 189,
+    "word": "nuit",
+    "translation": "night",
+    "pos": "noun"
+  },
+  {
+    "id": 190,
+    "word": "commencer",
+    "translation": "to begin / to start",
+    "pos": "verb"
+  },
+  {
+    "id": 191,
+    "word": "aimer",
+    "translation": "to love / to like",
+    "pos": "verb"
+  },
+  {
+    "id": 192,
+    "word": "attendre",
+    "translation": "to wait / to expect",
+    "pos": "verb"
+  },
+  {
+    "id": 193,
+    "word": "entrer",
+    "translation": "to enter",
+    "pos": "verb"
+  },
+  {
+    "id": 194,
+    "word": "jeter",
+    "translation": "to throw",
+    "pos": "verb"
+  },
+  {
+    "id": 195,
+    "word": "perdre",
+    "translation": "to lose",
+    "pos": "verb"
+  },
+  {
+    "id": 196,
+    "word": "lettre",
+    "translation": "letter",
+    "pos": "noun"
+  },
+  {
+    "id": 197,
+    "word": "vivre",
+    "translation": "to live",
+    "pos": "verb"
+  },
+  {
+    "id": 198,
+    "word": "blanc",
+    "translation": "white",
+    "pos": "adj"
+  },
+  {
+    "id": 199,
+    "word": "ouvrir",
+    "translation": "to open",
+    "pos": "verb"
+  },
+  {
+    "id": 200,
+    "word": "pied",
+    "translation": "foot",
+    "pos": "noun"
+  },
+  {
+    "id": 201,
+    "word": "idée",
+    "translation": "idea",
+    "pos": "noun"
+  },
+  {
+    "id": 202,
+    "word": "force",
+    "translation": "strength / force",
+    "pos": "noun"
+  },
+  {
+    "id": 203,
+    "word": "ceux",
+    "translation": "those / the ones",
+    "pos": "pron"
+  },
+  {
+    "id": 204,
+    "word": "ici",
+    "translation": "here",
+    "pos": "adv"
+  },
+  {
+    "id": 205,
+    "word": "raison",
+    "translation": "reason",
+    "pos": "noun"
+  },
+  {
+    "id": 206,
+    "word": "bout",
+    "translation": "end / tip",
+    "pos": "noun"
+  },
+  {
+    "id": 207,
+    "word": "reprendre",
+    "translation": "to take back / to resume",
+    "pos": "verb"
+  },
+  {
+    "id": 208,
+    "word": "compte",
+    "translation": "account / count",
+    "pos": "noun"
+  },
+  {
+    "id": 209,
+    "word": "servir",
+    "translation": "to serve",
+    "pos": "verb"
+  },
+  {
+    "id": 210,
+    "word": "doute",
+    "translation": "doubt",
+    "pos": "noun"
+  },
+  {
+    "id": 211,
+    "word": "lire",
+    "translation": "to read",
+    "pos": "verb"
+  },
+  {
+    "id": 212,
+    "word": "droit",
+    "translation": "right / law",
+    "pos": "noun"
+  },
+  {
+    "id": 213,
+    "word": "manière",
+    "translation": "manner / way",
+    "pos": "noun"
+  },
+  {
+    "id": 214,
+    "word": "cause",
+    "translation": "cause",
+    "pos": "noun"
+  },
+  {
+    "id": 215,
+    "word": "question",
+    "translation": "question",
+    "pos": "noun"
+  },
+  {
+    "id": 216,
+    "word": "peine",
+    "translation": "trouble / sorrow / penalty",
+    "pos": "noun"
+  },
+  {
+    "id": 217,
+    "word": "fils",
+    "translation": "son",
+    "pos": "noun"
+  },
+  {
+    "id": 218,
+    "word": "figure",
+    "translation": "face / figure",
+    "pos": "noun"
+  },
+  {
+    "id": 219,
+    "word": "paraître",
+    "translation": "to appear / to seem",
+    "pos": "verb"
+  },
+  {
+    "id": 220,
+    "word": "mourir",
+    "translation": "to die",
+    "pos": "verb"
+  },
+  {
+    "id": 221,
+    "word": "bras",
+    "translation": "arm",
+    "pos": "noun"
+  },
+  {
+    "id": 222,
+    "word": "partir",
+    "translation": "to leave / to depart",
+    "pos": "verb"
+  },
+  {
+    "id": 223,
+    "word": "air",
+    "translation": "air / look",
+    "pos": "noun"
+  },
+  {
+    "id": 224,
+    "word": "certain",
+    "translation": "certain / sure",
+    "pos": "adj"
+  },
+  {
+    "id": 225,
+    "word": "marcher",
+    "translation": "to walk",
+    "pos": "verb"
+  },
+  {
+    "id": 226,
+    "word": "fille",
+    "translation": "girl / daughter",
+    "pos": "noun"
+  },
+  {
+    "id": 227,
+    "word": "forme",
+    "translation": "form / shape",
+    "pos": "noun"
+  },
+  {
+    "id": 228,
+    "word": "revenir",
+    "translation": "to come back / to return",
+    "pos": "verb"
+  },
+  {
+    "id": 229,
+    "word": "haut",
+    "translation": "high / tall",
+    "pos": "adj"
+  },
+  {
+    "id": 230,
+    "word": "politique",
+    "translation": "political / politics",
+    "pos": "adj"
+  },
+  {
+    "id": 231,
+    "word": "histoire",
+    "translation": "history / story",
+    "pos": "noun"
+  },
+  {
+    "id": 232,
+    "word": "mouvement",
+    "translation": "movement",
+    "pos": "noun"
+  },
+  {
+    "id": 233,
+    "word": "pensée",
+    "translation": "thought",
+    "pos": "noun"
+  },
+  {
+    "id": 234,
+    "word": "livre",
+    "translation": "book",
+    "pos": "noun"
+  },
+  {
+    "id": 235,
+    "word": "fond",
+    "translation": "bottom / background",
+    "pos": "noun"
+  },
+  {
+    "id": 236,
+    "word": "suite",
+    "translation": "continuation / sequel",
+    "pos": "noun"
+  },
+  {
+    "id": 237,
+    "word": "France",
+    "translation": "France",
+    "pos": "noun"
+  },
+  {
+    "id": 238,
+    "word": "français",
+    "translation": "French",
+    "pos": "adj"
+  },
+  {
+    "id": 239,
+    "word": "peuple",
+    "translation": "people / nation",
+    "pos": "noun"
+  },
+  {
+    "id": 240,
+    "word": "visage",
+    "translation": "face",
+    "pos": "noun"
+  },
+  {
+    "id": 241,
+    "word": "lever",
+    "translation": "to raise / to lift",
+    "pos": "verb"
+  },
+  {
+    "id": 242,
+    "word": "laisser",
+    "translation": "to leave / to let",
+    "pos": "verb"
+  },
+  {
+    "id": 243,
+    "word": "possible",
+    "translation": "possible",
+    "pos": "adj"
+  },
+  {
+    "id": 244,
+    "word": "général",
+    "translation": "general",
+    "pos": "adj"
+  },
+  {
+    "id": 245,
+    "word": "ordre",
+    "translation": "order",
+    "pos": "noun"
+  },
+  {
+    "id": 246,
+    "word": "garder",
+    "translation": "to keep / to guard",
+    "pos": "verb"
+  },
+  {
+    "id": 247,
+    "word": "autour",
+    "translation": "around",
+    "pos": "adv"
+  },
+  {
+    "id": 248,
+    "word": "besoin",
+    "translation": "need",
+    "pos": "noun"
+  },
+  {
+    "id": 249,
+    "word": "image",
+    "translation": "image / picture",
+    "pos": "noun"
+  },
+  {
+    "id": 250,
+    "word": "million",
+    "translation": "million",
+    "pos": "num"
+  },
+  {
+    "id": 251,
+    "word": "milieu",
+    "translation": "middle / environment",
+    "pos": "noun"
+  },
+  {
+    "id": 252,
+    "word": "lit",
+    "translation": "bed",
+    "pos": "noun"
+  },
+  {
+    "id": 253,
+    "word": "reconnaître",
+    "translation": "to recognize",
+    "pos": "verb"
+  },
+  {
+    "id": 254,
+    "word": "vraiment",
+    "translation": "really / truly",
+    "pos": "adv"
+  },
+  {
+    "id": 255,
+    "word": "amour",
+    "translation": "love",
+    "pos": "noun"
+  },
+  {
+    "id": 256,
+    "word": "tirer",
+    "translation": "to pull / to shoot",
+    "pos": "verb"
+  },
+  {
+    "id": 257,
+    "word": "plupart",
+    "translation": "most / majority",
+    "pos": "noun"
+  },
+  {
+    "id": 258,
+    "word": "doigt",
+    "translation": "finger",
+    "pos": "noun"
+  },
+  {
+    "id": 259,
+    "word": "frère",
+    "translation": "brother",
+    "pos": "noun"
+  },
+  {
+    "id": 260,
+    "word": "ciel",
+    "translation": "sky / heaven",
+    "pos": "noun"
+  },
+  {
+    "id": 261,
+    "word": "public",
+    "translation": "public",
+    "pos": "adj"
+  },
+  {
+    "id": 262,
+    "word": "quatre",
+    "translation": "four",
+    "pos": "num"
+  },
+  {
+    "id": 263,
+    "word": "parole",
+    "translation": "word / speech",
+    "pos": "noun"
+  },
+  {
+    "id": 264,
+    "word": "chaque",
+    "translation": "each / every",
+    "pos": "det"
+  },
+  {
+    "id": 265,
+    "word": "lorsque",
+    "translation": "when",
+    "pos": "conj"
+  },
+  {
+    "id": 266,
+    "word": "ailleurs",
+    "translation": "elsewhere",
+    "pos": "adv"
+  },
+  {
+    "id": 267,
+    "word": "nature",
+    "translation": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": 268,
+    "word": "regard",
+    "translation": "look / gaze",
+    "pos": "noun"
+  },
+  {
+    "id": 269,
+    "word": "groupe",
+    "translation": "group",
+    "pos": "noun"
+  },
+  {
+    "id": 270,
+    "word": "problème",
+    "translation": "problem",
+    "pos": "noun"
+  },
+  {
+    "id": 271,
+    "word": "cours",
+    "translation": "course / class",
+    "pos": "noun"
+  },
+  {
+    "id": 272,
+    "word": "ajouter",
+    "translation": "to add",
+    "pos": "verb"
+  },
+  {
+    "id": 273,
+    "word": "apprendre",
+    "translation": "to learn / to teach",
+    "pos": "verb"
+  },
+  {
+    "id": 274,
+    "word": "recevoir",
+    "translation": "to receive",
+    "pos": "verb"
+  },
+  {
+    "id": 275,
+    "word": "jouer",
+    "translation": "to play",
+    "pos": "verb"
+  },
+  {
+    "id": 276,
+    "word": "sembler",
+    "translation": "to seem",
+    "pos": "verb"
+  },
+  {
+    "id": 277,
+    "word": "sens",
+    "translation": "sense / meaning / direction",
+    "pos": "noun"
+  },
+  {
+    "id": 278,
+    "word": "société",
+    "translation": "society / company",
+    "pos": "noun"
+  },
+  {
+    "id": 279,
+    "word": "effet",
+    "translation": "effect",
+    "pos": "noun"
+  },
+  {
+    "id": 280,
+    "word": "exemple",
+    "translation": "example",
+    "pos": "noun"
+  },
+  {
+    "id": 281,
+    "word": "rapport",
+    "translation": "report / relationship",
+    "pos": "noun"
+  },
+  {
+    "id": 282,
+    "word": "soir",
+    "translation": "evening",
+    "pos": "noun"
+  },
+  {
+    "id": 283,
+    "word": "sorte",
+    "translation": "sort / kind",
+    "pos": "noun"
+  },
+  {
+    "id": 284,
+    "word": "action",
+    "translation": "action",
+    "pos": "noun"
+  },
+  {
+    "id": 285,
+    "word": "route",
+    "translation": "road / route",
+    "pos": "noun"
+  },
+  {
+    "id": 286,
+    "word": "service",
+    "translation": "service",
+    "pos": "noun"
+  },
+  {
+    "id": 287,
+    "word": "lumière",
+    "translation": "light",
+    "pos": "noun"
+  },
+  {
+    "id": 288,
+    "word": "vue",
+    "translation": "view / sight",
+    "pos": "noun"
+  },
+  {
+    "id": 289,
+    "word": "expliquer",
+    "translation": "to explain",
+    "pos": "verb"
+  },
+  {
+    "id": 290,
+    "word": "cas",
+    "translation": "case",
+    "pos": "noun"
+  },
+  {
+    "id": 291,
+    "word": "matin",
+    "translation": "morning",
+    "pos": "noun"
+  },
+  {
+    "id": 292,
+    "word": "table",
+    "translation": "table",
+    "pos": "noun"
+  },
+  {
+    "id": 293,
+    "word": "plein",
+    "translation": "full",
+    "pos": "adj"
+  },
+  {
+    "id": 294,
+    "word": "situation",
+    "translation": "situation",
+    "pos": "noun"
+  },
+  {
+    "id": 295,
+    "word": "famille",
+    "translation": "family",
+    "pos": "noun"
+  },
+  {
+    "id": 296,
+    "word": "projet",
+    "translation": "project / plan",
+    "pos": "noun"
+  },
+  {
+    "id": 297,
+    "word": "dès",
+    "translation": "from / as soon as",
+    "pos": "prep"
+  },
+  {
+    "id": 298,
+    "word": "souvent",
+    "translation": "often",
+    "pos": "adv"
+  },
+  {
+    "id": 299,
+    "word": "ensemble",
+    "translation": "together",
+    "pos": "adv"
+  },
+  {
+    "id": 300,
+    "word": "simple",
+    "translation": "simple",
+    "pos": "adj"
+  },
+  {
+    "id": 301,
+    "word": "type",
+    "translation": "type / kind",
+    "pos": "noun"
+  },
+  {
+    "id": 302,
+    "word": "sûr",
+    "translation": "sure / certain",
+    "pos": "adj"
+  },
+  {
+    "id": 303,
+    "word": "jeu",
+    "translation": "game / play",
+    "pos": "noun"
+  },
+  {
+    "id": 304,
+    "word": "intérêt",
+    "translation": "interest",
+    "pos": "noun"
+  },
+  {
+    "id": 305,
+    "word": "réponse",
+    "translation": "answer / response",
+    "pos": "noun"
+  },
+  {
+    "id": 306,
+    "word": "marché",
+    "translation": "market",
+    "pos": "noun"
+  },
+  {
+    "id": 307,
+    "word": "condition",
+    "translation": "condition",
+    "pos": "noun"
+  },
+  {
+    "id": 308,
+    "word": "produire",
+    "translation": "to produce",
+    "pos": "verb"
+  },
+  {
+    "id": 309,
+    "word": "résultat",
+    "translation": "result",
+    "pos": "noun"
+  },
+  {
+    "id": 310,
+    "word": "propre",
+    "translation": "own / clean",
+    "pos": "adj"
+  },
+  {
+    "id": 311,
+    "word": "économie",
+    "translation": "economy",
+    "pos": "noun"
+  },
+  {
+    "id": 312,
+    "word": "région",
+    "translation": "region",
+    "pos": "noun"
+  },
+  {
+    "id": 313,
+    "word": "décider",
+    "translation": "to decide",
+    "pos": "verb"
+  },
+  {
+    "id": 314,
+    "word": "important",
+    "translation": "important",
+    "pos": "adj"
+  },
+  {
+    "id": 315,
+    "word": "développement",
+    "translation": "development",
+    "pos": "noun"
+  },
+  {
+    "id": 316,
+    "word": "meilleur",
+    "translation": "better / best",
+    "pos": "adj"
+  },
+  {
+    "id": 317,
+    "word": "loi",
+    "translation": "law",
+    "pos": "noun"
+  },
+  {
+    "id": 318,
+    "word": "système",
+    "translation": "system",
+    "pos": "noun"
+  },
+  {
+    "id": 319,
+    "word": "mesure",
+    "translation": "measure",
+    "pos": "noun"
+  },
+  {
+    "id": 320,
+    "word": "changement",
+    "translation": "change",
+    "pos": "noun"
+  },
+  {
+    "id": 321,
+    "word": "payer",
+    "translation": "to pay",
+    "pos": "verb"
+  },
+  {
+    "id": 322,
+    "word": "président",
+    "translation": "president",
+    "pos": "noun"
+  },
+  {
+    "id": 323,
+    "word": "nombre",
+    "translation": "number",
+    "pos": "noun"
+  },
+  {
+    "id": 324,
+    "word": "oeuvre",
+    "translation": "work / artwork",
+    "pos": "noun"
+  },
+  {
+    "id": 325,
+    "word": "programme",
+    "translation": "program",
+    "pos": "noun"
+  },
+  {
+    "id": 326,
+    "word": "gros",
+    "translation": "big / fat",
+    "pos": "adj"
+  },
+  {
+    "id": 327,
+    "word": "champ",
+    "translation": "field",
+    "pos": "noun"
+  },
+  {
+    "id": 328,
+    "word": "création",
+    "translation": "creation",
+    "pos": "noun"
+  },
+  {
+    "id": 329,
+    "word": "offrir",
+    "translation": "to offer / to give",
+    "pos": "verb"
+  },
+  {
+    "id": 330,
+    "word": "permettre",
+    "translation": "to allow / to permit",
+    "pos": "verb"
+  },
+  {
+    "id": 331,
+    "word": "présenter",
+    "translation": "to present / to introduce",
+    "pos": "verb"
+  },
+  {
+    "id": 332,
+    "word": "joie",
+    "translation": "joy",
+    "pos": "noun"
+  },
+  {
+    "id": 333,
+    "word": "chemin",
+    "translation": "path / way",
+    "pos": "noun"
+  },
+  {
+    "id": 334,
+    "word": "mur",
+    "translation": "wall",
+    "pos": "noun"
+  },
+  {
+    "id": 335,
+    "word": "soleil",
+    "translation": "sun",
+    "pos": "noun"
+  },
+  {
+    "id": 336,
+    "word": "sang",
+    "translation": "blood",
+    "pos": "noun"
+  },
+  {
+    "id": 337,
+    "word": "ancien",
+    "translation": "old / former",
+    "pos": "adj"
+  },
+  {
+    "id": 338,
+    "word": "cinq",
+    "translation": "five",
+    "pos": "num"
+  },
+  {
+    "id": 339,
+    "word": "face",
+    "translation": "face / front",
+    "pos": "noun"
+  },
+  {
+    "id": 340,
+    "word": "accepter",
+    "translation": "to accept",
+    "pos": "verb"
+  },
+  {
+    "id": 341,
+    "word": "toucher",
+    "translation": "to touch",
+    "pos": "verb"
+  },
+  {
+    "id": 342,
+    "word": "occuper",
+    "translation": "to occupy / to be busy",
+    "pos": "verb"
+  },
+  {
+    "id": 343,
+    "word": "vrai",
+    "translation": "true / real",
+    "pos": "adj"
+  },
+  {
+    "id": 344,
+    "word": "différent",
+    "translation": "different",
+    "pos": "adj"
+  },
+  {
+    "id": 345,
+    "word": "entreprise",
+    "translation": "company / business",
+    "pos": "noun"
+  },
+  {
+    "id": 346,
+    "word": "garçon",
+    "translation": "boy",
+    "pos": "noun"
+  },
+  {
+    "id": 347,
+    "word": "intérieur",
+    "translation": "interior / inside",
+    "pos": "noun"
+  },
+  {
+    "id": 348,
+    "word": "changer",
+    "translation": "to change",
+    "pos": "verb"
+  },
+  {
+    "id": 349,
+    "word": "particulier",
+    "translation": "particular / private",
+    "pos": "adj"
+  },
+  {
+    "id": 350,
+    "word": "fermer",
+    "translation": "to close",
+    "pos": "verb"
+  },
+  {
+    "id": 351,
+    "word": "silence",
+    "translation": "silence",
+    "pos": "noun"
+  },
+  {
+    "id": 352,
+    "word": "âge",
+    "translation": "age",
+    "pos": "noun"
+  },
+  {
+    "id": 353,
+    "word": "plan",
+    "translation": "plan / map",
+    "pos": "noun"
+  },
+  {
+    "id": 354,
+    "word": "mois",
+    "translation": "month",
+    "pos": "noun"
+  },
+  {
+    "id": 355,
+    "word": "dix",
+    "translation": "ten",
+    "pos": "num"
+  },
+  {
+    "id": 356,
+    "word": "présent",
+    "translation": "present / current",
+    "pos": "adj"
+  },
+  {
+    "id": 357,
+    "word": "avancer",
+    "translation": "to advance / to move forward",
+    "pos": "verb"
+  },
+  {
+    "id": 358,
+    "word": "intéresser",
+    "translation": "to interest",
+    "pos": "verb"
+  },
+  {
+    "id": 359,
+    "word": "réalité",
+    "translation": "reality",
+    "pos": "noun"
+  },
+  {
+    "id": 360,
+    "word": "musique",
+    "translation": "music",
+    "pos": "noun"
+  },
+  {
+    "id": 361,
+    "word": "cheval",
+    "translation": "horse",
+    "pos": "noun"
+  },
+  {
+    "id": 362,
+    "word": "sourire",
+    "translation": "to smile / smile",
+    "pos": "verb"
+  },
+  {
+    "id": 363,
+    "word": "frapper",
+    "translation": "to hit / to knock",
+    "pos": "verb"
+  },
+  {
+    "id": 364,
+    "word": "pierre",
+    "translation": "stone",
+    "pos": "noun"
+  },
+  {
+    "id": 365,
+    "word": "âme",
+    "translation": "soul",
+    "pos": "noun"
+  },
+  {
+    "id": 366,
+    "word": "vent",
+    "translation": "wind",
+    "pos": "noun"
+  },
+  {
+    "id": 367,
+    "word": "boire",
+    "translation": "to drink",
+    "pos": "verb"
+  },
+  {
+    "id": 368,
+    "word": "demi",
+    "translation": "half",
+    "pos": "adj"
+  },
+  {
+    "id": 369,
+    "word": "mal",
+    "translation": "badly / evil / pain",
+    "pos": "adv"
+  },
+  {
+    "id": 370,
+    "word": "arbre",
+    "translation": "tree",
+    "pos": "noun"
+  },
+  {
+    "id": 371,
+    "word": "fenêtre",
+    "translation": "window",
+    "pos": "noun"
+  },
+  {
+    "id": 372,
+    "word": "courir",
+    "translation": "to run",
+    "pos": "verb"
+  },
+  {
+    "id": 373,
+    "word": "risque",
+    "translation": "risk",
+    "pos": "noun"
+  },
+  {
+    "id": 374,
+    "word": "derrière",
+    "translation": "behind",
+    "pos": "prep"
+  },
+  {
+    "id": 375,
+    "word": "travailleur",
+    "translation": "worker",
+    "pos": "noun"
+  },
+  {
+    "id": 376,
+    "word": "signe",
+    "translation": "sign",
+    "pos": "noun"
+  },
+  {
+    "id": 377,
+    "word": "dormir",
+    "translation": "to sleep",
+    "pos": "verb"
+  },
+  {
+    "id": 378,
+    "word": "agir",
+    "translation": "to act",
+    "pos": "verb"
+  },
+  {
+    "id": 379,
+    "word": "tourner",
+    "translation": "to turn",
+    "pos": "verb"
+  },
+  {
+    "id": 380,
+    "word": "chien",
+    "translation": "dog",
+    "pos": "noun"
+  },
+  {
+    "id": 381,
+    "word": "obtenir",
+    "translation": "to obtain / to get",
+    "pos": "verb"
+  },
+  {
+    "id": 382,
+    "word": "peau",
+    "translation": "skin",
+    "pos": "noun"
+  },
+  {
+    "id": 383,
+    "word": "raconter",
+    "translation": "to tell / to narrate",
+    "pos": "verb"
+  },
+  {
+    "id": 384,
+    "word": "exister",
+    "translation": "to exist",
+    "pos": "verb"
+  },
+  {
+    "id": 385,
+    "word": "proposer",
+    "translation": "to propose / to suggest",
+    "pos": "verb"
+  },
+  {
+    "id": 386,
+    "word": "montagne",
+    "translation": "mountain",
+    "pos": "noun"
+  },
+  {
+    "id": 387,
+    "word": "choisir",
+    "translation": "to choose",
+    "pos": "verb"
+  },
+  {
+    "id": 388,
+    "word": "créer",
+    "translation": "to create",
+    "pos": "verb"
+  },
+  {
+    "id": 389,
+    "word": "bureau",
+    "translation": "office / desk",
+    "pos": "noun"
+  },
+  {
+    "id": 390,
+    "word": "objectif",
+    "translation": "objective / goal",
+    "pos": "noun"
+  },
+  {
+    "id": 391,
+    "word": "sécurité",
+    "translation": "safety / security",
+    "pos": "noun"
+  },
+  {
+    "id": 392,
+    "word": "médecin",
+    "translation": "doctor",
+    "pos": "noun"
+  },
+  {
+    "id": 393,
+    "word": "difficile",
+    "translation": "difficult",
+    "pos": "adj"
+  },
+  {
+    "id": 394,
+    "word": "attention",
+    "translation": "attention",
+    "pos": "noun"
+  },
+  {
+    "id": 395,
+    "word": "gouvernement",
+    "translation": "government",
+    "pos": "noun"
+  },
+  {
+    "id": 396,
+    "word": "membre",
+    "translation": "member",
+    "pos": "noun"
+  },
+  {
+    "id": 397,
+    "word": "moyen",
+    "translation": "means / way / average",
+    "pos": "noun"
+  },
+  {
+    "id": 398,
+    "word": "jardin",
+    "translation": "garden",
+    "pos": "noun"
+  },
+  {
+    "id": 399,
+    "word": "pourquoi",
+    "translation": "why",
+    "pos": "adv"
+  },
+  {
+    "id": 400,
+    "word": "animal",
+    "translation": "animal",
+    "pos": "noun"
+  },
+  {
+    "id": 401,
+    "word": "culture",
+    "translation": "culture",
+    "pos": "noun"
+  },
+  {
+    "id": 402,
+    "word": "chanter",
+    "translation": "to sing",
+    "pos": "verb"
+  },
+  {
+    "id": 403,
+    "word": "fleuve",
+    "translation": "river",
+    "pos": "noun"
+  },
+  {
+    "id": 404,
+    "word": "couper",
+    "translation": "to cut",
+    "pos": "verb"
+  },
+  {
+    "id": 405,
+    "word": "mauvais",
+    "translation": "bad / wrong",
+    "pos": "adj"
+  },
+  {
+    "id": 406,
+    "word": "second",
+    "translation": "second",
+    "pos": "adj"
+  },
+  {
+    "id": 407,
+    "word": "entier",
+    "translation": "whole / entire",
+    "pos": "adj"
+  },
+  {
+    "id": 408,
+    "word": "décision",
+    "translation": "decision",
+    "pos": "noun"
+  },
+  {
+    "id": 409,
+    "word": "recherche",
+    "translation": "research / search",
+    "pos": "noun"
+  },
+  {
+    "id": 410,
+    "word": "période",
+    "translation": "period",
+    "pos": "noun"
+  },
+  {
+    "id": 411,
+    "word": "voyage",
+    "translation": "trip / travel",
+    "pos": "noun"
+  },
+  {
+    "id": 412,
+    "word": "ministre",
+    "translation": "minister",
+    "pos": "noun"
+  },
+  {
+    "id": 413,
+    "word": "pièce",
+    "translation": "room / piece / coin",
+    "pos": "noun"
+  },
+  {
+    "id": 414,
+    "word": "effort",
+    "translation": "effort",
+    "pos": "noun"
+  },
+  {
+    "id": 415,
+    "word": "article",
+    "translation": "article",
+    "pos": "noun"
+  },
+  {
+    "id": 416,
+    "word": "cour",
+    "translation": "court / courtyard",
+    "pos": "noun"
+  },
+  {
+    "id": 417,
+    "word": "terrain",
+    "translation": "ground / land",
+    "pos": "noun"
+  },
+  {
+    "id": 418,
+    "word": "genre",
+    "translation": "kind / type / gender",
+    "pos": "noun"
+  },
+  {
+    "id": 419,
+    "word": "énergie",
+    "translation": "energy",
+    "pos": "noun"
+  },
+  {
+    "id": 420,
+    "word": "quoi",
+    "translation": "what",
+    "pos": "pron"
+  },
+  {
+    "id": 421,
+    "word": "phrase",
+    "translation": "sentence",
+    "pos": "noun"
+  },
+  {
+    "id": 422,
+    "word": "couleur",
+    "translation": "color",
+    "pos": "noun"
+  },
+  {
+    "id": 423,
+    "word": "profond",
+    "translation": "deep / profound",
+    "pos": "adj"
+  },
+  {
+    "id": 424,
+    "word": "valeur",
+    "translation": "value",
+    "pos": "noun"
+  },
+  {
+    "id": 425,
+    "word": "élève",
+    "translation": "student / pupil",
+    "pos": "noun"
+  },
+  {
+    "id": 426,
+    "word": "rencontrer",
+    "translation": "to meet / to encounter",
+    "pos": "verb"
+  },
+  {
+    "id": 427,
+    "word": "espérer",
+    "translation": "to hope",
+    "pos": "verb"
+  },
+  {
+    "id": 428,
+    "word": "essayer",
+    "translation": "to try",
+    "pos": "verb"
+  },
+  {
+    "id": 429,
+    "word": "monter",
+    "translation": "to go up / to climb",
+    "pos": "verb"
+  },
+  {
+    "id": 430,
+    "word": "secrétaire",
+    "translation": "secretary",
+    "pos": "noun"
+  },
+  {
+    "id": 431,
+    "word": "coucher",
+    "translation": "to lie down / to put to bed",
+    "pos": "verb"
+  },
+  {
+    "id": 432,
+    "word": "descendre",
+    "translation": "to go down / to descend",
+    "pos": "verb"
+  },
+  {
+    "id": 433,
+    "word": "rire",
+    "translation": "to laugh",
+    "pos": "verb"
+  },
+  {
+    "id": 434,
+    "word": "ombre",
+    "translation": "shadow / shade",
+    "pos": "noun"
+  },
+  {
+    "id": 435,
+    "word": "population",
+    "translation": "population",
+    "pos": "noun"
+  },
+  {
+    "id": 436,
+    "word": "compter",
+    "translation": "to count / to matter",
+    "pos": "verb"
+  },
+  {
+    "id": 437,
+    "word": "écouter",
+    "translation": "to listen",
+    "pos": "verb"
+  },
+  {
+    "id": 438,
+    "word": "tuer",
+    "translation": "to kill",
+    "pos": "verb"
+  },
+  {
+    "id": 439,
+    "word": "brûler",
+    "translation": "to burn",
+    "pos": "verb"
+  },
+  {
+    "id": 440,
+    "word": "travailler",
+    "translation": "to work",
+    "pos": "verb"
+  },
+  {
+    "id": 441,
+    "word": "manquer",
+    "translation": "to miss / to lack",
+    "pos": "verb"
+  },
+  {
+    "id": 442,
+    "word": "oublier",
+    "translation": "to forget",
+    "pos": "verb"
+  },
+  {
+    "id": 443,
+    "word": "poser",
+    "translation": "to put down / to ask",
+    "pos": "verb"
+  },
+  {
+    "id": 444,
+    "word": "voiture",
+    "translation": "car",
+    "pos": "noun"
+  },
+  {
+    "id": 445,
+    "word": "surtout",
+    "translation": "especially / above all",
+    "pos": "adv"
+  },
+  {
+    "id": 446,
+    "word": "cacher",
+    "translation": "to hide",
+    "pos": "verb"
+  },
+  {
+    "id": 447,
+    "word": "naître",
+    "translation": "to be born",
+    "pos": "verb"
+  },
+  {
+    "id": 448,
+    "word": "parmi",
+    "translation": "among",
+    "pos": "prep"
+  },
+  {
+    "id": 449,
+    "word": "doucement",
+    "translation": "gently / softly",
+    "pos": "adv"
+  },
+  {
+    "id": 450,
+    "word": "plaisir",
+    "translation": "pleasure",
+    "pos": "noun"
+  },
+  {
+    "id": 451,
+    "word": "ligne",
+    "translation": "line",
+    "pos": "noun"
+  },
+  {
+    "id": 452,
+    "word": "apporter",
+    "translation": "to bring",
+    "pos": "verb"
+  },
+  {
+    "id": 453,
+    "word": "conduire",
+    "translation": "to drive / to lead",
+    "pos": "verb"
+  },
+  {
+    "id": 454,
+    "word": "étude",
+    "translation": "study",
+    "pos": "noun"
+  },
+  {
+    "id": 455,
+    "word": "grave",
+    "translation": "serious / grave",
+    "pos": "adj"
+  },
+  {
+    "id": 456,
+    "word": "saisir",
+    "translation": "to seize / to grasp",
+    "pos": "verb"
+  },
+  {
+    "id": 457,
+    "word": "continuer",
+    "translation": "to continue",
+    "pos": "verb"
+  },
+  {
+    "id": 458,
+    "word": "bataille",
+    "translation": "battle",
+    "pos": "noun"
+  },
+  {
+    "id": 459,
+    "word": "construire",
+    "translation": "to build / to construct",
+    "pos": "verb"
+  },
+  {
+    "id": 460,
+    "word": "ferme",
+    "translation": "farm / firm",
+    "pos": "noun"
+  },
+  {
+    "id": 461,
+    "word": "réussir",
+    "translation": "to succeed",
+    "pos": "verb"
+  },
+  {
+    "id": 462,
+    "word": "entretien",
+    "translation": "interview / maintenance",
+    "pos": "noun"
+  },
+  {
+    "id": 463,
+    "word": "santé",
+    "translation": "health",
+    "pos": "noun"
+  },
+  {
+    "id": 464,
+    "word": "caractère",
+    "translation": "character / personality",
+    "pos": "noun"
+  },
+  {
+    "id": 465,
+    "word": "école",
+    "translation": "school",
+    "pos": "noun"
+  },
+  {
+    "id": 466,
+    "word": "danger",
+    "translation": "danger",
+    "pos": "noun"
+  },
+  {
+    "id": 467,
+    "word": "puissance",
+    "translation": "power / strength",
+    "pos": "noun"
+  },
+  {
+    "id": 468,
+    "word": "seulement",
+    "translation": "only / merely",
+    "pos": "adv"
+  },
+  {
+    "id": 469,
+    "word": "pourtant",
+    "translation": "however / yet",
+    "pos": "adv"
+  },
+  {
+    "id": 470,
+    "word": "justement",
+    "translation": "precisely / exactly",
+    "pos": "adv"
+  },
+  {
+    "id": 471,
+    "word": "dessus",
+    "translation": "on top / above",
+    "pos": "adv"
+  },
+  {
+    "id": 472,
+    "word": "titre",
+    "translation": "title",
+    "pos": "noun"
+  },
+  {
+    "id": 473,
+    "word": "épaule",
+    "translation": "shoulder",
+    "pos": "noun"
+  },
+  {
+    "id": 474,
+    "word": "Europe",
+    "translation": "Europe",
+    "pos": "noun"
+  },
+  {
+    "id": 475,
+    "word": "retour",
+    "translation": "return",
+    "pos": "noun"
+  },
+  {
+    "id": 476,
+    "word": "rôle",
+    "translation": "role",
+    "pos": "noun"
+  },
+  {
+    "id": 477,
+    "word": "paix",
+    "translation": "peace",
+    "pos": "noun"
+  },
+  {
+    "id": 478,
+    "word": "langue",
+    "translation": "language / tongue",
+    "pos": "noun"
+  },
+  {
+    "id": 479,
+    "word": "occasion",
+    "translation": "occasion / opportunity",
+    "pos": "noun"
+  },
+  {
+    "id": 480,
+    "word": "préparer",
+    "translation": "to prepare",
+    "pos": "verb"
+  },
+  {
+    "id": 481,
+    "word": "pousser",
+    "translation": "to push / to grow",
+    "pos": "verb"
+  },
+  {
+    "id": 482,
+    "word": "acheter",
+    "translation": "to buy",
+    "pos": "verb"
+  },
+  {
+    "id": 483,
+    "word": "envoyer",
+    "translation": "to send",
+    "pos": "verb"
+  },
+  {
+    "id": 484,
+    "word": "douleur",
+    "translation": "pain / sorrow",
+    "pos": "noun"
+  },
+  {
+    "id": 485,
+    "word": "réaliser",
+    "translation": "to realize / to achieve",
+    "pos": "verb"
+  },
+  {
+    "id": 486,
+    "word": "compagnie",
+    "translation": "company",
+    "pos": "noun"
+  },
+  {
+    "id": 487,
+    "word": "habiter",
+    "translation": "to live / to inhabit",
+    "pos": "verb"
+  },
+  {
+    "id": 488,
+    "word": "refuser",
+    "translation": "to refuse",
+    "pos": "verb"
+  },
+  {
+    "id": 489,
+    "word": "étranger",
+    "translation": "foreigner / foreign",
+    "pos": "noun"
+  },
+  {
+    "id": 490,
+    "word": "front",
+    "translation": "forehead / front",
+    "pos": "noun"
+  },
+  {
+    "id": 491,
+    "word": "futur",
+    "translation": "future",
+    "pos": "noun"
+  },
+  {
+    "id": 492,
+    "word": "colère",
+    "translation": "anger",
+    "pos": "noun"
+  },
+  {
+    "id": 493,
+    "word": "bonheur",
+    "translation": "happiness",
+    "pos": "noun"
+  },
+  {
+    "id": 494,
+    "word": "position",
+    "translation": "position",
+    "pos": "noun"
+  },
+  {
+    "id": 495,
+    "word": "lèvre",
+    "translation": "lip",
+    "pos": "noun"
+  },
+  {
+    "id": 496,
+    "word": "prêt",
+    "translation": "ready",
+    "pos": "adj"
+  },
+  {
+    "id": 497,
+    "word": "empêcher",
+    "translation": "to prevent",
+    "pos": "verb"
+  },
+  {
+    "id": 498,
+    "word": "soeur",
+    "translation": "sister",
+    "pos": "noun"
+  },
+  {
+    "id": 499,
+    "word": "plaire",
+    "translation": "to please",
+    "pos": "verb"
+  },
+  {
+    "id": 500,
+    "word": "genou",
+    "translation": "knee",
+    "pos": "noun"
+  },
+  {
+    "id": 501,
+    "word": "suffire",
+    "translation": "to suffice / to be enough",
+    "pos": "verb"
+  },
+  {
+    "id": 502,
+    "word": "développer",
+    "translation": "to develop",
+    "pos": "verb"
+  },
+  {
+    "id": 503,
+    "word": "éducation",
+    "translation": "education",
+    "pos": "noun"
+  },
+  {
+    "id": 504,
+    "word": "entraîner",
+    "translation": "to train / to lead to",
+    "pos": "verb"
+  },
+  {
+    "id": 505,
+    "word": "dépasser",
+    "translation": "to exceed / to overtake",
+    "pos": "verb"
+  },
+  {
+    "id": 506,
+    "word": "matière",
+    "translation": "matter / material / subject",
+    "pos": "noun"
+  },
+  {
+    "id": 507,
+    "word": "liberté",
+    "translation": "freedom / liberty",
+    "pos": "noun"
+  },
+  {
+    "id": 508,
+    "word": "sombre",
+    "translation": "dark / somber",
+    "pos": "adj"
+  },
+  {
+    "id": 509,
+    "word": "rêve",
+    "translation": "dream",
+    "pos": "noun"
+  },
+  {
+    "id": 510,
+    "word": "étoile",
+    "translation": "star",
+    "pos": "noun"
+  },
+  {
+    "id": 511,
+    "word": "traverser",
+    "translation": "to cross",
+    "pos": "verb"
+  },
+  {
+    "id": 512,
+    "word": "neige",
+    "translation": "snow",
+    "pos": "noun"
+  },
+  {
+    "id": 513,
+    "word": "exprimer",
+    "translation": "to express",
+    "pos": "verb"
+  },
+  {
+    "id": 514,
+    "word": "représenter",
+    "translation": "to represent",
+    "pos": "verb"
+  },
+  {
+    "id": 515,
+    "word": "distinguer",
+    "translation": "to distinguish",
+    "pos": "verb"
+  },
+  {
+    "id": 516,
+    "word": "information",
+    "translation": "information / news",
+    "pos": "noun"
+  },
+  {
+    "id": 517,
+    "word": "travers",
+    "translation": "across / through",
+    "pos": "noun"
+  },
+  {
+    "id": 518,
+    "word": "passage",
+    "translation": "passage / passing",
+    "pos": "noun"
+  },
+  {
+    "id": 519,
+    "word": "protéger",
+    "translation": "to protect",
+    "pos": "verb"
+  },
+  {
+    "id": 520,
+    "word": "supérieur",
+    "translation": "upper / superior",
+    "pos": "adj"
+  },
+  {
+    "id": 521,
+    "word": "maladie",
+    "translation": "illness / disease",
+    "pos": "noun"
+  },
+  {
+    "id": 522,
+    "word": "herbe",
+    "translation": "grass / herb",
+    "pos": "noun"
+  },
+  {
+    "id": 523,
+    "word": "exiger",
+    "translation": "to demand / to require",
+    "pos": "verb"
+  },
+  {
+    "id": 524,
+    "word": "former",
+    "translation": "to form / to train",
+    "pos": "verb"
+  },
+  {
+    "id": 525,
+    "word": "promettre",
+    "translation": "to promise",
+    "pos": "verb"
+  },
+  {
+    "id": 526,
+    "word": "étonner",
+    "translation": "to astonish / to surprise",
+    "pos": "verb"
+  },
+  {
+    "id": 527,
+    "word": "disparu",
+    "translation": "disappeared / missing",
+    "pos": "adj"
+  },
+  {
+    "id": 528,
+    "word": "maintenir",
+    "translation": "to maintain",
+    "pos": "verb"
+  },
+  {
+    "id": 529,
+    "word": "professeur",
+    "translation": "teacher / professor",
+    "pos": "noun"
+  },
+  {
+    "id": 530,
+    "word": "chaise",
+    "translation": "chair",
+    "pos": "noun"
+  },
+  {
+    "id": 531,
+    "word": "soldat",
+    "translation": "soldier",
+    "pos": "noun"
+  },
+  {
+    "id": 532,
+    "word": "industrie",
+    "translation": "industry",
+    "pos": "noun"
+  },
+  {
+    "id": 533,
+    "word": "communauté",
+    "translation": "community",
+    "pos": "noun"
+  },
+  {
+    "id": 534,
+    "word": "nez",
+    "translation": "nose",
+    "pos": "noun"
+  },
+  {
+    "id": 535,
+    "word": "installer",
+    "translation": "to install / to settle",
+    "pos": "verb"
+  },
+  {
+    "id": 536,
+    "word": "détruire",
+    "translation": "to destroy",
+    "pos": "verb"
+  },
+  {
+    "id": 537,
+    "word": "aspect",
+    "translation": "aspect / appearance",
+    "pos": "noun"
+  },
+  {
+    "id": 538,
+    "word": "pauvre",
+    "translation": "poor",
+    "pos": "adj"
+  },
+  {
+    "id": 539,
+    "word": "oiseau",
+    "translation": "bird",
+    "pos": "noun"
+  },
+  {
+    "id": 540,
+    "word": "riche",
+    "translation": "rich",
+    "pos": "adj"
+  },
+  {
+    "id": 541,
+    "word": "médecine",
+    "translation": "medicine",
+    "pos": "noun"
+  },
+  {
+    "id": 542,
+    "word": "cou",
+    "translation": "neck",
+    "pos": "noun"
+  },
+  {
+    "id": 543,
+    "word": "placer",
+    "translation": "to place / to put",
+    "pos": "verb"
+  },
+  {
+    "id": 544,
+    "word": "vêtement",
+    "translation": "clothing / garment",
+    "pos": "noun"
+  },
+  {
+    "id": 545,
+    "word": "chaud",
+    "translation": "hot / warm",
+    "pos": "adj"
+  },
+  {
+    "id": 546,
+    "word": "froid",
+    "translation": "cold",
+    "pos": "adj"
+  },
+  {
+    "id": 547,
+    "word": "réduire",
+    "translation": "to reduce",
+    "pos": "verb"
+  },
+  {
+    "id": 548,
+    "word": "atteindre",
+    "translation": "to reach / to attain",
+    "pos": "verb"
+  },
+  {
+    "id": 549,
+    "word": "vendre",
+    "translation": "to sell",
+    "pos": "verb"
+  },
+  {
+    "id": 550,
+    "word": "souvenir",
+    "translation": "memory / souvenir",
+    "pos": "noun"
+  },
+  {
+    "id": 551,
+    "word": "poète",
+    "translation": "poet",
+    "pos": "noun"
+  },
+  {
+    "id": 552,
+    "word": "printemps",
+    "translation": "spring",
+    "pos": "noun"
+  },
+  {
+    "id": 553,
+    "word": "durer",
+    "translation": "to last",
+    "pos": "verb"
+  },
+  {
+    "id": 554,
+    "word": "chapeau",
+    "translation": "hat",
+    "pos": "noun"
+  },
+  {
+    "id": 555,
+    "word": "glisser",
+    "translation": "to slide / to slip",
+    "pos": "verb"
+  },
+  {
+    "id": 556,
+    "word": "respirer",
+    "translation": "to breathe",
+    "pos": "verb"
+  },
+  {
+    "id": 557,
+    "word": "conseil",
+    "translation": "advice / council",
+    "pos": "noun"
+  },
+  {
+    "id": 558,
+    "word": "disparaître",
+    "translation": "to disappear",
+    "pos": "verb"
+  },
+  {
+    "id": 559,
+    "word": "ressembler",
+    "translation": "to resemble / to look like",
+    "pos": "verb"
+  },
+  {
+    "id": 560,
+    "word": "pleuvoir",
+    "translation": "to rain",
+    "pos": "verb"
+  },
+  {
+    "id": 561,
+    "word": "relation",
+    "translation": "relationship / relation",
+    "pos": "noun"
+  },
+  {
+    "id": 562,
+    "word": "poche",
+    "translation": "pocket",
+    "pos": "noun"
+  },
+  {
+    "id": 563,
+    "word": "rejoindre",
+    "translation": "to join / to reach",
+    "pos": "verb"
+  },
+  {
+    "id": 564,
+    "word": "sujet",
+    "translation": "subject / topic",
+    "pos": "noun"
+  },
+  {
+    "id": 565,
+    "word": "expérience",
+    "translation": "experience / experiment",
+    "pos": "noun"
+  },
+  {
+    "id": 566,
+    "word": "avenir",
+    "translation": "future",
+    "pos": "noun"
+  },
+  {
+    "id": 567,
+    "word": "vérité",
+    "translation": "truth",
+    "pos": "noun"
+  },
+  {
+    "id": 568,
+    "word": "habitude",
+    "translation": "habit / custom",
+    "pos": "noun"
+  },
+  {
+    "id": 569,
+    "word": "sauver",
+    "translation": "to save / to rescue",
+    "pos": "verb"
+  },
+  {
+    "id": 570,
+    "word": "prononcer",
+    "translation": "to pronounce / to utter",
+    "pos": "verb"
+  },
+  {
+    "id": 571,
+    "word": "couler",
+    "translation": "to flow / to sink",
+    "pos": "verb"
+  },
+  {
+    "id": 572,
+    "word": "solitude",
+    "translation": "solitude / loneliness",
+    "pos": "noun"
+  },
+  {
+    "id": 573,
+    "word": "briller",
+    "translation": "to shine",
+    "pos": "verb"
+  },
+  {
+    "id": 574,
+    "word": "supporter",
+    "translation": "to bear / to support",
+    "pos": "verb"
+  },
+  {
+    "id": 575,
+    "word": "immense",
+    "translation": "immense / huge",
+    "pos": "adj"
+  },
+  {
+    "id": 576,
+    "word": "doux",
+    "translation": "soft / sweet / gentle",
+    "pos": "adj"
+  },
+  {
+    "id": 577,
+    "word": "écriture",
+    "translation": "writing / handwriting",
+    "pos": "noun"
+  },
+  {
+    "id": 578,
+    "word": "volonté",
+    "translation": "will / willpower",
+    "pos": "noun"
+  },
+  {
+    "id": 579,
+    "word": "désir",
+    "translation": "desire / wish",
+    "pos": "noun"
+  },
+  {
+    "id": 580,
+    "word": "nourrir",
+    "translation": "to feed / to nourish",
+    "pos": "verb"
+  },
+  {
+    "id": 581,
+    "word": "tendre",
+    "translation": "to stretch / tender",
+    "pos": "verb"
+  },
+  {
+    "id": 582,
+    "word": "forêt",
+    "translation": "forest",
+    "pos": "noun"
+  },
+  {
+    "id": 583,
+    "word": "époque",
+    "translation": "era / period",
+    "pos": "noun"
+  },
+  {
+    "id": 584,
+    "word": "obligation",
+    "translation": "obligation",
+    "pos": "noun"
+  },
+  {
+    "id": 585,
+    "word": "rendre",
+    "translation": "to give back / to make",
+    "pos": "verb"
+  },
+  {
+    "id": 586,
+    "word": "poisson",
+    "translation": "fish",
+    "pos": "noun"
+  },
+  {
+    "id": 587,
+    "word": "sable",
+    "translation": "sand",
+    "pos": "noun"
+  },
+  {
+    "id": 588,
+    "word": "remplacer",
+    "translation": "to replace",
+    "pos": "verb"
+  },
+  {
+    "id": 589,
+    "word": "signifier",
+    "translation": "to mean / to signify",
+    "pos": "verb"
+  },
+  {
+    "id": 590,
+    "word": "emporter",
+    "translation": "to take away / to carry off",
+    "pos": "verb"
+  },
+  {
+    "id": 591,
+    "word": "transformer",
+    "translation": "to transform",
+    "pos": "verb"
+  },
+  {
+    "id": 592,
+    "word": "craindre",
+    "translation": "to fear",
+    "pos": "verb"
+  },
+  {
+    "id": 593,
+    "word": "autorité",
+    "translation": "authority",
+    "pos": "noun"
+  },
+  {
+    "id": 594,
+    "word": "approcher",
+    "translation": "to approach",
+    "pos": "verb"
+  },
+  {
+    "id": 595,
+    "word": "laver",
+    "translation": "to wash",
+    "pos": "verb"
+  },
+  {
+    "id": 596,
+    "word": "technologie",
+    "translation": "technology",
+    "pos": "noun"
+  },
+  {
+    "id": 597,
+    "word": "bateau",
+    "translation": "boat",
+    "pos": "noun"
+  },
+  {
+    "id": 598,
+    "word": "cigarette",
+    "translation": "cigarette",
+    "pos": "noun"
+  },
+  {
+    "id": 599,
+    "word": "retirer",
+    "translation": "to withdraw / to remove",
+    "pos": "verb"
+  },
+  {
+    "id": 600,
+    "word": "prévoir",
+    "translation": "to foresee / to plan",
+    "pos": "verb"
+  },
+  {
+    "id": 601,
+    "word": "arrêter",
+    "translation": "to stop / to arrest",
+    "pos": "verb"
+  },
+  {
+    "id": 602,
+    "word": "imaginer",
+    "translation": "to imagine",
+    "pos": "verb"
+  },
+  {
+    "id": 603,
+    "word": "séparer",
+    "translation": "to separate",
+    "pos": "verb"
+  },
+  {
+    "id": 604,
+    "word": "appartenir",
+    "translation": "to belong to",
+    "pos": "verb"
+  },
+  {
+    "id": 605,
+    "word": "souffrir",
+    "translation": "to suffer",
+    "pos": "verb"
+  },
+  {
+    "id": 606,
+    "word": "ignorer",
+    "translation": "to not know / to ignore",
+    "pos": "verb"
+  },
+  {
+    "id": 607,
+    "word": "nommer",
+    "translation": "to name / to appoint",
+    "pos": "verb"
+  },
+  {
+    "id": 608,
+    "word": "disposer",
+    "translation": "to arrange / to have available",
+    "pos": "verb"
+  },
+  {
+    "id": 609,
+    "word": "assurer",
+    "translation": "to ensure / to insure",
+    "pos": "verb"
+  },
+  {
+    "id": 610,
+    "word": "charger",
+    "translation": "to load / to charge",
+    "pos": "verb"
+  },
+  {
+    "id": 611,
+    "word": "couvrir",
+    "translation": "to cover",
+    "pos": "verb"
+  },
+  {
+    "id": 612,
+    "word": "éviter",
+    "translation": "to avoid",
+    "pos": "verb"
+  },
+  {
+    "id": 613,
+    "word": "désirer",
+    "translation": "to desire / to wish",
+    "pos": "verb"
+  },
+  {
+    "id": 614,
+    "word": "prouver",
+    "translation": "to prove",
+    "pos": "verb"
+  },
+  {
+    "id": 615,
+    "word": "fumer",
+    "translation": "to smoke",
+    "pos": "verb"
+  },
+  {
+    "id": 616,
+    "word": "clé",
+    "translation": "key",
+    "pos": "noun"
+  },
+  {
+    "id": 617,
+    "word": "promesse",
+    "translation": "promise",
+    "pos": "noun"
+  },
+  {
+    "id": 618,
+    "word": "glace",
+    "translation": "ice / mirror / ice cream",
+    "pos": "noun"
+  },
+  {
+    "id": 619,
+    "word": "limite",
+    "translation": "limit / boundary",
+    "pos": "noun"
+  },
+  {
+    "id": 620,
+    "word": "voisin",
+    "translation": "neighbor",
+    "pos": "noun"
+  },
+  {
+    "id": 621,
+    "word": "succès",
+    "translation": "success",
+    "pos": "noun"
+  },
+  {
+    "id": 622,
+    "word": "escalier",
+    "translation": "staircase / stairs",
+    "pos": "noun"
+  },
+  {
+    "id": 623,
+    "word": "remarquer",
+    "translation": "to notice / to remark",
+    "pos": "verb"
+  },
+  {
+    "id": 624,
+    "word": "supprimer",
+    "translation": "to delete / to remove",
+    "pos": "verb"
+  },
+  {
+    "id": 625,
+    "word": "crainte",
+    "translation": "fear / dread",
+    "pos": "noun"
+  },
+  {
+    "id": 626,
+    "word": "cri",
+    "translation": "cry / shout",
+    "pos": "noun"
+  },
+  {
+    "id": 627,
+    "word": "poitrine",
+    "translation": "chest / breast",
+    "pos": "noun"
+  },
+  {
+    "id": 628,
+    "word": "appartement",
+    "translation": "apartment",
+    "pos": "noun"
+  },
+  {
+    "id": 629,
+    "word": "conseiller",
+    "translation": "to advise / advisor",
+    "pos": "verb"
+  },
+  {
+    "id": 630,
+    "word": "réfléchir",
+    "translation": "to reflect / to think",
+    "pos": "verb"
+  },
+  {
+    "id": 631,
+    "word": "heureux",
+    "translation": "happy",
+    "pos": "adj"
+  },
+  {
+    "id": 632,
+    "word": "inviter",
+    "translation": "to invite",
+    "pos": "verb"
+  },
+  {
+    "id": 633,
+    "word": "défendre",
+    "translation": "to defend / to forbid",
+    "pos": "verb"
+  },
+  {
+    "id": 634,
+    "word": "résister",
+    "translation": "to resist",
+    "pos": "verb"
+  },
+  {
+    "id": 635,
+    "word": "annoncer",
+    "translation": "to announce",
+    "pos": "verb"
+  },
+  {
+    "id": 636,
+    "word": "remonter",
+    "translation": "to go back up / to wind up",
+    "pos": "verb"
+  },
+  {
+    "id": 637,
+    "word": "pluie",
+    "translation": "rain",
+    "pos": "noun"
+  },
+  {
+    "id": 638,
+    "word": "nuage",
+    "translation": "cloud",
+    "pos": "noun"
+  },
+  {
+    "id": 639,
+    "word": "lune",
+    "translation": "moon",
+    "pos": "noun"
+  },
+  {
+    "id": 640,
+    "word": "plante",
+    "translation": "plant",
+    "pos": "noun"
+  },
+  {
+    "id": 641,
+    "word": "feu",
+    "translation": "fire",
+    "pos": "noun"
+  },
+  {
+    "id": 642,
+    "word": "cheveu",
+    "translation": "hair",
+    "pos": "noun"
+  },
+  {
+    "id": 643,
+    "word": "amener",
+    "translation": "to bring / to lead",
+    "pos": "verb"
+  },
+  {
+    "id": 644,
+    "word": "prière",
+    "translation": "prayer",
+    "pos": "noun"
+  },
+  {
+    "id": 645,
+    "word": "bonhomme",
+    "translation": "fellow / good man",
+    "pos": "noun"
+  },
+  {
+    "id": 646,
+    "word": "observer",
+    "translation": "to observe / to watch",
+    "pos": "verb"
+  },
+  {
+    "id": 647,
+    "word": "toit",
+    "translation": "roof",
+    "pos": "noun"
+  },
+  {
+    "id": 648,
+    "word": "accorder",
+    "translation": "to grant / to tune",
+    "pos": "verb"
+  },
+  {
+    "id": 649,
+    "word": "retourner",
+    "translation": "to return / to turn over",
+    "pos": "verb"
+  },
+  {
+    "id": 650,
+    "word": "contenir",
+    "translation": "to contain",
+    "pos": "verb"
+  },
+  {
+    "id": 651,
+    "word": "accompagner",
+    "translation": "to accompany",
+    "pos": "verb"
+  },
+  {
+    "id": 652,
+    "word": "juger",
+    "translation": "to judge",
+    "pos": "verb"
+  },
+  {
+    "id": 653,
+    "word": "costume",
+    "translation": "suit / costume",
+    "pos": "noun"
+  },
+  {
+    "id": 654,
+    "word": "posséder",
+    "translation": "to own / to possess",
+    "pos": "verb"
+  },
+  {
+    "id": 655,
+    "word": "souffler",
+    "translation": "to blow / to whisper",
+    "pos": "verb"
+  },
+  {
+    "id": 656,
+    "word": "constituer",
+    "translation": "to constitute / to form",
+    "pos": "verb"
+  },
+  {
+    "id": 657,
+    "word": "quitter",
+    "translation": "to leave / to quit",
+    "pos": "verb"
+  },
+  {
+    "id": 658,
+    "word": "horizon",
+    "translation": "horizon",
+    "pos": "noun"
+  },
+  {
+    "id": 659,
+    "word": "commun",
+    "translation": "common / shared",
+    "pos": "adj"
+  },
+  {
+    "id": 660,
+    "word": "diriger",
+    "translation": "to direct / to manage",
+    "pos": "verb"
+  },
+  {
+    "id": 661,
+    "word": "éprouver",
+    "translation": "to feel / to experience",
+    "pos": "verb"
+  },
+  {
+    "id": 662,
+    "word": "plonger",
+    "translation": "to dive / to plunge",
+    "pos": "verb"
+  },
+  {
+    "id": 663,
+    "word": "tromper",
+    "translation": "to deceive / to be wrong",
+    "pos": "verb"
+  },
+  {
+    "id": 664,
+    "word": "consacrer",
+    "translation": "to devote / to dedicate",
+    "pos": "verb"
+  },
+  {
+    "id": 665,
+    "word": "aider",
+    "translation": "to help",
+    "pos": "verb"
+  },
+  {
+    "id": 666,
+    "word": "réclamer",
+    "translation": "to claim / to demand",
+    "pos": "verb"
+  },
+  {
+    "id": 667,
+    "word": "prier",
+    "translation": "to pray / to beg",
+    "pos": "verb"
+  },
+  {
+    "id": 668,
+    "word": "combattre",
+    "translation": "to fight / to combat",
+    "pos": "verb"
+  },
+  {
+    "id": 669,
+    "word": "reposer",
+    "translation": "to rest / to put down",
+    "pos": "verb"
+  },
+  {
+    "id": 670,
+    "word": "entourer",
+    "translation": "to surround",
+    "pos": "verb"
+  },
+  {
+    "id": 671,
+    "word": "respecter",
+    "translation": "to respect",
+    "pos": "verb"
+  },
+  {
+    "id": 672,
+    "word": "traiter",
+    "translation": "to treat / to deal with",
+    "pos": "verb"
+  },
+  {
+    "id": 673,
+    "word": "définir",
+    "translation": "to define",
+    "pos": "verb"
+  },
+  {
+    "id": 674,
+    "word": "supposer",
+    "translation": "to suppose / to assume",
+    "pos": "verb"
+  },
+  {
+    "id": 675,
+    "word": "publier",
+    "translation": "to publish",
+    "pos": "verb"
+  },
+  {
+    "id": 676,
+    "word": "augmenter",
+    "translation": "to increase",
+    "pos": "verb"
+  },
+  {
+    "id": 677,
+    "word": "lutter",
+    "translation": "to fight / to struggle",
+    "pos": "verb"
+  },
+  {
+    "id": 678,
+    "word": "participer",
+    "translation": "to participate",
+    "pos": "verb"
+  },
+  {
+    "id": 679,
+    "word": "vérifier",
+    "translation": "to verify / to check",
+    "pos": "verb"
+  },
+  {
+    "id": 680,
+    "word": "contrôler",
+    "translation": "to control / to check",
+    "pos": "verb"
+  },
+  {
+    "id": 681,
+    "word": "organiser",
+    "translation": "to organize",
+    "pos": "verb"
+  },
+  {
+    "id": 682,
+    "word": "déterminer",
+    "translation": "to determine",
+    "pos": "verb"
+  },
+  {
+    "id": 683,
+    "word": "fonctionner",
+    "translation": "to function / to work",
+    "pos": "verb"
+  },
+  {
+    "id": 684,
+    "word": "améliorer",
+    "translation": "to improve",
+    "pos": "verb"
+  },
+  {
+    "id": 685,
+    "word": "adresser",
+    "translation": "to address / to direct",
+    "pos": "verb"
+  },
+  {
+    "id": 686,
+    "word": "rocher",
+    "translation": "rock",
+    "pos": "noun"
+  },
+  {
+    "id": 687,
+    "word": "taille",
+    "translation": "size / waist",
+    "pos": "noun"
+  },
+  {
+    "id": 688,
+    "word": "geste",
+    "translation": "gesture",
+    "pos": "noun"
+  },
+  {
+    "id": 689,
+    "word": "rivière",
+    "translation": "river",
+    "pos": "noun"
+  },
+  {
+    "id": 690,
+    "word": "chapelle",
+    "translation": "chapel",
+    "pos": "noun"
+  },
+  {
+    "id": 691,
+    "word": "marche",
+    "translation": "walk / step / march",
+    "pos": "noun"
+  },
+  {
+    "id": 692,
+    "word": "poussière",
+    "translation": "dust",
+    "pos": "noun"
+  },
+  {
+    "id": 693,
+    "word": "papier",
+    "translation": "paper",
+    "pos": "noun"
+  },
+  {
+    "id": 694,
+    "word": "intelligence",
+    "translation": "intelligence",
+    "pos": "noun"
+  },
+  {
+    "id": 695,
+    "word": "voie",
+    "translation": "way / path / track",
+    "pos": "noun"
+  },
+  {
+    "id": 696,
+    "word": "verre",
+    "translation": "glass",
+    "pos": "noun"
+  },
+  {
+    "id": 697,
+    "word": "avion",
+    "translation": "airplane",
+    "pos": "noun"
+  },
+  {
+    "id": 698,
+    "word": "merci",
+    "translation": "thank you / thanks",
+    "pos": "interj"
+  },
+  {
+    "id": 699,
+    "word": "cercle",
+    "translation": "circle",
+    "pos": "noun"
+  },
+  {
+    "id": 700,
+    "word": "justice",
+    "translation": "justice",
+    "pos": "noun"
+  },
+  {
+    "id": 701,
+    "word": "entrée",
+    "translation": "entrance / entry",
+    "pos": "noun"
+  },
+  {
+    "id": 702,
+    "word": "armée",
+    "translation": "army",
+    "pos": "noun"
+  },
+  {
+    "id": 703,
+    "word": "navire",
+    "translation": "ship",
+    "pos": "noun"
+  },
+  {
+    "id": 704,
+    "word": "dent",
+    "translation": "tooth",
+    "pos": "noun"
+  },
+  {
+    "id": 705,
+    "word": "chiffre",
+    "translation": "number / figure",
+    "pos": "noun"
+  },
+  {
+    "id": 706,
+    "word": "mémoire",
+    "translation": "memory",
+    "pos": "noun"
+  },
+  {
+    "id": 707,
+    "word": "campagne",
+    "translation": "countryside / campaign",
+    "pos": "noun"
+  },
+  {
+    "id": 708,
+    "word": "larme",
+    "translation": "tear",
+    "pos": "noun"
+  },
+  {
+    "id": 709,
+    "word": "miracle",
+    "translation": "miracle",
+    "pos": "noun"
+  },
+  {
+    "id": 710,
+    "word": "goût",
+    "translation": "taste",
+    "pos": "noun"
+  },
+  {
+    "id": 711,
+    "word": "château",
+    "translation": "castle",
+    "pos": "noun"
+  },
+  {
+    "id": 712,
+    "word": "victime",
+    "translation": "victim",
+    "pos": "noun"
+  },
+  {
+    "id": 713,
+    "word": "combat",
+    "translation": "fight / combat",
+    "pos": "noun"
+  },
+  {
+    "id": 714,
+    "word": "village",
+    "translation": "village",
+    "pos": "noun"
+  },
+  {
+    "id": 715,
+    "word": "conséquence",
+    "translation": "consequence",
+    "pos": "noun"
+  },
+  {
+    "id": 716,
+    "word": "réseau",
+    "translation": "network",
+    "pos": "noun"
+  },
+  {
+    "id": 717,
+    "word": "machine",
+    "translation": "machine",
+    "pos": "noun"
+  },
+  {
+    "id": 718,
+    "word": "cellule",
+    "translation": "cell",
+    "pos": "noun"
+  },
+  {
+    "id": 719,
+    "word": "vertu",
+    "translation": "virtue",
+    "pos": "noun"
+  },
+  {
+    "id": 720,
+    "word": "malheur",
+    "translation": "misfortune / unhappiness",
+    "pos": "noun"
+  },
+  {
+    "id": 721,
+    "word": "aventure",
+    "translation": "adventure",
+    "pos": "noun"
+  },
+  {
+    "id": 722,
+    "word": "réforme",
+    "translation": "reform",
+    "pos": "noun"
+  },
+  {
+    "id": 723,
+    "word": "abandon",
+    "translation": "abandonment",
+    "pos": "noun"
+  },
+  {
+    "id": 724,
+    "word": "expression",
+    "translation": "expression",
+    "pos": "noun"
+  },
+  {
+    "id": 725,
+    "word": "existence",
+    "translation": "existence",
+    "pos": "noun"
+  },
+  {
+    "id": 726,
+    "word": "maître",
+    "translation": "master / teacher",
+    "pos": "noun"
+  },
+  {
+    "id": 727,
+    "word": "dimension",
+    "translation": "dimension / size",
+    "pos": "noun"
+  },
+  {
+    "id": 728,
+    "word": "musée",
+    "translation": "museum",
+    "pos": "noun"
+  },
+  {
+    "id": 729,
+    "word": "richesse",
+    "translation": "wealth / richness",
+    "pos": "noun"
+  },
+  {
+    "id": 730,
+    "word": "science",
+    "translation": "science",
+    "pos": "noun"
+  },
+  {
+    "id": 731,
+    "word": "théâtre",
+    "translation": "theater",
+    "pos": "noun"
+  },
+  {
+    "id": 732,
+    "word": "soirée",
+    "translation": "evening / party",
+    "pos": "noun"
+  },
+  {
+    "id": 733,
+    "word": "espace",
+    "translation": "space",
+    "pos": "noun"
+  },
+  {
+    "id": 734,
+    "word": "budget",
+    "translation": "budget",
+    "pos": "noun"
+  },
+  {
+    "id": 735,
+    "word": "fête",
+    "translation": "party / holiday",
+    "pos": "noun"
+  },
+  {
+    "id": 736,
+    "word": "couteau",
+    "translation": "knife",
+    "pos": "noun"
+  },
+  {
+    "id": 737,
+    "word": "bruit",
+    "translation": "noise",
+    "pos": "noun"
+  },
+  {
+    "id": 738,
+    "word": "enquête",
+    "translation": "investigation / survey",
+    "pos": "noun"
+  },
+  {
+    "id": 739,
+    "word": "accident",
+    "translation": "accident",
+    "pos": "noun"
+  },
+  {
+    "id": 740,
+    "word": "conversation",
+    "translation": "conversation",
+    "pos": "noun"
+  },
+  {
+    "id": 741,
+    "word": "discours",
+    "translation": "speech / discourse",
+    "pos": "noun"
+  },
+  {
+    "id": 742,
+    "word": "téléphone",
+    "translation": "telephone / phone",
+    "pos": "noun"
+  },
+  {
+    "id": 743,
+    "word": "chanson",
+    "translation": "song",
+    "pos": "noun"
+  },
+  {
+    "id": 744,
+    "word": "personnage",
+    "translation": "character / figure",
+    "pos": "noun"
+  },
+  {
+    "id": 745,
+    "word": "plat",
+    "translation": "dish / flat",
+    "pos": "noun"
+  },
+  {
+    "id": 746,
+    "word": "cuisine",
+    "translation": "kitchen / cooking",
+    "pos": "noun"
+  },
+  {
+    "id": 747,
+    "word": "quartier",
+    "translation": "neighborhood / quarter",
+    "pos": "noun"
+  },
+  {
+    "id": 748,
+    "word": "tribunal",
+    "translation": "court / tribunal",
+    "pos": "noun"
+  },
+  {
+    "id": 749,
+    "word": "monument",
+    "translation": "monument",
+    "pos": "noun"
+  },
+  {
+    "id": 750,
+    "word": "passion",
+    "translation": "passion",
+    "pos": "noun"
+  },
+  {
+    "id": 751,
+    "word": "univers",
+    "translation": "universe",
+    "pos": "noun"
+  },
+  {
+    "id": 752,
+    "word": "conscience",
+    "translation": "consciousness / conscience",
+    "pos": "noun"
+  },
+  {
+    "id": 753,
+    "word": "technique",
+    "translation": "technique / technical",
+    "pos": "noun"
+  },
+  {
+    "id": 754,
+    "word": "troupe",
+    "translation": "troop / troupe",
+    "pos": "noun"
+  },
+  {
+    "id": 755,
+    "word": "ventre",
+    "translation": "belly / stomach",
+    "pos": "noun"
+  },
+  {
+    "id": 756,
+    "word": "croix",
+    "translation": "cross",
+    "pos": "noun"
+  },
+  {
+    "id": 757,
+    "word": "promenade",
+    "translation": "walk / stroll",
+    "pos": "noun"
+  },
+  {
+    "id": 758,
+    "word": "colline",
+    "translation": "hill",
+    "pos": "noun"
+  },
+  {
+    "id": 759,
+    "word": "chaussure",
+    "translation": "shoe",
+    "pos": "noun"
+  },
+  {
+    "id": 760,
+    "word": "peinture",
+    "translation": "painting / paint",
+    "pos": "noun"
+  },
+  {
+    "id": 761,
+    "word": "spectacle",
+    "translation": "show / spectacle",
+    "pos": "noun"
+  },
+  {
+    "id": 762,
+    "word": "religion",
+    "translation": "religion",
+    "pos": "noun"
+  },
+  {
+    "id": 763,
+    "word": "prison",
+    "translation": "prison",
+    "pos": "noun"
+  },
+  {
+    "id": 764,
+    "word": "citoyen",
+    "translation": "citizen",
+    "pos": "noun"
+  },
+  {
+    "id": 765,
+    "word": "photographie",
+    "translation": "photograph / photography",
+    "pos": "noun"
+  },
+  {
+    "id": 766,
+    "word": "héros",
+    "translation": "hero",
+    "pos": "noun"
+  },
+  {
+    "id": 767,
+    "word": "courant",
+    "translation": "current / common",
+    "pos": "adj"
+  },
+  {
+    "id": 768,
+    "word": "nécessaire",
+    "translation": "necessary",
+    "pos": "adj"
+  },
+  {
+    "id": 769,
+    "word": "exact",
+    "translation": "exact / accurate",
+    "pos": "adj"
+  },
+  {
+    "id": 770,
+    "word": "naturel",
+    "translation": "natural",
+    "pos": "adj"
+  },
+  {
+    "id": 771,
+    "word": "capable",
+    "translation": "capable / able",
+    "pos": "adj"
+  },
+  {
+    "id": 772,
+    "word": "responsable",
+    "translation": "responsible",
+    "pos": "adj"
+  },
+  {
+    "id": 773,
+    "word": "normal",
+    "translation": "normal",
+    "pos": "adj"
+  },
+  {
+    "id": 774,
+    "word": "léger",
+    "translation": "light / slight",
+    "pos": "adj"
+  },
+  {
+    "id": 775,
+    "word": "étrange",
+    "translation": "strange",
+    "pos": "adj"
+  },
+  {
+    "id": 776,
+    "word": "unique",
+    "translation": "unique / only",
+    "pos": "adj"
+  },
+  {
+    "id": 777,
+    "word": "social",
+    "translation": "social",
+    "pos": "adj"
+  },
+  {
+    "id": 778,
+    "word": "international",
+    "translation": "international",
+    "pos": "adj"
+  },
+  {
+    "id": 779,
+    "word": "national",
+    "translation": "national",
+    "pos": "adj"
+  },
+  {
+    "id": 780,
+    "word": "économique",
+    "translation": "economic",
+    "pos": "adj"
+  },
+  {
+    "id": 781,
+    "word": "militaire",
+    "translation": "military",
+    "pos": "adj"
+  },
+  {
+    "id": 782,
+    "word": "européen",
+    "translation": "European",
+    "pos": "adj"
+  },
+  {
+    "id": 783,
+    "word": "local",
+    "translation": "local",
+    "pos": "adj"
+  },
+  {
+    "id": 784,
+    "word": "secret",
+    "translation": "secret",
+    "pos": "adj"
+  },
+  {
+    "id": 785,
+    "word": "actuel",
+    "translation": "current / present",
+    "pos": "adj"
+  },
+  {
+    "id": 786,
+    "word": "humain",
+    "translation": "human",
+    "pos": "adj"
+  },
+  {
+    "id": 787,
+    "word": "direct",
+    "translation": "direct",
+    "pos": "adj"
+  },
+  {
+    "id": 788,
+    "word": "immédiat",
+    "translation": "immediate",
+    "pos": "adj"
+  },
+  {
+    "id": 789,
+    "word": "personnel",
+    "translation": "personal",
+    "pos": "adj"
+  },
+  {
+    "id": 790,
+    "word": "traditionnel",
+    "translation": "traditional",
+    "pos": "adj"
+  },
+  {
+    "id": 791,
+    "word": "pratique",
+    "translation": "practical / practice",
+    "pos": "adj"
+  },
+  {
+    "id": 792,
+    "word": "correct",
+    "translation": "correct",
+    "pos": "adj"
+  },
+  {
+    "id": 793,
+    "word": "précis",
+    "translation": "precise / specific",
+    "pos": "adj"
+  },
+  {
+    "id": 794,
+    "word": "solide",
+    "translation": "solid / sturdy",
+    "pos": "adj"
+  },
+  {
+    "id": 795,
+    "word": "sauvage",
+    "translation": "wild / savage",
+    "pos": "adj"
+  },
+  {
+    "id": 796,
+    "word": "fidèle",
+    "translation": "faithful / loyal",
+    "pos": "adj"
+  },
+  {
+    "id": 797,
+    "word": "curieux",
+    "translation": "curious",
+    "pos": "adj"
+  },
+  {
+    "id": 798,
+    "word": "calme",
+    "translation": "calm / quiet",
+    "pos": "adj"
+  },
+  {
+    "id": 799,
+    "word": "modeste",
+    "translation": "modest",
+    "pos": "adj"
+  },
+  {
+    "id": 800,
+    "word": "célèbre",
+    "translation": "famous",
+    "pos": "adj"
+  },
+  {
+    "id": 801,
+    "word": "agréable",
+    "translation": "pleasant / nice",
+    "pos": "adj"
+  },
+  {
+    "id": 802,
+    "word": "rapide",
+    "translation": "fast / quick",
+    "pos": "adj"
+  },
+  {
+    "id": 803,
+    "word": "terrible",
+    "translation": "terrible / terrific",
+    "pos": "adj"
+  },
+  {
+    "id": 804,
+    "word": "étroit",
+    "translation": "narrow / tight",
+    "pos": "adj"
+  },
+  {
+    "id": 805,
+    "word": "lent",
+    "translation": "slow",
+    "pos": "adj"
+  },
+  {
+    "id": 806,
+    "word": "triste",
+    "translation": "sad",
+    "pos": "adj"
+  },
+  {
+    "id": 807,
+    "word": "absolument",
+    "translation": "absolutely",
+    "pos": "adv"
+  },
+  {
+    "id": 808,
+    "word": "simplement",
+    "translation": "simply",
+    "pos": "adv"
+  },
+  {
+    "id": 809,
+    "word": "exactement",
+    "translation": "exactly",
+    "pos": "adv"
+  },
+  {
+    "id": 810,
+    "word": "directement",
+    "translation": "directly",
+    "pos": "adv"
+  },
+  {
+    "id": 811,
+    "word": "certainement",
+    "translation": "certainly",
+    "pos": "adv"
+  },
+  {
+    "id": 812,
+    "word": "rapidement",
+    "translation": "quickly / rapidly",
+    "pos": "adv"
+  },
+  {
+    "id": 813,
+    "word": "facilement",
+    "translation": "easily",
+    "pos": "adv"
+  },
+  {
+    "id": 814,
+    "word": "heureusement",
+    "translation": "fortunately / happily",
+    "pos": "adv"
+  },
+  {
+    "id": 815,
+    "word": "naturellement",
+    "translation": "naturally",
+    "pos": "adv"
+  },
+  {
+    "id": 816,
+    "word": "lentement",
+    "translation": "slowly",
+    "pos": "adv"
+  },
+  {
+    "id": 817,
+    "word": "longtemps",
+    "translation": "for a long time",
+    "pos": "adv"
+  },
+  {
+    "id": 818,
+    "word": "autrefois",
+    "translation": "in the past / formerly",
+    "pos": "adv"
+  },
+  {
+    "id": 819,
+    "word": "bientôt",
+    "translation": "soon",
+    "pos": "adv"
+  },
+  {
+    "id": 820,
+    "word": "dehors",
+    "translation": "outside",
+    "pos": "adv"
+  },
+  {
+    "id": 821,
+    "word": "dedans",
+    "translation": "inside",
+    "pos": "adv"
+  },
+  {
+    "id": 822,
+    "word": "partout",
+    "translation": "everywhere",
+    "pos": "adv"
+  },
+  {
+    "id": 823,
+    "word": "presque",
+    "translation": "almost / nearly",
+    "pos": "adv"
+  },
+  {
+    "id": 824,
+    "word": "environ",
+    "translation": "about / approximately",
+    "pos": "adv"
+  },
+  {
+    "id": 825,
+    "word": "davantage",
+    "translation": "more / further",
+    "pos": "adv"
+  },
+  {
+    "id": 826,
+    "word": "plutôt",
+    "translation": "rather",
+    "pos": "adv"
+  },
+  {
+    "id": 827,
+    "word": "soudain",
+    "translation": "suddenly",
+    "pos": "adv"
+  },
+  {
+    "id": 828,
+    "word": "durant",
+    "translation": "during",
+    "pos": "prep"
+  },
+  {
+    "id": 829,
+    "word": "malgré",
+    "translation": "despite / in spite of",
+    "pos": "prep"
+  },
+  {
+    "id": 830,
+    "word": "selon",
+    "translation": "according to",
+    "pos": "prep"
+  },
+  {
+    "id": 831,
+    "word": "envers",
+    "translation": "towards / to",
+    "pos": "prep"
+  },
+  {
+    "id": 832,
+    "word": "jusque",
+    "translation": "until / as far as",
+    "pos": "prep"
+  },
+  {
+    "id": 833,
+    "word": "tandis",
+    "translation": "while / whereas",
+    "pos": "conj"
+  },
+  {
+    "id": 834,
+    "word": "puisque",
+    "translation": "since / because",
+    "pos": "conj"
+  },
+  {
+    "id": 835,
+    "word": "quoique",
+    "translation": "although / even though",
+    "pos": "conj"
+  },
+  {
+    "id": 836,
+    "word": "donc",
+    "translation": "so / therefore",
+    "pos": "conj"
+  },
+  {
+    "id": 837,
+    "word": "néanmoins",
+    "translation": "nevertheless",
+    "pos": "adv"
+  },
+  {
+    "id": 838,
+    "word": "six",
+    "translation": "six",
+    "pos": "num"
+  },
+  {
+    "id": 839,
+    "word": "sept",
+    "translation": "seven",
+    "pos": "num"
+  },
+  {
+    "id": 840,
+    "word": "huit",
+    "translation": "eight",
+    "pos": "num"
+  },
+  {
+    "id": 841,
+    "word": "neuf",
+    "translation": "nine / new",
+    "pos": "adj/num"
+  },
+  {
+    "id": 842,
+    "word": "vingt",
+    "translation": "twenty",
+    "pos": "num"
+  },
+  {
+    "id": 843,
+    "word": "cent",
+    "translation": "hundred",
+    "pos": "num"
+  },
+  {
+    "id": 844,
+    "word": "mille",
+    "translation": "thousand",
+    "pos": "num"
+  },
+  {
+    "id": 845,
+    "word": "salon",
+    "translation": "living room / lounge",
+    "pos": "noun"
+  },
+  {
+    "id": 846,
+    "word": "patron",
+    "translation": "boss / employer",
+    "pos": "noun"
+  },
+  {
+    "id": 847,
+    "word": "hôtel",
+    "translation": "hotel",
+    "pos": "noun"
+  },
+  {
+    "id": 848,
+    "word": "vallée",
+    "translation": "valley",
+    "pos": "noun"
+  },
+  {
+    "id": 849,
+    "word": "café",
+    "translation": "coffee / cafe",
+    "pos": "noun"
+  },
+  {
+    "id": 850,
+    "word": "palais",
+    "translation": "palace",
+    "pos": "noun"
+  },
+  {
+    "id": 851,
+    "word": "île",
+    "translation": "island",
+    "pos": "noun"
+  },
+  {
+    "id": 852,
+    "word": "journal",
+    "translation": "newspaper / diary",
+    "pos": "noun"
+  },
+  {
+    "id": 853,
+    "word": "poste",
+    "translation": "post / position / mail",
+    "pos": "noun"
+  },
+  {
+    "id": 854,
+    "word": "épaisseur",
+    "translation": "thickness",
+    "pos": "noun"
+  },
+  {
+    "id": 855,
+    "word": "sommet",
+    "translation": "summit / top",
+    "pos": "noun"
+  },
+  {
+    "id": 856,
+    "word": "marque",
+    "translation": "brand / mark",
+    "pos": "noun"
+  },
+  {
+    "id": 857,
+    "word": "chair",
+    "translation": "flesh",
+    "pos": "noun"
+  },
+  {
+    "id": 858,
+    "word": "oreille",
+    "translation": "ear",
+    "pos": "noun"
+  },
+  {
+    "id": 859,
+    "word": "estomac",
+    "translation": "stomach",
+    "pos": "noun"
+  },
+  {
+    "id": 860,
+    "word": "bouche",
+    "translation": "mouth",
+    "pos": "noun"
+  },
+  {
+    "id": 861,
+    "word": "dos",
+    "translation": "back",
+    "pos": "noun"
+  },
+  {
+    "id": 862,
+    "word": "frontière",
+    "translation": "border / frontier",
+    "pos": "noun"
+  },
+  {
+    "id": 863,
+    "word": "mariage",
+    "translation": "marriage / wedding",
+    "pos": "noun"
+  },
+  {
+    "id": 864,
+    "word": "pain",
+    "translation": "bread",
+    "pos": "noun"
+  },
+  {
+    "id": 865,
+    "word": "fruit",
+    "translation": "fruit",
+    "pos": "noun"
+  },
+  {
+    "id": 866,
+    "word": "vin",
+    "translation": "wine",
+    "pos": "noun"
+  },
+  {
+    "id": 867,
+    "word": "repas",
+    "translation": "meal",
+    "pos": "noun"
+  },
+  {
+    "id": 868,
+    "word": "fleur",
+    "translation": "flower",
+    "pos": "noun"
+  },
+  {
+    "id": 869,
+    "word": "mer",
+    "translation": "sea",
+    "pos": "noun"
+  },
+  {
+    "id": 870,
+    "word": "hiver",
+    "translation": "winter",
+    "pos": "noun"
+  },
+  {
+    "id": 871,
+    "word": "été",
+    "translation": "summer",
+    "pos": "noun"
+  },
+  {
+    "id": 872,
+    "word": "automne",
+    "translation": "autumn / fall",
+    "pos": "noun"
+  },
+  {
+    "id": 873,
+    "word": "lundi",
+    "translation": "Monday",
+    "pos": "noun"
+  },
+  {
+    "id": 874,
+    "word": "mardi",
+    "translation": "Tuesday",
+    "pos": "noun"
+  },
+  {
+    "id": 875,
+    "word": "mercredi",
+    "translation": "Wednesday",
+    "pos": "noun"
+  },
+  {
+    "id": 876,
+    "word": "jeudi",
+    "translation": "Thursday",
+    "pos": "noun"
+  },
+  {
+    "id": 877,
+    "word": "vendredi",
+    "translation": "Friday",
+    "pos": "noun"
+  },
+  {
+    "id": 878,
+    "word": "samedi",
+    "translation": "Saturday",
+    "pos": "noun"
+  },
+  {
+    "id": 879,
+    "word": "dimanche",
+    "translation": "Sunday",
+    "pos": "noun"
+  },
+  {
+    "id": 880,
+    "word": "janvier",
+    "translation": "January",
+    "pos": "noun"
+  },
+  {
+    "id": 881,
+    "word": "février",
+    "translation": "February",
+    "pos": "noun"
+  },
+  {
+    "id": 882,
+    "word": "mars",
+    "translation": "March",
+    "pos": "noun"
+  },
+  {
+    "id": 883,
+    "word": "avril",
+    "translation": "April",
+    "pos": "noun"
+  },
+  {
+    "id": 884,
+    "word": "mai",
+    "translation": "May",
+    "pos": "noun"
+  },
+  {
+    "id": 885,
+    "word": "juin",
+    "translation": "June",
+    "pos": "noun"
+  },
+  {
+    "id": 886,
+    "word": "juillet",
+    "translation": "July",
+    "pos": "noun"
+  },
+  {
+    "id": 887,
+    "word": "août",
+    "translation": "August",
+    "pos": "noun"
+  },
+  {
+    "id": 888,
+    "word": "septembre",
+    "translation": "September",
+    "pos": "noun"
+  },
+  {
+    "id": 889,
+    "word": "octobre",
+    "translation": "October",
+    "pos": "noun"
+  },
+  {
+    "id": 890,
+    "word": "novembre",
+    "translation": "November",
+    "pos": "noun"
+  },
+  {
+    "id": 891,
+    "word": "décembre",
+    "translation": "December",
+    "pos": "noun"
+  },
+  {
+    "id": 892,
+    "word": "rouge",
+    "translation": "red",
+    "pos": "adj"
+  },
+  {
+    "id": 893,
+    "word": "bleu",
+    "translation": "blue",
+    "pos": "adj"
+  },
+  {
+    "id": 894,
+    "word": "vert",
+    "translation": "green",
+    "pos": "adj"
+  },
+  {
+    "id": 895,
+    "word": "jaune",
+    "translation": "yellow",
+    "pos": "adj"
+  },
+  {
+    "id": 896,
+    "word": "gris",
+    "translation": "gray",
+    "pos": "adj"
+  },
+  {
+    "id": 897,
+    "word": "rose",
+    "translation": "pink",
+    "pos": "adj"
+  },
+  {
+    "id": 898,
+    "word": "brun",
+    "translation": "brown",
+    "pos": "adj"
+  },
+  {
+    "id": 899,
+    "word": "chat",
+    "translation": "cat",
+    "pos": "noun"
+  },
+  {
+    "id": 900,
+    "word": "loup",
+    "translation": "wolf",
+    "pos": "noun"
+  },
+  {
+    "id": 901,
+    "word": "mouton",
+    "translation": "sheep",
+    "pos": "noun"
+  },
+  {
+    "id": 902,
+    "word": "canard",
+    "translation": "duck",
+    "pos": "noun"
+  },
+  {
+    "id": 903,
+    "word": "vache",
+    "translation": "cow",
+    "pos": "noun"
+  },
+  {
+    "id": 904,
+    "word": "cochon",
+    "translation": "pig",
+    "pos": "noun"
+  },
+  {
+    "id": 905,
+    "word": "nager",
+    "translation": "to swim",
+    "pos": "verb"
+  },
+  {
+    "id": 906,
+    "word": "voler",
+    "translation": "to fly / to steal",
+    "pos": "verb"
+  },
+  {
+    "id": 907,
+    "word": "dessiner",
+    "translation": "to draw",
+    "pos": "verb"
+  },
+  {
+    "id": 908,
+    "word": "peindre",
+    "translation": "to paint",
+    "pos": "verb"
+  },
+  {
+    "id": 909,
+    "word": "coudre",
+    "translation": "to sew",
+    "pos": "verb"
+  },
+  {
+    "id": 910,
+    "word": "utiliser",
+    "translation": "to use",
+    "pos": "verb"
+  },
+  {
+    "id": 911,
+    "word": "préférer",
+    "translation": "to prefer",
+    "pos": "verb"
+  },
+  {
+    "id": 912,
+    "word": "regretter",
+    "translation": "to regret",
+    "pos": "verb"
+  },
+  {
+    "id": 913,
+    "word": "remercier",
+    "translation": "to thank",
+    "pos": "verb"
+  },
+  {
+    "id": 914,
+    "word": "féliciter",
+    "translation": "to congratulate",
+    "pos": "verb"
+  },
+  {
+    "id": 915,
+    "word": "encourager",
+    "translation": "to encourage",
+    "pos": "verb"
+  },
+  {
+    "id": 916,
+    "word": "interdire",
+    "translation": "to forbid / to prohibit",
+    "pos": "verb"
+  },
+  {
+    "id": 917,
+    "word": "pardonner",
+    "translation": "to forgive",
+    "pos": "verb"
+  },
+  {
+    "id": 918,
+    "word": "bonjour",
+    "translation": "hello / good morning",
+    "pos": "interj"
+  },
+  {
+    "id": 919,
+    "word": "bonsoir",
+    "translation": "good evening",
+    "pos": "interj"
+  },
+  {
+    "id": 920,
+    "word": "salut",
+    "translation": "hi / bye",
+    "pos": "interj"
+  },
+  {
+    "id": 921,
+    "word": "bravo",
+    "translation": "bravo / well done",
+    "pos": "interj"
+  },
+  {
+    "id": 922,
+    "word": "hélas",
+    "translation": "alas / unfortunately",
+    "pos": "interj"
+  },
+  {
+    "id": 923,
+    "word": "eh",
+    "translation": "hey / eh",
+    "pos": "interj"
+  },
+  {
+    "id": 924,
+    "word": "ah",
+    "translation": "ah / oh",
+    "pos": "interj"
+  },
+  {
+    "id": 925,
+    "word": "oh",
+    "translation": "oh",
+    "pos": "interj"
+  },
+  {
+    "id": 926,
+    "word": "cinquante",
+    "translation": "fifty",
+    "pos": "num"
+  },
+  {
+    "id": 927,
+    "word": "trente",
+    "translation": "thirty",
+    "pos": "num"
+  },
+  {
+    "id": 928,
+    "word": "quarante",
+    "translation": "forty",
+    "pos": "num"
+  },
+  {
+    "id": 929,
+    "word": "soixante",
+    "translation": "sixty",
+    "pos": "num"
+  },
+  {
+    "id": 930,
+    "word": "douze",
+    "translation": "twelve",
+    "pos": "num"
+  },
+  {
+    "id": 931,
+    "word": "quinze",
+    "translation": "fifteen",
+    "pos": "num"
+  },
+  {
+    "id": 932,
+    "word": "onze",
+    "translation": "eleven",
+    "pos": "num"
+  },
+  {
+    "id": 933,
+    "word": "treize",
+    "translation": "thirteen",
+    "pos": "num"
+  }
 ]

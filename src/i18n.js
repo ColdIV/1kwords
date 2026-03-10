@@ -2,7 +2,12 @@ import { createI18n } from 'vue-i18n'
 
 const messages = {
   en: {
-    nav: { home: 'Home', practice: 'Practice', stats: 'Stats', settings: 'Settings' },
+    nav: {
+      home: 'Home',
+      practice: 'Practice',
+      stats: 'Stats',
+      settings: 'Settings',
+    },
     home: {
       title: '1kwords',
       wordsLearned: 'Words Learned',
@@ -56,7 +61,12 @@ const messages = {
     },
   },
   fr: {
-    nav: { home: 'Accueil', practice: 'Pratique', stats: 'Stats', settings: 'Réglages' },
+    nav: {
+      home: 'Accueil',
+      practice: 'Pratique',
+      stats: 'Stats',
+      settings: 'Réglages',
+    },
     home: {
       title: '1kwords',
       wordsLearned: 'Mots appris',
@@ -107,60 +117,6 @@ const messages = {
       uiLanguage: "Langue de l'interface",
       dangerZone: 'Zone de danger',
       resetProgress: 'Réinitialiser la progression',
-    },
-  },
-  de: {
-    nav: { home: 'Startseite', practice: 'Üben', stats: 'Statistiken', settings: 'Einstellungen' },
-    home: {
-      title: '1kwords',
-      wordsLearned: 'Gelernten Wörter',
-      streak: 'Tagesserie',
-      todayReviewed: 'Heute wiederholt',
-      dueForReview: 'Zur Wiederholung fällig',
-      startPractice: 'Übung starten',
-      continueSession: 'Session fortsetzen',
-      endlessModeActive: 'Endlosmodus aktiv',
-    },
-    practice: {
-      loading: 'Laden...',
-      tapToFlip: 'Tippen zum Aufdecken',
-      gotIt: 'Verstanden',
-      missedIt: 'Verpasst',
-      cardOf: 'Karte {current} von {total}',
-      newWord: 'NEU',
-      endlessMode: 'ENDLOS',
-      sessionComplete: 'Session abgeschlossen!',
-      viewSummary: 'Zusammenfassung ansehen',
-    },
-    summary: {
-      title: 'Session-Zusammenfassung',
-      accuracy: 'Genauigkeit',
-      cardsReviewed: 'Überprüfte Karten',
-      correct: 'Richtig',
-      incorrect: 'Falsch',
-      newWords: 'Neue Wörter',
-      missedWords: 'Zu wiederholende Wörter',
-      backHome: 'Zur Startseite',
-    },
-    stats: {
-      title: 'Dein Fortschritt',
-      totalLearned: 'Insgesamt gelernt',
-      totalReviewed: 'Insgesamt überprüft',
-      streak: 'Tagesserie',
-      boxDistribution: 'Meisterschaftslevel',
-      last7Days: 'Letzte 7 Tage',
-      correct: 'Richtig',
-      incorrect: 'Falsch',
-    },
-    settings: {
-      title: 'Einstellungen',
-      language: 'Lernsprache',
-      newWordsPerDay: 'Neue Wörter pro Tag',
-      endlessMode: 'Endlosmodus',
-      endlessModeDescription: 'Alle Wörter ohne Tageslimit üben',
-      uiLanguage: 'Interface-Sprache',
-      dangerZone: 'Gefahrenbereich',
-      resetProgress: 'Alle Fortschritte zurücksetzen',
     },
   },
 }
