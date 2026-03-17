@@ -2,5821 +2,4851 @@
   {
     "id": 1,
     "word": "dan",
-    "translation": "and",
-    "pos": "conj"
+    "translation": "and"
   },
   {
     "id": 2,
     "word": "yang",
-    "translation": "which / that / who",
-    "pos": "pron"
+    "translation": "which / that / who"
   },
   {
     "id": 3,
     "word": "di",
-    "translation": "in / at / on",
-    "pos": "prep"
+    "translation": "in / at / on"
   },
   {
     "id": 4,
     "word": "itu",
-    "translation": "that / those",
-    "pos": "det"
+    "translation": "that / those"
   },
   {
     "id": 5,
     "word": "dengan",
-    "translation": "with / by",
-    "pos": "prep"
+    "translation": "with / by"
   },
   {
     "id": 6,
     "word": "ini",
-    "translation": "this / these",
-    "pos": "det"
+    "translation": "this / these"
   },
   {
     "id": 7,
     "word": "tidak",
-    "translation": "not / no",
-    "pos": "adv"
+    "translation": "not / no"
   },
   {
     "id": 8,
     "word": "dari",
-    "translation": "from / of",
-    "pos": "prep"
+    "translation": "from / of"
   },
   {
     "id": 9,
     "word": "dalam",
-    "translation": "in / inside / within",
-    "pos": "prep"
+    "translation": "in / inside / within"
   },
   {
     "id": 10,
     "word": "untuk",
-    "translation": "for / in order to",
-    "pos": "prep"
+    "translation": "for / in order to"
   },
   {
     "id": 11,
     "word": "pada",
-    "translation": "on / at / to",
-    "pos": "prep"
+    "translation": "on / at / to"
   },
   {
     "id": 12,
     "word": "adalah",
-    "translation": "is / am / are",
-    "pos": "verb"
+    "translation": "is / am / are"
   },
   {
     "id": 13,
     "word": "ke",
-    "translation": "to / toward",
-    "pos": "prep"
+    "translation": "to / toward"
   },
   {
     "id": 14,
     "word": "akan",
-    "translation": "will / shall",
-    "pos": "part"
+    "translation": "will / shall"
   },
   {
     "id": 15,
     "word": "tetapi",
-    "translation": "but / however",
-    "pos": "conj"
+    "translation": "but / however"
   },
   {
     "id": 16,
     "word": "juga",
-    "translation": "also / too",
-    "pos": "adv"
+    "translation": "also / too"
   },
   {
     "id": 17,
     "word": "sudah",
-    "translation": "already / have",
-    "pos": "adv"
+    "translation": "already / have"
   },
   {
     "id": 18,
     "word": "ia",
-    "translation": "he / she",
-    "pos": "pron"
+    "translation": "he / she"
   },
   {
     "id": 19,
     "word": "atau",
-    "translation": "or",
-    "pos": "conj"
+    "translation": "or"
   },
   {
     "id": 20,
     "word": "ada",
-    "translation": "there is / exist / have",
-    "pos": "verb"
+    "translation": "there is / exist / have"
   },
   {
     "id": 21,
     "word": "mereka",
-    "translation": "they / them",
-    "pos": "pron"
+    "translation": "they / them"
   },
   {
     "id": 22,
     "word": "telah",
-    "translation": "already / have (past)",
-    "pos": "adv"
+    "translation": "already / have (past)"
   },
   {
     "id": 23,
     "word": "satu",
-    "translation": "one",
-    "pos": "num"
+    "translation": "one"
   },
   {
     "id": 24,
     "word": "bisa",
-    "translation": "can / able to",
-    "pos": "verb"
+    "translation": "can / able to"
   },
   {
     "id": 25,
     "word": "oleh",
-    "translation": "by",
-    "pos": "prep"
+    "translation": "by"
   },
   {
     "id": 26,
     "word": "saya",
-    "translation": "I / me / my",
-    "pos": "pron"
+    "translation": "I / me / my"
   },
   {
     "id": 27,
     "word": "kami",
-    "translation": "we / us (exclusive)",
-    "pos": "pron"
+    "translation": "we / us (exclusive)"
   },
   {
     "id": 28,
     "word": "apa",
-    "translation": "what",
-    "pos": "pron"
+    "translation": "what"
   },
   {
     "id": 29,
     "word": "jika",
-    "translation": "if",
-    "pos": "conj"
+    "translation": "if"
   },
   {
     "id": 30,
     "word": "orang",
-    "translation": "person / people",
-    "pos": "noun"
+    "translation": "person / people"
   },
   {
     "id": 31,
     "word": "lebih",
-    "translation": "more",
-    "pos": "adv"
+    "translation": "more"
   },
   {
     "id": 32,
     "word": "tahun",
-    "translation": "year",
-    "pos": "noun"
+    "translation": "year"
   },
   {
     "id": 33,
     "word": "hanya",
-    "translation": "only / just",
-    "pos": "adv"
+    "translation": "only / just"
   },
   {
     "id": 34,
     "word": "banyak",
-    "translation": "many / much / a lot",
-    "pos": "adj"
+    "translation": "many / much / a lot"
   },
   {
     "id": 35,
     "word": "dia",
-    "translation": "he / she / him / her",
-    "pos": "pron"
+    "translation": "he / she / him / her"
   },
   {
     "id": 36,
     "word": "seperti",
-    "translation": "like / as / such as",
-    "pos": "prep"
+    "translation": "like / as / such as"
   },
   {
     "id": 37,
     "word": "kita",
-    "translation": "we / us (inclusive)",
-    "pos": "pron"
+    "translation": "we / us (inclusive)"
   },
   {
     "id": 38,
     "word": "bukan",
-    "translation": "not (for nouns)",
-    "pos": "adv"
+    "translation": "not (for nouns)"
   },
   {
     "id": 39,
     "word": "belum",
-    "translation": "not yet",
-    "pos": "adv"
+    "translation": "not yet"
   },
   {
     "id": 40,
     "word": "karena",
-    "translation": "because",
-    "pos": "conj"
+    "translation": "because"
   },
   {
     "id": 41,
     "word": "dapat",
-    "translation": "can / get / obtain",
-    "pos": "verb"
+    "translation": "can / get / obtain"
   },
   {
     "id": 42,
     "word": "saat",
-    "translation": "moment / when",
-    "pos": "noun"
+    "translation": "moment / when"
   },
   {
     "id": 43,
     "word": "masih",
-    "translation": "still / yet",
-    "pos": "adv"
+    "translation": "still / yet"
   },
   {
     "id": 44,
     "word": "anda",
-    "translation": "you (formal)",
-    "pos": "pron"
+    "translation": "you (formal)"
   },
   {
     "id": 45,
     "word": "setelah",
-    "translation": "after",
-    "pos": "prep"
+    "translation": "after"
   },
   {
     "id": 46,
     "word": "baru",
-    "translation": "new / just (recently)",
-    "pos": "adj"
+    "translation": "new / just (recently)"
   },
   {
     "id": 47,
     "word": "kamu",
-    "translation": "you (informal)",
-    "pos": "pron"
+    "translation": "you (informal)"
   },
   {
     "id": 48,
     "word": "antara",
-    "translation": "between / among",
-    "pos": "prep"
+    "translation": "between / among"
   },
   {
     "id": 49,
     "word": "namun",
-    "translation": "however / but",
-    "pos": "conj"
+    "translation": "however / but"
   },
   {
     "id": 50,
     "word": "menjadi",
-    "translation": "to become",
-    "pos": "verb"
+    "translation": "to become"
   },
   {
     "id": 51,
     "word": "kemudian",
-    "translation": "then / afterwards",
-    "pos": "adv"
+    "translation": "then / afterwards"
   },
   {
     "id": 52,
     "word": "semua",
-    "translation": "all / every",
-    "pos": "det"
+    "translation": "all / every"
   },
   {
     "id": 53,
     "word": "kata",
-    "translation": "word / said",
-    "pos": "noun"
+    "translation": "word / said"
   },
   {
     "id": 54,
     "word": "lain",
-    "translation": "other / another",
-    "pos": "adj"
+    "translation": "other / another"
   },
   {
     "id": 55,
     "word": "begitu",
-    "translation": "so / such / that way",
-    "pos": "adv"
+    "translation": "so / such / that way"
   },
   {
     "id": 56,
     "word": "waktu",
-    "translation": "time",
-    "pos": "noun"
+    "translation": "time"
   },
   {
     "id": 57,
     "word": "besar",
-    "translation": "big / large / great",
-    "pos": "adj"
+    "translation": "big / large / great"
   },
   {
     "id": 58,
     "word": "hari",
-    "translation": "day",
-    "pos": "noun"
+    "translation": "day"
   },
   {
     "id": 59,
     "word": "sangat",
-    "translation": "very / extremely",
-    "pos": "adv"
+    "translation": "very / extremely"
   },
   {
     "id": 60,
     "word": "sebagai",
-    "translation": "as / in the capacity of",
-    "pos": "prep"
+    "translation": "as / in the capacity of"
   },
   {
     "id": 61,
     "word": "harus",
-    "translation": "must / have to",
-    "pos": "verb"
+    "translation": "must / have to"
   },
   {
     "id": 62,
     "word": "bagi",
-    "translation": "for / to",
-    "pos": "prep"
+    "translation": "for / to"
   },
   {
     "id": 63,
     "word": "bahwa",
-    "translation": "that (conjunction)",
-    "pos": "conj"
+    "translation": "that (conjunction)"
   },
   {
     "id": 64,
     "word": "lagi",
-    "translation": "again / more",
-    "pos": "adv"
+    "translation": "again / more"
   },
   {
     "id": 65,
     "word": "sekali",
-    "translation": "once / very",
-    "pos": "adv"
+    "translation": "once / very"
   },
   {
     "id": 66,
     "word": "saja",
-    "translation": "only / just",
-    "pos": "part"
+    "translation": "only / just"
   },
   {
     "id": 67,
     "word": "pernah",
-    "translation": "ever / once",
-    "pos": "adv"
+    "translation": "ever / once"
   },
   {
     "id": 68,
     "word": "sama",
-    "translation": "same / equal / with",
-    "pos": "adj"
+    "translation": "same / equal / with"
   },
   {
     "id": 69,
     "word": "lalu",
-    "translation": "then / past / ago",
-    "pos": "adv"
+    "translation": "then / past / ago"
   },
   {
     "id": 70,
     "word": "hampir",
-    "translation": "almost / nearly",
-    "pos": "adv"
+    "translation": "almost / nearly"
   },
   {
     "id": 71,
     "word": "setiap",
-    "translation": "every / each",
-    "pos": "det"
+    "translation": "every / each"
   },
   {
     "id": 72,
     "word": "sedang",
-    "translation": "currently / medium",
-    "pos": "adv"
+    "translation": "currently / medium"
   },
   {
     "id": 73,
     "word": "bagaimana",
-    "translation": "how",
-    "pos": "adv"
+    "translation": "how"
   },
   {
     "id": 74,
     "word": "tanpa",
-    "translation": "without",
-    "pos": "prep"
+    "translation": "without"
   },
   {
     "id": 75,
     "word": "terlalu",
-    "translation": "too (excessive)",
-    "pos": "adv"
+    "translation": "too (excessive)"
   },
   {
     "id": 76,
     "word": "bawah",
-    "translation": "under / below",
-    "pos": "noun"
+    "translation": "under / below"
   },
   {
     "id": 77,
     "word": "siapa",
-    "translation": "who",
-    "pos": "pron"
+    "translation": "who"
   },
   {
     "id": 78,
     "word": "hingga",
-    "translation": "until / up to",
-    "pos": "prep"
+    "translation": "until / up to"
   },
   {
     "id": 79,
     "word": "paling",
-    "translation": "most",
-    "pos": "adv"
+    "translation": "most"
   },
   {
     "id": 80,
     "word": "hal",
-    "translation": "thing / matter",
-    "pos": "noun"
+    "translation": "thing / matter"
   },
   {
     "id": 81,
     "word": "pertama",
-    "translation": "first",
-    "pos": "num"
+    "translation": "first"
   },
   {
     "id": 82,
     "word": "mana",
-    "translation": "where / which",
-    "pos": "pron"
+    "translation": "where / which"
   },
   {
     "id": 83,
     "word": "perlu",
-    "translation": "need / necessary",
-    "pos": "verb"
+    "translation": "need / necessary"
   },
   {
     "id": 84,
     "word": "dua",
-    "translation": "two",
-    "pos": "num"
+    "translation": "two"
   },
   {
     "id": 85,
     "word": "sebelum",
-    "translation": "before",
-    "pos": "prep"
+    "translation": "before"
   },
   {
     "id": 86,
     "word": "membuat",
-    "translation": "to make / to create",
-    "pos": "verb"
+    "translation": "to make / to create"
   },
   {
     "id": 87,
     "word": "mau",
-    "translation": "want / will",
-    "pos": "verb"
+    "translation": "want / will"
   },
   {
     "id": 88,
     "word": "tahu",
-    "translation": "know",
-    "pos": "verb"
+    "translation": "know"
   },
   {
     "id": 89,
     "word": "tempat",
-    "translation": "place / location",
-    "pos": "noun"
+    "translation": "place / location"
   },
   {
     "id": 90,
     "word": "sejak",
-    "translation": "since",
-    "pos": "prep"
+    "translation": "since"
   },
   {
     "id": 91,
     "word": "sering",
-    "translation": "often / frequently",
-    "pos": "adv"
+    "translation": "often / frequently"
   },
   {
     "id": 92,
     "word": "tersebut",
-    "translation": "the aforementioned",
-    "pos": "det"
+    "translation": "the aforementioned"
   },
   {
     "id": 93,
     "word": "berbagai",
-    "translation": "various / diverse",
-    "pos": "adj"
+    "translation": "various / diverse"
   },
   {
     "id": 94,
     "word": "selalu",
-    "translation": "always",
-    "pos": "adv"
+    "translation": "always"
   },
   {
     "id": 95,
     "word": "negara",
-    "translation": "country / state",
-    "pos": "noun"
+    "translation": "country / state"
   },
   {
     "id": 96,
     "word": "masing",
-    "translation": "each / respective",
-    "pos": "det"
+    "translation": "each / respective"
   },
   {
     "id": 97,
     "word": "kembali",
-    "translation": "return / back / again",
-    "pos": "verb"
+    "translation": "return / back / again"
   },
   {
     "id": 98,
     "word": "tiga",
-    "translation": "three",
-    "pos": "num"
+    "translation": "three"
   },
   {
     "id": 99,
     "word": "rumah",
-    "translation": "house / home",
-    "pos": "noun"
+    "translation": "house / home"
   },
   {
     "id": 100,
     "word": "cara",
-    "translation": "way / method / manner",
-    "pos": "noun"
+    "translation": "way / method / manner"
   },
   {
     "id": 101,
     "word": "masa",
-    "translation": "period / time / era",
-    "pos": "noun"
+    "translation": "period / time / era"
   },
   {
     "id": 102,
     "word": "atas",
-    "translation": "above / over / top",
-    "pos": "prep"
+    "translation": "above / over / top"
   },
   {
     "id": 103,
     "word": "pun",
-    "translation": "also / even / too",
-    "pos": "part"
+    "translation": "also / even / too"
   },
   {
     "id": 104,
     "word": "sekarang",
-    "translation": "now",
-    "pos": "adv"
+    "translation": "now"
   },
   {
     "id": 105,
     "word": "hidup",
-    "translation": "life / to live",
-    "pos": "noun"
+    "translation": "life / to live"
   },
   {
     "id": 106,
     "word": "anak",
-    "translation": "child / kid",
-    "pos": "noun"
+    "translation": "child / kid"
   },
   {
     "id": 107,
     "word": "maka",
-    "translation": "then / so / therefore",
-    "pos": "conj"
+    "translation": "then / so / therefore"
   },
   {
     "id": 108,
     "word": "dunia",
-    "translation": "world",
-    "pos": "noun"
+    "translation": "world"
   },
   {
     "id": 109,
     "word": "masalah",
-    "translation": "problem / issue",
-    "pos": "noun"
+    "translation": "problem / issue"
   },
   {
     "id": 110,
     "word": "sendiri",
-    "translation": "self / alone / own",
-    "pos": "adj"
+    "translation": "self / alone / own"
   },
   {
     "id": 111,
     "word": "bagian",
-    "translation": "part / section",
-    "pos": "noun"
+    "translation": "part / section"
   },
   {
     "id": 112,
     "word": "air",
-    "translation": "water",
-    "pos": "noun"
+    "translation": "water"
   },
   {
     "id": 113,
     "word": "kali",
-    "translation": "time (occurrence) / river",
-    "pos": "noun"
+    "translation": "time (occurrence) / river"
   },
   {
     "id": 114,
     "word": "punya",
-    "translation": "to have / own",
-    "pos": "verb"
+    "translation": "to have / own"
   },
   {
     "id": 115,
     "word": "kerja",
-    "translation": "work / job",
-    "pos": "noun"
+    "translation": "work / job"
   },
   {
     "id": 116,
     "word": "pemerintah",
-    "translation": "government",
-    "pos": "noun"
+    "translation": "government"
   },
   {
     "id": 117,
     "word": "nama",
-    "translation": "name",
-    "pos": "noun"
+    "translation": "name"
   },
   {
     "id": 118,
     "word": "lama",
-    "translation": "long (time) / old",
-    "pos": "adj"
+    "translation": "long (time) / old"
   },
   {
     "id": 119,
     "word": "baik",
-    "translation": "good / fine / well",
-    "pos": "adj"
+    "translation": "good / fine / well"
   },
   {
     "id": 120,
     "word": "memberikan",
-    "translation": "to give / to provide",
-    "pos": "verb"
+    "translation": "to give / to provide"
   },
   {
     "id": 121,
     "word": "uang",
-    "translation": "money",
-    "pos": "noun"
+    "translation": "money"
   },
   {
     "id": 122,
     "word": "beberapa",
-    "translation": "several / some / a few",
-    "pos": "det"
+    "translation": "several / some / a few"
   },
   {
     "id": 123,
     "word": "memiliki",
-    "translation": "to have / to possess",
-    "pos": "verb"
+    "translation": "to have / to possess"
   },
   {
     "id": 124,
     "word": "kedua",
-    "translation": "second / both",
-    "pos": "num"
+    "translation": "second / both"
   },
   {
     "id": 125,
     "word": "melihat",
-    "translation": "to see / to look at",
-    "pos": "verb"
+    "translation": "to see / to look at"
   },
   {
     "id": 126,
     "word": "kepada",
-    "translation": "to / toward (someone)",
-    "pos": "prep"
+    "translation": "to / toward (someone)"
   },
   {
     "id": 127,
     "word": "mengatakan",
-    "translation": "to say / to state",
-    "pos": "verb"
+    "translation": "to say / to state"
   },
   {
     "id": 128,
     "word": "merasa",
-    "translation": "to feel",
-    "pos": "verb"
+    "translation": "to feel"
   },
   {
     "id": 129,
     "word": "pergi",
-    "translation": "to go",
-    "pos": "verb"
+    "translation": "to go"
   },
   {
     "id": 130,
     "word": "datang",
-    "translation": "to come / to arrive",
-    "pos": "verb"
+    "translation": "to come / to arrive"
   },
   {
     "id": 131,
     "word": "sekitar",
-    "translation": "around / approximately",
-    "pos": "adv"
+    "translation": "around / approximately"
   },
   {
     "id": 132,
     "word": "kecil",
-    "translation": "small / little",
-    "pos": "adj"
+    "translation": "small / little"
   },
   {
     "id": 133,
     "word": "terus",
-    "translation": "continue / keep on",
-    "pos": "adv"
+    "translation": "continue / keep on"
   },
   {
     "id": 134,
     "word": "sebuah",
-    "translation": "a (classifier for objects)",
-    "pos": "det"
+    "translation": "a (classifier for objects)"
   },
   {
     "id": 135,
     "word": "memang",
-    "translation": "indeed / actually",
-    "pos": "adv"
+    "translation": "indeed / actually"
   },
   {
     "id": 136,
     "word": "seorang",
-    "translation": "a (classifier for people)",
-    "pos": "det"
+    "translation": "a (classifier for people)"
   },
   {
     "id": 137,
     "word": "mungkin",
-    "translation": "maybe / perhaps / possible",
-    "pos": "adv"
+    "translation": "maybe / perhaps / possible"
   },
   {
     "id": 138,
     "word": "terhadap",
-    "translation": "toward / against / regarding",
-    "pos": "prep"
+    "translation": "toward / against / regarding"
   },
   {
     "id": 139,
     "word": "pekerjaan",
-    "translation": "work / job / occupation",
-    "pos": "noun"
+    "translation": "work / job / occupation"
   },
   {
     "id": 140,
     "word": "tinggi",
-    "translation": "high / tall",
-    "pos": "adj"
+    "translation": "high / tall"
   },
   {
     "id": 141,
     "word": "luar",
-    "translation": "outside / outer / foreign",
-    "pos": "noun"
+    "translation": "outside / outer / foreign"
   },
   {
     "id": 142,
     "word": "mengapa",
-    "translation": "why",
-    "pos": "adv"
+    "translation": "why"
   },
   {
     "id": 143,
     "word": "bila",
-    "translation": "when / if",
-    "pos": "conj"
+    "translation": "when / if"
   },
   {
     "id": 144,
     "word": "melakukan",
-    "translation": "to do / to carry out",
-    "pos": "verb"
+    "translation": "to do / to carry out"
   },
   {
     "id": 145,
     "word": "sedikit",
-    "translation": "a little / few",
-    "pos": "adj"
+    "translation": "a little / few"
   },
   {
     "id": 146,
     "word": "teman",
-    "translation": "friend",
-    "pos": "noun"
+    "translation": "friend"
   },
   {
     "id": 147,
     "word": "menurut",
-    "translation": "according to",
-    "pos": "prep"
+    "translation": "according to"
   },
   {
     "id": 148,
     "word": "empat",
-    "translation": "four",
-    "pos": "num"
+    "translation": "four"
   },
   {
     "id": 149,
     "word": "cukup",
-    "translation": "enough / sufficient / quite",
-    "pos": "adv"
+    "translation": "enough / sufficient / quite"
   },
   {
     "id": 150,
     "word": "sesuatu",
-    "translation": "something",
-    "pos": "pron"
+    "translation": "something"
   },
   {
     "id": 151,
     "word": "mengambil",
-    "translation": "to take / to fetch",
-    "pos": "verb"
+    "translation": "to take / to fetch"
   },
   {
     "id": 152,
     "word": "panjang",
-    "translation": "long (length)",
-    "pos": "adj"
+    "translation": "long (length)"
   },
   {
     "id": 153,
     "word": "lima",
-    "translation": "five",
-    "pos": "num"
+    "translation": "five"
   },
   {
     "id": 154,
     "word": "memberi",
-    "translation": "to give",
-    "pos": "verb"
+    "translation": "to give"
   },
   {
     "id": 155,
     "word": "masyarakat",
-    "translation": "society / community",
-    "pos": "noun"
+    "translation": "society / community"
   },
   {
     "id": 156,
     "word": "ketika",
-    "translation": "when / while",
-    "pos": "conj"
+    "translation": "when / while"
   },
   {
     "id": 157,
     "word": "berjalan",
-    "translation": "to walk / to go",
-    "pos": "verb"
+    "translation": "to walk / to go"
   },
   {
     "id": 158,
     "word": "depan",
-    "translation": "front / ahead",
-    "pos": "noun"
+    "translation": "front / ahead"
   },
   {
     "id": 159,
     "word": "ingin",
-    "translation": "to want / to wish",
-    "pos": "verb"
+    "translation": "to want / to wish"
   },
   {
     "id": 160,
     "word": "berpikir",
-    "translation": "to think",
-    "pos": "verb"
+    "translation": "to think"
   },
   {
     "id": 161,
     "word": "jalan",
-    "translation": "road / street / way",
-    "pos": "noun"
+    "translation": "road / street / way"
   },
   {
     "id": 162,
     "word": "malam",
-    "translation": "night / evening",
-    "pos": "noun"
+    "translation": "night / evening"
   },
   {
     "id": 163,
     "word": "bulan",
-    "translation": "month / moon",
-    "pos": "noun"
+    "translation": "month / moon"
   },
   {
     "id": 164,
     "word": "pagi",
-    "translation": "morning",
-    "pos": "noun"
+    "translation": "morning"
   },
   {
     "id": 165,
     "word": "membawa",
-    "translation": "to bring / to carry",
-    "pos": "verb"
+    "translation": "to bring / to carry"
   },
   {
     "id": 166,
     "word": "mata",
-    "translation": "eye",
-    "pos": "noun"
+    "translation": "eye"
   },
   {
     "id": 167,
     "word": "tangan",
-    "translation": "hand / arm",
-    "pos": "noun"
+    "translation": "hand / arm"
   },
   {
     "id": 168,
     "word": "kepala",
-    "translation": "head / chief",
-    "pos": "noun"
+    "translation": "head / chief"
   },
   {
     "id": 169,
     "word": "badan",
-    "translation": "body / agency",
-    "pos": "noun"
+    "translation": "body / agency"
   },
   {
     "id": 170,
     "word": "laut",
-    "translation": "sea / ocean",
-    "pos": "noun"
+    "translation": "sea / ocean"
   },
   {
     "id": 171,
     "word": "siang",
-    "translation": "afternoon / daytime",
-    "pos": "noun"
+    "translation": "afternoon / daytime"
   },
   {
     "id": 172,
     "word": "tanah",
-    "translation": "land / ground / soil",
-    "pos": "noun"
+    "translation": "land / ground / soil"
   },
   {
     "id": 173,
     "word": "merupakan",
-    "translation": "to constitute / to be",
-    "pos": "verb"
+    "translation": "to constitute / to be"
   },
   {
     "id": 174,
     "word": "kota",
-    "translation": "city / town",
-    "pos": "noun"
+    "translation": "city / town"
   },
   {
     "id": 175,
     "word": "kalau",
-    "translation": "if / when",
-    "pos": "conj"
+    "translation": "if / when"
   },
   {
     "id": 176,
     "word": "laki-laki",
-    "translation": "male / man",
-    "pos": "noun"
+    "translation": "male / man"
   },
   {
     "id": 177,
     "word": "perempuan",
-    "translation": "female / woman",
-    "pos": "noun"
+    "translation": "female / woman"
   },
   {
     "id": 178,
     "word": "kaki",
-    "translation": "foot / leg",
-    "pos": "noun"
+    "translation": "foot / leg"
   },
   {
     "id": 179,
     "word": "membaca",
-    "translation": "to read",
-    "pos": "verb"
+    "translation": "to read"
   },
   {
     "id": 180,
     "word": "menulis",
-    "translation": "to write",
-    "pos": "verb"
+    "translation": "to write"
   },
   {
     "id": 181,
     "word": "makan",
-    "translation": "to eat",
-    "pos": "verb"
+    "translation": "to eat"
   },
   {
     "id": 182,
     "word": "minum",
-    "translation": "to drink",
-    "pos": "verb"
+    "translation": "to drink"
   },
   {
     "id": 183,
     "word": "bicara",
-    "translation": "to speak / to talk",
-    "pos": "verb"
+    "translation": "to speak / to talk"
   },
   {
     "id": 184,
     "word": "dengar",
-    "translation": "to hear / to listen",
-    "pos": "verb"
+    "translation": "to hear / to listen"
   },
   {
     "id": 185,
     "word": "mulai",
-    "translation": "to begin / to start",
-    "pos": "verb"
+    "translation": "to begin / to start"
   },
   {
     "id": 186,
     "word": "akhir",
-    "translation": "end / final",
-    "pos": "noun"
+    "translation": "end / final"
   },
   {
     "id": 187,
     "word": "menggunakan",
-    "translation": "to use",
-    "pos": "verb"
+    "translation": "to use"
   },
   {
     "id": 188,
     "word": "termasuk",
-    "translation": "including / included",
-    "pos": "verb"
+    "translation": "including / included"
   },
   {
     "id": 189,
     "word": "pula",
-    "translation": "also / too / as well",
-    "pos": "part"
+    "translation": "also / too / as well"
   },
   {
     "id": 190,
     "word": "sore",
-    "translation": "late afternoon",
-    "pos": "noun"
+    "translation": "late afternoon"
   },
   {
     "id": 191,
     "word": "minggu",
-    "translation": "week / Sunday",
-    "pos": "noun"
+    "translation": "week / Sunday"
   },
   {
     "id": 192,
     "word": "tua",
-    "translation": "old (age)",
-    "pos": "adj"
+    "translation": "old (age)"
   },
   {
     "id": 193,
     "word": "muda",
-    "translation": "young",
-    "pos": "adj"
+    "translation": "young"
   },
   {
     "id": 194,
     "word": "pendek",
-    "translation": "short (length)",
-    "pos": "adj"
+    "translation": "short (length)"
   },
   {
     "id": 195,
     "word": "berat",
-    "translation": "heavy / weight",
-    "pos": "adj"
+    "translation": "heavy / weight"
   },
   {
     "id": 196,
     "word": "ringan",
-    "translation": "light (weight)",
-    "pos": "adj"
+    "translation": "light (weight)"
   },
   {
     "id": 197,
     "word": "putih",
-    "translation": "white",
-    "pos": "adj"
+    "translation": "white"
   },
   {
     "id": 198,
     "word": "hitam",
-    "translation": "black",
-    "pos": "adj"
+    "translation": "black"
   },
   {
     "id": 199,
     "word": "merah",
-    "translation": "red",
-    "pos": "adj"
+    "translation": "red"
   },
   {
     "id": 200,
     "word": "kuning",
-    "translation": "yellow",
-    "pos": "adj"
+    "translation": "yellow"
   },
   {
     "id": 201,
     "word": "hijau",
-    "translation": "green",
-    "pos": "adj"
+    "translation": "green"
   },
   {
     "id": 202,
     "word": "biru",
-    "translation": "blue",
-    "pos": "adj"
+    "translation": "blue"
   },
   {
     "id": 203,
     "word": "panas",
-    "translation": "hot / heat",
-    "pos": "adj"
+    "translation": "hot / heat"
   },
   {
     "id": 204,
     "word": "dingin",
-    "translation": "cold / cool",
-    "pos": "adj"
+    "translation": "cold / cool"
   },
   {
     "id": 205,
     "word": "cepat",
-    "translation": "fast / quick",
-    "pos": "adj"
+    "translation": "fast / quick"
   },
   {
     "id": 206,
     "word": "lambat",
-    "translation": "slow",
-    "pos": "adj"
+    "translation": "slow"
   },
   {
     "id": 207,
     "word": "dekat",
-    "translation": "near / close",
-    "pos": "adj"
+    "translation": "near / close"
   },
   {
     "id": 208,
     "word": "jauh",
-    "translation": "far / distant",
-    "pos": "adj"
+    "translation": "far / distant"
   },
   {
     "id": 209,
     "word": "keras",
-    "translation": "hard / loud",
-    "pos": "adj"
+    "translation": "hard / loud"
   },
   {
     "id": 210,
     "word": "lembut",
-    "translation": "soft / gentle",
-    "pos": "adj"
+    "translation": "soft / gentle"
   },
   {
     "id": 211,
     "word": "cantik",
-    "translation": "beautiful / pretty",
-    "pos": "adj"
+    "translation": "beautiful / pretty"
   },
   {
     "id": 212,
     "word": "tampan",
-    "translation": "handsome",
-    "pos": "adj"
+    "translation": "handsome"
   },
   {
     "id": 213,
     "word": "mahal",
-    "translation": "expensive",
-    "pos": "adj"
+    "translation": "expensive"
   },
   {
     "id": 214,
     "word": "murah",
-    "translation": "cheap / inexpensive",
-    "pos": "adj"
+    "translation": "cheap / inexpensive"
   },
   {
     "id": 215,
     "word": "mudah",
-    "translation": "easy",
-    "pos": "adj"
+    "translation": "easy"
   },
   {
     "id": 216,
     "word": "sulit",
-    "translation": "difficult / hard",
-    "pos": "adj"
+    "translation": "difficult / hard"
   },
   {
     "id": 217,
     "word": "senang",
-    "translation": "happy / glad",
-    "pos": "adj"
+    "translation": "happy / glad"
   },
   {
     "id": 218,
     "word": "sedih",
-    "translation": "sad",
-    "pos": "adj"
+    "translation": "sad"
   },
   {
     "id": 219,
     "word": "marah",
-    "translation": "angry",
-    "pos": "adj"
+    "translation": "angry"
   },
   {
     "id": 220,
     "word": "takut",
-    "translation": "afraid / scared",
-    "pos": "adj"
+    "translation": "afraid / scared"
   },
   {
     "id": 221,
     "word": "benar",
-    "translation": "true / correct / right",
-    "pos": "adj"
+    "translation": "true / correct / right"
   },
   {
     "id": 222,
     "word": "salah",
-    "translation": "wrong / mistake",
-    "pos": "adj"
+    "translation": "wrong / mistake"
   },
   {
     "id": 223,
     "word": "penuh",
-    "translation": "full",
-    "pos": "adj"
+    "translation": "full"
   },
   {
     "id": 224,
     "word": "kosong",
-    "translation": "empty",
-    "pos": "adj"
+    "translation": "empty"
   },
   {
     "id": 225,
     "word": "gelap",
-    "translation": "dark",
-    "pos": "adj"
+    "translation": "dark"
   },
   {
     "id": 226,
     "word": "terang",
-    "translation": "bright / light",
-    "pos": "adj"
+    "translation": "bright / light"
   },
   {
     "id": 227,
     "word": "basah",
-    "translation": "wet",
-    "pos": "adj"
+    "translation": "wet"
   },
   {
     "id": 228,
     "word": "kering",
-    "translation": "dry",
-    "pos": "adj"
+    "translation": "dry"
   },
   {
     "id": 229,
     "word": "bersih",
-    "translation": "clean",
-    "pos": "adj"
+    "translation": "clean"
   },
   {
     "id": 230,
     "word": "kotor",
-    "translation": "dirty",
-    "pos": "adj"
+    "translation": "dirty"
   },
   {
     "id": 231,
     "word": "kuat",
-    "translation": "strong",
-    "pos": "adj"
+    "translation": "strong"
   },
   {
     "id": 232,
     "word": "lemah",
-    "translation": "weak",
-    "pos": "adj"
+    "translation": "weak"
   },
   {
     "id": 233,
     "word": "sehat",
-    "translation": "healthy",
-    "pos": "adj"
+    "translation": "healthy"
   },
   {
     "id": 234,
     "word": "sakit",
-    "translation": "sick / pain",
-    "pos": "adj"
+    "translation": "sick / pain"
   },
   {
     "id": 235,
     "word": "enam",
-    "translation": "six",
-    "pos": "num"
+    "translation": "six"
   },
   {
     "id": 236,
     "word": "tujuh",
-    "translation": "seven",
-    "pos": "num"
+    "translation": "seven"
   },
   {
     "id": 237,
     "word": "delapan",
-    "translation": "eight",
-    "pos": "num"
+    "translation": "eight"
   },
   {
     "id": 238,
     "word": "sembilan",
-    "translation": "nine",
-    "pos": "num"
+    "translation": "nine"
   },
   {
     "id": 239,
     "word": "sepuluh",
-    "translation": "ten",
-    "pos": "num"
+    "translation": "ten"
   },
   {
     "id": 240,
     "word": "seratus",
-    "translation": "one hundred",
-    "pos": "num"
+    "translation": "one hundred"
   },
   {
     "id": 241,
     "word": "seribu",
-    "translation": "one thousand",
-    "pos": "num"
+    "translation": "one thousand"
   },
   {
     "id": 242,
     "word": "juta",
-    "translation": "million",
-    "pos": "num"
+    "translation": "million"
   },
   {
     "id": 243,
     "word": "setengah",
-    "translation": "half",
-    "pos": "num"
+    "translation": "half"
   },
   {
     "id": 244,
     "word": "ibu",
-    "translation": "mother",
-    "pos": "noun"
+    "translation": "mother"
   },
   {
     "id": 245,
     "word": "ayah",
-    "translation": "father",
-    "pos": "noun"
+    "translation": "father"
   },
   {
     "id": 246,
     "word": "kakak",
-    "translation": "older sibling",
-    "pos": "noun"
+    "translation": "older sibling"
   },
   {
     "id": 247,
     "word": "adik",
-    "translation": "younger sibling",
-    "pos": "noun"
+    "translation": "younger sibling"
   },
   {
     "id": 248,
     "word": "suami",
-    "translation": "husband",
-    "pos": "noun"
+    "translation": "husband"
   },
   {
     "id": 249,
     "word": "istri",
-    "translation": "wife",
-    "pos": "noun"
+    "translation": "wife"
   },
   {
     "id": 250,
     "word": "keluarga",
-    "translation": "family",
-    "pos": "noun"
+    "translation": "family"
   },
   {
     "id": 251,
     "word": "guru",
-    "translation": "teacher",
-    "pos": "noun"
+    "translation": "teacher"
   },
   {
     "id": 252,
     "word": "dokter",
-    "translation": "doctor",
-    "pos": "noun"
+    "translation": "doctor"
   },
   {
     "id": 253,
     "word": "polisi",
-    "translation": "police",
-    "pos": "noun"
+    "translation": "police"
   },
   {
     "id": 254,
     "word": "tentara",
-    "translation": "soldier / army",
-    "pos": "noun"
+    "translation": "soldier / army"
   },
   {
     "id": 255,
     "word": "raja",
-    "translation": "king",
-    "pos": "noun"
+    "translation": "king"
   },
   {
     "id": 256,
     "word": "ratu",
-    "translation": "queen",
-    "pos": "noun"
+    "translation": "queen"
   },
   {
     "id": 257,
     "word": "presiden",
-    "translation": "president",
-    "pos": "noun"
+    "translation": "president"
   },
   {
     "id": 258,
     "word": "menteri",
-    "translation": "minister",
-    "pos": "noun"
+    "translation": "minister"
   },
   {
     "id": 259,
     "word": "rakyat",
-    "translation": "people / citizens",
-    "pos": "noun"
+    "translation": "people / citizens"
   },
   {
     "id": 260,
     "word": "bangsa",
-    "translation": "nation",
-    "pos": "noun"
+    "translation": "nation"
   },
   {
     "id": 261,
     "word": "bahasa",
-    "translation": "language",
-    "pos": "noun"
+    "translation": "language"
   },
   {
     "id": 262,
     "word": "sekolah",
-    "translation": "school",
-    "pos": "noun"
+    "translation": "school"
   },
   {
     "id": 263,
     "word": "buku",
-    "translation": "book",
-    "pos": "noun"
+    "translation": "book"
   },
   {
     "id": 264,
     "word": "huruf",
-    "translation": "letter (alphabet)",
-    "pos": "noun"
+    "translation": "letter (alphabet)"
   },
   {
     "id": 265,
     "word": "angka",
-    "translation": "number / digit",
-    "pos": "noun"
+    "translation": "number / digit"
   },
   {
     "id": 266,
     "word": "cerita",
-    "translation": "story / tale",
-    "pos": "noun"
+    "translation": "story / tale"
   },
   {
     "id": 267,
     "word": "jawab",
-    "translation": "answer / reply",
-    "pos": "noun"
+    "translation": "answer / reply"
   },
   {
     "id": 268,
     "word": "tanya",
-    "translation": "question / ask",
-    "pos": "noun"
+    "translation": "question / ask"
   },
   {
     "id": 269,
     "word": "pikir",
-    "translation": "think / thought",
-    "pos": "verb"
+    "translation": "think / thought"
   },
   {
     "id": 270,
     "word": "rasa",
-    "translation": "feeling / taste / sense",
-    "pos": "noun"
+    "translation": "feeling / taste / sense"
   },
   {
     "id": 271,
     "word": "hati",
-    "translation": "heart / liver",
-    "pos": "noun"
+    "translation": "heart / liver"
   },
   {
     "id": 272,
     "word": "jiwa",
-    "translation": "soul / spirit",
-    "pos": "noun"
+    "translation": "soul / spirit"
   },
   {
     "id": 273,
     "word": "tubuh",
-    "translation": "body",
-    "pos": "noun"
+    "translation": "body"
   },
   {
     "id": 274,
     "word": "darah",
-    "translation": "blood",
-    "pos": "noun"
+    "translation": "blood"
   },
   {
     "id": 275,
     "word": "tulang",
-    "translation": "bone",
-    "pos": "noun"
+    "translation": "bone"
   },
   {
     "id": 276,
     "word": "kulit",
-    "translation": "skin",
-    "pos": "noun"
+    "translation": "skin"
   },
   {
     "id": 277,
     "word": "rambut",
-    "translation": "hair",
-    "pos": "noun"
+    "translation": "hair"
   },
   {
     "id": 278,
     "word": "mulut",
-    "translation": "mouth",
-    "pos": "noun"
+    "translation": "mouth"
   },
   {
     "id": 279,
     "word": "gigi",
-    "translation": "tooth / teeth",
-    "pos": "noun"
+    "translation": "tooth / teeth"
   },
   {
     "id": 280,
     "word": "lidah",
-    "translation": "tongue",
-    "pos": "noun"
+    "translation": "tongue"
   },
   {
     "id": 281,
     "word": "telinga",
-    "translation": "ear",
-    "pos": "noun"
+    "translation": "ear"
   },
   {
     "id": 282,
     "word": "hidung",
-    "translation": "nose",
-    "pos": "noun"
+    "translation": "nose"
   },
   {
     "id": 283,
     "word": "wajah",
-    "translation": "face",
-    "pos": "noun"
+    "translation": "face"
   },
   {
     "id": 284,
     "word": "dada",
-    "translation": "chest",
-    "pos": "noun"
+    "translation": "chest"
   },
   {
     "id": 285,
     "word": "perut",
-    "translation": "stomach / belly",
-    "pos": "noun"
+    "translation": "stomach / belly"
   },
   {
     "id": 286,
     "word": "punggung",
-    "translation": "back (body)",
-    "pos": "noun"
+    "translation": "back (body)"
   },
   {
     "id": 287,
     "word": "jari",
-    "translation": "finger / toe",
-    "pos": "noun"
+    "translation": "finger / toe"
   },
   {
     "id": 288,
     "word": "lutut",
-    "translation": "knee",
-    "pos": "noun"
+    "translation": "knee"
   },
   {
     "id": 289,
     "word": "bahu",
-    "translation": "shoulder",
-    "pos": "noun"
+    "translation": "shoulder"
   },
   {
     "id": 290,
     "word": "leher",
-    "translation": "neck",
-    "pos": "noun"
+    "translation": "neck"
   },
   {
     "id": 291,
     "word": "makanan",
-    "translation": "food",
-    "pos": "noun"
+    "translation": "food"
   },
   {
     "id": 292,
     "word": "minuman",
-    "translation": "drink / beverage",
-    "pos": "noun"
+    "translation": "drink / beverage"
   },
   {
     "id": 293,
     "word": "nasi",
-    "translation": "rice (cooked)",
-    "pos": "noun"
+    "translation": "rice (cooked)"
   },
   {
     "id": 294,
     "word": "roti",
-    "translation": "bread",
-    "pos": "noun"
+    "translation": "bread"
   },
   {
     "id": 295,
     "word": "daging",
-    "translation": "meat",
-    "pos": "noun"
+    "translation": "meat"
   },
   {
     "id": 296,
     "word": "ikan",
-    "translation": "fish",
-    "pos": "noun"
+    "translation": "fish"
   },
   {
     "id": 297,
     "word": "ayam",
-    "translation": "chicken",
-    "pos": "noun"
+    "translation": "chicken"
   },
   {
     "id": 298,
     "word": "telur",
-    "translation": "egg",
-    "pos": "noun"
+    "translation": "egg"
   },
   {
     "id": 299,
     "word": "sayur",
-    "translation": "vegetable",
-    "pos": "noun"
+    "translation": "vegetable"
   },
   {
     "id": 300,
     "word": "buah",
-    "translation": "fruit",
-    "pos": "noun"
+    "translation": "fruit"
   },
   {
     "id": 301,
     "word": "gula",
-    "translation": "sugar",
-    "pos": "noun"
+    "translation": "sugar"
   },
   {
     "id": 302,
     "word": "garam",
-    "translation": "salt",
-    "pos": "noun"
+    "translation": "salt"
   },
   {
     "id": 303,
     "word": "minyak",
-    "translation": "oil",
-    "pos": "noun"
+    "translation": "oil"
   },
   {
     "id": 304,
     "word": "susu",
-    "translation": "milk",
-    "pos": "noun"
+    "translation": "milk"
   },
   {
     "id": 305,
     "word": "teh",
-    "translation": "tea",
-    "pos": "noun"
+    "translation": "tea"
   },
   {
     "id": 306,
     "word": "kopi",
-    "translation": "coffee",
-    "pos": "noun"
+    "translation": "coffee"
   },
   {
     "id": 307,
     "word": "pohon",
-    "translation": "tree",
-    "pos": "noun"
+    "translation": "tree"
   },
   {
     "id": 308,
     "word": "bunga",
-    "translation": "flower",
-    "pos": "noun"
+    "translation": "flower"
   },
   {
     "id": 309,
     "word": "daun",
-    "translation": "leaf",
-    "pos": "noun"
+    "translation": "leaf"
   },
   {
     "id": 310,
     "word": "akar",
-    "translation": "root",
-    "pos": "noun"
+    "translation": "root"
   },
   {
     "id": 311,
     "word": "benih",
-    "translation": "seed",
-    "pos": "noun"
+    "translation": "seed"
   },
   {
     "id": 312,
     "word": "rumput",
-    "translation": "grass",
-    "pos": "noun"
+    "translation": "grass"
   },
   {
     "id": 313,
     "word": "hutan",
-    "translation": "forest",
-    "pos": "noun"
+    "translation": "forest"
   },
   {
     "id": 314,
     "word": "gunung",
-    "translation": "mountain",
-    "pos": "noun"
+    "translation": "mountain"
   },
   {
     "id": 315,
     "word": "sungai",
-    "translation": "river",
-    "pos": "noun"
+    "translation": "river"
   },
   {
     "id": 316,
     "word": "danau",
-    "translation": "lake",
-    "pos": "noun"
+    "translation": "lake"
   },
   {
     "id": 317,
     "word": "pulau",
-    "translation": "island",
-    "pos": "noun"
+    "translation": "island"
   },
   {
     "id": 318,
     "word": "pantai",
-    "translation": "beach / coast",
-    "pos": "noun"
+    "translation": "beach / coast"
   },
   {
     "id": 319,
     "word": "langit",
-    "translation": "sky",
-    "pos": "noun"
+    "translation": "sky"
   },
   {
     "id": 320,
     "word": "matahari",
-    "translation": "sun",
-    "pos": "noun"
+    "translation": "sun"
   },
   {
     "id": 321,
     "word": "bintang",
-    "translation": "star",
-    "pos": "noun"
+    "translation": "star"
   },
   {
     "id": 322,
     "word": "awan",
-    "translation": "cloud",
-    "pos": "noun"
+    "translation": "cloud"
   },
   {
     "id": 323,
     "word": "hujan",
-    "translation": "rain",
-    "pos": "noun"
+    "translation": "rain"
   },
   {
     "id": 324,
     "word": "angin",
-    "translation": "wind",
-    "pos": "noun"
+    "translation": "wind"
   },
   {
     "id": 325,
     "word": "api",
-    "translation": "fire",
-    "pos": "noun"
+    "translation": "fire"
   },
   {
     "id": 326,
     "word": "batu",
-    "translation": "stone / rock",
-    "pos": "noun"
+    "translation": "stone / rock"
   },
   {
     "id": 327,
     "word": "pasir",
-    "translation": "sand",
-    "pos": "noun"
+    "translation": "sand"
   },
   {
     "id": 328,
     "word": "debu",
-    "translation": "dust",
-    "pos": "noun"
+    "translation": "dust"
   },
   {
     "id": 329,
     "word": "asap",
-    "translation": "smoke",
-    "pos": "noun"
+    "translation": "smoke"
   },
   {
     "id": 330,
     "word": "es",
-    "translation": "ice",
-    "pos": "noun"
+    "translation": "ice"
   },
   {
     "id": 331,
     "word": "salju",
-    "translation": "snow",
-    "pos": "noun"
+    "translation": "snow"
   },
   {
     "id": 332,
     "word": "binatang",
-    "translation": "animal",
-    "pos": "noun"
+    "translation": "animal"
   },
   {
     "id": 333,
     "word": "anjing",
-    "translation": "dog",
-    "pos": "noun"
+    "translation": "dog"
   },
   {
     "id": 334,
     "word": "kucing",
-    "translation": "cat",
-    "pos": "noun"
+    "translation": "cat"
   },
   {
     "id": 335,
     "word": "burung",
-    "translation": "bird",
-    "pos": "noun"
+    "translation": "bird"
   },
   {
     "id": 336,
     "word": "kuda",
-    "translation": "horse",
-    "pos": "noun"
+    "translation": "horse"
   },
   {
     "id": 337,
     "word": "sapi",
-    "translation": "cow",
-    "pos": "noun"
+    "translation": "cow"
   },
   {
     "id": 338,
     "word": "kambing",
-    "translation": "goat",
-    "pos": "noun"
+    "translation": "goat"
   },
   {
     "id": 339,
     "word": "ular",
-    "translation": "snake",
-    "pos": "noun"
+    "translation": "snake"
   },
   {
     "id": 340,
     "word": "nyamuk",
-    "translation": "mosquito",
-    "pos": "noun"
+    "translation": "mosquito"
   },
   {
     "id": 341,
     "word": "semut",
-    "translation": "ant",
-    "pos": "noun"
+    "translation": "ant"
   },
   {
     "id": 342,
     "word": "lalat",
-    "translation": "fly (insect)",
-    "pos": "noun"
+    "translation": "fly (insect)"
   },
   {
     "id": 343,
     "word": "tikus",
-    "translation": "mouse / rat",
-    "pos": "noun"
+    "translation": "mouse / rat"
   },
   {
     "id": 344,
     "word": "gajah",
-    "translation": "elephant",
-    "pos": "noun"
+    "translation": "elephant"
   },
   {
     "id": 345,
     "word": "harimau",
-    "translation": "tiger",
-    "pos": "noun"
+    "translation": "tiger"
   },
   {
     "id": 346,
     "word": "pintu",
-    "translation": "door",
-    "pos": "noun"
+    "translation": "door"
   },
   {
     "id": 347,
     "word": "jendela",
-    "translation": "window",
-    "pos": "noun"
+    "translation": "window"
   },
   {
     "id": 348,
     "word": "dinding",
-    "translation": "wall",
-    "pos": "noun"
+    "translation": "wall"
   },
   {
     "id": 349,
     "word": "lantai",
-    "translation": "floor",
-    "pos": "noun"
+    "translation": "floor"
   },
   {
     "id": 350,
     "word": "atap",
-    "translation": "roof",
-    "pos": "noun"
+    "translation": "roof"
   },
   {
     "id": 351,
     "word": "meja",
-    "translation": "table / desk",
-    "pos": "noun"
+    "translation": "table / desk"
   },
   {
     "id": 352,
     "word": "kursi",
-    "translation": "chair",
-    "pos": "noun"
+    "translation": "chair"
   },
   {
     "id": 353,
     "word": "kasur",
-    "translation": "mattress / bed",
-    "pos": "noun"
+    "translation": "mattress / bed"
   },
   {
     "id": 354,
     "word": "lemari",
-    "translation": "cupboard / wardrobe",
-    "pos": "noun"
+    "translation": "cupboard / wardrobe"
   },
   {
     "id": 355,
     "word": "kamar",
-    "translation": "room",
-    "pos": "noun"
+    "translation": "room"
   },
   {
     "id": 356,
     "word": "dapur",
-    "translation": "kitchen",
-    "pos": "noun"
+    "translation": "kitchen"
   },
   {
     "id": 357,
     "word": "kamar mandi",
-    "translation": "bathroom",
-    "pos": "noun"
+    "translation": "bathroom"
   },
   {
     "id": 358,
     "word": "taman",
-    "translation": "garden / park",
-    "pos": "noun"
+    "translation": "garden / park"
   },
   {
     "id": 359,
     "word": "halaman",
-    "translation": "yard / page",
-    "pos": "noun"
+    "translation": "yard / page"
   },
   {
     "id": 360,
     "word": "garasi",
-    "translation": "garage",
-    "pos": "noun"
+    "translation": "garage"
   },
   {
     "id": 361,
     "word": "mobil",
-    "translation": "car",
-    "pos": "noun"
+    "translation": "car"
   },
   {
     "id": 362,
     "word": "sepeda",
-    "translation": "bicycle",
-    "pos": "noun"
+    "translation": "bicycle"
   },
   {
     "id": 363,
     "word": "kapal",
-    "translation": "ship / boat",
-    "pos": "noun"
+    "translation": "ship / boat"
   },
   {
     "id": 364,
     "word": "pesawat",
-    "translation": "airplane",
-    "pos": "noun"
+    "translation": "airplane"
   },
   {
     "id": 365,
     "word": "kereta",
-    "translation": "train / cart",
-    "pos": "noun"
+    "translation": "train / cart"
   },
   {
     "id": 366,
     "word": "bis",
-    "translation": "bus",
-    "pos": "noun"
+    "translation": "bus"
   },
   {
     "id": 367,
     "word": "baju",
-    "translation": "shirt / clothes",
-    "pos": "noun"
+    "translation": "shirt / clothes"
   },
   {
     "id": 368,
     "word": "celana",
-    "translation": "pants / trousers",
-    "pos": "noun"
+    "translation": "pants / trousers"
   },
   {
     "id": 369,
     "word": "sepatu",
-    "translation": "shoe",
-    "pos": "noun"
+    "translation": "shoe"
   },
   {
     "id": 370,
     "word": "topi",
-    "translation": "hat",
-    "pos": "noun"
+    "translation": "hat"
   },
   {
     "id": 371,
     "word": "tas",
-    "translation": "bag",
-    "pos": "noun"
+    "translation": "bag"
   },
   {
     "id": 372,
     "word": "kunci",
-    "translation": "key / lock",
-    "pos": "noun"
+    "translation": "key / lock"
   },
   {
     "id": 373,
     "word": "pisau",
-    "translation": "knife",
-    "pos": "noun"
+    "translation": "knife"
   },
   {
     "id": 374,
     "word": "sendok",
-    "translation": "spoon",
-    "pos": "noun"
+    "translation": "spoon"
   },
   {
     "id": 375,
     "word": "garpu",
-    "translation": "fork",
-    "pos": "noun"
+    "translation": "fork"
   },
   {
     "id": 376,
     "word": "piring",
-    "translation": "plate",
-    "pos": "noun"
+    "translation": "plate"
   },
   {
     "id": 377,
     "word": "gelas",
-    "translation": "glass (drinking)",
-    "pos": "noun"
+    "translation": "glass (drinking)"
   },
   {
     "id": 378,
     "word": "botol",
-    "translation": "bottle",
-    "pos": "noun"
+    "translation": "bottle"
   },
   {
     "id": 379,
     "word": "kotak",
-    "translation": "box",
-    "pos": "noun"
+    "translation": "box"
   },
   {
     "id": 380,
     "word": "tali",
-    "translation": "rope / string",
-    "pos": "noun"
+    "translation": "rope / string"
   },
   {
     "id": 381,
     "word": "jarum",
-    "translation": "needle",
-    "pos": "noun"
+    "translation": "needle"
   },
   {
     "id": 382,
     "word": "benang",
-    "translation": "thread",
-    "pos": "noun"
+    "translation": "thread"
   },
   {
     "id": 383,
     "word": "kertas",
-    "translation": "paper",
-    "pos": "noun"
+    "translation": "paper"
   },
   {
     "id": 384,
     "word": "pensil",
-    "translation": "pencil",
-    "pos": "noun"
+    "translation": "pencil"
   },
   {
     "id": 385,
     "word": "pena",
-    "translation": "pen",
-    "pos": "noun"
+    "translation": "pen"
   },
   {
     "id": 386,
     "word": "gambar",
-    "translation": "picture / image / drawing",
-    "pos": "noun"
+    "translation": "picture / image / drawing"
   },
   {
     "id": 387,
     "word": "foto",
-    "translation": "photo / photograph",
-    "pos": "noun"
+    "translation": "photo / photograph"
   },
   {
     "id": 388,
     "word": "warna",
-    "translation": "color",
-    "pos": "noun"
+    "translation": "color"
   },
   {
     "id": 389,
     "word": "suara",
-    "translation": "voice / sound",
-    "pos": "noun"
+    "translation": "voice / sound"
   },
   {
     "id": 390,
     "word": "musik",
-    "translation": "music",
-    "pos": "noun"
+    "translation": "music"
   },
   {
     "id": 391,
     "word": "lagu",
-    "translation": "song",
-    "pos": "noun"
+    "translation": "song"
   },
   {
     "id": 392,
     "word": "seni",
-    "translation": "art",
-    "pos": "noun"
+    "translation": "art"
   },
   {
     "id": 393,
     "word": "budaya",
-    "translation": "culture",
-    "pos": "noun"
+    "translation": "culture"
   },
   {
     "id": 394,
     "word": "agama",
-    "translation": "religion",
-    "pos": "noun"
+    "translation": "religion"
   },
   {
     "id": 395,
     "word": "tuhan",
-    "translation": "god",
-    "pos": "noun"
+    "translation": "god"
   },
   {
     "id": 396,
     "word": "doa",
-    "translation": "prayer",
-    "pos": "noun"
+    "translation": "prayer"
   },
   {
     "id": 397,
     "word": "gereja",
-    "translation": "church",
-    "pos": "noun"
+    "translation": "church"
   },
   {
     "id": 398,
     "word": "masjid",
-    "translation": "mosque",
-    "pos": "noun"
+    "translation": "mosque"
   },
   {
     "id": 399,
     "word": "pasar",
-    "translation": "market",
-    "pos": "noun"
+    "translation": "market"
   },
   {
     "id": 400,
     "word": "toko",
-    "translation": "shop / store",
-    "pos": "noun"
+    "translation": "shop / store"
   },
   {
     "id": 401,
     "word": "harga",
-    "translation": "price",
-    "pos": "noun"
+    "translation": "price"
   },
   {
     "id": 402,
     "word": "beli",
-    "translation": "to buy",
-    "pos": "verb"
+    "translation": "to buy"
   },
   {
     "id": 403,
     "word": "jual",
-    "translation": "to sell",
-    "pos": "verb"
+    "translation": "to sell"
   },
   {
     "id": 404,
     "word": "bayar",
-    "translation": "to pay",
-    "pos": "verb"
+    "translation": "to pay"
   },
   {
     "id": 405,
     "word": "hutang",
-    "translation": "debt",
-    "pos": "noun"
+    "translation": "debt"
   },
   {
     "id": 406,
     "word": "untung",
-    "translation": "profit / lucky",
-    "pos": "noun"
+    "translation": "profit / lucky"
   },
   {
     "id": 407,
     "word": "rugi",
-    "translation": "loss / disadvantage",
-    "pos": "noun"
+    "translation": "loss / disadvantage"
   },
   {
     "id": 408,
     "word": "bisnis",
-    "translation": "business",
-    "pos": "noun"
+    "translation": "business"
   },
   {
     "id": 409,
     "word": "kantor",
-    "translation": "office",
-    "pos": "noun"
+    "translation": "office"
   },
   {
     "id": 410,
     "word": "bank",
-    "translation": "bank",
-    "pos": "noun"
+    "translation": "bank"
   },
   {
     "id": 411,
     "word": "rumah sakit",
-    "translation": "hospital",
-    "pos": "noun"
+    "translation": "hospital"
   },
   {
     "id": 412,
     "word": "universitas",
-    "translation": "university",
-    "pos": "noun"
+    "translation": "university"
   },
   {
     "id": 413,
     "word": "perpustakaan",
-    "translation": "library",
-    "pos": "noun"
+    "translation": "library"
   },
   {
     "id": 414,
     "word": "stasiun",
-    "translation": "station",
-    "pos": "noun"
+    "translation": "station"
   },
   {
     "id": 415,
     "word": "bandara",
-    "translation": "airport",
-    "pos": "noun"
+    "translation": "airport"
   },
   {
     "id": 416,
     "word": "hotel",
-    "translation": "hotel",
-    "pos": "noun"
+    "translation": "hotel"
   },
   {
     "id": 417,
     "word": "restoran",
-    "translation": "restaurant",
-    "pos": "noun"
+    "translation": "restaurant"
   },
   {
     "id": 418,
     "word": "benua",
-    "translation": "continent",
-    "pos": "noun"
+    "translation": "continent"
   },
   {
     "id": 419,
     "word": "desa",
-    "translation": "village",
-    "pos": "noun"
+    "translation": "village"
   },
   {
     "id": 420,
     "word": "provinsi",
-    "translation": "province",
-    "pos": "noun"
+    "translation": "province"
   },
   {
     "id": 421,
     "word": "jembatan",
-    "translation": "bridge",
-    "pos": "noun"
+    "translation": "bridge"
   },
   {
     "id": 422,
     "word": "berikan",
-    "translation": "give (imperative)",
-    "pos": "verb"
+    "translation": "give (imperative)"
   },
   {
     "id": 423,
     "word": "ambil",
-    "translation": "take / fetch",
-    "pos": "verb"
+    "translation": "take / fetch"
   },
   {
     "id": 424,
     "word": "taruh",
-    "translation": "put / place",
-    "pos": "verb"
+    "translation": "put / place"
   },
   {
     "id": 425,
     "word": "buka",
-    "translation": "open",
-    "pos": "verb"
+    "translation": "open"
   },
   {
     "id": 426,
     "word": "tutup",
-    "translation": "close / shut",
-    "pos": "verb"
+    "translation": "close / shut"
   },
   {
     "id": 427,
     "word": "masuk",
-    "translation": "enter / go in",
-    "pos": "verb"
+    "translation": "enter / go in"
   },
   {
     "id": 428,
     "word": "keluar",
-    "translation": "exit / go out",
-    "pos": "verb"
+    "translation": "exit / go out"
   },
   {
     "id": 429,
     "word": "naik",
-    "translation": "go up / ride / increase",
-    "pos": "verb"
+    "translation": "go up / ride / increase"
   },
   {
     "id": 430,
     "word": "turun",
-    "translation": "go down / descend / decrease",
-    "pos": "verb"
+    "translation": "go down / descend / decrease"
   },
   {
     "id": 431,
     "word": "duduk",
-    "translation": "to sit",
-    "pos": "verb"
+    "translation": "to sit"
   },
   {
     "id": 432,
     "word": "berdiri",
-    "translation": "to stand",
-    "pos": "verb"
+    "translation": "to stand"
   },
   {
     "id": 433,
     "word": "tidur",
-    "translation": "to sleep",
-    "pos": "verb"
+    "translation": "to sleep"
   },
   {
     "id": 434,
     "word": "bangun",
-    "translation": "to wake up / to build",
-    "pos": "verb"
+    "translation": "to wake up / to build"
   },
   {
     "id": 435,
     "word": "lari",
-    "translation": "to run",
-    "pos": "verb"
+    "translation": "to run"
   },
   {
     "id": 436,
     "word": "terbang",
-    "translation": "to fly",
-    "pos": "verb"
+    "translation": "to fly"
   },
   {
     "id": 437,
     "word": "renang",
-    "translation": "to swim",
-    "pos": "verb"
+    "translation": "to swim"
   },
   {
     "id": 438,
     "word": "jatuh",
-    "translation": "to fall",
-    "pos": "verb"
+    "translation": "to fall"
   },
   {
     "id": 439,
     "word": "lempar",
-    "translation": "to throw",
-    "pos": "verb"
+    "translation": "to throw"
   },
   {
     "id": 440,
     "word": "tangkap",
-    "translation": "to catch",
-    "pos": "verb"
+    "translation": "to catch"
   },
   {
     "id": 441,
     "word": "pegang",
-    "translation": "to hold / to grip",
-    "pos": "verb"
+    "translation": "to hold / to grip"
   },
   {
     "id": 442,
     "word": "tarik",
-    "translation": "to pull",
-    "pos": "verb"
+    "translation": "to pull"
   },
   {
     "id": 443,
     "word": "dorong",
-    "translation": "to push",
-    "pos": "verb"
+    "translation": "to push"
   },
   {
     "id": 444,
     "word": "potong",
-    "translation": "to cut",
-    "pos": "verb"
+    "translation": "to cut"
   },
   {
     "id": 445,
     "word": "ikat",
-    "translation": "to tie / to bind",
-    "pos": "verb"
+    "translation": "to tie / to bind"
   },
   {
     "id": 446,
     "word": "cuci",
-    "translation": "to wash",
-    "pos": "verb"
+    "translation": "to wash"
   },
   {
     "id": 447,
     "word": "masak",
-    "translation": "to cook",
-    "pos": "verb"
+    "translation": "to cook"
   },
   {
     "id": 448,
     "word": "goreng",
-    "translation": "to fry",
-    "pos": "verb"
+    "translation": "to fry"
   },
   {
     "id": 449,
     "word": "rebus",
-    "translation": "to boil",
-    "pos": "verb"
+    "translation": "to boil"
   },
   {
     "id": 450,
     "word": "bakar",
-    "translation": "to burn / to grill",
-    "pos": "verb"
+    "translation": "to burn / to grill"
   },
   {
     "id": 451,
     "word": "cari",
-    "translation": "to search / to look for",
-    "pos": "verb"
+    "translation": "to search / to look for"
   },
   {
     "id": 452,
     "word": "temukan",
-    "translation": "to find / to discover",
-    "pos": "verb"
+    "translation": "to find / to discover"
   },
   {
     "id": 453,
     "word": "hilang",
-    "translation": "lost / disappear",
-    "pos": "verb"
+    "translation": "lost / disappear"
   },
   {
     "id": 454,
     "word": "simpan",
-    "translation": "to keep / to save / to store",
-    "pos": "verb"
+    "translation": "to keep / to save / to store"
   },
   {
     "id": 455,
     "word": "buang",
-    "translation": "to throw away / to discard",
-    "pos": "verb"
+    "translation": "to throw away / to discard"
   },
   {
     "id": 456,
     "word": "pukul",
-    "translation": "to hit / to strike / o'clock",
-    "pos": "verb"
+    "translation": "to hit / to strike / o'clock"
   },
   {
     "id": 457,
     "word": "tendang",
-    "translation": "to kick",
-    "pos": "verb"
+    "translation": "to kick"
   },
   {
     "id": 458,
     "word": "gigit",
-    "translation": "to bite",
-    "pos": "verb"
+    "translation": "to bite"
   },
   {
     "id": 459,
     "word": "cium",
-    "translation": "to kiss / to smell",
-    "pos": "verb"
+    "translation": "to kiss / to smell"
   },
   {
     "id": 460,
     "word": "peluk",
-    "translation": "to hug / to embrace",
-    "pos": "verb"
+    "translation": "to hug / to embrace"
   },
   {
     "id": 461,
     "word": "tertawa",
-    "translation": "to laugh",
-    "pos": "verb"
+    "translation": "to laugh"
   },
   {
     "id": 462,
     "word": "menangis",
-    "translation": "to cry / to weep",
-    "pos": "verb"
+    "translation": "to cry / to weep"
   },
   {
     "id": 463,
     "word": "tersenyum",
-    "translation": "to smile",
-    "pos": "verb"
+    "translation": "to smile"
   },
   {
     "id": 464,
     "word": "bernyanyi",
-    "translation": "to sing",
-    "pos": "verb"
+    "translation": "to sing"
   },
   {
     "id": 465,
     "word": "menari",
-    "translation": "to dance",
-    "pos": "verb"
+    "translation": "to dance"
   },
   {
     "id": 466,
     "word": "bermain",
-    "translation": "to play",
-    "pos": "verb"
+    "translation": "to play"
   },
   {
     "id": 467,
     "word": "menang",
-    "translation": "to win",
-    "pos": "verb"
+    "translation": "to win"
   },
   {
     "id": 468,
     "word": "kalah",
-    "translation": "to lose (competition)",
-    "pos": "verb"
+    "translation": "to lose (competition)"
   },
   {
     "id": 469,
     "word": "bertanya",
-    "translation": "to ask (a question)",
-    "pos": "verb"
+    "translation": "to ask (a question)"
   },
   {
     "id": 470,
     "word": "menjawab",
-    "translation": "to answer / to reply",
-    "pos": "verb"
+    "translation": "to answer / to reply"
   },
   {
     "id": 471,
     "word": "berbicara",
-    "translation": "to speak / to talk",
-    "pos": "verb"
+    "translation": "to speak / to talk"
   },
   {
     "id": 472,
     "word": "mendengar",
-    "translation": "to hear / to listen",
-    "pos": "verb"
+    "translation": "to hear / to listen"
   },
   {
     "id": 473,
     "word": "berteriak",
-    "translation": "to shout / to scream",
-    "pos": "verb"
+    "translation": "to shout / to scream"
   },
   {
     "id": 474,
     "word": "berbisik",
-    "translation": "to whisper",
-    "pos": "verb"
+    "translation": "to whisper"
   },
   {
     "id": 475,
     "word": "mengajar",
-    "translation": "to teach",
-    "pos": "verb"
+    "translation": "to teach"
   },
   {
     "id": 476,
     "word": "belajar",
-    "translation": "to learn / to study",
-    "pos": "verb"
+    "translation": "to learn / to study"
   },
   {
     "id": 477,
     "word": "mengerti",
-    "translation": "to understand",
-    "pos": "verb"
+    "translation": "to understand"
   },
   {
     "id": 478,
     "word": "ingat",
-    "translation": "to remember",
-    "pos": "verb"
+    "translation": "to remember"
   },
   {
     "id": 479,
     "word": "lupa",
-    "translation": "to forget",
-    "pos": "verb"
+    "translation": "to forget"
   },
   {
     "id": 480,
     "word": "percaya",
-    "translation": "to believe / to trust",
-    "pos": "verb"
+    "translation": "to believe / to trust"
   },
   {
     "id": 481,
     "word": "harap",
-    "translation": "to hope / please",
-    "pos": "verb"
+    "translation": "to hope / please"
   },
   {
     "id": 482,
     "word": "cinta",
-    "translation": "love",
-    "pos": "noun"
+    "translation": "love"
   },
   {
     "id": 483,
     "word": "benci",
-    "translation": "to hate",
-    "pos": "verb"
+    "translation": "to hate"
   },
   {
     "id": 484,
     "word": "suka",
-    "translation": "to like",
-    "pos": "verb"
+    "translation": "to like"
   },
   {
     "id": 485,
     "word": "butuh",
-    "translation": "to need",
-    "pos": "verb"
+    "translation": "to need"
   },
   {
     "id": 486,
     "word": "coba",
-    "translation": "to try",
-    "pos": "verb"
+    "translation": "to try"
   },
   {
     "id": 487,
     "word": "selesai",
-    "translation": "finished / done / completed",
-    "pos": "adj"
+    "translation": "finished / done / completed"
   },
   {
     "id": 488,
     "word": "berhenti",
-    "translation": "to stop",
-    "pos": "verb"
+    "translation": "to stop"
   },
   {
     "id": 489,
     "word": "lanjut",
-    "translation": "to continue",
-    "pos": "verb"
+    "translation": "to continue"
   },
   {
     "id": 490,
     "word": "tunggu",
-    "translation": "to wait",
-    "pos": "verb"
+    "translation": "to wait"
   },
   {
     "id": 491,
     "word": "tolong",
-    "translation": "help / please",
-    "pos": "verb"
+    "translation": "help / please"
   },
   {
     "id": 492,
     "word": "bantu",
-    "translation": "to help / to assist",
-    "pos": "verb"
+    "translation": "to help / to assist"
   },
   {
     "id": 493,
     "word": "kirim",
-    "translation": "to send",
-    "pos": "verb"
+    "translation": "to send"
   },
   {
     "id": 494,
     "word": "terima",
-    "translation": "to receive / to accept",
-    "pos": "verb"
+    "translation": "to receive / to accept"
   },
   {
     "id": 495,
     "word": "pinjam",
-    "translation": "to borrow",
-    "pos": "verb"
+    "translation": "to borrow"
   },
   {
     "id": 496,
     "word": "pilih",
-    "translation": "to choose / to select",
-    "pos": "verb"
+    "translation": "to choose / to select"
   },
   {
     "id": 497,
     "word": "putuskan",
-    "translation": "to decide",
-    "pos": "verb"
+    "translation": "to decide"
   },
   {
     "id": 498,
     "word": "setuju",
-    "translation": "to agree",
-    "pos": "verb"
+    "translation": "to agree"
   },
   {
     "id": 499,
     "word": "tolak",
-    "translation": "to refuse / to reject",
-    "pos": "verb"
+    "translation": "to refuse / to reject"
   },
   {
     "id": 500,
     "word": "izin",
-    "translation": "permission / permit",
-    "pos": "noun"
+    "translation": "permission / permit"
   },
   {
     "id": 501,
     "word": "janji",
-    "translation": "promise / appointment",
-    "pos": "noun"
+    "translation": "promise / appointment"
   },
   {
     "id": 502,
     "word": "undang",
-    "translation": "to invite",
-    "pos": "verb"
+    "translation": "to invite"
   },
   {
     "id": 503,
     "word": "kunjungi",
-    "translation": "to visit",
-    "pos": "verb"
+    "translation": "to visit"
   },
   {
     "id": 504,
     "word": "tinggal",
-    "translation": "to live / to stay / to remain",
-    "pos": "verb"
+    "translation": "to live / to stay / to remain"
   },
   {
     "id": 505,
     "word": "pindah",
-    "translation": "to move / to relocate",
-    "pos": "verb"
+    "translation": "to move / to relocate"
   },
   {
     "id": 506,
     "word": "berangkat",
-    "translation": "to depart / to leave",
-    "pos": "verb"
+    "translation": "to depart / to leave"
   },
   {
     "id": 507,
     "word": "sampai",
-    "translation": "to arrive / until",
-    "pos": "verb"
+    "translation": "to arrive / until"
   },
   {
     "id": 508,
     "word": "pulang",
-    "translation": "to go home / to return home",
-    "pos": "verb"
+    "translation": "to go home / to return home"
   },
   {
     "id": 509,
     "word": "tiba",
-    "translation": "to arrive",
-    "pos": "verb"
+    "translation": "to arrive"
   },
   {
     "id": 510,
     "word": "ikut",
-    "translation": "to follow / to join",
-    "pos": "verb"
+    "translation": "to follow / to join"
   },
   {
     "id": 511,
     "word": "bertemu",
-    "translation": "to meet",
-    "pos": "verb"
+    "translation": "to meet"
   },
   {
     "id": 512,
     "word": "kenal",
-    "translation": "to know (someone) / to recognize",
-    "pos": "verb"
+    "translation": "to know (someone) / to recognize"
   },
   {
     "id": 513,
     "word": "kenalkan",
-    "translation": "to introduce",
-    "pos": "verb"
+    "translation": "to introduce"
   },
   {
     "id": 514,
     "word": "hubungan",
-    "translation": "relationship / connection",
-    "pos": "noun"
+    "translation": "relationship / connection"
   },
   {
     "id": 515,
     "word": "perang",
-    "translation": "war",
-    "pos": "noun"
+    "translation": "war"
   },
   {
     "id": 516,
     "word": "damai",
-    "translation": "peace / peaceful",
-    "pos": "noun"
+    "translation": "peace / peaceful"
   },
   {
     "id": 517,
     "word": "hukum",
-    "translation": "law",
-    "pos": "noun"
+    "translation": "law"
   },
   {
     "id": 518,
     "word": "aturan",
-    "translation": "rule / regulation",
-    "pos": "noun"
+    "translation": "rule / regulation"
   },
   {
     "id": 519,
     "word": "undang-undang",
-    "translation": "law / legislation",
-    "pos": "noun"
+    "translation": "law / legislation"
   },
   {
     "id": 520,
     "word": "hak",
-    "translation": "right / rights",
-    "pos": "noun"
+    "translation": "right / rights"
   },
   {
     "id": 521,
     "word": "kewajiban",
-    "translation": "obligation / duty",
-    "pos": "noun"
+    "translation": "obligation / duty"
   },
   {
     "id": 522,
     "word": "pemilihan",
-    "translation": "election / selection",
-    "pos": "noun"
+    "translation": "election / selection"
   },
   {
     "id": 523,
     "word": "partai",
-    "translation": "party (political)",
-    "pos": "noun"
+    "translation": "party (political)"
   },
   {
     "id": 524,
     "word": "ekonomi",
-    "translation": "economy / economics",
-    "pos": "noun"
+    "translation": "economy / economics"
   },
   {
     "id": 525,
     "word": "pendidikan",
-    "translation": "education",
-    "pos": "noun"
+    "translation": "education"
   },
   {
     "id": 526,
     "word": "kesehatan",
-    "translation": "health",
-    "pos": "noun"
+    "translation": "health"
   },
   {
     "id": 527,
     "word": "ilmu",
-    "translation": "science / knowledge",
-    "pos": "noun"
+    "translation": "science / knowledge"
   },
   {
     "id": 528,
     "word": "teknologi",
-    "translation": "technology",
-    "pos": "noun"
+    "translation": "technology"
   },
   {
     "id": 529,
     "word": "komputer",
-    "translation": "computer",
-    "pos": "noun"
+    "translation": "computer"
   },
   {
     "id": 530,
     "word": "telepon",
-    "translation": "telephone / phone",
-    "pos": "noun"
+    "translation": "telephone / phone"
   },
   {
     "id": 531,
     "word": "internet",
-    "translation": "internet",
-    "pos": "noun"
+    "translation": "internet"
   },
   {
     "id": 532,
     "word": "listrik",
-    "translation": "electricity",
-    "pos": "noun"
+    "translation": "electricity"
   },
   {
     "id": 533,
     "word": "mesin",
-    "translation": "machine / engine",
-    "pos": "noun"
+    "translation": "machine / engine"
   },
   {
     "id": 534,
     "word": "alat",
-    "translation": "tool / instrument",
-    "pos": "noun"
+    "translation": "tool / instrument"
   },
   {
     "id": 535,
     "word": "senjata",
-    "translation": "weapon",
-    "pos": "noun"
+    "translation": "weapon"
   },
   {
     "id": 536,
     "word": "obat",
-    "translation": "medicine / drug",
-    "pos": "noun"
+    "translation": "medicine / drug"
   },
   {
     "id": 537,
     "word": "penyakit",
-    "translation": "disease / illness",
-    "pos": "noun"
+    "translation": "disease / illness"
   },
   {
     "id": 538,
     "word": "demam",
-    "translation": "fever",
-    "pos": "noun"
+    "translation": "fever"
   },
   {
     "id": 539,
     "word": "batuk",
-    "translation": "cough",
-    "pos": "noun"
+    "translation": "cough"
   },
   {
     "id": 540,
     "word": "luka",
-    "translation": "wound / injury",
-    "pos": "noun"
+    "translation": "wound / injury"
   },
   {
     "id": 541,
     "word": "mati",
-    "translation": "dead / to die",
-    "pos": "verb"
+    "translation": "dead / to die"
   },
   {
     "id": 542,
     "word": "lahir",
-    "translation": "born / to be born",
-    "pos": "verb"
+    "translation": "born / to be born"
   },
   {
     "id": 543,
     "word": "tumbuh",
-    "translation": "to grow",
-    "pos": "verb"
+    "translation": "to grow"
   },
   {
     "id": 544,
     "word": "berkembang",
-    "translation": "to develop / to grow",
-    "pos": "verb"
+    "translation": "to develop / to grow"
   },
   {
     "id": 545,
     "word": "berubah",
-    "translation": "to change",
-    "pos": "verb"
+    "translation": "to change"
   },
   {
     "id": 546,
     "word": "tetap",
-    "translation": "still / remain / fixed",
-    "pos": "adv"
+    "translation": "still / remain / fixed"
   },
   {
     "id": 547,
     "word": "bergerak",
-    "translation": "to move",
-    "pos": "verb"
+    "translation": "to move"
   },
   {
     "id": 548,
     "word": "diam",
-    "translation": "silent / still / quiet",
-    "pos": "adj"
+    "translation": "silent / still / quiet"
   },
   {
     "id": 549,
     "word": "pelan",
-    "translation": "slow / slowly",
-    "pos": "adv"
+    "translation": "slow / slowly"
   },
   {
     "id": 550,
     "word": "segera",
-    "translation": "immediately / soon",
-    "pos": "adv"
+    "translation": "immediately / soon"
   },
   {
     "id": 551,
     "word": "tiba-tiba",
-    "translation": "suddenly",
-    "pos": "adv"
+    "translation": "suddenly"
   },
   {
     "id": 552,
     "word": "kadang-kadang",
-    "translation": "sometimes",
-    "pos": "adv"
+    "translation": "sometimes"
   },
   {
     "id": 553,
     "word": "biasanya",
-    "translation": "usually",
-    "pos": "adv"
+    "translation": "usually"
   },
   {
     "id": 554,
     "word": "pasti",
-    "translation": "certain / sure / definitely",
-    "pos": "adv"
+    "translation": "certain / sure / definitely"
   },
   {
     "id": 555,
     "word": "tentu",
-    "translation": "of course / certainly",
-    "pos": "adv"
+    "translation": "of course / certainly"
   },
   {
     "id": 556,
     "word": "sungguh",
-    "translation": "really / truly",
-    "pos": "adv"
+    "translation": "really / truly"
   },
   {
     "id": 557,
     "word": "betul",
-    "translation": "right / correct / true",
-    "pos": "adj"
+    "translation": "right / correct / true"
   },
   {
     "id": 558,
     "word": "palsu",
-    "translation": "fake / false",
-    "pos": "adj"
+    "translation": "fake / false"
   },
   {
     "id": 559,
     "word": "asli",
-    "translation": "original / genuine / native",
-    "pos": "adj"
+    "translation": "original / genuine / native"
   },
   {
     "id": 560,
     "word": "nyata",
-    "translation": "real / actual",
-    "pos": "adj"
+    "translation": "real / actual"
   },
   {
     "id": 561,
     "word": "biasa",
-    "translation": "usual / ordinary / common",
-    "pos": "adj"
+    "translation": "usual / ordinary / common"
   },
   {
     "id": 562,
     "word": "istimewa",
-    "translation": "special",
-    "pos": "adj"
+    "translation": "special"
   },
   {
     "id": 563,
     "word": "penting",
-    "translation": "important",
-    "pos": "adj"
+    "translation": "important"
   },
   {
     "id": 564,
     "word": "utama",
-    "translation": "main / primary",
-    "pos": "adj"
+    "translation": "main / primary"
   },
   {
     "id": 565,
     "word": "umum",
-    "translation": "general / public / common",
-    "pos": "adj"
+    "translation": "general / public / common"
   },
   {
     "id": 566,
     "word": "khusus",
-    "translation": "special / specific",
-    "pos": "adj"
+    "translation": "special / specific"
   },
   {
     "id": 567,
     "word": "tertentu",
-    "translation": "certain / specific",
-    "pos": "adj"
+    "translation": "certain / specific"
   },
   {
     "id": 568,
     "word": "masing-masing",
-    "translation": "each / respectively",
-    "pos": "det"
+    "translation": "each / respectively"
   },
   {
     "id": 569,
     "word": "seluruh",
-    "translation": "entire / whole / all",
-    "pos": "det"
+    "translation": "entire / whole / all"
   },
   {
     "id": 570,
     "word": "sebagian",
-    "translation": "some / part of",
-    "pos": "det"
+    "translation": "some / part of"
   },
   {
     "id": 571,
     "word": "ramai",
-    "translation": "crowded / busy / lively",
-    "pos": "adj"
+    "translation": "crowded / busy / lively"
   },
   {
     "id": 572,
     "word": "sepi",
-    "translation": "quiet / deserted / lonely",
-    "pos": "adj"
+    "translation": "quiet / deserted / lonely"
   },
   {
     "id": 573,
     "word": "sibuk",
-    "translation": "busy",
-    "pos": "adj"
+    "translation": "busy"
   },
   {
     "id": 574,
     "word": "santai",
-    "translation": "relaxed / easygoing",
-    "pos": "adj"
+    "translation": "relaxed / easygoing"
   },
   {
     "id": 575,
     "word": "malas",
-    "translation": "lazy",
-    "pos": "adj"
+    "translation": "lazy"
   },
   {
     "id": 576,
     "word": "rajin",
-    "translation": "diligent / hardworking",
-    "pos": "adj"
+    "translation": "diligent / hardworking"
   },
   {
     "id": 577,
     "word": "pintar",
-    "translation": "smart / clever",
-    "pos": "adj"
+    "translation": "smart / clever"
   },
   {
     "id": 578,
     "word": "bodoh",
-    "translation": "stupid / foolish",
-    "pos": "adj"
+    "translation": "stupid / foolish"
   },
   {
     "id": 579,
     "word": "baik hati",
-    "translation": "kind / kindhearted",
-    "pos": "adj"
+    "translation": "kind / kindhearted"
   },
   {
     "id": 580,
     "word": "jahat",
-    "translation": "evil / wicked / mean",
-    "pos": "adj"
+    "translation": "evil / wicked / mean"
   },
   {
     "id": 581,
     "word": "jujur",
-    "translation": "honest",
-    "pos": "adj"
+    "translation": "honest"
   },
   {
     "id": 582,
     "word": "bohong",
-    "translation": "lie / dishonest",
-    "pos": "adj"
+    "translation": "lie / dishonest"
   },
   {
     "id": 583,
     "word": "sopan",
-    "translation": "polite",
-    "pos": "adj"
+    "translation": "polite"
   },
   {
     "id": 584,
     "word": "kasar",
-    "translation": "rude / rough / coarse",
-    "pos": "adj"
+    "translation": "rude / rough / coarse"
   },
   {
     "id": 585,
     "word": "malu",
-    "translation": "shy / embarrassed / ashamed",
-    "pos": "adj"
+    "translation": "shy / embarrassed / ashamed"
   },
   {
     "id": 586,
     "word": "bangga",
-    "translation": "proud",
-    "pos": "adj"
+    "translation": "proud"
   },
   {
     "id": 587,
     "word": "bosan",
-    "translation": "bored",
-    "pos": "adj"
+    "translation": "bored"
   },
   {
     "id": 588,
     "word": "kaget",
-    "translation": "surprised / shocked",
-    "pos": "adj"
+    "translation": "surprised / shocked"
   },
   {
     "id": 589,
     "word": "bingung",
-    "translation": "confused",
-    "pos": "adj"
+    "translation": "confused"
   },
   {
     "id": 590,
     "word": "khawatir",
-    "translation": "worried / concerned",
-    "pos": "adj"
+    "translation": "worried / concerned"
   },
   {
     "id": 591,
     "word": "gelisah",
-    "translation": "restless / anxious",
-    "pos": "adj"
+    "translation": "restless / anxious"
   },
   {
     "id": 592,
     "word": "tenang",
-    "translation": "calm / peaceful",
-    "pos": "adj"
+    "translation": "calm / peaceful"
   },
   {
     "id": 593,
     "word": "gembira",
-    "translation": "joyful / cheerful",
-    "pos": "adj"
+    "translation": "joyful / cheerful"
   },
   {
     "id": 594,
     "word": "kecewa",
-    "translation": "disappointed",
-    "pos": "adj"
+    "translation": "disappointed"
   },
   {
     "id": 595,
     "word": "puas",
-    "translation": "satisfied",
-    "pos": "adj"
+    "translation": "satisfied"
   },
   {
     "id": 596,
     "word": "lapar",
-    "translation": "hungry",
-    "pos": "adj"
+    "translation": "hungry"
   },
   {
     "id": 597,
     "word": "haus",
-    "translation": "thirsty",
-    "pos": "adj"
+    "translation": "thirsty"
   },
   {
     "id": 598,
     "word": "capek",
-    "translation": "tired / exhausted",
-    "pos": "adj"
+    "translation": "tired / exhausted"
   },
   {
     "id": 599,
     "word": "segar",
-    "translation": "fresh / refreshed",
-    "pos": "adj"
+    "translation": "fresh / refreshed"
   },
   {
     "id": 600,
     "word": "enak",
-    "translation": "delicious / comfortable",
-    "pos": "adj"
+    "translation": "delicious / comfortable"
   },
   {
     "id": 601,
     "word": "pahit",
-    "translation": "bitter",
-    "pos": "adj"
+    "translation": "bitter"
   },
   {
     "id": 602,
     "word": "manis",
-    "translation": "sweet",
-    "pos": "adj"
+    "translation": "sweet"
   },
   {
     "id": 603,
     "word": "asin",
-    "translation": "salty",
-    "pos": "adj"
+    "translation": "salty"
   },
   {
     "id": 604,
     "word": "pedas",
-    "translation": "spicy",
-    "pos": "adj"
+    "translation": "spicy"
   },
   {
     "id": 605,
     "word": "asam",
-    "translation": "sour / acid",
-    "pos": "adj"
+    "translation": "sour / acid"
   },
   {
     "id": 606,
     "word": "wangi",
-    "translation": "fragrant",
-    "pos": "adj"
+    "translation": "fragrant"
   },
   {
     "id": 607,
     "word": "bau",
-    "translation": "smell / odor / smelly",
-    "pos": "noun"
+    "translation": "smell / odor / smelly"
   },
   {
     "id": 608,
     "word": "jam",
-    "translation": "hour / clock / watch",
-    "pos": "noun"
+    "translation": "hour / clock / watch"
   },
   {
     "id": 609,
     "word": "menit",
-    "translation": "minute",
-    "pos": "noun"
+    "translation": "minute"
   },
   {
     "id": 610,
     "word": "detik",
-    "translation": "second (time)",
-    "pos": "noun"
+    "translation": "second (time)"
   },
   {
     "id": 611,
     "word": "kemarin",
-    "translation": "yesterday",
-    "pos": "adv"
+    "translation": "yesterday"
   },
   {
     "id": 612,
     "word": "besok",
-    "translation": "tomorrow",
-    "pos": "adv"
+    "translation": "tomorrow"
   },
   {
     "id": 613,
     "word": "lusa",
-    "translation": "day after tomorrow",
-    "pos": "adv"
+    "translation": "day after tomorrow"
   },
   {
     "id": 614,
     "word": "dulu",
-    "translation": "before / formerly / first",
-    "pos": "adv"
+    "translation": "before / formerly / first"
   },
   {
     "id": 615,
     "word": "nanti",
-    "translation": "later",
-    "pos": "adv"
+    "translation": "later"
   },
   {
     "id": 616,
     "word": "senin",
-    "translation": "Monday",
-    "pos": "noun"
+    "translation": "Monday"
   },
   {
     "id": 617,
     "word": "selasa",
-    "translation": "Tuesday",
-    "pos": "noun"
+    "translation": "Tuesday"
   },
   {
     "id": 618,
     "word": "rabu",
-    "translation": "Wednesday",
-    "pos": "noun"
+    "translation": "Wednesday"
   },
   {
     "id": 619,
     "word": "kamis",
-    "translation": "Thursday",
-    "pos": "noun"
+    "translation": "Thursday"
   },
   {
     "id": 620,
     "word": "jumat",
-    "translation": "Friday",
-    "pos": "noun"
+    "translation": "Friday"
   },
   {
     "id": 621,
     "word": "sabtu",
-    "translation": "Saturday",
-    "pos": "noun"
+    "translation": "Saturday"
   },
   {
     "id": 622,
     "word": "januari",
-    "translation": "January",
-    "pos": "noun"
+    "translation": "January"
   },
   {
     "id": 623,
     "word": "februari",
-    "translation": "February",
-    "pos": "noun"
+    "translation": "February"
   },
   {
     "id": 624,
     "word": "maret",
-    "translation": "March",
-    "pos": "noun"
+    "translation": "March"
   },
   {
     "id": 625,
     "word": "april",
-    "translation": "April",
-    "pos": "noun"
+    "translation": "April"
   },
   {
     "id": 626,
     "word": "mei",
-    "translation": "May",
-    "pos": "noun"
+    "translation": "May"
   },
   {
     "id": 627,
     "word": "juni",
-    "translation": "June",
-    "pos": "noun"
+    "translation": "June"
   },
   {
     "id": 628,
     "word": "juli",
-    "translation": "July",
-    "pos": "noun"
+    "translation": "July"
   },
   {
     "id": 629,
     "word": "agustus",
-    "translation": "August",
-    "pos": "noun"
+    "translation": "August"
   },
   {
     "id": 630,
     "word": "september",
-    "translation": "September",
-    "pos": "noun"
+    "translation": "September"
   },
   {
     "id": 631,
     "word": "oktober",
-    "translation": "October",
-    "pos": "noun"
+    "translation": "October"
   },
   {
     "id": 632,
     "word": "november",
-    "translation": "November",
-    "pos": "noun"
+    "translation": "November"
   },
   {
     "id": 633,
     "word": "desember",
-    "translation": "December",
-    "pos": "noun"
+    "translation": "December"
   },
   {
     "id": 634,
     "word": "utara",
-    "translation": "north",
-    "pos": "noun"
+    "translation": "north"
   },
   {
     "id": 635,
     "word": "selatan",
-    "translation": "south",
-    "pos": "noun"
+    "translation": "south"
   },
   {
     "id": 636,
     "word": "timur",
-    "translation": "east",
-    "pos": "noun"
+    "translation": "east"
   },
   {
     "id": 637,
     "word": "barat",
-    "translation": "west",
-    "pos": "noun"
+    "translation": "west"
   },
   {
     "id": 638,
     "word": "kanan",
-    "translation": "right (direction)",
-    "pos": "noun"
+    "translation": "right (direction)"
   },
   {
     "id": 639,
     "word": "kiri",
-    "translation": "left (direction)",
-    "pos": "noun"
+    "translation": "left (direction)"
   },
   {
     "id": 640,
     "word": "tengah",
-    "translation": "middle / center",
-    "pos": "noun"
+    "translation": "middle / center"
   },
   {
     "id": 641,
     "word": "samping",
-    "translation": "side / beside",
-    "pos": "noun"
+    "translation": "side / beside"
   },
   {
     "id": 642,
     "word": "belakang",
-    "translation": "behind / back",
-    "pos": "noun"
+    "translation": "behind / back"
   },
   {
     "id": 643,
     "word": "sini",
-    "translation": "here",
-    "pos": "adv"
+    "translation": "here"
   },
   {
     "id": 644,
     "word": "situ",
-    "translation": "there",
-    "pos": "adv"
+    "translation": "there"
   },
   {
     "id": 645,
     "word": "sana",
-    "translation": "over there",
-    "pos": "adv"
+    "translation": "over there"
   },
   {
     "id": 646,
     "word": "kemana",
-    "translation": "to where",
-    "pos": "adv"
+    "translation": "to where"
   },
   {
     "id": 647,
     "word": "darimana",
-    "translation": "from where",
-    "pos": "adv"
+    "translation": "from where"
   },
   {
     "id": 648,
     "word": "dimana",
-    "translation": "where (at)",
-    "pos": "adv"
+    "translation": "where (at)"
   },
   {
     "id": 649,
     "word": "kapan",
-    "translation": "when",
-    "pos": "adv"
+    "translation": "when"
   },
   {
     "id": 650,
     "word": "berapa",
-    "translation": "how many / how much",
-    "pos": "adv"
+    "translation": "how many / how much"
   },
   {
     "id": 651,
     "word": "kenapa",
-    "translation": "why",
-    "pos": "adv"
+    "translation": "why"
   },
   {
     "id": 652,
     "word": "milik",
-    "translation": "belonging / property",
-    "pos": "noun"
+    "translation": "belonging / property"
   },
   {
     "id": 653,
     "word": "ya",
-    "translation": "yes",
-    "pos": "interj"
+    "translation": "yes"
   },
   {
     "id": 654,
     "word": "terima kasih",
-    "translation": "thank you",
-    "pos": "interj"
+    "translation": "thank you"
   },
   {
     "id": 655,
     "word": "sama-sama",
-    "translation": "you're welcome",
-    "pos": "interj"
+    "translation": "you're welcome"
   },
   {
     "id": 656,
     "word": "maaf",
-    "translation": "sorry / excuse me",
-    "pos": "interj"
+    "translation": "sorry / excuse me"
   },
   {
     "id": 657,
     "word": "permisi",
-    "translation": "excuse me / pardon",
-    "pos": "interj"
+    "translation": "excuse me / pardon"
   },
   {
     "id": 658,
     "word": "silakan",
-    "translation": "please (go ahead)",
-    "pos": "interj"
+    "translation": "please (go ahead)"
   },
   {
     "id": 659,
     "word": "halo",
-    "translation": "hello",
-    "pos": "interj"
+    "translation": "hello"
   },
   {
     "id": 660,
     "word": "selamat",
-    "translation": "congratulations / safe / greeting",
-    "pos": "interj"
+    "translation": "congratulations / safe / greeting"
   },
   {
     "id": 661,
     "word": "sampai jumpa",
-    "translation": "goodbye / see you",
-    "pos": "interj"
+    "translation": "goodbye / see you"
   },
   {
     "id": 662,
     "word": "ayo",
-    "translation": "come on / let's go",
-    "pos": "interj"
+    "translation": "come on / let's go"
   },
   {
     "id": 663,
     "word": "wah",
-    "translation": "wow",
-    "pos": "interj"
+    "translation": "wow"
   },
   {
     "id": 664,
     "word": "aduh",
-    "translation": "ouch / oh no",
-    "pos": "interj"
+    "translation": "ouch / oh no"
   },
   {
     "id": 665,
     "word": "nah",
-    "translation": "well / so / now then",
-    "pos": "interj"
+    "translation": "well / so / now then"
   },
   {
     "id": 666,
     "word": "loh",
-    "translation": "huh / expressing surprise",
-    "pos": "interj"
+    "translation": "huh / expressing surprise"
   },
   {
     "id": 667,
     "word": "deh",
-    "translation": "particle for emphasis",
-    "pos": "part"
+    "translation": "particle for emphasis"
   },
   {
     "id": 668,
     "word": "dong",
-    "translation": "particle for emphasis",
-    "pos": "part"
+    "translation": "particle for emphasis"
   },
   {
     "id": 669,
     "word": "sih",
-    "translation": "particle for emphasis / questioning",
-    "pos": "part"
+    "translation": "particle for emphasis / questioning"
   },
   {
     "id": 670,
     "word": "kok",
-    "translation": "how come / why (informal)",
-    "pos": "part"
+    "translation": "how come / why (informal)"
   },
   {
     "id": 671,
     "word": "lah",
-    "translation": "particle for emphasis",
-    "pos": "part"
+    "translation": "particle for emphasis"
   },
   {
     "id": 672,
     "word": "kah",
-    "translation": "question particle",
-    "pos": "part"
+    "translation": "question particle"
   },
   {
     "id": 673,
     "word": "per",
-    "translation": "per / each",
-    "pos": "prep"
+    "translation": "per / each"
   },
   {
     "id": 674,
     "word": "demi",
-    "translation": "for the sake of",
-    "pos": "prep"
+    "translation": "for the sake of"
   },
   {
     "id": 675,
     "word": "tentang",
-    "translation": "about / regarding",
-    "pos": "prep"
+    "translation": "about / regarding"
   },
   {
     "id": 676,
     "word": "mengenai",
-    "translation": "concerning / regarding",
-    "pos": "prep"
+    "translation": "concerning / regarding"
   },
   {
     "id": 677,
     "word": "melalui",
-    "translation": "through / via",
-    "pos": "prep"
+    "translation": "through / via"
   },
   {
     "id": 678,
     "word": "selama",
-    "translation": "during / for (duration)",
-    "pos": "prep"
+    "translation": "during / for (duration)"
   },
   {
     "id": 679,
     "word": "sambil",
-    "translation": "while (doing)",
-    "pos": "conj"
+    "translation": "while (doing)"
   },
   {
     "id": 680,
     "word": "supaya",
-    "translation": "so that / in order to",
-    "pos": "conj"
+    "translation": "so that / in order to"
   },
   {
     "id": 681,
     "word": "agar",
-    "translation": "so that / in order to",
-    "pos": "conj"
+    "translation": "so that / in order to"
   },
   {
     "id": 682,
     "word": "meskipun",
-    "translation": "although / even though",
-    "pos": "conj"
+    "translation": "although / even though"
   },
   {
     "id": 683,
     "word": "walaupun",
-    "translation": "although / even though",
-    "pos": "conj"
+    "translation": "although / even though"
   },
   {
     "id": 684,
     "word": "sementara",
-    "translation": "while / meanwhile / temporary",
-    "pos": "conj"
+    "translation": "while / meanwhile / temporary"
   },
   {
     "id": 685,
     "word": "sedangkan",
-    "translation": "whereas / while",
-    "pos": "conj"
+    "translation": "whereas / while"
   },
   {
     "id": 686,
     "word": "maupun",
-    "translation": "as well as / or",
-    "pos": "conj"
+    "translation": "as well as / or"
   },
   {
     "id": 687,
     "word": "melainkan",
-    "translation": "but rather",
-    "pos": "conj"
+    "translation": "but rather"
   },
   {
     "id": 688,
     "word": "seandainya",
-    "translation": "if / supposing",
-    "pos": "conj"
+    "translation": "if / supposing"
   },
   {
     "id": 689,
     "word": "asalkan",
-    "translation": "provided that / as long as",
-    "pos": "conj"
+    "translation": "provided that / as long as"
   },
   {
     "id": 690,
     "word": "sehingga",
-    "translation": "so that / such that",
-    "pos": "conj"
+    "translation": "so that / such that"
   },
   {
     "id": 691,
     "word": "oleh karena itu",
-    "translation": "therefore / because of that",
-    "pos": "conj"
+    "translation": "therefore / because of that"
   },
   {
     "id": 692,
     "word": "selain",
-    "translation": "besides / apart from",
-    "pos": "prep"
+    "translation": "besides / apart from"
   },
   {
     "id": 693,
     "word": "kecuali",
-    "translation": "except / unless",
-    "pos": "prep"
+    "translation": "except / unless"
   },
   {
     "id": 694,
     "word": "menuju",
-    "translation": "toward / heading to",
-    "pos": "prep"
+    "translation": "toward / heading to"
   },
   {
     "id": 695,
     "word": "menghadap",
-    "translation": "to face / facing",
-    "pos": "verb"
+    "translation": "to face / facing"
   },
   {
     "id": 696,
     "word": "menerima",
-    "translation": "to receive / to accept",
-    "pos": "verb"
+    "translation": "to receive / to accept"
   },
   {
     "id": 697,
     "word": "menolak",
-    "translation": "to refuse / to reject",
-    "pos": "verb"
+    "translation": "to refuse / to reject"
   },
   {
     "id": 698,
     "word": "membangun",
-    "translation": "to build / to develop",
-    "pos": "verb"
+    "translation": "to build / to develop"
   },
   {
     "id": 699,
     "word": "menghancurkan",
-    "translation": "to destroy",
-    "pos": "verb"
+    "translation": "to destroy"
   },
   {
     "id": 700,
     "word": "memperbaiki",
-    "translation": "to repair / to improve",
-    "pos": "verb"
+    "translation": "to repair / to improve"
   },
   {
     "id": 701,
     "word": "merusak",
-    "translation": "to damage / to destroy",
-    "pos": "verb"
+    "translation": "to damage / to destroy"
   },
   {
     "id": 702,
     "word": "menciptakan",
-    "translation": "to create",
-    "pos": "verb"
+    "translation": "to create"
   },
   {
     "id": 703,
     "word": "menghapus",
-    "translation": "to delete / to erase",
-    "pos": "verb"
+    "translation": "to delete / to erase"
   },
   {
     "id": 704,
     "word": "menambah",
-    "translation": "to add / to increase",
-    "pos": "verb"
+    "translation": "to add / to increase"
   },
   {
     "id": 705,
     "word": "mengurangi",
-    "translation": "to reduce / to decrease",
-    "pos": "verb"
+    "translation": "to reduce / to decrease"
   },
   {
     "id": 706,
     "word": "mengubah",
-    "translation": "to change / to modify",
-    "pos": "verb"
+    "translation": "to change / to modify"
   },
   {
     "id": 707,
     "word": "mempelajari",
-    "translation": "to study / to learn about",
-    "pos": "verb"
+    "translation": "to study / to learn about"
   },
   {
     "id": 708,
     "word": "menjelaskan",
-    "translation": "to explain",
-    "pos": "verb"
+    "translation": "to explain"
   },
   {
     "id": 709,
     "word": "menunjukkan",
-    "translation": "to show / to indicate",
-    "pos": "verb"
+    "translation": "to show / to indicate"
   },
   {
     "id": 710,
     "word": "membuktikan",
-    "translation": "to prove",
-    "pos": "verb"
+    "translation": "to prove"
   },
   {
     "id": 711,
     "word": "membandingkan",
-    "translation": "to compare",
-    "pos": "verb"
+    "translation": "to compare"
   },
   {
     "id": 712,
     "word": "memilih",
-    "translation": "to choose / to vote",
-    "pos": "verb"
+    "translation": "to choose / to vote"
   },
   {
     "id": 713,
     "word": "menentukan",
-    "translation": "to determine / to decide",
-    "pos": "verb"
+    "translation": "to determine / to decide"
   },
   {
     "id": 714,
     "word": "menghasilkan",
-    "translation": "to produce / to generate",
-    "pos": "verb"
+    "translation": "to produce / to generate"
   },
   {
     "id": 715,
     "word": "menyediakan",
-    "translation": "to provide / to prepare",
-    "pos": "verb"
+    "translation": "to provide / to prepare"
   },
   {
     "id": 716,
     "word": "membutuhkan",
-    "translation": "to need / to require",
-    "pos": "verb"
+    "translation": "to need / to require"
   },
   {
     "id": 717,
     "word": "mengikuti",
-    "translation": "to follow / to participate",
-    "pos": "verb"
+    "translation": "to follow / to participate"
   },
   {
     "id": 718,
     "word": "memimpin",
-    "translation": "to lead",
-    "pos": "verb"
+    "translation": "to lead"
   },
   {
     "id": 719,
     "word": "mengatur",
-    "translation": "to arrange / to manage",
-    "pos": "verb"
+    "translation": "to arrange / to manage"
   },
   {
     "id": 720,
     "word": "mengelola",
-    "translation": "to manage / to administer",
-    "pos": "verb"
+    "translation": "to manage / to administer"
   },
   {
     "id": 721,
     "word": "mendukung",
-    "translation": "to support",
-    "pos": "verb"
+    "translation": "to support"
   },
   {
     "id": 722,
     "word": "melindungi",
-    "translation": "to protect",
-    "pos": "verb"
+    "translation": "to protect"
   },
   {
     "id": 723,
     "word": "menyerang",
-    "translation": "to attack",
-    "pos": "verb"
+    "translation": "to attack"
   },
   {
     "id": 724,
     "word": "bertahan",
-    "translation": "to defend / to endure",
-    "pos": "verb"
+    "translation": "to defend / to endure"
   },
   {
     "id": 725,
     "word": "menyelesaikan",
-    "translation": "to complete / to solve",
-    "pos": "verb"
+    "translation": "to complete / to solve"
   },
   {
     "id": 726,
     "word": "menghadapi",
-    "translation": "to face / to confront",
-    "pos": "verb"
+    "translation": "to face / to confront"
   },
   {
     "id": 727,
     "word": "menghindari",
-    "translation": "to avoid",
-    "pos": "verb"
+    "translation": "to avoid"
   },
   {
     "id": 728,
     "word": "mencapai",
-    "translation": "to reach / to achieve",
-    "pos": "verb"
+    "translation": "to reach / to achieve"
   },
   {
     "id": 729,
     "word": "melewati",
-    "translation": "to pass / to go through",
-    "pos": "verb"
+    "translation": "to pass / to go through"
   },
   {
     "id": 730,
     "word": "meninggalkan",
-    "translation": "to leave / to abandon",
-    "pos": "verb"
+    "translation": "to leave / to abandon"
   },
   {
     "id": 731,
     "word": "mendapatkan",
-    "translation": "to get / to obtain",
-    "pos": "verb"
+    "translation": "to get / to obtain"
   },
   {
     "id": 732,
     "word": "kehilangan",
-    "translation": "to lose / loss",
-    "pos": "verb"
+    "translation": "to lose / loss"
   },
   {
     "id": 733,
     "word": "menemukan",
-    "translation": "to find / to discover",
-    "pos": "verb"
+    "translation": "to find / to discover"
   },
   {
     "id": 734,
     "word": "mencari",
-    "translation": "to search for / to look for",
-    "pos": "verb"
+    "translation": "to search for / to look for"
   },
   {
     "id": 735,
     "word": "menyimpan",
-    "translation": "to store / to save",
-    "pos": "verb"
+    "translation": "to store / to save"
   },
   {
     "id": 736,
     "word": "mengingat",
-    "translation": "to remember / to recall",
-    "pos": "verb"
+    "translation": "to remember / to recall"
   },
   {
     "id": 737,
     "word": "melupakan",
-    "translation": "to forget",
-    "pos": "verb"
+    "translation": "to forget"
   },
   {
     "id": 738,
     "word": "mengerjakan",
-    "translation": "to work on / to do",
-    "pos": "verb"
+    "translation": "to work on / to do"
   },
   {
     "id": 739,
     "word": "menyelidiki",
-    "translation": "to investigate",
-    "pos": "verb"
+    "translation": "to investigate"
   },
   {
     "id": 740,
     "word": "memeriksa",
-    "translation": "to examine / to check",
-    "pos": "verb"
+    "translation": "to examine / to check"
   },
   {
     "id": 741,
     "word": "mengamati",
-    "translation": "to observe",
-    "pos": "verb"
+    "translation": "to observe"
   },
   {
     "id": 742,
     "word": "memperhatikan",
-    "translation": "to pay attention to / to notice",
-    "pos": "verb"
+    "translation": "to pay attention to / to notice"
   },
   {
     "id": 743,
     "word": "memikirkan",
-    "translation": "to think about",
-    "pos": "verb"
+    "translation": "to think about"
   },
   {
     "id": 744,
     "word": "memutuskan",
-    "translation": "to decide / to cut off",
-    "pos": "verb"
+    "translation": "to decide / to cut off"
   },
   {
     "id": 745,
     "word": "merencanakan",
-    "translation": "to plan",
-    "pos": "verb"
+    "translation": "to plan"
   },
   {
     "id": 746,
     "word": "mengembangkan",
-    "translation": "to develop / to expand",
-    "pos": "verb"
+    "translation": "to develop / to expand"
   },
   {
     "id": 747,
     "word": "meningkatkan",
-    "translation": "to increase / to improve",
-    "pos": "verb"
+    "translation": "to increase / to improve"
   },
   {
     "id": 748,
     "word": "menurunkan",
-    "translation": "to lower / to decrease",
-    "pos": "verb"
+    "translation": "to lower / to decrease"
   },
   {
     "id": 749,
     "word": "memperkuat",
-    "translation": "to strengthen",
-    "pos": "verb"
+    "translation": "to strengthen"
   },
   {
     "id": 750,
     "word": "melemahkan",
-    "translation": "to weaken",
-    "pos": "verb"
+    "translation": "to weaken"
   },
   {
     "id": 751,
     "word": "mempercepat",
-    "translation": "to accelerate / to speed up",
-    "pos": "verb"
+    "translation": "to accelerate / to speed up"
   },
   {
     "id": 752,
     "word": "memperlambat",
-    "translation": "to slow down",
-    "pos": "verb"
+    "translation": "to slow down"
   },
   {
     "id": 753,
     "word": "memperluas",
-    "translation": "to expand / to widen",
-    "pos": "verb"
+    "translation": "to expand / to widen"
   },
   {
     "id": 754,
     "word": "mempersempit",
-    "translation": "to narrow down",
-    "pos": "verb"
+    "translation": "to narrow down"
   },
   {
     "id": 755,
     "word": "membersihkan",
-    "translation": "to clean",
-    "pos": "verb"
+    "translation": "to clean"
   },
   {
     "id": 756,
     "word": "mengotori",
-    "translation": "to make dirty / to pollute",
-    "pos": "verb"
+    "translation": "to make dirty / to pollute"
   },
   {
     "id": 757,
     "word": "memenuhi",
-    "translation": "to fulfill / to fill",
-    "pos": "verb"
+    "translation": "to fulfill / to fill"
   },
   {
     "id": 758,
     "word": "mengosongkan",
-    "translation": "to empty",
-    "pos": "verb"
+    "translation": "to empty"
   },
   {
     "id": 759,
     "word": "menyalakan",
-    "translation": "to turn on / to light",
-    "pos": "verb"
+    "translation": "to turn on / to light"
   },
   {
     "id": 760,
     "word": "mematikan",
-    "translation": "to turn off / to kill",
-    "pos": "verb"
+    "translation": "to turn off / to kill"
   },
   {
     "id": 761,
     "word": "membuka",
-    "translation": "to open",
-    "pos": "verb"
+    "translation": "to open"
   },
   {
     "id": 762,
     "word": "menutup",
-    "translation": "to close / to shut",
-    "pos": "verb"
+    "translation": "to close / to shut"
   },
   {
     "id": 763,
     "word": "mengunci",
-    "translation": "to lock",
-    "pos": "verb"
+    "translation": "to lock"
   },
   {
     "id": 764,
     "word": "membayar",
-    "translation": "to pay",
-    "pos": "verb"
+    "translation": "to pay"
   },
   {
     "id": 765,
     "word": "menjual",
-    "translation": "to sell",
-    "pos": "verb"
+    "translation": "to sell"
   },
   {
     "id": 766,
     "word": "membeli",
-    "translation": "to buy / to purchase",
-    "pos": "verb"
+    "translation": "to buy / to purchase"
   },
   {
     "id": 767,
     "word": "menyewa",
-    "translation": "to rent",
-    "pos": "verb"
+    "translation": "to rent"
   },
   {
     "id": 768,
     "word": "meminjam",
-    "translation": "to borrow",
-    "pos": "verb"
+    "translation": "to borrow"
   },
   {
     "id": 769,
     "word": "mengembalikan",
-    "translation": "to return (something)",
-    "pos": "verb"
+    "translation": "to return (something)"
   },
   {
     "id": 770,
     "word": "mengirim",
-    "translation": "to send",
-    "pos": "verb"
+    "translation": "to send"
   },
   {
     "id": 771,
     "word": "mengundang",
-    "translation": "to invite",
-    "pos": "verb"
+    "translation": "to invite"
   },
   {
     "id": 772,
     "word": "mengunjungi",
-    "translation": "to visit",
-    "pos": "verb"
+    "translation": "to visit"
   },
   {
     "id": 773,
     "word": "memasuki",
-    "translation": "to enter",
-    "pos": "verb"
+    "translation": "to enter"
   },
   {
     "id": 774,
     "word": "menunggu",
-    "translation": "to wait for",
-    "pos": "verb"
+    "translation": "to wait for"
   },
   {
     "id": 775,
     "word": "menolong",
-    "translation": "to help / to rescue",
-    "pos": "verb"
+    "translation": "to help / to rescue"
   },
   {
     "id": 776,
     "word": "perkembangan",
-    "translation": "development / progress",
-    "pos": "noun"
+    "translation": "development / progress"
   },
   {
     "id": 777,
     "word": "perubahan",
-    "translation": "change / alteration",
-    "pos": "noun"
+    "translation": "change / alteration"
   },
   {
     "id": 778,
     "word": "perbedaan",
-    "translation": "difference",
-    "pos": "noun"
+    "translation": "difference"
   },
   {
     "id": 779,
     "word": "persamaan",
-    "translation": "similarity / equation",
-    "pos": "noun"
+    "translation": "similarity / equation"
   },
   {
     "id": 780,
     "word": "pengalaman",
-    "translation": "experience",
-    "pos": "noun"
+    "translation": "experience"
   },
   {
     "id": 781,
     "word": "pengetahuan",
-    "translation": "knowledge",
-    "pos": "noun"
+    "translation": "knowledge"
   },
   {
     "id": 782,
     "word": "pemikiran",
-    "translation": "thought / thinking",
-    "pos": "noun"
+    "translation": "thought / thinking"
   },
   {
     "id": 783,
     "word": "perasaan",
-    "translation": "feeling / emotion",
-    "pos": "noun"
+    "translation": "feeling / emotion"
   },
   {
     "id": 784,
     "word": "keadaan",
-    "translation": "condition / situation",
-    "pos": "noun"
+    "translation": "condition / situation"
   },
   {
     "id": 785,
     "word": "kegiatan",
-    "translation": "activity",
-    "pos": "noun"
+    "translation": "activity"
   },
   {
     "id": 786,
     "word": "kejadian",
-    "translation": "event / incident",
-    "pos": "noun"
+    "translation": "event / incident"
   },
   {
     "id": 787,
     "word": "keberhasilan",
-    "translation": "success",
-    "pos": "noun"
+    "translation": "success"
   },
   {
     "id": 788,
     "word": "kegagalan",
-    "translation": "failure",
-    "pos": "noun"
+    "translation": "failure"
   },
   {
     "id": 789,
     "word": "kemampuan",
-    "translation": "ability / capability",
-    "pos": "noun"
+    "translation": "ability / capability"
   },
   {
     "id": 790,
     "word": "kekuatan",
-    "translation": "strength / power",
-    "pos": "noun"
+    "translation": "strength / power"
   },
   {
     "id": 791,
     "word": "kelemahan",
-    "translation": "weakness",
-    "pos": "noun"
+    "translation": "weakness"
   },
   {
     "id": 792,
     "word": "keindahan",
-    "translation": "beauty",
-    "pos": "noun"
+    "translation": "beauty"
   },
   {
     "id": 793,
     "word": "kebenaran",
-    "translation": "truth",
-    "pos": "noun"
+    "translation": "truth"
   },
   {
     "id": 794,
     "word": "kebaikan",
-    "translation": "goodness / kindness",
-    "pos": "noun"
+    "translation": "goodness / kindness"
   },
   {
     "id": 795,
     "word": "keburukan",
-    "translation": "badness / evil",
-    "pos": "noun"
+    "translation": "badness / evil"
   },
   {
     "id": 796,
     "word": "kebebasan",
-    "translation": "freedom / liberty",
-    "pos": "noun"
+    "translation": "freedom / liberty"
   },
   {
     "id": 797,
     "word": "keamanan",
-    "translation": "security / safety",
-    "pos": "noun"
+    "translation": "security / safety"
   },
   {
     "id": 798,
     "word": "kebahagiaan",
-    "translation": "happiness",
-    "pos": "noun"
+    "translation": "happiness"
   },
   {
     "id": 799,
     "word": "kesedihan",
-    "translation": "sadness / sorrow",
-    "pos": "noun"
+    "translation": "sadness / sorrow"
   },
   {
     "id": 800,
     "word": "kesempatan",
-    "translation": "opportunity / chance",
-    "pos": "noun"
+    "translation": "opportunity / chance"
   },
   {
     "id": 801,
     "word": "kesulitan",
-    "translation": "difficulty / trouble",
-    "pos": "noun"
+    "translation": "difficulty / trouble"
   },
   {
     "id": 802,
     "word": "kemajuan",
-    "translation": "progress / advancement",
-    "pos": "noun"
+    "translation": "progress / advancement"
   },
   {
     "id": 803,
     "word": "kemudahan",
-    "translation": "convenience / ease",
-    "pos": "noun"
+    "translation": "convenience / ease"
   },
   {
     "id": 804,
     "word": "kekayaan",
-    "translation": "wealth / riches",
-    "pos": "noun"
+    "translation": "wealth / riches"
   },
   {
     "id": 805,
     "word": "kemiskinan",
-    "translation": "poverty",
-    "pos": "noun"
+    "translation": "poverty"
   },
   {
     "id": 806,
     "word": "perjuangan",
-    "translation": "struggle / fight",
-    "pos": "noun"
+    "translation": "struggle / fight"
   },
   {
     "id": 807,
     "word": "perdamaian",
-    "translation": "peace",
-    "pos": "noun"
+    "translation": "peace"
   },
   {
     "id": 808,
     "word": "pertanyaan",
-    "translation": "question",
-    "pos": "noun"
+    "translation": "question"
   },
   {
     "id": 809,
     "word": "pernyataan",
-    "translation": "statement / declaration",
-    "pos": "noun"
+    "translation": "statement / declaration"
   },
   {
     "id": 810,
     "word": "perjanjian",
-    "translation": "agreement / treaty",
-    "pos": "noun"
+    "translation": "agreement / treaty"
   },
   {
     "id": 811,
     "word": "pertemuan",
-    "translation": "meeting / encounter",
-    "pos": "noun"
+    "translation": "meeting / encounter"
   },
   {
     "id": 812,
     "word": "percakapan",
-    "translation": "conversation",
-    "pos": "noun"
+    "translation": "conversation"
   },
   {
     "id": 813,
     "word": "perjalanan",
-    "translation": "journey / trip",
-    "pos": "noun"
+    "translation": "journey / trip"
   },
   {
     "id": 814,
     "word": "pertumbuhan",
-    "translation": "growth",
-    "pos": "noun"
+    "translation": "growth"
   },
   {
     "id": 815,
     "word": "pembangunan",
-    "translation": "development / construction",
-    "pos": "noun"
+    "translation": "development / construction"
   },
   {
     "id": 816,
     "word": "perlindungan",
-    "translation": "protection",
-    "pos": "noun"
+    "translation": "protection"
   },
   {
     "id": 817,
     "word": "pelayanan",
-    "translation": "service",
-    "pos": "noun"
+    "translation": "service"
   },
   {
     "id": 818,
     "word": "pengaruh",
-    "translation": "influence / effect",
-    "pos": "noun"
+    "translation": "influence / effect"
   },
   {
     "id": 819,
     "word": "akibat",
-    "translation": "consequence / result",
-    "pos": "noun"
+    "translation": "consequence / result"
   },
   {
     "id": 820,
     "word": "sebab",
-    "translation": "cause / reason",
-    "pos": "noun"
+    "translation": "cause / reason"
   },
   {
     "id": 821,
     "word": "alasan",
-    "translation": "reason / excuse",
-    "pos": "noun"
+    "translation": "reason / excuse"
   },
   {
     "id": 822,
     "word": "tujuan",
-    "translation": "goal / purpose / destination",
-    "pos": "noun"
+    "translation": "goal / purpose / destination"
   },
   {
     "id": 823,
     "word": "harapan",
-    "translation": "hope / expectation",
-    "pos": "noun"
+    "translation": "hope / expectation"
   },
   {
     "id": 824,
     "word": "keinginan",
-    "translation": "desire / wish",
-    "pos": "noun"
+    "translation": "desire / wish"
   },
   {
     "id": 825,
     "word": "mimpi",
-    "translation": "dream",
-    "pos": "noun"
+    "translation": "dream"
   },
   {
     "id": 826,
     "word": "pikiran",
-    "translation": "mind / thought",
-    "pos": "noun"
+    "translation": "mind / thought"
   },
   {
     "id": 827,
     "word": "pendapat",
-    "translation": "opinion",
-    "pos": "noun"
+    "translation": "opinion"
   },
   {
     "id": 828,
     "word": "ide",
-    "translation": "idea",
-    "pos": "noun"
+    "translation": "idea"
   },
   {
     "id": 829,
     "word": "rencana",
-    "translation": "plan",
-    "pos": "noun"
+    "translation": "plan"
   },
   {
     "id": 830,
     "word": "usaha",
-    "translation": "effort / business / attempt",
-    "pos": "noun"
+    "translation": "effort / business / attempt"
   },
   {
     "id": 831,
     "word": "hasil",
-    "translation": "result / outcome / product",
-    "pos": "noun"
+    "translation": "result / outcome / product"
   },
   {
     "id": 832,
     "word": "proses",
-    "translation": "process",
-    "pos": "noun"
+    "translation": "process"
   },
   {
     "id": 833,
     "word": "sistem",
-    "translation": "system",
-    "pos": "noun"
+    "translation": "system"
   },
   {
     "id": 834,
     "word": "program",
-    "translation": "program",
-    "pos": "noun"
+    "translation": "program"
   },
   {
     "id": 835,
     "word": "proyek",
-    "translation": "project",
-    "pos": "noun"
+    "translation": "project"
   },
   {
     "id": 836,
     "word": "solusi",
-    "translation": "solution",
-    "pos": "noun"
+    "translation": "solution"
   },
   {
     "id": 837,
     "word": "jawaban",
-    "translation": "answer / response",
-    "pos": "noun"
+    "translation": "answer / response"
   },
   {
     "id": 838,
     "word": "informasi",
-    "translation": "information",
-    "pos": "noun"
+    "translation": "information"
   },
   {
     "id": 839,
     "word": "berita",
-    "translation": "news",
-    "pos": "noun"
+    "translation": "news"
   },
   {
     "id": 840,
     "word": "surat",
-    "translation": "letter / mail",
-    "pos": "noun"
+    "translation": "letter / mail"
   },
   {
     "id": 841,
     "word": "pesan",
-    "translation": "message",
-    "pos": "noun"
+    "translation": "message"
   },
   {
     "id": 842,
     "word": "tanda",
-    "translation": "sign / mark",
-    "pos": "noun"
+    "translation": "sign / mark"
   },
   {
     "id": 843,
     "word": "contoh",
-    "translation": "example",
-    "pos": "noun"
+    "translation": "example"
   },
   {
     "id": 844,
     "word": "bentuk",
-    "translation": "shape / form",
-    "pos": "noun"
+    "translation": "shape / form"
   },
   {
     "id": 845,
     "word": "jenis",
-    "translation": "type / kind / species",
-    "pos": "noun"
+    "translation": "type / kind / species"
   },
   {
     "id": 846,
     "word": "macam",
-    "translation": "kind / sort / type",
-    "pos": "noun"
+    "translation": "kind / sort / type"
   },
   {
     "id": 847,
     "word": "ukuran",
-    "translation": "size / measurement",
-    "pos": "noun"
+    "translation": "size / measurement"
   },
   {
     "id": 848,
     "word": "jumlah",
-    "translation": "amount / total / number",
-    "pos": "noun"
+    "translation": "amount / total / number"
   },
   {
     "id": 849,
     "word": "nilai",
-    "translation": "value / grade / score",
-    "pos": "noun"
+    "translation": "value / grade / score"
   },
   {
     "id": 850,
     "word": "tingkat",
-    "translation": "level / rate / degree",
-    "pos": "noun"
+    "translation": "level / rate / degree"
   },
   {
     "id": 851,
     "word": "tahap",
-    "translation": "stage / phase",
-    "pos": "noun"
+    "translation": "stage / phase"
   },
   {
     "id": 852,
     "word": "langkah",
-    "translation": "step / pace",
-    "pos": "noun"
+    "translation": "step / pace"
   },
   {
     "id": 853,
     "word": "arah",
-    "translation": "direction",
-    "pos": "noun"
+    "translation": "direction"
   },
   {
     "id": 854,
     "word": "posisi",
-    "translation": "position",
-    "pos": "noun"
+    "translation": "position"
   },
   {
     "id": 855,
     "word": "kondisi",
-    "translation": "condition",
-    "pos": "noun"
+    "translation": "condition"
   },
   {
     "id": 856,
     "word": "situasi",
-    "translation": "situation",
-    "pos": "noun"
+    "translation": "situation"
   },
   {
     "id": 857,
     "word": "suasana",
-    "translation": "atmosphere / mood",
-    "pos": "noun"
+    "translation": "atmosphere / mood"
   },
   {
     "id": 858,
     "word": "cuaca",
-    "translation": "weather",
-    "pos": "noun"
+    "translation": "weather"
   },
   {
     "id": 859,
     "word": "musim",
-    "translation": "season",
-    "pos": "noun"
+    "translation": "season"
   },
   {
     "id": 860,
     "word": "iklim",
-    "translation": "climate",
-    "pos": "noun"
+    "translation": "climate"
   },
   {
     "id": 861,
     "word": "bencana",
-    "translation": "disaster",
-    "pos": "noun"
+    "translation": "disaster"
   },
   {
     "id": 862,
     "word": "banjir",
-    "translation": "flood",
-    "pos": "noun"
+    "translation": "flood"
   },
   {
     "id": 863,
     "word": "gempa",
-    "translation": "earthquake",
-    "pos": "noun"
+    "translation": "earthquake"
   },
   {
     "id": 864,
     "word": "kebakaran",
-    "translation": "fire (disaster)",
-    "pos": "noun"
+    "translation": "fire (disaster)"
   },
   {
     "id": 865,
     "word": "kecelakaan",
-    "translation": "accident",
-    "pos": "noun"
+    "translation": "accident"
   },
   {
     "id": 866,
     "word": "bahaya",
-    "translation": "danger",
-    "pos": "noun"
+    "translation": "danger"
   },
   {
     "id": 867,
     "word": "aman",
-    "translation": "safe / secure",
-    "pos": "adj"
+    "translation": "safe / secure"
   },
   {
     "id": 868,
     "word": "berbahaya",
-    "translation": "dangerous",
-    "pos": "adj"
+    "translation": "dangerous"
   },
   {
     "id": 869,
     "word": "rusak",
-    "translation": "broken / damaged",
-    "pos": "adj"
+    "translation": "broken / damaged"
   },
   {
     "id": 870,
     "word": "bagus",
-    "translation": "good / nice",
-    "pos": "adj"
+    "translation": "good / nice"
   },
   {
     "id": 871,
     "word": "buruk",
-    "translation": "bad / poor",
-    "pos": "adj"
+    "translation": "bad / poor"
   },
   {
     "id": 872,
     "word": "indah",
-    "translation": "beautiful / lovely",
-    "pos": "adj"
+    "translation": "beautiful / lovely"
   },
   {
     "id": 873,
     "word": "jelek",
-    "translation": "ugly / bad",
-    "pos": "adj"
+    "translation": "ugly / bad"
   },
   {
     "id": 874,
     "word": "luas",
-    "translation": "wide / broad / spacious",
-    "pos": "adj"
+    "translation": "wide / broad / spacious"
   },
   {
     "id": 875,
     "word": "sempit",
-    "translation": "narrow / tight",
-    "pos": "adj"
+    "translation": "narrow / tight"
   },
   {
     "id": 876,
     "word": "tebal",
-    "translation": "thick",
-    "pos": "adj"
+    "translation": "thick"
   },
   {
     "id": 877,
     "word": "tipis",
-    "translation": "thin",
-    "pos": "adj"
+    "translation": "thin"
   },
   {
     "id": 878,
     "word": "dangkal",
-    "translation": "shallow",
-    "pos": "adj"
+    "translation": "shallow"
   },
   {
     "id": 879,
     "word": "tajam",
-    "translation": "sharp",
-    "pos": "adj"
+    "translation": "sharp"
   },
   {
     "id": 880,
     "word": "tumpul",
-    "translation": "blunt / dull",
-    "pos": "adj"
+    "translation": "blunt / dull"
   },
   {
     "id": 881,
     "word": "halus",
-    "translation": "smooth / fine / refined",
-    "pos": "adj"
+    "translation": "smooth / fine / refined"
   },
   {
     "id": 882,
     "word": "bulat",
-    "translation": "round",
-    "pos": "adj"
+    "translation": "round"
   },
   {
     "id": 883,
     "word": "lurus",
-    "translation": "straight",
-    "pos": "adj"
+    "translation": "straight"
   },
   {
     "id": 884,
     "word": "bengkok",
-    "translation": "bent / crooked",
-    "pos": "adj"
+    "translation": "bent / crooked"
   },
   {
     "id": 885,
     "word": "rata",
-    "translation": "flat / even / average",
-    "pos": "adj"
+    "translation": "flat / even / average"
   },
   {
     "id": 886,
     "word": "miring",
-    "translation": "slanted / tilted",
-    "pos": "adj"
+    "translation": "slanted / tilted"
   },
   {
     "id": 887,
     "word": "terbuka",
-    "translation": "open / opened",
-    "pos": "adj"
+    "translation": "open / opened"
   },
   {
     "id": 888,
     "word": "tertutup",
-    "translation": "closed / shut",
-    "pos": "adj"
+    "translation": "closed / shut"
   },
   {
     "id": 889,
     "word": "tersedia",
-    "translation": "available",
-    "pos": "adj"
+    "translation": "available"
   },
   {
     "id": 890,
     "word": "terkenal",
-    "translation": "famous / well-known",
-    "pos": "adj"
+    "translation": "famous / well-known"
   },
   {
     "id": 891,
     "word": "terakhir",
-    "translation": "last / final / latest",
-    "pos": "adj"
+    "translation": "last / final / latest"
   },
   {
     "id": 892,
     "word": "terbaru",
-    "translation": "newest / latest",
-    "pos": "adj"
+    "translation": "newest / latest"
   },
   {
     "id": 893,
     "word": "terbaik",
-    "translation": "best",
-    "pos": "adj"
+    "translation": "best"
   },
   {
     "id": 894,
     "word": "terburuk",
-    "translation": "worst",
-    "pos": "adj"
+    "translation": "worst"
   },
   {
     "id": 895,
     "word": "terbesar",
-    "translation": "biggest / largest",
-    "pos": "adj"
+    "translation": "biggest / largest"
   },
   {
     "id": 896,
     "word": "terkecil",
-    "translation": "smallest",
-    "pos": "adj"
+    "translation": "smallest"
   },
   {
     "id": 897,
     "word": "tertinggi",
-    "translation": "highest / tallest",
-    "pos": "adj"
+    "translation": "highest / tallest"
   },
   {
     "id": 898,
     "word": "terendah",
-    "translation": "lowest",
-    "pos": "adj"
+    "translation": "lowest"
   },
   {
     "id": 899,
     "word": "terpenting",
-    "translation": "most important",
-    "pos": "adj"
+    "translation": "most important"
   },
   {
     "id": 900,
     "word": "warga",
-    "translation": "citizen / resident",
-    "pos": "noun"
+    "translation": "citizen / resident"
   },
   {
     "id": 901,
     "word": "penduduk",
-    "translation": "population / inhabitant",
-    "pos": "noun"
+    "translation": "population / inhabitant"
   },
   {
     "id": 902,
     "word": "tetangga",
-    "translation": "neighbor",
-    "pos": "noun"
+    "translation": "neighbor"
   },
   {
     "id": 903,
     "word": "tamu",
-    "translation": "guest / visitor",
-    "pos": "noun"
+    "translation": "guest / visitor"
   },
   {
     "id": 904,
     "word": "pemuda",
-    "translation": "youth / young man",
-    "pos": "noun"
+    "translation": "youth / young man"
   },
   {
     "id": 905,
     "word": "petani",
-    "translation": "farmer",
-    "pos": "noun"
+    "translation": "farmer"
   },
   {
     "id": 906,
     "word": "pedagang",
-    "translation": "trader / merchant",
-    "pos": "noun"
+    "translation": "trader / merchant"
   },
   {
     "id": 907,
     "word": "nelayan",
-    "translation": "fisherman",
-    "pos": "noun"
+    "translation": "fisherman"
   },
   {
     "id": 908,
     "word": "pekerja",
-    "translation": "worker / laborer",
-    "pos": "noun"
+    "translation": "worker / laborer"
   },
   {
     "id": 909,
     "word": "pelajar",
-    "translation": "student / learner",
-    "pos": "noun"
+    "translation": "student / learner"
   },
   {
     "id": 910,
     "word": "mahasiswa",
-    "translation": "university student",
-    "pos": "noun"
+    "translation": "university student"
   },
   {
     "id": 911,
     "word": "wartawan",
-    "translation": "journalist / reporter",
-    "pos": "noun"
+    "translation": "journalist / reporter"
   },
   {
     "id": 912,
     "word": "seniman",
-    "translation": "artist",
-    "pos": "noun"
+    "translation": "artist"
   },
   {
     "id": 913,
     "word": "penyanyi",
-    "translation": "singer",
-    "pos": "noun"
+    "translation": "singer"
   },
   {
     "id": 914,
     "word": "penari",
-    "translation": "dancer",
-    "pos": "noun"
+    "translation": "dancer"
   },
   {
     "id": 915,
     "word": "penulis",
-    "translation": "writer / author",
-    "pos": "noun"
+    "translation": "writer / author"
   },
   {
     "id": 916,
     "word": "pembaca",
-    "translation": "reader",
-    "pos": "noun"
+    "translation": "reader"
   },
   {
     "id": 917,
     "word": "penonton",
-    "translation": "audience / viewer",
-    "pos": "noun"
+    "translation": "audience / viewer"
   },
   {
     "id": 918,
     "word": "pemain",
-    "translation": "player / performer",
-    "pos": "noun"
+    "translation": "player / performer"
   },
   {
     "id": 919,
     "word": "pelatih",
-    "translation": "coach / trainer",
-    "pos": "noun"
+    "translation": "coach / trainer"
   },
   {
     "id": 920,
     "word": "pemimpin",
-    "translation": "leader",
-    "pos": "noun"
+    "translation": "leader"
   },
   {
     "id": 921,
     "word": "pengusaha",
-    "translation": "entrepreneur / businessman",
-    "pos": "noun"
+    "translation": "entrepreneur / businessman"
   },
   {
     "id": 922,
     "word": "emas",
-    "translation": "gold",
-    "pos": "noun"
+    "translation": "gold"
   },
   {
     "id": 923,
     "word": "perak",
-    "translation": "silver",
-    "pos": "noun"
+    "translation": "silver"
   },
   {
     "id": 924,
     "word": "besi",
-    "translation": "iron",
-    "pos": "noun"
+    "translation": "iron"
   },
   {
     "id": 925,
     "word": "kayu",
-    "translation": "wood",
-    "pos": "noun"
+    "translation": "wood"
   },
   {
     "id": 926,
     "word": "kaca",
-    "translation": "glass (material)",
-    "pos": "noun"
+    "translation": "glass (material)"
   },
   {
     "id": 927,
     "word": "kain",
-    "translation": "cloth / fabric",
-    "pos": "noun"
+    "translation": "cloth / fabric"
   },
   {
     "id": 928,
     "word": "plastik",
-    "translation": "plastic",
-    "pos": "noun"
+    "translation": "plastic"
   },
   {
     "id": 929,
     "word": "beras",
-    "translation": "rice (uncooked)",
-    "pos": "noun"
+    "translation": "rice (uncooked)"
   },
   {
     "id": 930,
     "word": "gandum",
-    "translation": "wheat",
-    "pos": "noun"
+    "translation": "wheat"
   },
   {
     "id": 931,
     "word": "jagung",
-    "translation": "corn",
-    "pos": "noun"
+    "translation": "corn"
   },
   {
     "id": 932,
     "word": "kelapa",
-    "translation": "coconut",
-    "pos": "noun"
+    "translation": "coconut"
   },
   {
     "id": 933,
     "word": "pisang",
-    "translation": "banana",
-    "pos": "noun"
+    "translation": "banana"
   },
   {
     "id": 934,
     "word": "mangga",
-    "translation": "mango",
-    "pos": "noun"
+    "translation": "mango"
   },
   {
     "id": 935,
     "word": "jeruk",
-    "translation": "orange (fruit)",
-    "pos": "noun"
+    "translation": "orange (fruit)"
   },
   {
     "id": 936,
     "word": "apel",
-    "translation": "apple",
-    "pos": "noun"
+    "translation": "apple"
   },
   {
     "id": 937,
     "word": "semangka",
-    "translation": "watermelon",
-    "pos": "noun"
+    "translation": "watermelon"
   },
   {
     "id": 938,
     "word": "cabai",
-    "translation": "chili pepper",
-    "pos": "noun"
+    "translation": "chili pepper"
   },
   {
     "id": 939,
     "word": "bawang",
-    "translation": "onion / garlic",
-    "pos": "noun"
+    "translation": "onion / garlic"
   },
   {
     "id": 940,
     "word": "tomat",
-    "translation": "tomato",
-    "pos": "noun"
+    "translation": "tomato"
   },
   {
     "id": 941,
     "word": "wortel",
-    "translation": "carrot",
-    "pos": "noun"
+    "translation": "carrot"
   },
   {
     "id": 942,
     "word": "kentang",
-    "translation": "potato",
-    "pos": "noun"
+    "translation": "potato"
   },
   {
     "id": 943,
     "word": "kacang",
-    "translation": "bean / nut / peanut",
-    "pos": "noun"
+    "translation": "bean / nut / peanut"
   },
   {
     "id": 944,
     "word": "olahraga",
-    "translation": "sport / exercise",
-    "pos": "noun"
+    "translation": "sport / exercise"
   },
   {
     "id": 945,
     "word": "sepak bola",
-    "translation": "soccer / football",
-    "pos": "noun"
+    "translation": "soccer / football"
   },
   {
     "id": 946,
     "word": "permainan",
-    "translation": "game",
-    "pos": "noun"
+    "translation": "game"
   },
   {
     "id": 947,
     "word": "pertandingan",
-    "translation": "match / competition",
-    "pos": "noun"
+    "translation": "match / competition"
   },
   {
     "id": 948,
     "word": "hadiah",
-    "translation": "gift / prize",
-    "pos": "noun"
+    "translation": "gift / prize"
   },
   {
     "id": 949,
     "word": "upacara",
-    "translation": "ceremony",
-    "pos": "noun"
+    "translation": "ceremony"
   },
   {
     "id": 950,
     "word": "pesta",
-    "translation": "party / celebration",
-    "pos": "noun"
+    "translation": "party / celebration"
   },
   {
     "id": 951,
     "word": "liburan",
-    "translation": "holiday / vacation",
-    "pos": "noun"
+    "translation": "holiday / vacation"
   },
   {
     "id": 952,
     "word": "wisata",
-    "translation": "tourism / tour",
-    "pos": "noun"
+    "translation": "tourism / tour"
   },
   {
     "id": 953,
     "word": "penerbangan",
-    "translation": "flight",
-    "pos": "noun"
+    "translation": "flight"
   },
   {
     "id": 954,
     "word": "tiket",
-    "translation": "ticket",
-    "pos": "noun"
+    "translation": "ticket"
   },
   {
     "id": 955,
     "word": "paspor",
-    "translation": "passport",
-    "pos": "noun"
+    "translation": "passport"
   },
   {
     "id": 956,
     "word": "alamat",
-    "translation": "address",
-    "pos": "noun"
+    "translation": "address"
   },
   {
     "id": 957,
     "word": "nomor",
-    "translation": "number",
-    "pos": "noun"
+    "translation": "number"
   },
   {
     "id": 958,
     "word": "tanggal",
-    "translation": "date",
-    "pos": "noun"
+    "translation": "date"
   },
   {
     "id": 959,
     "word": "umur",
-    "translation": "age",
-    "pos": "noun"
+    "translation": "age"
   },
   {
     "id": 960,
     "word": "berat badan",
-    "translation": "body weight",
-    "pos": "noun"
+    "translation": "body weight"
   },
   {
     "id": 961,
     "word": "tinggi badan",
-    "translation": "body height",
-    "pos": "noun"
+    "translation": "body height"
   },
   {
     "id": 962,
     "word": "warna kulit",
-    "translation": "skin color",
-    "pos": "noun"
+    "translation": "skin color"
   },
   {
     "id": 963,
     "word": "golongan darah",
-    "translation": "blood type",
-    "pos": "noun"
+    "translation": "blood type"
   },
   {
     "id": 964,
     "word": "penghasilan",
-    "translation": "income / earnings",
-    "pos": "noun"
+    "translation": "income / earnings"
   },
   {
     "id": 965,
     "word": "tabungan",
-    "translation": "savings",
-    "pos": "noun"
+    "translation": "savings"
   },
   {
     "id": 966,
     "word": "pengeluaran",
-    "translation": "expenditure / spending",
-    "pos": "noun"
+    "translation": "expenditure / spending"
   },
   {
     "id": 967,
     "word": "pajak",
-    "translation": "tax",
-    "pos": "noun"
+    "translation": "tax"
   },
   {
     "id": 968,
     "word": "asuransi",
-    "translation": "insurance",
-    "pos": "noun"
+    "translation": "insurance"
   },
   {
     "id": 969,
     "word": "investasi",
-    "translation": "investment",
-    "pos": "noun"
+    "translation": "investment"
   },
   {
     "id": 970,
     "word": "keuangan",
-    "translation": "finance / financial",
-    "pos": "noun"
+    "translation": "finance / financial"
   }
 ]

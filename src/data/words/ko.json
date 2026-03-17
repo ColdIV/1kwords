@@ -3,6916 +3,5928 @@
     "id": 1,
     "word": "이",
     "romanization": "i",
-    "translation": "this / subject marker",
-    "pos": "part"
+    "translation": "this / subject marker"
   },
   {
     "id": 2,
     "word": "하다",
     "romanization": "hada",
-    "translation": "to do",
-    "pos": "verb"
+    "translation": "to do"
   },
   {
     "id": 3,
     "word": "있다",
     "romanization": "itda",
-    "translation": "to be / to exist / to have",
-    "pos": "verb"
+    "translation": "to be / to exist / to have"
   },
   {
     "id": 4,
     "word": "되다",
     "romanization": "doeda",
-    "translation": "to become",
-    "pos": "verb"
+    "translation": "to become"
   },
   {
     "id": 5,
     "word": "수",
     "romanization": "su",
-    "translation": "way / method / number",
-    "pos": "noun"
+    "translation": "way / method / number"
   },
   {
     "id": 6,
     "word": "그",
     "romanization": "geu",
-    "translation": "he / that",
-    "pos": "pron"
+    "translation": "he / that"
   },
   {
     "id": 7,
     "word": "나",
     "romanization": "na",
-    "translation": "I / me",
-    "pos": "pron"
+    "translation": "I / me"
   },
   {
     "id": 8,
     "word": "것",
     "romanization": "geot",
-    "translation": "thing / fact",
-    "pos": "noun"
+    "translation": "thing / fact"
   },
   {
     "id": 9,
     "word": "에",
     "romanization": "e",
-    "translation": "at / in / to (location particle)",
-    "pos": "part"
+    "translation": "at / in / to (location particle)"
   },
   {
     "id": 10,
     "word": "를",
     "romanization": "reul",
-    "translation": "object particle",
-    "pos": "part"
+    "translation": "object particle"
   },
   {
     "id": 11,
     "word": "은",
     "romanization": "eun",
-    "translation": "topic marker (after consonant)",
-    "pos": "part"
+    "translation": "topic marker (after consonant)"
   },
   {
     "id": 12,
     "word": "는",
     "romanization": "neun",
-    "translation": "topic marker (after vowel)",
-    "pos": "part"
+    "translation": "topic marker (after vowel)"
   },
   {
     "id": 13,
     "word": "가",
     "romanization": "ga",
-    "translation": "subject marker (after vowel)",
-    "pos": "part"
+    "translation": "subject marker (after vowel)"
   },
   {
     "id": 14,
     "word": "을",
     "romanization": "eul",
-    "translation": "object marker (after consonant)",
-    "pos": "part"
+    "translation": "object marker (after consonant)"
   },
   {
     "id": 15,
     "word": "와",
     "romanization": "wa",
-    "translation": "and / with (after vowel)",
-    "pos": "part"
+    "translation": "and / with (after vowel)"
   },
   {
     "id": 16,
     "word": "과",
     "romanization": "gwa",
-    "translation": "and / with (after consonant)",
-    "pos": "part"
+    "translation": "and / with (after consonant)"
   },
   {
     "id": 17,
     "word": "도",
     "romanization": "do",
-    "translation": "also / too",
-    "pos": "part"
+    "translation": "also / too"
   },
   {
     "id": 18,
     "word": "에서",
     "romanization": "eseo",
-    "translation": "at / in / from (location particle)",
-    "pos": "part"
+    "translation": "at / in / from (location particle)"
   },
   {
     "id": 19,
     "word": "으로",
     "romanization": "euro",
-    "translation": "to / toward / by means of",
-    "pos": "part"
+    "translation": "to / toward / by means of"
   },
   {
     "id": 20,
     "word": "로",
     "romanization": "ro",
-    "translation": "to / toward / by means of (after vowel)",
-    "pos": "part"
+    "translation": "to / toward / by means of (after vowel)"
   },
   {
     "id": 21,
     "word": "의",
     "romanization": "ui",
-    "translation": "possessive particle / of",
-    "pos": "part"
+    "translation": "possessive particle / of"
   },
   {
     "id": 22,
     "word": "들",
     "romanization": "deul",
-    "translation": "plural marker",
-    "pos": "part"
+    "translation": "plural marker"
   },
   {
     "id": 23,
     "word": "만",
     "romanization": "man",
-    "translation": "only / just",
-    "pos": "part"
+    "translation": "only / just"
   },
   {
     "id": 24,
     "word": "에게",
     "romanization": "ege",
-    "translation": "to (a person)",
-    "pos": "part"
+    "translation": "to (a person)"
   },
   {
     "id": 25,
     "word": "한",
     "romanization": "han",
-    "translation": "one / a",
-    "pos": "det"
+    "translation": "one / a"
   },
   {
     "id": 26,
     "word": "않다",
     "romanization": "anta",
-    "translation": "to not do / to not be",
-    "pos": "verb"
+    "translation": "to not do / to not be"
   },
   {
     "id": 27,
     "word": "없다",
     "romanization": "eopda",
-    "translation": "to not exist / to not have",
-    "pos": "verb"
+    "translation": "to not exist / to not have"
   },
   {
     "id": 28,
     "word": "아니다",
     "romanization": "anida",
-    "translation": "to not be",
-    "pos": "verb"
+    "translation": "to not be"
   },
   {
     "id": 29,
     "word": "사람",
     "romanization": "saram",
-    "translation": "person / people",
-    "pos": "noun"
+    "translation": "person / people"
   },
   {
     "id": 30,
     "word": "우리",
     "romanization": "uri",
-    "translation": "we / us / our",
-    "pos": "pron"
+    "translation": "we / us / our"
   },
   {
     "id": 31,
     "word": "때",
     "romanization": "ttae",
-    "translation": "time / when",
-    "pos": "noun"
+    "translation": "time / when"
   },
   {
     "id": 32,
     "word": "말",
     "romanization": "mal",
-    "translation": "word / speech / language",
-    "pos": "noun"
+    "translation": "word / speech / language"
   },
   {
     "id": 33,
     "word": "좋다",
     "romanization": "jota",
-    "translation": "to be good / to like",
-    "pos": "adj"
+    "translation": "to be good / to like"
   },
   {
     "id": 34,
     "word": "보다",
     "romanization": "boda",
-    "translation": "to see / to watch",
-    "pos": "verb"
+    "translation": "to see / to watch"
   },
   {
     "id": 35,
     "word": "가다",
     "romanization": "gada",
-    "translation": "to go",
-    "pos": "verb"
+    "translation": "to go"
   },
   {
     "id": 36,
     "word": "오다",
     "romanization": "oda",
-    "translation": "to come",
-    "pos": "verb"
+    "translation": "to come"
   },
   {
     "id": 37,
     "word": "알다",
     "romanization": "alda",
-    "translation": "to know",
-    "pos": "verb"
+    "translation": "to know"
   },
   {
     "id": 38,
     "word": "주다",
     "romanization": "juda",
-    "translation": "to give",
-    "pos": "verb"
+    "translation": "to give"
   },
   {
     "id": 39,
     "word": "대하다",
     "romanization": "daehada",
-    "translation": "to face / regarding",
-    "pos": "verb"
+    "translation": "to face / regarding"
   },
   {
     "id": 40,
     "word": "그러나",
     "romanization": "geureona",
-    "translation": "but / however",
-    "pos": "conj"
+    "translation": "but / however"
   },
   {
     "id": 41,
     "word": "그리고",
     "romanization": "geurigo",
-    "translation": "and / and then",
-    "pos": "conj"
+    "translation": "and / and then"
   },
   {
     "id": 42,
     "word": "그래서",
     "romanization": "geuraeseo",
-    "translation": "so / therefore",
-    "pos": "conj"
+    "translation": "so / therefore"
   },
   {
     "id": 43,
     "word": "또",
     "romanization": "tto",
-    "translation": "again / also",
-    "pos": "adv"
+    "translation": "again / also"
   },
   {
     "id": 44,
     "word": "더",
     "romanization": "deo",
-    "translation": "more",
-    "pos": "adv"
+    "translation": "more"
   },
   {
     "id": 45,
     "word": "크다",
     "romanization": "keuda",
-    "translation": "to be big / to be large",
-    "pos": "adj"
+    "translation": "to be big / to be large"
   },
   {
     "id": 46,
     "word": "많다",
     "romanization": "manta",
-    "translation": "to be many / to be much",
-    "pos": "adj"
+    "translation": "to be many / to be much"
   },
   {
     "id": 47,
     "word": "적다",
     "romanization": "jeokda",
-    "translation": "to be few / to be little",
-    "pos": "adj"
+    "translation": "to be few / to be little"
   },
   {
     "id": 48,
     "word": "말하다",
     "romanization": "malhada",
-    "translation": "to speak / to say",
-    "pos": "verb"
+    "translation": "to speak / to say"
   },
   {
     "id": 49,
     "word": "일",
     "romanization": "il",
-    "translation": "work / matter / day",
-    "pos": "noun"
+    "translation": "work / matter / day"
   },
   {
     "id": 50,
     "word": "때문",
     "romanization": "ttaemun",
-    "translation": "because / reason",
-    "pos": "noun"
+    "translation": "because / reason"
   },
   {
     "id": 51,
     "word": "그것",
     "romanization": "geugeot",
-    "translation": "that thing / it",
-    "pos": "pron"
+    "translation": "that thing / it"
   },
   {
     "id": 52,
     "word": "저",
     "romanization": "jeo",
-    "translation": "I (humble) / that over there",
-    "pos": "pron"
+    "translation": "I (humble) / that over there"
   },
   {
     "id": 53,
     "word": "너",
     "romanization": "neo",
-    "translation": "you (informal)",
-    "pos": "pron"
+    "translation": "you (informal)"
   },
   {
     "id": 54,
     "word": "여기",
     "romanization": "yeogi",
-    "translation": "here",
-    "pos": "pron"
+    "translation": "here"
   },
   {
     "id": 55,
     "word": "거기",
     "romanization": "geogi",
-    "translation": "there",
-    "pos": "pron"
+    "translation": "there"
   },
   {
     "id": 56,
     "word": "어디",
     "romanization": "eodi",
-    "translation": "where",
-    "pos": "pron"
+    "translation": "where"
   },
   {
     "id": 57,
     "word": "먹다",
     "romanization": "meokda",
-    "translation": "to eat",
-    "pos": "verb"
+    "translation": "to eat"
   },
   {
     "id": 58,
     "word": "살다",
     "romanization": "salda",
-    "translation": "to live",
-    "pos": "verb"
+    "translation": "to live"
   },
   {
     "id": 59,
     "word": "쓰다",
     "romanization": "sseuda",
-    "translation": "to write / to use",
-    "pos": "verb"
+    "translation": "to write / to use"
   },
   {
     "id": 60,
     "word": "나오다",
     "romanization": "naoda",
-    "translation": "to come out",
-    "pos": "verb"
+    "translation": "to come out"
   },
   {
     "id": 61,
     "word": "들다",
     "romanization": "deulda",
-    "translation": "to enter / to hold / to cost",
-    "pos": "verb"
+    "translation": "to enter / to hold / to cost"
   },
   {
     "id": 62,
     "word": "같다",
     "romanization": "gatda",
-    "translation": "to be the same / to seem",
-    "pos": "adj"
+    "translation": "to be the same / to seem"
   },
   {
     "id": 63,
     "word": "싶다",
     "romanization": "sipda",
-    "translation": "to want to",
-    "pos": "adj"
+    "translation": "to want to"
   },
   {
     "id": 64,
     "word": "어떻다",
     "romanization": "eotteota",
-    "translation": "to be how",
-    "pos": "adj"
+    "translation": "to be how"
   },
   {
     "id": 65,
     "word": "이런",
     "romanization": "ireon",
-    "translation": "this kind of",
-    "pos": "det"
+    "translation": "this kind of"
   },
   {
     "id": 66,
     "word": "그런",
     "romanization": "geureon",
-    "translation": "that kind of / such",
-    "pos": "det"
+    "translation": "that kind of / such"
   },
   {
     "id": 67,
     "word": "어떤",
     "romanization": "eotteon",
-    "translation": "what kind of / certain",
-    "pos": "det"
+    "translation": "what kind of / certain"
   },
   {
     "id": 68,
     "word": "모든",
     "romanization": "modeun",
-    "translation": "all / every",
-    "pos": "det"
+    "translation": "all / every"
   },
   {
     "id": 69,
     "word": "다른",
     "romanization": "dareun",
-    "translation": "other / different",
-    "pos": "det"
+    "translation": "other / different"
   },
   {
     "id": 70,
     "word": "새",
     "romanization": "sae",
-    "translation": "new / bird",
-    "pos": "det"
+    "translation": "new / bird"
   },
   {
     "id": 71,
     "word": "각",
     "romanization": "gak",
-    "translation": "each / every",
-    "pos": "det"
+    "translation": "each / every"
   },
   {
     "id": 72,
     "word": "두",
     "romanization": "du",
-    "translation": "two",
-    "pos": "num"
+    "translation": "two"
   },
   {
     "id": 73,
     "word": "세",
     "romanization": "se",
-    "translation": "three",
-    "pos": "num"
+    "translation": "three"
   },
   {
     "id": 74,
     "word": "첫",
     "romanization": "cheot",
-    "translation": "first",
-    "pos": "det"
+    "translation": "first"
   },
   {
     "id": 75,
     "word": "집",
     "romanization": "jip",
-    "translation": "house / home",
-    "pos": "noun"
+    "translation": "house / home"
   },
   {
     "id": 76,
     "word": "나라",
     "romanization": "nara",
-    "translation": "country / nation",
-    "pos": "noun"
+    "translation": "country / nation"
   },
   {
     "id": 77,
     "word": "생각",
     "romanization": "saenggak",
-    "translation": "thought / idea",
-    "pos": "noun"
+    "translation": "thought / idea"
   },
   {
     "id": 78,
     "word": "문제",
     "romanization": "munje",
-    "translation": "problem / question",
-    "pos": "noun"
+    "translation": "problem / question"
   },
   {
     "id": 79,
     "word": "사회",
     "romanization": "sahoe",
-    "translation": "society",
-    "pos": "noun"
+    "translation": "society"
   },
   {
     "id": 80,
     "word": "경우",
     "romanization": "gyeongu",
-    "translation": "case / situation",
-    "pos": "noun"
+    "translation": "case / situation"
   },
   {
     "id": 81,
     "word": "아이",
     "romanization": "ai",
-    "translation": "child / kid",
-    "pos": "noun"
+    "translation": "child / kid"
   },
   {
     "id": 82,
     "word": "여자",
     "romanization": "yeoja",
-    "translation": "woman / female",
-    "pos": "noun"
+    "translation": "woman / female"
   },
   {
     "id": 83,
     "word": "남자",
     "romanization": "namja",
-    "translation": "man / male",
-    "pos": "noun"
+    "translation": "man / male"
   },
   {
     "id": 84,
     "word": "눈",
     "romanization": "nun",
-    "translation": "eye / snow",
-    "pos": "noun"
+    "translation": "eye / snow"
   },
   {
     "id": 85,
     "word": "손",
     "romanization": "son",
-    "translation": "hand",
-    "pos": "noun"
+    "translation": "hand"
   },
   {
     "id": 86,
     "word": "돈",
     "romanization": "don",
-    "translation": "money",
-    "pos": "noun"
+    "translation": "money"
   },
   {
     "id": 87,
     "word": "물",
     "romanization": "mul",
-    "translation": "water",
-    "pos": "noun"
+    "translation": "water"
   },
   {
     "id": 88,
     "word": "날",
     "romanization": "nal",
-    "translation": "day / blade",
-    "pos": "noun"
+    "translation": "day / blade"
   },
   {
     "id": 89,
     "word": "밤",
     "romanization": "bam",
-    "translation": "night / chestnut",
-    "pos": "noun"
+    "translation": "night / chestnut"
   },
   {
     "id": 90,
     "word": "마음",
     "romanization": "maeum",
-    "translation": "mind / heart",
-    "pos": "noun"
+    "translation": "mind / heart"
   },
   {
     "id": 91,
     "word": "길",
     "romanization": "gil",
-    "translation": "road / way / path",
-    "pos": "noun"
+    "translation": "road / way / path"
   },
   {
     "id": 92,
     "word": "시간",
     "romanization": "sigan",
-    "translation": "time / hour",
-    "pos": "noun"
+    "translation": "time / hour"
   },
   {
     "id": 93,
     "word": "곳",
     "romanization": "got",
-    "translation": "place",
-    "pos": "noun"
+    "translation": "place"
   },
   {
     "id": 94,
     "word": "정도",
     "romanization": "jeongdo",
-    "translation": "degree / extent",
-    "pos": "noun"
+    "translation": "degree / extent"
   },
   {
     "id": 95,
     "word": "자신",
     "romanization": "jasin",
-    "translation": "oneself / self-confidence",
-    "pos": "noun"
+    "translation": "oneself / self-confidence"
   },
   {
     "id": 96,
     "word": "세계",
     "romanization": "segye",
-    "translation": "world",
-    "pos": "noun"
+    "translation": "world"
   },
   {
     "id": 97,
     "word": "학교",
     "romanization": "hakgyo",
-    "translation": "school",
-    "pos": "noun"
+    "translation": "school"
   },
   {
     "id": 98,
     "word": "정부",
     "romanization": "jeongbu",
-    "translation": "government",
-    "pos": "noun"
+    "translation": "government"
   },
   {
     "id": 99,
     "word": "다",
     "romanization": "da",
-    "translation": "all / everything",
-    "pos": "adv"
+    "translation": "all / everything"
   },
   {
     "id": 100,
     "word": "잘",
     "romanization": "jal",
-    "translation": "well / properly",
-    "pos": "adv"
+    "translation": "well / properly"
   },
   {
     "id": 101,
     "word": "못",
     "romanization": "mot",
-    "translation": "cannot / poorly",
-    "pos": "adv"
+    "translation": "cannot / poorly"
   },
   {
     "id": 102,
     "word": "안",
     "romanization": "an",
-    "translation": "not / inside",
-    "pos": "adv"
+    "translation": "not / inside"
   },
   {
     "id": 103,
     "word": "매우",
     "romanization": "maeu",
-    "translation": "very / extremely",
-    "pos": "adv"
+    "translation": "very / extremely"
   },
   {
     "id": 104,
     "word": "아주",
     "romanization": "aju",
-    "translation": "very / quite",
-    "pos": "adv"
+    "translation": "very / quite"
   },
   {
     "id": 105,
     "word": "너무",
     "romanization": "neomu",
-    "translation": "too / too much",
-    "pos": "adv"
+    "translation": "too / too much"
   },
   {
     "id": 106,
     "word": "정말",
     "romanization": "jeongmal",
-    "translation": "really / truly",
-    "pos": "adv"
+    "translation": "really / truly"
   },
   {
     "id": 107,
     "word": "가장",
     "romanization": "gajang",
-    "translation": "most / best",
-    "pos": "adv"
+    "translation": "most / best"
   },
   {
     "id": 108,
     "word": "바로",
     "romanization": "baro",
-    "translation": "right / immediately / exactly",
-    "pos": "adv"
+    "translation": "right / immediately / exactly"
   },
   {
     "id": 109,
     "word": "지금",
     "romanization": "jigeum",
-    "translation": "now",
-    "pos": "adv"
+    "translation": "now"
   },
   {
     "id": 110,
     "word": "다시",
     "romanization": "dasi",
-    "translation": "again",
-    "pos": "adv"
+    "translation": "again"
   },
   {
     "id": 111,
     "word": "이미",
     "romanization": "imi",
-    "translation": "already",
-    "pos": "adv"
+    "translation": "already"
   },
   {
     "id": 112,
     "word": "아직",
     "romanization": "ajik",
-    "translation": "still / yet",
-    "pos": "adv"
+    "translation": "still / yet"
   },
   {
     "id": 113,
     "word": "만들다",
     "romanization": "mandeulda",
-    "translation": "to make / to create",
-    "pos": "verb"
+    "translation": "to make / to create"
   },
   {
     "id": 114,
     "word": "받다",
     "romanization": "batda",
-    "translation": "to receive",
-    "pos": "verb"
+    "translation": "to receive"
   },
   {
     "id": 115,
     "word": "찾다",
     "romanization": "chatda",
-    "translation": "to find / to look for",
-    "pos": "verb"
+    "translation": "to find / to look for"
   },
   {
     "id": 116,
     "word": "놓다",
     "romanization": "nota",
-    "translation": "to put / to place",
-    "pos": "verb"
+    "translation": "to put / to place"
   },
   {
     "id": 117,
     "word": "내다",
     "romanization": "naeda",
-    "translation": "to produce / to pay",
-    "pos": "verb"
+    "translation": "to produce / to pay"
   },
   {
     "id": 118,
     "word": "갖다",
     "romanization": "gatda",
-    "translation": "to have / to hold",
-    "pos": "verb"
+    "translation": "to have / to hold"
   },
   {
     "id": 119,
     "word": "듣다",
     "romanization": "deutda",
-    "translation": "to hear / to listen",
-    "pos": "verb"
+    "translation": "to hear / to listen"
   },
   {
     "id": 120,
     "word": "읽다",
     "romanization": "ikda",
-    "translation": "to read",
-    "pos": "verb"
+    "translation": "to read"
   },
   {
     "id": 121,
     "word": "배우다",
     "romanization": "baeuda",
-    "translation": "to learn",
-    "pos": "verb"
+    "translation": "to learn"
   },
   {
     "id": 122,
     "word": "가르치다",
     "romanization": "gareuchida",
-    "translation": "to teach",
-    "pos": "verb"
+    "translation": "to teach"
   },
   {
     "id": 123,
     "word": "서다",
     "romanization": "seoda",
-    "translation": "to stand",
-    "pos": "verb"
+    "translation": "to stand"
   },
   {
     "id": 124,
     "word": "앉다",
     "romanization": "anda",
-    "translation": "to sit",
-    "pos": "verb"
+    "translation": "to sit"
   },
   {
     "id": 125,
     "word": "걷다",
     "romanization": "geotda",
-    "translation": "to walk",
-    "pos": "verb"
+    "translation": "to walk"
   },
   {
     "id": 126,
     "word": "열다",
     "romanization": "yeolda",
-    "translation": "to open",
-    "pos": "verb"
+    "translation": "to open"
   },
   {
     "id": 127,
     "word": "닫다",
     "romanization": "datda",
-    "translation": "to close / to shut",
-    "pos": "verb"
+    "translation": "to close / to shut"
   },
   {
     "id": 128,
     "word": "자다",
     "romanization": "jada",
-    "translation": "to sleep",
-    "pos": "verb"
+    "translation": "to sleep"
   },
   {
     "id": 129,
     "word": "일어나다",
     "romanization": "ireonada",
-    "translation": "to get up / to happen",
-    "pos": "verb"
+    "translation": "to get up / to happen"
   },
   {
     "id": 130,
     "word": "시작하다",
     "romanization": "sijakhada",
-    "translation": "to start / to begin",
-    "pos": "verb"
+    "translation": "to start / to begin"
   },
   {
     "id": 131,
     "word": "생각하다",
     "romanization": "saenggakhada",
-    "translation": "to think",
-    "pos": "verb"
+    "translation": "to think"
   },
   {
     "id": 132,
     "word": "느끼다",
     "romanization": "neukkida",
-    "translation": "to feel",
-    "pos": "verb"
+    "translation": "to feel"
   },
   {
     "id": 133,
     "word": "모르다",
     "romanization": "moreuda",
-    "translation": "to not know",
-    "pos": "verb"
+    "translation": "to not know"
   },
   {
     "id": 134,
     "word": "사다",
     "romanization": "sada",
-    "translation": "to buy",
-    "pos": "verb"
+    "translation": "to buy"
   },
   {
     "id": 135,
     "word": "만나다",
     "romanization": "mannada",
-    "translation": "to meet",
-    "pos": "verb"
+    "translation": "to meet"
   },
   {
     "id": 136,
     "word": "기다리다",
     "romanization": "gidarida",
-    "translation": "to wait",
-    "pos": "verb"
+    "translation": "to wait"
   },
   {
     "id": 137,
     "word": "부르다",
     "romanization": "bureuda",
-    "translation": "to call / to sing",
-    "pos": "verb"
+    "translation": "to call / to sing"
   },
   {
     "id": 138,
     "word": "돌아오다",
     "romanization": "doraoda",
-    "translation": "to come back / to return",
-    "pos": "verb"
+    "translation": "to come back / to return"
   },
   {
     "id": 139,
     "word": "나가다",
     "romanization": "nagada",
-    "translation": "to go out",
-    "pos": "verb"
+    "translation": "to go out"
   },
   {
     "id": 140,
     "word": "데",
     "romanization": "de",
-    "translation": "place / situation (bound noun)",
-    "pos": "noun"
+    "translation": "place / situation (bound noun)"
   },
   {
     "id": 141,
     "word": "년",
     "romanization": "nyeon",
-    "translation": "year",
-    "pos": "noun"
+    "translation": "year"
   },
   {
     "id": 142,
     "word": "앞",
     "romanization": "ap",
-    "translation": "front",
-    "pos": "noun"
+    "translation": "front"
   },
   {
     "id": 143,
     "word": "뒤",
     "romanization": "dwi",
-    "translation": "back / behind",
-    "pos": "noun"
+    "translation": "back / behind"
   },
   {
     "id": 144,
     "word": "위",
     "romanization": "wi",
-    "translation": "top / above",
-    "pos": "noun"
+    "translation": "top / above"
   },
   {
     "id": 145,
     "word": "아래",
     "romanization": "arae",
-    "translation": "below / under",
-    "pos": "noun"
+    "translation": "below / under"
   },
   {
     "id": 146,
     "word": "밖",
     "romanization": "bak",
-    "translation": "outside",
-    "pos": "noun"
+    "translation": "outside"
   },
   {
     "id": 147,
     "word": "옆",
     "romanization": "yeop",
-    "translation": "side / beside",
-    "pos": "noun"
+    "translation": "side / beside"
   },
   {
     "id": 148,
     "word": "가운데",
     "romanization": "gaunde",
-    "translation": "middle / center",
-    "pos": "noun"
+    "translation": "middle / center"
   },
   {
     "id": 149,
     "word": "머리",
     "romanization": "meori",
-    "translation": "head / hair",
-    "pos": "noun"
+    "translation": "head / hair"
   },
   {
     "id": 150,
     "word": "얼굴",
     "romanization": "eolgul",
-    "translation": "face",
-    "pos": "noun"
+    "translation": "face"
   },
   {
     "id": 151,
     "word": "몸",
     "romanization": "mom",
-    "translation": "body",
-    "pos": "noun"
+    "translation": "body"
   },
   {
     "id": 152,
     "word": "입",
     "romanization": "ip",
-    "translation": "mouth",
-    "pos": "noun"
+    "translation": "mouth"
   },
   {
     "id": 153,
     "word": "귀",
     "romanization": "gwi",
-    "translation": "ear",
-    "pos": "noun"
+    "translation": "ear"
   },
   {
     "id": 154,
     "word": "코",
     "romanization": "ko",
-    "translation": "nose",
-    "pos": "noun"
+    "translation": "nose"
   },
   {
     "id": 155,
     "word": "발",
     "romanization": "bal",
-    "translation": "foot",
-    "pos": "noun"
+    "translation": "foot"
   },
   {
     "id": 156,
     "word": "다리",
     "romanization": "dari",
-    "translation": "leg / bridge",
-    "pos": "noun"
+    "translation": "leg / bridge"
   },
   {
     "id": 157,
     "word": "배",
     "romanization": "bae",
-    "translation": "stomach / boat / pear",
-    "pos": "noun"
+    "translation": "stomach / boat / pear"
   },
   {
     "id": 158,
     "word": "등",
     "romanization": "deung",
-    "translation": "back (body) / etc.",
-    "pos": "noun"
+    "translation": "back (body) / etc."
   },
   {
     "id": 159,
     "word": "어머니",
     "romanization": "eomeoni",
-    "translation": "mother",
-    "pos": "noun"
+    "translation": "mother"
   },
   {
     "id": 160,
     "word": "아버지",
     "romanization": "abeoji",
-    "translation": "father",
-    "pos": "noun"
+    "translation": "father"
   },
   {
     "id": 161,
     "word": "엄마",
     "romanization": "eomma",
-    "translation": "mom",
-    "pos": "noun"
+    "translation": "mom"
   },
   {
     "id": 162,
     "word": "아빠",
     "romanization": "appa",
-    "translation": "dad",
-    "pos": "noun"
+    "translation": "dad"
   },
   {
     "id": 163,
     "word": "형",
     "romanization": "hyeong",
-    "translation": "older brother (male speaker)",
-    "pos": "noun"
+    "translation": "older brother (male speaker)"
   },
   {
     "id": 164,
     "word": "오빠",
     "romanization": "oppa",
-    "translation": "older brother (female speaker)",
-    "pos": "noun"
+    "translation": "older brother (female speaker)"
   },
   {
     "id": 165,
     "word": "누나",
     "romanization": "nuna",
-    "translation": "older sister (male speaker)",
-    "pos": "noun"
+    "translation": "older sister (male speaker)"
   },
   {
     "id": 166,
     "word": "언니",
     "romanization": "eonni",
-    "translation": "older sister (female speaker)",
-    "pos": "noun"
+    "translation": "older sister (female speaker)"
   },
   {
     "id": 167,
     "word": "동생",
     "romanization": "dongsaeng",
-    "translation": "younger sibling",
-    "pos": "noun"
+    "translation": "younger sibling"
   },
   {
     "id": 168,
     "word": "가족",
     "romanization": "gajok",
-    "translation": "family",
-    "pos": "noun"
+    "translation": "family"
   },
   {
     "id": 169,
     "word": "친구",
     "romanization": "chingu",
-    "translation": "friend",
-    "pos": "noun"
+    "translation": "friend"
   },
   {
     "id": 170,
     "word": "선생님",
     "romanization": "seonsaengnim",
-    "translation": "teacher",
-    "pos": "noun"
+    "translation": "teacher"
   },
   {
     "id": 171,
     "word": "학생",
     "romanization": "haksaeng",
-    "translation": "student",
-    "pos": "noun"
+    "translation": "student"
   },
   {
     "id": 172,
     "word": "이름",
     "romanization": "ireum",
-    "translation": "name",
-    "pos": "noun"
+    "translation": "name"
   },
   {
     "id": 173,
     "word": "책",
     "romanization": "chaek",
-    "translation": "book",
-    "pos": "noun"
+    "translation": "book"
   },
   {
     "id": 174,
     "word": "방",
     "romanization": "bang",
-    "translation": "room",
-    "pos": "noun"
+    "translation": "room"
   },
   {
     "id": 175,
     "word": "문",
     "romanization": "mun",
-    "translation": "door / gate",
-    "pos": "noun"
+    "translation": "door / gate"
   },
   {
     "id": 176,
     "word": "차",
     "romanization": "cha",
-    "translation": "car / tea",
-    "pos": "noun"
+    "translation": "car / tea"
   },
   {
     "id": 177,
     "word": "밥",
     "romanization": "bap",
-    "translation": "rice / meal",
-    "pos": "noun"
+    "translation": "rice / meal"
   },
   {
     "id": 178,
     "word": "음식",
     "romanization": "eumsik",
-    "translation": "food",
-    "pos": "noun"
+    "translation": "food"
   },
   {
     "id": 179,
     "word": "나무",
     "romanization": "namu",
-    "translation": "tree / wood",
-    "pos": "noun"
+    "translation": "tree / wood"
   },
   {
     "id": 180,
     "word": "꽃",
     "romanization": "kkot",
-    "translation": "flower",
-    "pos": "noun"
+    "translation": "flower"
   },
   {
     "id": 181,
     "word": "산",
     "romanization": "san",
-    "translation": "mountain",
-    "pos": "noun"
+    "translation": "mountain"
   },
   {
     "id": 182,
     "word": "바다",
     "romanization": "bada",
-    "translation": "sea / ocean",
-    "pos": "noun"
+    "translation": "sea / ocean"
   },
   {
     "id": 183,
     "word": "강",
     "romanization": "gang",
-    "translation": "river",
-    "pos": "noun"
+    "translation": "river"
   },
   {
     "id": 184,
     "word": "하늘",
     "romanization": "haneul",
-    "translation": "sky",
-    "pos": "noun"
+    "translation": "sky"
   },
   {
     "id": 185,
     "word": "땅",
     "romanization": "ttang",
-    "translation": "ground / land",
-    "pos": "noun"
+    "translation": "ground / land"
   },
   {
     "id": 186,
     "word": "비",
     "romanization": "bi",
-    "translation": "rain",
-    "pos": "noun"
+    "translation": "rain"
   },
   {
     "id": 187,
     "word": "바람",
     "romanization": "baram",
-    "translation": "wind / wish",
-    "pos": "noun"
+    "translation": "wind / wish"
   },
   {
     "id": 188,
     "word": "해",
     "romanization": "hae",
-    "translation": "sun / year",
-    "pos": "noun"
+    "translation": "sun / year"
   },
   {
     "id": 189,
     "word": "달",
     "romanization": "dal",
-    "translation": "moon / month",
-    "pos": "noun"
+    "translation": "moon / month"
   },
   {
     "id": 190,
     "word": "별",
     "romanization": "byeol",
-    "translation": "star",
-    "pos": "noun"
+    "translation": "star"
   },
   {
     "id": 191,
     "word": "불",
     "romanization": "bul",
-    "translation": "fire / light",
-    "pos": "noun"
+    "translation": "fire / light"
   },
   {
     "id": 192,
     "word": "소리",
     "romanization": "sori",
-    "translation": "sound / noise",
-    "pos": "noun"
+    "translation": "sound / noise"
   },
   {
     "id": 193,
     "word": "색",
     "romanization": "saek",
-    "translation": "color",
-    "pos": "noun"
+    "translation": "color"
   },
   {
     "id": 194,
     "word": "힘",
     "romanization": "him",
-    "translation": "strength / power",
-    "pos": "noun"
+    "translation": "strength / power"
   },
   {
     "id": 195,
     "word": "사랑",
     "romanization": "sarang",
-    "translation": "love",
-    "pos": "noun"
+    "translation": "love"
   },
   {
     "id": 196,
     "word": "꿈",
     "romanization": "kkum",
-    "translation": "dream",
-    "pos": "noun"
+    "translation": "dream"
   },
   {
     "id": 197,
     "word": "희망",
     "romanization": "huimang",
-    "translation": "hope",
-    "pos": "noun"
+    "translation": "hope"
   },
   {
     "id": 198,
     "word": "기분",
     "romanization": "gibun",
-    "translation": "feeling / mood",
-    "pos": "noun"
+    "translation": "feeling / mood"
   },
   {
     "id": 199,
     "word": "행복",
     "romanization": "haengbok",
-    "translation": "happiness",
-    "pos": "noun"
+    "translation": "happiness"
   },
   {
     "id": 200,
     "word": "슬픔",
     "romanization": "seulpeum",
-    "translation": "sadness / sorrow",
-    "pos": "noun"
+    "translation": "sadness / sorrow"
   },
   {
     "id": 201,
     "word": "기쁨",
     "romanization": "gippeum",
-    "translation": "joy / delight",
-    "pos": "noun"
+    "translation": "joy / delight"
   },
   {
     "id": 202,
     "word": "화",
     "romanization": "hwa",
-    "translation": "anger / fire",
-    "pos": "noun"
+    "translation": "anger / fire"
   },
   {
     "id": 203,
     "word": "걱정",
     "romanization": "geokjeong",
-    "translation": "worry / concern",
-    "pos": "noun"
+    "translation": "worry / concern"
   },
   {
     "id": 204,
     "word": "관심",
     "romanization": "gwansim",
-    "translation": "interest / attention",
-    "pos": "noun"
+    "translation": "interest / attention"
   },
   {
     "id": 205,
     "word": "생활",
     "romanization": "saenghwal",
-    "translation": "life / living",
-    "pos": "noun"
+    "translation": "life / living"
   },
   {
     "id": 206,
     "word": "역사",
     "romanization": "yeoksa",
-    "translation": "history",
-    "pos": "noun"
+    "translation": "history"
   },
   {
     "id": 207,
     "word": "경제",
     "romanization": "gyeongje",
-    "translation": "economy",
-    "pos": "noun"
+    "translation": "economy"
   },
   {
     "id": 208,
     "word": "문화",
     "romanization": "munhwa",
-    "translation": "culture",
-    "pos": "noun"
+    "translation": "culture"
   },
   {
     "id": 209,
     "word": "교육",
     "romanization": "gyoyuk",
-    "translation": "education",
-    "pos": "noun"
+    "translation": "education"
   },
   {
     "id": 210,
     "word": "과학",
     "romanization": "gwahak",
-    "translation": "science",
-    "pos": "noun"
+    "translation": "science"
   },
   {
     "id": 211,
     "word": "기술",
     "romanization": "gisul",
-    "translation": "technology / skill",
-    "pos": "noun"
+    "translation": "technology / skill"
   },
   {
     "id": 212,
     "word": "정치",
     "romanization": "jeongchi",
-    "translation": "politics",
-    "pos": "noun"
+    "translation": "politics"
   },
   {
     "id": 213,
     "word": "법",
     "romanization": "beop",
-    "translation": "law / method",
-    "pos": "noun"
+    "translation": "law / method"
   },
   {
     "id": 214,
     "word": "전쟁",
     "romanization": "jeonjaeng",
-    "translation": "war",
-    "pos": "noun"
+    "translation": "war"
   },
   {
     "id": 215,
     "word": "평화",
     "romanization": "pyeonghwa",
-    "translation": "peace",
-    "pos": "noun"
+    "translation": "peace"
   },
   {
     "id": 216,
     "word": "자유",
     "romanization": "jayu",
-    "translation": "freedom / liberty",
-    "pos": "noun"
+    "translation": "freedom / liberty"
   },
   {
     "id": 217,
     "word": "종교",
     "romanization": "jonggyo",
-    "translation": "religion",
-    "pos": "noun"
+    "translation": "religion"
   },
   {
     "id": 218,
     "word": "예술",
     "romanization": "yesul",
-    "translation": "art",
-    "pos": "noun"
+    "translation": "art"
   },
   {
     "id": 219,
     "word": "음악",
     "romanization": "eumak",
-    "translation": "music",
-    "pos": "noun"
+    "translation": "music"
   },
   {
     "id": 220,
     "word": "영화",
     "romanization": "yeonghwa",
-    "translation": "movie / film",
-    "pos": "noun"
+    "translation": "movie / film"
   },
   {
     "id": 221,
     "word": "신문",
     "romanization": "sinmun",
-    "translation": "newspaper",
-    "pos": "noun"
+    "translation": "newspaper"
   },
   {
     "id": 222,
     "word": "뉴스",
     "romanization": "nyuseu",
-    "translation": "news",
-    "pos": "noun"
+    "translation": "news"
   },
   {
     "id": 223,
     "word": "회사",
     "romanization": "hoesa",
-    "translation": "company",
-    "pos": "noun"
+    "translation": "company"
   },
   {
     "id": 224,
     "word": "공장",
     "romanization": "gongjang",
-    "translation": "factory",
-    "pos": "noun"
+    "translation": "factory"
   },
   {
     "id": 225,
     "word": "병원",
     "romanization": "byeongwon",
-    "translation": "hospital",
-    "pos": "noun"
+    "translation": "hospital"
   },
   {
     "id": 226,
     "word": "은행",
     "romanization": "eunhaeng",
-    "translation": "bank",
-    "pos": "noun"
+    "translation": "bank"
   },
   {
     "id": 227,
     "word": "가게",
     "romanization": "gage",
-    "translation": "store / shop",
-    "pos": "noun"
+    "translation": "store / shop"
   },
   {
     "id": 228,
     "word": "시장",
     "romanization": "sijang",
-    "translation": "market / mayor",
-    "pos": "noun"
+    "translation": "market / mayor"
   },
   {
     "id": 229,
     "word": "도시",
     "romanization": "dosi",
-    "translation": "city",
-    "pos": "noun"
+    "translation": "city"
   },
   {
     "id": 230,
     "word": "마을",
     "romanization": "maeul",
-    "translation": "village / town",
-    "pos": "noun"
+    "translation": "village / town"
   },
   {
     "id": 231,
     "word": "거리",
     "romanization": "geori",
-    "translation": "street / distance",
-    "pos": "noun"
+    "translation": "street / distance"
   },
   {
     "id": 232,
     "word": "공원",
     "romanization": "gongwon",
-    "translation": "park",
-    "pos": "noun"
+    "translation": "park"
   },
   {
     "id": 233,
     "word": "역",
     "romanization": "yeok",
-    "translation": "station / role",
-    "pos": "noun"
+    "translation": "station / role"
   },
   {
     "id": 234,
     "word": "공항",
     "romanization": "gonghang",
-    "translation": "airport",
-    "pos": "noun"
+    "translation": "airport"
   },
   {
     "id": 235,
     "word": "호텔",
     "romanization": "hotel",
-    "translation": "hotel",
-    "pos": "noun"
+    "translation": "hotel"
   },
   {
     "id": 236,
     "word": "식당",
     "romanization": "sikdang",
-    "translation": "restaurant",
-    "pos": "noun"
+    "translation": "restaurant"
   },
   {
     "id": 237,
     "word": "카페",
     "romanization": "kape",
-    "translation": "cafe",
-    "pos": "noun"
+    "translation": "cafe"
   },
   {
     "id": 238,
     "word": "전화",
     "romanization": "jeonhwa",
-    "translation": "telephone / phone call",
-    "pos": "noun"
+    "translation": "telephone / phone call"
   },
   {
     "id": 239,
     "word": "컴퓨터",
     "romanization": "keompyuteo",
-    "translation": "computer",
-    "pos": "noun"
+    "translation": "computer"
   },
   {
     "id": 240,
     "word": "인터넷",
     "romanization": "inteonet",
-    "translation": "internet",
-    "pos": "noun"
+    "translation": "internet"
   },
   {
     "id": 241,
     "word": "사진",
     "romanization": "sajin",
-    "translation": "photo / picture",
-    "pos": "noun"
+    "translation": "photo / picture"
   },
   {
     "id": 242,
     "word": "그림",
     "romanization": "geurim",
-    "translation": "picture / painting",
-    "pos": "noun"
+    "translation": "picture / painting"
   },
   {
     "id": 243,
     "word": "편지",
     "romanization": "pyeonji",
-    "translation": "letter (mail)",
-    "pos": "noun"
+    "translation": "letter (mail)"
   },
   {
     "id": 244,
     "word": "노래",
     "romanization": "norae",
-    "translation": "song",
-    "pos": "noun"
+    "translation": "song"
   },
   {
     "id": 245,
     "word": "춤",
     "romanization": "chum",
-    "translation": "dance",
-    "pos": "noun"
+    "translation": "dance"
   },
   {
     "id": 246,
     "word": "운동",
     "romanization": "undong",
-    "translation": "exercise / sports / movement",
-    "pos": "noun"
+    "translation": "exercise / sports / movement"
   },
   {
     "id": 247,
     "word": "게임",
     "romanization": "geim",
-    "translation": "game",
-    "pos": "noun"
+    "translation": "game"
   },
   {
     "id": 248,
     "word": "여행",
     "romanization": "yeohaeng",
-    "translation": "travel / trip",
-    "pos": "noun"
+    "translation": "travel / trip"
   },
   {
     "id": 249,
     "word": "계획",
     "romanization": "gyehoek",
-    "translation": "plan",
-    "pos": "noun"
+    "translation": "plan"
   },
   {
     "id": 250,
     "word": "약속",
     "romanization": "yaksok",
-    "translation": "promise / appointment",
-    "pos": "noun"
+    "translation": "promise / appointment"
   },
   {
     "id": 251,
     "word": "결과",
     "romanization": "gyeolgwa",
-    "translation": "result / outcome",
-    "pos": "noun"
+    "translation": "result / outcome"
   },
   {
     "id": 252,
     "word": "이유",
     "romanization": "iyu",
-    "translation": "reason",
-    "pos": "noun"
+    "translation": "reason"
   },
   {
     "id": 253,
     "word": "목적",
     "romanization": "mokjeok",
-    "translation": "purpose / goal",
-    "pos": "noun"
+    "translation": "purpose / goal"
   },
   {
     "id": 254,
     "word": "방법",
     "romanization": "bangbeop",
-    "translation": "method / way",
-    "pos": "noun"
+    "translation": "method / way"
   },
   {
     "id": 255,
     "word": "상황",
     "romanization": "sanghwang",
-    "translation": "situation / condition",
-    "pos": "noun"
+    "translation": "situation / condition"
   },
   {
     "id": 256,
     "word": "변화",
     "romanization": "byeonhwa",
-    "translation": "change",
-    "pos": "noun"
+    "translation": "change"
   },
   {
     "id": 257,
     "word": "발전",
     "romanization": "baljeon",
-    "translation": "development / progress",
-    "pos": "noun"
+    "translation": "development / progress"
   },
   {
     "id": 258,
     "word": "관계",
     "romanization": "gwangye",
-    "translation": "relationship / relation",
-    "pos": "noun"
+    "translation": "relationship / relation"
   },
   {
     "id": 259,
     "word": "차이",
     "romanization": "chai",
-    "translation": "difference",
-    "pos": "noun"
+    "translation": "difference"
   },
   {
     "id": 260,
     "word": "의미",
     "romanization": "uimi",
-    "translation": "meaning",
-    "pos": "noun"
+    "translation": "meaning"
   },
   {
     "id": 261,
     "word": "가치",
     "romanization": "gachi",
-    "translation": "value / worth",
-    "pos": "noun"
+    "translation": "value / worth"
   },
   {
     "id": 262,
     "word": "능력",
     "romanization": "neungnyeok",
-    "translation": "ability / capability",
-    "pos": "noun"
+    "translation": "ability / capability"
   },
   {
     "id": 263,
     "word": "경험",
     "romanization": "gyeongheom",
-    "translation": "experience",
-    "pos": "noun"
+    "translation": "experience"
   },
   {
     "id": 264,
     "word": "기회",
     "romanization": "gihoe",
-    "translation": "opportunity / chance",
-    "pos": "noun"
+    "translation": "opportunity / chance"
   },
   {
     "id": 265,
     "word": "준비",
     "romanization": "junbi",
-    "translation": "preparation",
-    "pos": "noun"
+    "translation": "preparation"
   },
   {
     "id": 266,
     "word": "노력",
     "romanization": "noryeok",
-    "translation": "effort",
-    "pos": "noun"
+    "translation": "effort"
   },
   {
     "id": 267,
     "word": "성공",
     "romanization": "seonggong",
-    "translation": "success",
-    "pos": "noun"
+    "translation": "success"
   },
   {
     "id": 268,
     "word": "실패",
     "romanization": "silpae",
-    "translation": "failure",
-    "pos": "noun"
+    "translation": "failure"
   },
   {
     "id": 269,
     "word": "안전",
     "romanization": "anjeon",
-    "translation": "safety / security",
-    "pos": "noun"
+    "translation": "safety / security"
   },
   {
     "id": 270,
     "word": "위험",
     "romanization": "wiheom",
-    "translation": "danger / risk",
-    "pos": "noun"
+    "translation": "danger / risk"
   },
   {
     "id": 271,
     "word": "건강",
     "romanization": "geongang",
-    "translation": "health",
-    "pos": "noun"
+    "translation": "health"
   },
   {
     "id": 272,
     "word": "병",
     "romanization": "byeong",
-    "translation": "disease / bottle",
-    "pos": "noun"
+    "translation": "disease / bottle"
   },
   {
     "id": 273,
     "word": "약",
     "romanization": "yak",
-    "translation": "medicine / about",
-    "pos": "noun"
+    "translation": "medicine / about"
   },
   {
     "id": 274,
     "word": "의사",
     "romanization": "uisa",
-    "translation": "doctor",
-    "pos": "noun"
+    "translation": "doctor"
   },
   {
     "id": 275,
     "word": "환자",
     "romanization": "hwanja",
-    "translation": "patient",
-    "pos": "noun"
+    "translation": "patient"
   },
   {
     "id": 276,
     "word": "나이",
     "romanization": "nai",
-    "translation": "age",
-    "pos": "noun"
+    "translation": "age"
   },
   {
     "id": 277,
     "word": "젊다",
     "romanization": "jeolmda",
-    "translation": "to be young",
-    "pos": "adj"
+    "translation": "to be young"
   },
   {
     "id": 278,
     "word": "늙다",
     "romanization": "neukda",
-    "translation": "to be old (age)",
-    "pos": "adj"
+    "translation": "to be old (age)"
   },
   {
     "id": 279,
     "word": "새롭다",
     "romanization": "saeropda",
-    "translation": "to be new",
-    "pos": "adj"
+    "translation": "to be new"
   },
   {
     "id": 280,
     "word": "오래되다",
     "romanization": "oraedoeda",
-    "translation": "to be old (things)",
-    "pos": "adj"
+    "translation": "to be old (things)"
   },
   {
     "id": 281,
     "word": "빠르다",
     "romanization": "ppareuda",
-    "translation": "to be fast / quick",
-    "pos": "adj"
+    "translation": "to be fast / quick"
   },
   {
     "id": 282,
     "word": "느리다",
     "romanization": "neurida",
-    "translation": "to be slow",
-    "pos": "adj"
+    "translation": "to be slow"
   },
   {
     "id": 283,
     "word": "높다",
     "romanization": "nopda",
-    "translation": "to be high / tall",
-    "pos": "adj"
+    "translation": "to be high / tall"
   },
   {
     "id": 284,
     "word": "낮다",
     "romanization": "natda",
-    "translation": "to be low",
-    "pos": "adj"
+    "translation": "to be low"
   },
   {
     "id": 285,
     "word": "길다",
     "romanization": "gilda",
-    "translation": "to be long",
-    "pos": "adj"
+    "translation": "to be long"
   },
   {
     "id": 286,
     "word": "짧다",
     "romanization": "jjalda",
-    "translation": "to be short (length)",
-    "pos": "adj"
+    "translation": "to be short (length)"
   },
   {
     "id": 287,
     "word": "넓다",
     "romanization": "neolda",
-    "translation": "to be wide / broad",
-    "pos": "adj"
+    "translation": "to be wide / broad"
   },
   {
     "id": 288,
     "word": "좁다",
     "romanization": "jopda",
-    "translation": "to be narrow",
-    "pos": "adj"
+    "translation": "to be narrow"
   },
   {
     "id": 289,
     "word": "깊다",
     "romanization": "gipda",
-    "translation": "to be deep",
-    "pos": "adj"
+    "translation": "to be deep"
   },
   {
     "id": 290,
     "word": "작다",
     "romanization": "jakda",
-    "translation": "to be small / little",
-    "pos": "adj"
+    "translation": "to be small / little"
   },
   {
     "id": 291,
     "word": "무겁다",
     "romanization": "mugeopda",
-    "translation": "to be heavy",
-    "pos": "adj"
+    "translation": "to be heavy"
   },
   {
     "id": 292,
     "word": "가볍다",
     "romanization": "gabyeopda",
-    "translation": "to be light (weight)",
-    "pos": "adj"
+    "translation": "to be light (weight)"
   },
   {
     "id": 293,
     "word": "밝다",
     "romanization": "balkda",
-    "translation": "to be bright",
-    "pos": "adj"
+    "translation": "to be bright"
   },
   {
     "id": 294,
     "word": "어둡다",
     "romanization": "eodupda",
-    "translation": "to be dark",
-    "pos": "adj"
+    "translation": "to be dark"
   },
   {
     "id": 295,
     "word": "뜨겁다",
     "romanization": "tteugeopda",
-    "translation": "to be hot (touch)",
-    "pos": "adj"
+    "translation": "to be hot (touch)"
   },
   {
     "id": 296,
     "word": "차갑다",
     "romanization": "chagapda",
-    "translation": "to be cold (touch)",
-    "pos": "adj"
+    "translation": "to be cold (touch)"
   },
   {
     "id": 297,
     "word": "덥다",
     "romanization": "deopda",
-    "translation": "to be hot (weather)",
-    "pos": "adj"
+    "translation": "to be hot (weather)"
   },
   {
     "id": 298,
     "word": "춥다",
     "romanization": "chupda",
-    "translation": "to be cold (weather)",
-    "pos": "adj"
+    "translation": "to be cold (weather)"
   },
   {
     "id": 299,
     "word": "예쁘다",
     "romanization": "yeppeuda",
-    "translation": "to be pretty",
-    "pos": "adj"
+    "translation": "to be pretty"
   },
   {
     "id": 300,
     "word": "아름답다",
     "romanization": "areumdapda",
-    "translation": "to be beautiful",
-    "pos": "adj"
+    "translation": "to be beautiful"
   },
   {
     "id": 301,
     "word": "못생기다",
     "romanization": "motsaenggida",
-    "translation": "to be ugly",
-    "pos": "adj"
+    "translation": "to be ugly"
   },
   {
     "id": 302,
     "word": "맛있다",
     "romanization": "masitda",
-    "translation": "to be delicious",
-    "pos": "adj"
+    "translation": "to be delicious"
   },
   {
     "id": 303,
     "word": "맛없다",
     "romanization": "maseopda",
-    "translation": "to be tasteless",
-    "pos": "adj"
+    "translation": "to be tasteless"
   },
   {
     "id": 304,
     "word": "재미있다",
     "romanization": "jaemiitda",
-    "translation": "to be fun / interesting",
-    "pos": "adj"
+    "translation": "to be fun / interesting"
   },
   {
     "id": 305,
     "word": "지루하다",
     "romanization": "jiruhada",
-    "translation": "to be boring",
-    "pos": "adj"
+    "translation": "to be boring"
   },
   {
     "id": 306,
     "word": "쉽다",
     "romanization": "swipda",
-    "translation": "to be easy",
-    "pos": "adj"
+    "translation": "to be easy"
   },
   {
     "id": 307,
     "word": "어렵다",
     "romanization": "eoryeopda",
-    "translation": "to be difficult",
-    "pos": "adj"
+    "translation": "to be difficult"
   },
   {
     "id": 308,
     "word": "중요하다",
     "romanization": "jungyohada",
-    "translation": "to be important",
-    "pos": "adj"
+    "translation": "to be important"
   },
   {
     "id": 309,
     "word": "필요하다",
     "romanization": "piryohada",
-    "translation": "to be necessary",
-    "pos": "adj"
+    "translation": "to be necessary"
   },
   {
     "id": 310,
     "word": "특별하다",
     "romanization": "teukbyeolhada",
-    "translation": "to be special",
-    "pos": "adj"
+    "translation": "to be special"
   },
   {
     "id": 311,
     "word": "보통",
     "romanization": "botong",
-    "translation": "usually / ordinary",
-    "pos": "adv"
+    "translation": "usually / ordinary"
   },
   {
     "id": 312,
     "word": "항상",
     "romanization": "hangsang",
-    "translation": "always",
-    "pos": "adv"
+    "translation": "always"
   },
   {
     "id": 313,
     "word": "자주",
     "romanization": "jaju",
-    "translation": "often / frequently",
-    "pos": "adv"
+    "translation": "often / frequently"
   },
   {
     "id": 314,
     "word": "가끔",
     "romanization": "gakkeum",
-    "translation": "sometimes / occasionally",
-    "pos": "adv"
+    "translation": "sometimes / occasionally"
   },
   {
     "id": 315,
     "word": "거의",
     "romanization": "geoui",
-    "translation": "almost / nearly",
-    "pos": "adv"
+    "translation": "almost / nearly"
   },
   {
     "id": 316,
     "word": "전혀",
     "romanization": "jeonhyeo",
-    "translation": "not at all / completely",
-    "pos": "adv"
+    "translation": "not at all / completely"
   },
   {
     "id": 317,
     "word": "벌써",
     "romanization": "beolsseo",
-    "translation": "already",
-    "pos": "adv"
+    "translation": "already"
   },
   {
     "id": 318,
     "word": "아마",
     "romanization": "ama",
-    "translation": "probably / perhaps",
-    "pos": "adv"
+    "translation": "probably / perhaps"
   },
   {
     "id": 319,
     "word": "물론",
     "romanization": "mullon",
-    "translation": "of course",
-    "pos": "adv"
+    "translation": "of course"
   },
   {
     "id": 320,
     "word": "오히려",
     "romanization": "ohiryeo",
-    "translation": "rather / on the contrary",
-    "pos": "adv"
+    "translation": "rather / on the contrary"
   },
   {
     "id": 321,
     "word": "갑자기",
     "romanization": "gapjagi",
-    "translation": "suddenly",
-    "pos": "adv"
+    "translation": "suddenly"
   },
   {
     "id": 322,
     "word": "드디어",
     "romanization": "deudieo",
-    "translation": "finally / at last",
-    "pos": "adv"
+    "translation": "finally / at last"
   },
   {
     "id": 323,
     "word": "천천히",
     "romanization": "cheoncheonhi",
-    "translation": "slowly",
-    "pos": "adv"
+    "translation": "slowly"
   },
   {
     "id": 324,
     "word": "빨리",
     "romanization": "ppalli",
-    "translation": "quickly / fast",
-    "pos": "adv"
+    "translation": "quickly / fast"
   },
   {
     "id": 325,
     "word": "함께",
     "romanization": "hamkke",
-    "translation": "together",
-    "pos": "adv"
+    "translation": "together"
   },
   {
     "id": 326,
     "word": "혼자",
     "romanization": "honja",
-    "translation": "alone / by oneself",
-    "pos": "adv"
+    "translation": "alone / by oneself"
   },
   {
     "id": 327,
     "word": "서로",
     "romanization": "seoro",
-    "translation": "each other / mutually",
-    "pos": "adv"
+    "translation": "each other / mutually"
   },
   {
     "id": 328,
     "word": "먼저",
     "romanization": "meonjeo",
-    "translation": "first / before",
-    "pos": "adv"
+    "translation": "first / before"
   },
   {
     "id": 329,
     "word": "나중",
     "romanization": "najung",
-    "translation": "later",
-    "pos": "noun"
+    "translation": "later"
   },
   {
     "id": 330,
     "word": "오늘",
     "romanization": "oneul",
-    "translation": "today",
-    "pos": "noun"
+    "translation": "today"
   },
   {
     "id": 331,
     "word": "내일",
     "romanization": "naeil",
-    "translation": "tomorrow",
-    "pos": "noun"
+    "translation": "tomorrow"
   },
   {
     "id": 332,
     "word": "어제",
     "romanization": "eoje",
-    "translation": "yesterday",
-    "pos": "noun"
+    "translation": "yesterday"
   },
   {
     "id": 333,
     "word": "아침",
     "romanization": "achim",
-    "translation": "morning / breakfast",
-    "pos": "noun"
+    "translation": "morning / breakfast"
   },
   {
     "id": 334,
     "word": "점심",
     "romanization": "jeomsim",
-    "translation": "lunch / noon",
-    "pos": "noun"
+    "translation": "lunch / noon"
   },
   {
     "id": 335,
     "word": "저녁",
     "romanization": "jeonyeok",
-    "translation": "evening / dinner",
-    "pos": "noun"
+    "translation": "evening / dinner"
   },
   {
     "id": 336,
     "word": "낮",
     "romanization": "nat",
-    "translation": "daytime",
-    "pos": "noun"
+    "translation": "daytime"
   },
   {
     "id": 337,
     "word": "월요일",
     "romanization": "woryoil",
-    "translation": "Monday",
-    "pos": "noun"
+    "translation": "Monday"
   },
   {
     "id": 338,
     "word": "화요일",
     "romanization": "hwayoil",
-    "translation": "Tuesday",
-    "pos": "noun"
+    "translation": "Tuesday"
   },
   {
     "id": 339,
     "word": "수요일",
     "romanization": "suyoil",
-    "translation": "Wednesday",
-    "pos": "noun"
+    "translation": "Wednesday"
   },
   {
     "id": 340,
     "word": "목요일",
     "romanization": "mogyoil",
-    "translation": "Thursday",
-    "pos": "noun"
+    "translation": "Thursday"
   },
   {
     "id": 341,
     "word": "금요일",
     "romanization": "geumyoil",
-    "translation": "Friday",
-    "pos": "noun"
+    "translation": "Friday"
   },
   {
     "id": 342,
     "word": "토요일",
     "romanization": "toyoil",
-    "translation": "Saturday",
-    "pos": "noun"
+    "translation": "Saturday"
   },
   {
     "id": 343,
     "word": "일요일",
     "romanization": "iryoil",
-    "translation": "Sunday",
-    "pos": "noun"
+    "translation": "Sunday"
   },
   {
     "id": 344,
     "word": "봄",
     "romanization": "bom",
-    "translation": "spring",
-    "pos": "noun"
+    "translation": "spring"
   },
   {
     "id": 345,
     "word": "여름",
     "romanization": "yeoreum",
-    "translation": "summer",
-    "pos": "noun"
+    "translation": "summer"
   },
   {
     "id": 346,
     "word": "가을",
     "romanization": "gaeul",
-    "translation": "autumn / fall",
-    "pos": "noun"
+    "translation": "autumn / fall"
   },
   {
     "id": 347,
     "word": "겨울",
     "romanization": "gyeoul",
-    "translation": "winter",
-    "pos": "noun"
+    "translation": "winter"
   },
   {
     "id": 348,
     "word": "날씨",
     "romanization": "nalssi",
-    "translation": "weather",
-    "pos": "noun"
+    "translation": "weather"
   },
   {
     "id": 349,
     "word": "구름",
     "romanization": "gureum",
-    "translation": "cloud",
-    "pos": "noun"
+    "translation": "cloud"
   },
   {
     "id": 350,
     "word": "하나",
     "romanization": "hana",
-    "translation": "one",
-    "pos": "num"
+    "translation": "one"
   },
   {
     "id": 351,
     "word": "둘",
     "romanization": "dul",
-    "translation": "two",
-    "pos": "num"
+    "translation": "two"
   },
   {
     "id": 352,
     "word": "셋",
     "romanization": "set",
-    "translation": "three",
-    "pos": "num"
+    "translation": "three"
   },
   {
     "id": 353,
     "word": "넷",
     "romanization": "net",
-    "translation": "four",
-    "pos": "num"
+    "translation": "four"
   },
   {
     "id": 354,
     "word": "다섯",
     "romanization": "daseot",
-    "translation": "five",
-    "pos": "num"
+    "translation": "five"
   },
   {
     "id": 355,
     "word": "여섯",
     "romanization": "yeoseot",
-    "translation": "six",
-    "pos": "num"
+    "translation": "six"
   },
   {
     "id": 356,
     "word": "일곱",
     "romanization": "ilgop",
-    "translation": "seven",
-    "pos": "num"
+    "translation": "seven"
   },
   {
     "id": 357,
     "word": "여덟",
     "romanization": "yeodeol",
-    "translation": "eight",
-    "pos": "num"
+    "translation": "eight"
   },
   {
     "id": 358,
     "word": "아홉",
     "romanization": "ahop",
-    "translation": "nine",
-    "pos": "num"
+    "translation": "nine"
   },
   {
     "id": 359,
     "word": "열",
     "romanization": "yeol",
-    "translation": "ten",
-    "pos": "num"
+    "translation": "ten"
   },
   {
     "id": 360,
     "word": "백",
     "romanization": "baek",
-    "translation": "hundred",
-    "pos": "num"
+    "translation": "hundred"
   },
   {
     "id": 361,
     "word": "천",
     "romanization": "cheon",
-    "translation": "thousand",
-    "pos": "num"
+    "translation": "thousand"
   },
   {
     "id": 362,
     "word": "만",
     "romanization": "man",
-    "translation": "ten thousand",
-    "pos": "num"
+    "translation": "ten thousand"
   },
   {
     "id": 363,
     "word": "억",
     "romanization": "eok",
-    "translation": "hundred million",
-    "pos": "num"
+    "translation": "hundred million"
   },
   {
     "id": 364,
     "word": "번",
     "romanization": "beon",
-    "translation": "time (counter) / number",
-    "pos": "noun"
+    "translation": "time (counter) / number"
   },
   {
     "id": 365,
     "word": "개",
     "romanization": "gae",
-    "translation": "item (counter) / dog",
-    "pos": "noun"
+    "translation": "item (counter) / dog"
   },
   {
     "id": 366,
     "word": "명",
     "romanization": "myeong",
-    "translation": "person (counter)",
-    "pos": "noun"
+    "translation": "person (counter)"
   },
   {
     "id": 367,
     "word": "마리",
     "romanization": "mari",
-    "translation": "animal (counter)",
-    "pos": "noun"
+    "translation": "animal (counter)"
   },
   {
     "id": 368,
     "word": "잔",
     "romanization": "jan",
-    "translation": "cup (counter)",
-    "pos": "noun"
+    "translation": "cup (counter)"
   },
   {
     "id": 369,
     "word": "권",
     "romanization": "gwon",
-    "translation": "book (counter) / authority",
-    "pos": "noun"
+    "translation": "book (counter) / authority"
   },
   {
     "id": 370,
     "word": "장",
     "romanization": "jang",
-    "translation": "sheet (counter) / chapter",
-    "pos": "noun"
+    "translation": "sheet (counter) / chapter"
   },
   {
     "id": 371,
     "word": "층",
     "romanization": "cheung",
-    "translation": "floor / layer",
-    "pos": "noun"
+    "translation": "floor / layer"
   },
   {
     "id": 372,
     "word": "쪽",
     "romanization": "jjok",
-    "translation": "page / side / direction",
-    "pos": "noun"
+    "translation": "page / side / direction"
   },
   {
     "id": 373,
     "word": "살",
     "romanization": "sal",
-    "translation": "years old (counter)",
-    "pos": "noun"
+    "translation": "years old (counter)"
   },
   {
     "id": 374,
     "word": "원",
     "romanization": "won",
-    "translation": "Korean currency unit",
-    "pos": "noun"
+    "translation": "Korean currency unit"
   },
   {
     "id": 375,
     "word": "달러",
     "romanization": "dalleo",
-    "translation": "dollar",
-    "pos": "noun"
+    "translation": "dollar"
   },
   {
     "id": 376,
     "word": "웃다",
     "romanization": "utda",
-    "translation": "to laugh / to smile",
-    "pos": "verb"
+    "translation": "to laugh / to smile"
   },
   {
     "id": 377,
     "word": "울다",
     "romanization": "ulda",
-    "translation": "to cry",
-    "pos": "verb"
+    "translation": "to cry"
   },
   {
     "id": 378,
     "word": "놀다",
     "romanization": "nolda",
-    "translation": "to play / to hang out",
-    "pos": "verb"
+    "translation": "to play / to hang out"
   },
   {
     "id": 379,
     "word": "일하다",
     "romanization": "ilhada",
-    "translation": "to work",
-    "pos": "verb"
+    "translation": "to work"
   },
   {
     "id": 380,
     "word": "공부하다",
     "romanization": "gongbuhada",
-    "translation": "to study",
-    "pos": "verb"
+    "translation": "to study"
   },
   {
     "id": 381,
     "word": "도와주다",
     "romanization": "dowajuda",
-    "translation": "to help",
-    "pos": "verb"
+    "translation": "to help"
   },
   {
     "id": 382,
     "word": "사용하다",
     "romanization": "sayonghada",
-    "translation": "to use",
-    "pos": "verb"
+    "translation": "to use"
   },
   {
     "id": 383,
     "word": "이해하다",
     "romanization": "ihaehada",
-    "translation": "to understand",
-    "pos": "verb"
+    "translation": "to understand"
   },
   {
     "id": 384,
     "word": "설명하다",
     "romanization": "seolmyeonghada",
-    "translation": "to explain",
-    "pos": "verb"
+    "translation": "to explain"
   },
   {
     "id": 385,
     "word": "결정하다",
     "romanization": "gyeoljeonghada",
-    "translation": "to decide",
-    "pos": "verb"
+    "translation": "to decide"
   },
   {
     "id": 386,
     "word": "선택하다",
     "romanization": "seontaekhada",
-    "translation": "to choose / to select",
-    "pos": "verb"
+    "translation": "to choose / to select"
   },
   {
     "id": 387,
     "word": "비교하다",
     "romanization": "bigyohada",
-    "translation": "to compare",
-    "pos": "verb"
+    "translation": "to compare"
   },
   {
     "id": 388,
     "word": "포함하다",
     "romanization": "pohamhada",
-    "translation": "to include / to contain",
-    "pos": "verb"
+    "translation": "to include / to contain"
   },
   {
     "id": 389,
     "word": "제공하다",
     "romanization": "jegonghada",
-    "translation": "to provide / to offer",
-    "pos": "verb"
+    "translation": "to provide / to offer"
   },
   {
     "id": 390,
     "word": "요구하다",
     "romanization": "yoguhada",
-    "translation": "to demand / to require",
-    "pos": "verb"
+    "translation": "to demand / to require"
   },
   {
     "id": 391,
     "word": "확인하다",
     "romanization": "hwaginhada",
-    "translation": "to confirm / to check",
-    "pos": "verb"
+    "translation": "to confirm / to check"
   },
   {
     "id": 392,
     "word": "표현하다",
     "romanization": "pyohyeonhada",
-    "translation": "to express",
-    "pos": "verb"
+    "translation": "to express"
   },
   {
     "id": 393,
     "word": "참여하다",
     "romanization": "chamyeohada",
-    "translation": "to participate",
-    "pos": "verb"
+    "translation": "to participate"
   },
   {
     "id": 394,
     "word": "연습하다",
     "romanization": "yeonseupada",
-    "translation": "to practice",
-    "pos": "verb"
+    "translation": "to practice"
   },
   {
     "id": 395,
     "word": "준비하다",
     "romanization": "junbihada",
-    "translation": "to prepare",
-    "pos": "verb"
+    "translation": "to prepare"
   },
   {
     "id": 396,
     "word": "도착하다",
     "romanization": "dochakhada",
-    "translation": "to arrive",
-    "pos": "verb"
+    "translation": "to arrive"
   },
   {
     "id": 397,
     "word": "출발하다",
     "romanization": "chulbalhada",
-    "translation": "to depart",
-    "pos": "verb"
+    "translation": "to depart"
   },
   {
     "id": 398,
     "word": "기억하다",
     "romanization": "gieokhada",
-    "translation": "to remember",
-    "pos": "verb"
+    "translation": "to remember"
   },
   {
     "id": 399,
     "word": "잊다",
     "romanization": "itda",
-    "translation": "to forget",
-    "pos": "verb"
+    "translation": "to forget"
   },
   {
     "id": 400,
     "word": "지키다",
     "romanization": "jikida",
-    "translation": "to protect / to keep",
-    "pos": "verb"
+    "translation": "to protect / to keep"
   },
   {
     "id": 401,
     "word": "바꾸다",
     "romanization": "bakkuda",
-    "translation": "to change / to exchange",
-    "pos": "verb"
+    "translation": "to change / to exchange"
   },
   {
     "id": 402,
     "word": "움직이다",
     "romanization": "umjigida",
-    "translation": "to move",
-    "pos": "verb"
+    "translation": "to move"
   },
   {
     "id": 403,
     "word": "멈추다",
     "romanization": "meomchuda",
-    "translation": "to stop",
-    "pos": "verb"
+    "translation": "to stop"
   },
   {
     "id": 404,
     "word": "끝나다",
     "romanization": "kkeunnada",
-    "translation": "to end / to finish",
-    "pos": "verb"
+    "translation": "to end / to finish"
   },
   {
     "id": 405,
     "word": "시작되다",
     "romanization": "sijakdoeda",
-    "translation": "to be started",
-    "pos": "verb"
+    "translation": "to be started"
   },
   {
     "id": 406,
     "word": "나타나다",
     "romanization": "natanada",
-    "translation": "to appear",
-    "pos": "verb"
+    "translation": "to appear"
   },
   {
     "id": 407,
     "word": "사라지다",
     "romanization": "sarajida",
-    "translation": "to disappear",
-    "pos": "verb"
+    "translation": "to disappear"
   },
   {
     "id": 408,
     "word": "늘다",
     "romanization": "neulda",
-    "translation": "to increase / to grow",
-    "pos": "verb"
+    "translation": "to increase / to grow"
   },
   {
     "id": 409,
     "word": "줄다",
     "romanization": "julda",
-    "translation": "to decrease / to shrink",
-    "pos": "verb"
+    "translation": "to decrease / to shrink"
   },
   {
     "id": 410,
     "word": "떨어지다",
     "romanization": "tteoreojida",
-    "translation": "to fall / to drop",
-    "pos": "verb"
+    "translation": "to fall / to drop"
   },
   {
     "id": 411,
     "word": "올라가다",
     "romanization": "ollagada",
-    "translation": "to go up / to climb",
-    "pos": "verb"
+    "translation": "to go up / to climb"
   },
   {
     "id": 412,
     "word": "내려오다",
     "romanization": "naeryeooda",
-    "translation": "to come down",
-    "pos": "verb"
+    "translation": "to come down"
   },
   {
     "id": 413,
     "word": "들어가다",
     "romanization": "deureogada",
-    "translation": "to go in / to enter",
-    "pos": "verb"
+    "translation": "to go in / to enter"
   },
   {
     "id": 414,
     "word": "돌아가다",
     "romanization": "doragada",
-    "translation": "to go back / to return",
-    "pos": "verb"
+    "translation": "to go back / to return"
   },
   {
     "id": 415,
     "word": "지나다",
     "romanization": "jinada",
-    "translation": "to pass / to go by",
-    "pos": "verb"
+    "translation": "to pass / to go by"
   },
   {
     "id": 416,
     "word": "따르다",
     "romanization": "ttareuda",
-    "translation": "to follow",
-    "pos": "verb"
+    "translation": "to follow"
   },
   {
     "id": 417,
     "word": "이끌다",
     "romanization": "ikkeulda",
-    "translation": "to lead / to guide",
-    "pos": "verb"
+    "translation": "to lead / to guide"
   },
   {
     "id": 418,
     "word": "보내다",
     "romanization": "bonaeda",
-    "translation": "to send / to spend (time)",
-    "pos": "verb"
+    "translation": "to send / to spend (time)"
   },
   {
     "id": 419,
     "word": "가져오다",
     "romanization": "gajyeooda",
-    "translation": "to bring",
-    "pos": "verb"
+    "translation": "to bring"
   },
   {
     "id": 420,
     "word": "가져가다",
     "romanization": "gajyeogada",
-    "translation": "to take away",
-    "pos": "verb"
+    "translation": "to take away"
   },
   {
     "id": 421,
     "word": "던지다",
     "romanization": "deonjida",
-    "translation": "to throw",
-    "pos": "verb"
+    "translation": "to throw"
   },
   {
     "id": 422,
     "word": "잡다",
     "romanization": "japda",
-    "translation": "to catch / to grab",
-    "pos": "verb"
+    "translation": "to catch / to grab"
   },
   {
     "id": 423,
     "word": "들어오다",
     "romanization": "deureoda",
-    "translation": "to come in",
-    "pos": "verb"
+    "translation": "to come in"
   },
   {
     "id": 424,
     "word": "빌리다",
     "romanization": "billida",
-    "translation": "to borrow / to lend",
-    "pos": "verb"
+    "translation": "to borrow / to lend"
   },
   {
     "id": 425,
     "word": "갚다",
     "romanization": "gapda",
-    "translation": "to repay",
-    "pos": "verb"
+    "translation": "to repay"
   },
   {
     "id": 426,
     "word": "고르다",
     "romanization": "goreuda",
-    "translation": "to choose / to pick",
-    "pos": "verb"
+    "translation": "to choose / to pick"
   },
   {
     "id": 427,
     "word": "세우다",
     "romanization": "seuda",
-    "translation": "to set up / to establish",
-    "pos": "verb"
+    "translation": "to set up / to establish"
   },
   {
     "id": 428,
     "word": "놀라다",
     "romanization": "nollada",
-    "translation": "to be surprised",
-    "pos": "verb"
+    "translation": "to be surprised"
   },
   {
     "id": 429,
     "word": "걱정하다",
     "romanization": "geokjeonghada",
-    "translation": "to worry",
-    "pos": "verb"
+    "translation": "to worry"
   },
   {
     "id": 430,
     "word": "사랑하다",
     "romanization": "saranghada",
-    "translation": "to love",
-    "pos": "verb"
+    "translation": "to love"
   },
   {
     "id": 431,
     "word": "미워하다",
     "romanization": "miwohada",
-    "translation": "to hate",
-    "pos": "verb"
+    "translation": "to hate"
   },
   {
     "id": 432,
     "word": "믿다",
     "romanization": "mitda",
-    "translation": "to believe / to trust",
-    "pos": "verb"
+    "translation": "to believe / to trust"
   },
   {
     "id": 433,
     "word": "바라다",
     "romanization": "barada",
-    "translation": "to wish / to hope",
-    "pos": "verb"
+    "translation": "to wish / to hope"
   },
   {
     "id": 434,
     "word": "원하다",
     "romanization": "wonhada",
-    "translation": "to want / to desire",
-    "pos": "verb"
+    "translation": "to want / to desire"
   },
   {
     "id": 435,
     "word": "필요로하다",
     "romanization": "piryorohada",
-    "translation": "to need",
-    "pos": "verb"
+    "translation": "to need"
   },
   {
     "id": 436,
     "word": "좋아하다",
     "romanization": "joahada",
-    "translation": "to like",
-    "pos": "verb"
+    "translation": "to like"
   },
   {
     "id": 437,
     "word": "싫어하다",
     "romanization": "sireohada",
-    "translation": "to dislike",
-    "pos": "verb"
+    "translation": "to dislike"
   },
   {
     "id": 438,
     "word": "즐기다",
     "romanization": "jeulgida",
-    "translation": "to enjoy",
-    "pos": "verb"
+    "translation": "to enjoy"
   },
   {
     "id": 439,
     "word": "견디다",
     "romanization": "gyeondida",
-    "translation": "to endure / to bear",
-    "pos": "verb"
+    "translation": "to endure / to bear"
   },
   {
     "id": 440,
     "word": "포기하다",
     "romanization": "pogihada",
-    "translation": "to give up",
-    "pos": "verb"
+    "translation": "to give up"
   },
   {
     "id": 441,
     "word": "계속하다",
     "romanization": "gyesokhada",
-    "translation": "to continue",
-    "pos": "verb"
+    "translation": "to continue"
   },
   {
     "id": 442,
     "word": "그만두다",
     "romanization": "geumanduda",
-    "translation": "to quit / to stop",
-    "pos": "verb"
+    "translation": "to quit / to stop"
   },
   {
     "id": 443,
     "word": "끝내다",
     "romanization": "kkeunnaeda",
-    "translation": "to finish / to end",
-    "pos": "verb"
+    "translation": "to finish / to end"
   },
   {
     "id": 444,
     "word": "완성하다",
     "romanization": "wanseonghada",
-    "translation": "to complete",
-    "pos": "verb"
+    "translation": "to complete"
   },
   {
     "id": 445,
     "word": "이루다",
     "romanization": "iruda",
-    "translation": "to achieve / to accomplish",
-    "pos": "verb"
+    "translation": "to achieve / to accomplish"
   },
   {
     "id": 446,
     "word": "실현하다",
     "romanization": "silhyeonhada",
-    "translation": "to realize / to actualize",
-    "pos": "verb"
+    "translation": "to realize / to actualize"
   },
   {
     "id": 447,
     "word": "달리다",
     "romanization": "dallida",
-    "translation": "to run",
-    "pos": "verb"
+    "translation": "to run"
   },
   {
     "id": 448,
     "word": "날다",
     "romanization": "nalda",
-    "translation": "to fly",
-    "pos": "verb"
+    "translation": "to fly"
   },
   {
     "id": 449,
     "word": "수영하다",
     "romanization": "suyeonghada",
-    "translation": "to swim",
-    "pos": "verb"
+    "translation": "to swim"
   },
   {
     "id": 450,
     "word": "그리다",
     "romanization": "geurida",
-    "translation": "to draw / to paint",
-    "pos": "verb"
+    "translation": "to draw / to paint"
   },
   {
     "id": 451,
     "word": "노래하다",
     "romanization": "noraehada",
-    "translation": "to sing",
-    "pos": "verb"
+    "translation": "to sing"
   },
   {
     "id": 452,
     "word": "춤추다",
     "romanization": "chumchuda",
-    "translation": "to dance",
-    "pos": "verb"
+    "translation": "to dance"
   },
   {
     "id": 453,
     "word": "요리하다",
     "romanization": "yorihada",
-    "translation": "to cook",
-    "pos": "verb"
+    "translation": "to cook"
   },
   {
     "id": 454,
     "word": "씻다",
     "romanization": "ssitda",
-    "translation": "to wash",
-    "pos": "verb"
+    "translation": "to wash"
   },
   {
     "id": 455,
     "word": "입다",
     "romanization": "ipda",
-    "translation": "to wear (clothes)",
-    "pos": "verb"
+    "translation": "to wear (clothes)"
   },
   {
     "id": 456,
     "word": "벗다",
     "romanization": "beotda",
-    "translation": "to take off (clothes)",
-    "pos": "verb"
+    "translation": "to take off (clothes)"
   },
   {
     "id": 457,
     "word": "신다",
     "romanization": "sinda",
-    "translation": "to wear (shoes)",
-    "pos": "verb"
+    "translation": "to wear (shoes)"
   },
   {
     "id": 458,
     "word": "마시다",
     "romanization": "masida",
-    "translation": "to drink",
-    "pos": "verb"
+    "translation": "to drink"
   },
   {
     "id": 459,
     "word": "자르다",
     "romanization": "jareuda",
-    "translation": "to cut",
-    "pos": "verb"
+    "translation": "to cut"
   },
   {
     "id": 460,
     "word": "고치다",
     "romanization": "gochida",
-    "translation": "to fix / to repair",
-    "pos": "verb"
+    "translation": "to fix / to repair"
   },
   {
     "id": 461,
     "word": "깨다",
     "romanization": "kkaeda",
-    "translation": "to break / to wake up",
-    "pos": "verb"
+    "translation": "to break / to wake up"
   },
   {
     "id": 462,
     "word": "만지다",
     "romanization": "manjida",
-    "translation": "to touch",
-    "pos": "verb"
+    "translation": "to touch"
   },
   {
     "id": 463,
     "word": "넣다",
     "romanization": "neota",
-    "translation": "to put in / to insert",
-    "pos": "verb"
+    "translation": "to put in / to insert"
   },
   {
     "id": 464,
     "word": "꺼내다",
     "romanization": "kkeonaeda",
-    "translation": "to take out",
-    "pos": "verb"
+    "translation": "to take out"
   },
   {
     "id": 465,
     "word": "켜다",
     "romanization": "kyeoda",
-    "translation": "to turn on",
-    "pos": "verb"
+    "translation": "to turn on"
   },
   {
     "id": 466,
     "word": "끄다",
     "romanization": "kkeuda",
-    "translation": "to turn off",
-    "pos": "verb"
+    "translation": "to turn off"
   },
   {
     "id": 467,
     "word": "누르다",
     "romanization": "nureuda",
-    "translation": "to press / to push",
-    "pos": "verb"
+    "translation": "to press / to push"
   },
   {
     "id": 468,
     "word": "당기다",
     "romanization": "danggida",
-    "translation": "to pull",
-    "pos": "verb"
+    "translation": "to pull"
   },
   {
     "id": 469,
     "word": "밀다",
     "romanization": "milda",
-    "translation": "to push / to shove",
-    "pos": "verb"
+    "translation": "to push / to shove"
   },
   {
     "id": 470,
     "word": "흔들다",
     "romanization": "heundeulda",
-    "translation": "to shake / to wave",
-    "pos": "verb"
+    "translation": "to shake / to wave"
   },
   {
     "id": 471,
     "word": "돌리다",
     "romanization": "dollida",
-    "translation": "to turn / to rotate",
-    "pos": "verb"
+    "translation": "to turn / to rotate"
   },
   {
     "id": 472,
     "word": "감다",
     "romanization": "gamda",
-    "translation": "to close (eyes) / to wash (hair)",
-    "pos": "verb"
+    "translation": "to close (eyes) / to wash (hair)"
   },
   {
     "id": 473,
     "word": "펴다",
     "romanization": "pyeoda",
-    "translation": "to spread / to unfold",
-    "pos": "verb"
+    "translation": "to spread / to unfold"
   },
   {
     "id": 474,
     "word": "접다",
     "romanization": "jeopda",
-    "translation": "to fold",
-    "pos": "verb"
+    "translation": "to fold"
   },
   {
     "id": 475,
     "word": "나누다",
     "romanization": "nanuda",
-    "translation": "to divide / to share",
-    "pos": "verb"
+    "translation": "to divide / to share"
   },
   {
     "id": 476,
     "word": "모으다",
     "romanization": "moeuda",
-    "translation": "to gather / to collect",
-    "pos": "verb"
+    "translation": "to gather / to collect"
   },
   {
     "id": 477,
     "word": "섞다",
     "romanization": "seokda",
-    "translation": "to mix",
-    "pos": "verb"
+    "translation": "to mix"
   },
   {
     "id": 478,
     "word": "채우다",
     "romanization": "chaeuda",
-    "translation": "to fill",
-    "pos": "verb"
+    "translation": "to fill"
   },
   {
     "id": 479,
     "word": "비우다",
     "romanization": "biuda",
-    "translation": "to empty",
-    "pos": "verb"
+    "translation": "to empty"
   },
   {
     "id": 480,
     "word": "한국",
     "romanization": "hanguk",
-    "translation": "South Korea",
-    "pos": "noun"
+    "translation": "South Korea"
   },
   {
     "id": 481,
     "word": "서울",
     "romanization": "seoul",
-    "translation": "Seoul",
-    "pos": "noun"
+    "translation": "Seoul"
   },
   {
     "id": 482,
     "word": "대한민국",
     "romanization": "daehanminguk",
-    "translation": "Republic of Korea",
-    "pos": "noun"
+    "translation": "Republic of Korea"
   },
   {
     "id": 483,
     "word": "한국어",
     "romanization": "hangugeo",
-    "translation": "Korean language",
-    "pos": "noun"
+    "translation": "Korean language"
   },
   {
     "id": 484,
     "word": "영어",
     "romanization": "yeongeo",
-    "translation": "English language",
-    "pos": "noun"
+    "translation": "English language"
   },
   {
     "id": 485,
     "word": "언어",
     "romanization": "eoneo",
-    "translation": "language",
-    "pos": "noun"
+    "translation": "language"
   },
   {
     "id": 486,
     "word": "글",
     "romanization": "geul",
-    "translation": "writing / text",
-    "pos": "noun"
+    "translation": "writing / text"
   },
   {
     "id": 487,
     "word": "단어",
     "romanization": "daneo",
-    "translation": "word / vocabulary",
-    "pos": "noun"
+    "translation": "word / vocabulary"
   },
   {
     "id": 488,
     "word": "문장",
     "romanization": "munjang",
-    "translation": "sentence",
-    "pos": "noun"
+    "translation": "sentence"
   },
   {
     "id": 489,
     "word": "뜻",
     "romanization": "tteut",
-    "translation": "meaning / intention",
-    "pos": "noun"
+    "translation": "meaning / intention"
   },
   {
     "id": 490,
     "word": "대학교",
     "romanization": "daehakgyo",
-    "translation": "university",
-    "pos": "noun"
+    "translation": "university"
   },
   {
     "id": 491,
     "word": "수업",
     "romanization": "sueop",
-    "translation": "class / lesson",
-    "pos": "noun"
+    "translation": "class / lesson"
   },
   {
     "id": 492,
     "word": "시험",
     "romanization": "siheom",
-    "translation": "exam / test",
-    "pos": "noun"
+    "translation": "exam / test"
   },
   {
     "id": 493,
     "word": "숙제",
     "romanization": "sukje",
-    "translation": "homework",
-    "pos": "noun"
+    "translation": "homework"
   },
   {
     "id": 494,
     "word": "질문",
     "romanization": "jilmun",
-    "translation": "question",
-    "pos": "noun"
+    "translation": "question"
   },
   {
     "id": 495,
     "word": "대답",
     "romanization": "daedap",
-    "translation": "answer / reply",
-    "pos": "noun"
+    "translation": "answer / reply"
   },
   {
     "id": 496,
     "word": "설명",
     "romanization": "seolmyeong",
-    "translation": "explanation",
-    "pos": "noun"
+    "translation": "explanation"
   },
   {
     "id": 497,
     "word": "연구",
     "romanization": "yeongu",
-    "translation": "research / study",
-    "pos": "noun"
+    "translation": "research / study"
   },
   {
     "id": 498,
     "word": "조사",
     "romanization": "josa",
-    "translation": "investigation / survey",
-    "pos": "noun"
+    "translation": "investigation / survey"
   },
   {
     "id": 499,
     "word": "보고서",
     "romanization": "bogoseo",
-    "translation": "report",
-    "pos": "noun"
+    "translation": "report"
   },
   {
     "id": 500,
     "word": "회의",
     "romanization": "hoeui",
-    "translation": "meeting / conference",
-    "pos": "noun"
+    "translation": "meeting / conference"
   },
   {
     "id": 501,
     "word": "토론",
     "romanization": "toron",
-    "translation": "discussion / debate",
-    "pos": "noun"
+    "translation": "discussion / debate"
   },
   {
     "id": 502,
     "word": "의견",
     "romanization": "uigyeon",
-    "translation": "opinion",
-    "pos": "noun"
+    "translation": "opinion"
   },
   {
     "id": 503,
     "word": "제안",
     "romanization": "jean",
-    "translation": "proposal / suggestion",
-    "pos": "noun"
+    "translation": "proposal / suggestion"
   },
   {
     "id": 504,
     "word": "동의",
     "romanization": "dongui",
-    "translation": "agreement / consent",
-    "pos": "noun"
+    "translation": "agreement / consent"
   },
   {
     "id": 505,
     "word": "반대",
     "romanization": "bandae",
-    "translation": "opposition / opposite",
-    "pos": "noun"
+    "translation": "opposition / opposite"
   },
   {
     "id": 506,
     "word": "찬성",
     "romanization": "chanseong",
-    "translation": "approval / agreement",
-    "pos": "noun"
+    "translation": "approval / agreement"
   },
   {
     "id": 507,
     "word": "비판",
     "romanization": "bipan",
-    "translation": "criticism",
-    "pos": "noun"
+    "translation": "criticism"
   },
   {
     "id": 508,
     "word": "칭찬",
     "romanization": "chingchan",
-    "translation": "praise / compliment",
-    "pos": "noun"
+    "translation": "praise / compliment"
   },
   {
     "id": 509,
     "word": "감사",
     "romanization": "gamsa",
-    "translation": "gratitude / thanks",
-    "pos": "noun"
+    "translation": "gratitude / thanks"
   },
   {
     "id": 510,
     "word": "사과",
     "romanization": "sagwa",
-    "translation": "apology / apple",
-    "pos": "noun"
+    "translation": "apology / apple"
   },
   {
     "id": 511,
     "word": "용서",
     "romanization": "yongseo",
-    "translation": "forgiveness",
-    "pos": "noun"
+    "translation": "forgiveness"
   },
   {
     "id": 512,
     "word": "인사",
     "romanization": "insa",
-    "translation": "greeting",
-    "pos": "noun"
+    "translation": "greeting"
   },
   {
     "id": 513,
     "word": "소개",
     "romanization": "sogae",
-    "translation": "introduction",
-    "pos": "noun"
+    "translation": "introduction"
   },
   {
     "id": 514,
     "word": "초대",
     "romanization": "chodae",
-    "translation": "invitation",
-    "pos": "noun"
+    "translation": "invitation"
   },
   {
     "id": 515,
     "word": "선물",
     "romanization": "seonmul",
-    "translation": "gift / present",
-    "pos": "noun"
+    "translation": "gift / present"
   },
   {
     "id": 516,
     "word": "축하",
     "romanization": "chukha",
-    "translation": "congratulations / celebration",
-    "pos": "noun"
+    "translation": "congratulations / celebration"
   },
   {
     "id": 517,
     "word": "생일",
     "romanization": "saengil",
-    "translation": "birthday",
-    "pos": "noun"
+    "translation": "birthday"
   },
   {
     "id": 518,
     "word": "결혼",
     "romanization": "gyeolhon",
-    "translation": "marriage / wedding",
-    "pos": "noun"
+    "translation": "marriage / wedding"
   },
   {
     "id": 519,
     "word": "졸업",
     "romanization": "joreop",
-    "translation": "graduation",
-    "pos": "noun"
+    "translation": "graduation"
   },
   {
     "id": 520,
     "word": "직업",
     "romanization": "jigeop",
-    "translation": "job / occupation",
-    "pos": "noun"
+    "translation": "job / occupation"
   },
   {
     "id": 521,
     "word": "회사원",
     "romanization": "hoesawon",
-    "translation": "office worker",
-    "pos": "noun"
+    "translation": "office worker"
   },
   {
     "id": 522,
     "word": "경찰",
     "romanization": "gyeongchal",
-    "translation": "police",
-    "pos": "noun"
+    "translation": "police"
   },
   {
     "id": 523,
     "word": "군인",
     "romanization": "gunin",
-    "translation": "soldier",
-    "pos": "noun"
+    "translation": "soldier"
   },
   {
     "id": 524,
     "word": "농부",
     "romanization": "nongbu",
-    "translation": "farmer",
-    "pos": "noun"
+    "translation": "farmer"
   },
   {
     "id": 525,
     "word": "기자",
     "romanization": "gija",
-    "translation": "journalist / reporter",
-    "pos": "noun"
+    "translation": "journalist / reporter"
   },
   {
     "id": 526,
     "word": "배우",
     "romanization": "baeu",
-    "translation": "actor / actress",
-    "pos": "noun"
+    "translation": "actor / actress"
   },
   {
     "id": 527,
     "word": "가수",
     "romanization": "gasu",
-    "translation": "singer",
-    "pos": "noun"
+    "translation": "singer"
   },
   {
     "id": 528,
     "word": "작가",
     "romanization": "jakga",
-    "translation": "writer / author",
-    "pos": "noun"
+    "translation": "writer / author"
   },
   {
     "id": 529,
     "word": "화가",
     "romanization": "hwaga",
-    "translation": "painter / artist",
-    "pos": "noun"
+    "translation": "painter / artist"
   },
   {
     "id": 530,
     "word": "요리사",
     "romanization": "yorisa",
-    "translation": "chef / cook",
-    "pos": "noun"
+    "translation": "chef / cook"
   },
   {
     "id": 531,
     "word": "간호사",
     "romanization": "ganhosa",
-    "translation": "nurse",
-    "pos": "noun"
+    "translation": "nurse"
   },
   {
     "id": 532,
     "word": "변호사",
     "romanization": "byeonhosa",
-    "translation": "lawyer",
-    "pos": "noun"
+    "translation": "lawyer"
   },
   {
     "id": 533,
     "word": "판사",
     "romanization": "pansa",
-    "translation": "judge",
-    "pos": "noun"
+    "translation": "judge"
   },
   {
     "id": 534,
     "word": "대통령",
     "romanization": "daetongnyeong",
-    "translation": "president (of a country)",
-    "pos": "noun"
+    "translation": "president (of a country)"
   },
   {
     "id": 535,
     "word": "국민",
     "romanization": "gungmin",
-    "translation": "citizen / people",
-    "pos": "noun"
+    "translation": "citizen / people"
   },
   {
     "id": 536,
     "word": "사건",
     "romanization": "sageon",
-    "translation": "incident / case",
-    "pos": "noun"
+    "translation": "incident / case"
   },
   {
     "id": 537,
     "word": "사고",
     "romanization": "sago",
-    "translation": "accident / thought",
-    "pos": "noun"
+    "translation": "accident / thought"
   },
   {
     "id": 538,
     "word": "정보",
     "romanization": "jeongbo",
-    "translation": "information",
-    "pos": "noun"
+    "translation": "information"
   },
   {
     "id": 539,
     "word": "자료",
     "romanization": "jaryo",
-    "translation": "data / materials",
-    "pos": "noun"
+    "translation": "data / materials"
   },
   {
     "id": 540,
     "word": "내용",
     "romanization": "naeyong",
-    "translation": "content / contents",
-    "pos": "noun"
+    "translation": "content / contents"
   },
   {
     "id": 541,
     "word": "주제",
     "romanization": "juje",
-    "translation": "topic / subject",
-    "pos": "noun"
+    "translation": "topic / subject"
   },
   {
     "id": 542,
     "word": "제목",
     "romanization": "jemok",
-    "translation": "title",
-    "pos": "noun"
+    "translation": "title"
   },
   {
     "id": 543,
     "word": "이야기",
     "romanization": "iyagi",
-    "translation": "story / talk",
-    "pos": "noun"
+    "translation": "story / talk"
   },
   {
     "id": 544,
     "word": "소설",
     "romanization": "soseol",
-    "translation": "novel",
-    "pos": "noun"
+    "translation": "novel"
   },
   {
     "id": 545,
     "word": "시",
     "romanization": "si",
-    "translation": "poem / city / hour",
-    "pos": "noun"
+    "translation": "poem / city / hour"
   },
   {
     "id": 546,
     "word": "분",
     "romanization": "bun",
-    "translation": "minute / person (honorific)",
-    "pos": "noun"
+    "translation": "minute / person (honorific)"
   },
   {
     "id": 547,
     "word": "초",
     "romanization": "cho",
-    "translation": "second (time)",
-    "pos": "noun"
+    "translation": "second (time)"
   },
   {
     "id": 548,
     "word": "주",
     "romanization": "ju",
-    "translation": "week",
-    "pos": "noun"
+    "translation": "week"
   },
   {
     "id": 549,
     "word": "계절",
     "romanization": "gyejeol",
-    "translation": "season",
-    "pos": "noun"
+    "translation": "season"
   },
   {
     "id": 550,
     "word": "세기",
     "romanization": "segi",
-    "translation": "century",
-    "pos": "noun"
+    "translation": "century"
   },
   {
     "id": 551,
     "word": "과거",
     "romanization": "gwageo",
-    "translation": "past",
-    "pos": "noun"
+    "translation": "past"
   },
   {
     "id": 552,
     "word": "현재",
     "romanization": "hyeonjae",
-    "translation": "present / current",
-    "pos": "noun"
+    "translation": "present / current"
   },
   {
     "id": 553,
     "word": "미래",
     "romanization": "mirae",
-    "translation": "future",
-    "pos": "noun"
+    "translation": "future"
   },
   {
     "id": 554,
     "word": "처음",
     "romanization": "cheoeum",
-    "translation": "first time / beginning",
-    "pos": "noun"
+    "translation": "first time / beginning"
   },
   {
     "id": 555,
     "word": "마지막",
     "romanization": "majimak",
-    "translation": "last / final",
-    "pos": "noun"
+    "translation": "last / final"
   },
   {
     "id": 556,
     "word": "시작",
     "romanization": "sijak",
-    "translation": "start / beginning",
-    "pos": "noun"
+    "translation": "start / beginning"
   },
   {
     "id": 557,
     "word": "끝",
     "romanization": "kkeut",
-    "translation": "end",
-    "pos": "noun"
+    "translation": "end"
   },
   {
     "id": 558,
     "word": "중간",
     "romanization": "junggan",
-    "translation": "middle / midway",
-    "pos": "noun"
+    "translation": "middle / midway"
   },
   {
     "id": 559,
     "word": "부분",
     "romanization": "bubun",
-    "translation": "part / portion",
-    "pos": "noun"
+    "translation": "part / portion"
   },
   {
     "id": 560,
     "word": "전체",
     "romanization": "jeonche",
-    "translation": "whole / entire",
-    "pos": "noun"
+    "translation": "whole / entire"
   },
   {
     "id": 561,
     "word": "반",
     "romanization": "ban",
-    "translation": "half / class (school)",
-    "pos": "noun"
+    "translation": "half / class (school)"
   },
   {
     "id": 562,
     "word": "쌀",
     "romanization": "ssal",
-    "translation": "rice (uncooked)",
-    "pos": "noun"
+    "translation": "rice (uncooked)"
   },
   {
     "id": 563,
     "word": "빵",
     "romanization": "ppang",
-    "translation": "bread",
-    "pos": "noun"
+    "translation": "bread"
   },
   {
     "id": 564,
     "word": "고기",
     "romanization": "gogi",
-    "translation": "meat",
-    "pos": "noun"
+    "translation": "meat"
   },
   {
     "id": 565,
     "word": "생선",
     "romanization": "saengseon",
-    "translation": "fish (for eating)",
-    "pos": "noun"
+    "translation": "fish (for eating)"
   },
   {
     "id": 566,
     "word": "과일",
     "romanization": "gwail",
-    "translation": "fruit",
-    "pos": "noun"
+    "translation": "fruit"
   },
   {
     "id": 567,
     "word": "채소",
     "romanization": "chaeso",
-    "translation": "vegetable",
-    "pos": "noun"
+    "translation": "vegetable"
   },
   {
     "id": 568,
     "word": "우유",
     "romanization": "uyu",
-    "translation": "milk",
-    "pos": "noun"
+    "translation": "milk"
   },
   {
     "id": 569,
     "word": "커피",
     "romanization": "keopi",
-    "translation": "coffee",
-    "pos": "noun"
+    "translation": "coffee"
   },
   {
     "id": 570,
     "word": "술",
     "romanization": "sul",
-    "translation": "alcohol / liquor",
-    "pos": "noun"
+    "translation": "alcohol / liquor"
   },
   {
     "id": 571,
     "word": "소금",
     "romanization": "sogeum",
-    "translation": "salt",
-    "pos": "noun"
+    "translation": "salt"
   },
   {
     "id": 572,
     "word": "설탕",
     "romanization": "seoltang",
-    "translation": "sugar",
-    "pos": "noun"
+    "translation": "sugar"
   },
   {
     "id": 573,
     "word": "기름",
     "romanization": "gireum",
-    "translation": "oil",
-    "pos": "noun"
+    "translation": "oil"
   },
   {
     "id": 574,
     "word": "옷",
     "romanization": "ot",
-    "translation": "clothes / clothing",
-    "pos": "noun"
+    "translation": "clothes / clothing"
   },
   {
     "id": 575,
     "word": "바지",
     "romanization": "baji",
-    "translation": "pants / trousers",
-    "pos": "noun"
+    "translation": "pants / trousers"
   },
   {
     "id": 576,
     "word": "치마",
     "romanization": "chima",
-    "translation": "skirt",
-    "pos": "noun"
+    "translation": "skirt"
   },
   {
     "id": 577,
     "word": "셔츠",
     "romanization": "syeocheu",
-    "translation": "shirt",
-    "pos": "noun"
+    "translation": "shirt"
   },
   {
     "id": 578,
     "word": "모자",
     "romanization": "moja",
-    "translation": "hat / cap",
-    "pos": "noun"
+    "translation": "hat / cap"
   },
   {
     "id": 579,
     "word": "신발",
     "romanization": "sinbal",
-    "translation": "shoes",
-    "pos": "noun"
+    "translation": "shoes"
   },
   {
     "id": 580,
     "word": "양말",
     "romanization": "yangmal",
-    "translation": "socks",
-    "pos": "noun"
+    "translation": "socks"
   },
   {
     "id": 581,
     "word": "가방",
     "romanization": "gabang",
-    "translation": "bag",
-    "pos": "noun"
+    "translation": "bag"
   },
   {
     "id": 582,
     "word": "지갑",
     "romanization": "jigap",
-    "translation": "wallet",
-    "pos": "noun"
+    "translation": "wallet"
   },
   {
     "id": 583,
     "word": "열쇠",
     "romanization": "yeolsoe",
-    "translation": "key",
-    "pos": "noun"
+    "translation": "key"
   },
   {
     "id": 584,
     "word": "우산",
     "romanization": "usan",
-    "translation": "umbrella",
-    "pos": "noun"
+    "translation": "umbrella"
   },
   {
     "id": 585,
     "word": "안경",
     "romanization": "angyeong",
-    "translation": "glasses / eyeglasses",
-    "pos": "noun"
+    "translation": "glasses / eyeglasses"
   },
   {
     "id": 586,
     "word": "시계",
     "romanization": "sigye",
-    "translation": "clock / watch",
-    "pos": "noun"
+    "translation": "clock / watch"
   },
   {
     "id": 587,
     "word": "거울",
     "romanization": "geoul",
-    "translation": "mirror",
-    "pos": "noun"
+    "translation": "mirror"
   },
   {
     "id": 588,
     "word": "의자",
     "romanization": "uija",
-    "translation": "chair",
-    "pos": "noun"
+    "translation": "chair"
   },
   {
     "id": 589,
     "word": "책상",
     "romanization": "chaeksang",
-    "translation": "desk",
-    "pos": "noun"
+    "translation": "desk"
   },
   {
     "id": 590,
     "word": "침대",
     "romanization": "chimdae",
-    "translation": "bed",
-    "pos": "noun"
+    "translation": "bed"
   },
   {
     "id": 591,
     "word": "창문",
     "romanization": "changmun",
-    "translation": "window",
-    "pos": "noun"
+    "translation": "window"
   },
   {
     "id": 592,
     "word": "벽",
     "romanization": "byeok",
-    "translation": "wall",
-    "pos": "noun"
+    "translation": "wall"
   },
   {
     "id": 593,
     "word": "바닥",
     "romanization": "badak",
-    "translation": "floor / ground",
-    "pos": "noun"
+    "translation": "floor / ground"
   },
   {
     "id": 594,
     "word": "천장",
     "romanization": "cheonjang",
-    "translation": "ceiling",
-    "pos": "noun"
+    "translation": "ceiling"
   },
   {
     "id": 595,
     "word": "계단",
     "romanization": "gyedan",
-    "translation": "stairs / steps",
-    "pos": "noun"
+    "translation": "stairs / steps"
   },
   {
     "id": 596,
     "word": "엘리베이터",
     "romanization": "ellibeiteo",
-    "translation": "elevator",
-    "pos": "noun"
+    "translation": "elevator"
   },
   {
     "id": 597,
     "word": "화장실",
     "romanization": "hwajangsil",
-    "translation": "bathroom / restroom",
-    "pos": "noun"
+    "translation": "bathroom / restroom"
   },
   {
     "id": 598,
     "word": "부엌",
     "romanization": "bueok",
-    "translation": "kitchen",
-    "pos": "noun"
+    "translation": "kitchen"
   },
   {
     "id": 599,
     "word": "거실",
     "romanization": "geosil",
-    "translation": "living room",
-    "pos": "noun"
+    "translation": "living room"
   },
   {
     "id": 600,
     "word": "지붕",
     "romanization": "jibung",
-    "translation": "roof",
-    "pos": "noun"
+    "translation": "roof"
   },
   {
     "id": 601,
     "word": "정원",
     "romanization": "jeongwon",
-    "translation": "garden",
-    "pos": "noun"
+    "translation": "garden"
   },
   {
     "id": 602,
     "word": "동물",
     "romanization": "dongmul",
-    "translation": "animal",
-    "pos": "noun"
+    "translation": "animal"
   },
   {
     "id": 603,
     "word": "고양이",
     "romanization": "goyangi",
-    "translation": "cat",
-    "pos": "noun"
+    "translation": "cat"
   },
   {
     "id": 604,
     "word": "물고기",
     "romanization": "mulgogi",
-    "translation": "fish",
-    "pos": "noun"
+    "translation": "fish"
   },
   {
     "id": 605,
     "word": "소",
     "romanization": "so",
-    "translation": "cow / ox",
-    "pos": "noun"
+    "translation": "cow / ox"
   },
   {
     "id": 606,
     "word": "돼지",
     "romanization": "dwaeji",
-    "translation": "pig",
-    "pos": "noun"
+    "translation": "pig"
   },
   {
     "id": 607,
     "word": "닭",
     "romanization": "dak",
-    "translation": "chicken",
-    "pos": "noun"
+    "translation": "chicken"
   },
   {
     "id": 608,
     "word": "토끼",
     "romanization": "tokki",
-    "translation": "rabbit",
-    "pos": "noun"
+    "translation": "rabbit"
   },
   {
     "id": 609,
     "word": "곰",
     "romanization": "gom",
-    "translation": "bear",
-    "pos": "noun"
+    "translation": "bear"
   },
   {
     "id": 610,
     "word": "호랑이",
     "romanization": "horangi",
-    "translation": "tiger",
-    "pos": "noun"
+    "translation": "tiger"
   },
   {
     "id": 611,
     "word": "사자",
     "romanization": "saja",
-    "translation": "lion",
-    "pos": "noun"
+    "translation": "lion"
   },
   {
     "id": 612,
     "word": "코끼리",
     "romanization": "kokkiri",
-    "translation": "elephant",
-    "pos": "noun"
+    "translation": "elephant"
   },
   {
     "id": 613,
     "word": "원숭이",
     "romanization": "wonsungi",
-    "translation": "monkey",
-    "pos": "noun"
+    "translation": "monkey"
   },
   {
     "id": 614,
     "word": "뱀",
     "romanization": "baem",
-    "translation": "snake",
-    "pos": "noun"
+    "translation": "snake"
   },
   {
     "id": 615,
     "word": "벌레",
     "romanization": "beolle",
-    "translation": "bug / insect",
-    "pos": "noun"
+    "translation": "bug / insect"
   },
   {
     "id": 616,
     "word": "나비",
     "romanization": "nabi",
-    "translation": "butterfly",
-    "pos": "noun"
+    "translation": "butterfly"
   },
   {
     "id": 617,
     "word": "풀",
     "romanization": "pul",
-    "translation": "grass / glue",
-    "pos": "noun"
+    "translation": "grass / glue"
   },
   {
     "id": 618,
     "word": "잎",
     "romanization": "ip",
-    "translation": "leaf",
-    "pos": "noun"
+    "translation": "leaf"
   },
   {
     "id": 619,
     "word": "열매",
     "romanization": "yeolmae",
-    "translation": "fruit (on a tree)",
-    "pos": "noun"
+    "translation": "fruit (on a tree)"
   },
   {
     "id": 620,
     "word": "씨",
     "romanization": "ssi",
-    "translation": "seed / Mr./Ms.",
-    "pos": "noun"
+    "translation": "seed / Mr./Ms."
   },
   {
     "id": 621,
     "word": "뿌리",
     "romanization": "ppuri",
-    "translation": "root",
-    "pos": "noun"
+    "translation": "root"
   },
   {
     "id": 622,
     "word": "흙",
     "romanization": "heuk",
-    "translation": "soil / dirt",
-    "pos": "noun"
+    "translation": "soil / dirt"
   },
   {
     "id": 623,
     "word": "돌",
     "romanization": "dol",
-    "translation": "stone / rock",
-    "pos": "noun"
+    "translation": "stone / rock"
   },
   {
     "id": 624,
     "word": "철",
     "romanization": "cheol",
-    "translation": "iron / season",
-    "pos": "noun"
+    "translation": "iron / season"
   },
   {
     "id": 625,
     "word": "금",
     "romanization": "geum",
-    "translation": "gold / Friday",
-    "pos": "noun"
+    "translation": "gold / Friday"
   },
   {
     "id": 626,
     "word": "빨간색",
     "romanization": "ppalgansaek",
-    "translation": "red",
-    "pos": "noun"
+    "translation": "red"
   },
   {
     "id": 627,
     "word": "파란색",
     "romanization": "paransaek",
-    "translation": "blue",
-    "pos": "noun"
+    "translation": "blue"
   },
   {
     "id": 628,
     "word": "노란색",
     "romanization": "noransaek",
-    "translation": "yellow",
-    "pos": "noun"
+    "translation": "yellow"
   },
   {
     "id": 629,
     "word": "초록색",
     "romanization": "choroksaek",
-    "translation": "green",
-    "pos": "noun"
+    "translation": "green"
   },
   {
     "id": 630,
     "word": "하얀색",
     "romanization": "hayansaek",
-    "translation": "white",
-    "pos": "noun"
+    "translation": "white"
   },
   {
     "id": 631,
     "word": "까만색",
     "romanization": "kkamansaek",
-    "translation": "black",
-    "pos": "noun"
+    "translation": "black"
   },
   {
     "id": 632,
     "word": "회색",
     "romanization": "hoesaek",
-    "translation": "gray",
-    "pos": "noun"
+    "translation": "gray"
   },
   {
     "id": 633,
     "word": "분홍색",
     "romanization": "bunhongsaek",
-    "translation": "pink",
-    "pos": "noun"
+    "translation": "pink"
   },
   {
     "id": 634,
     "word": "주황색",
     "romanization": "juhwangsaek",
-    "translation": "orange (color)",
-    "pos": "noun"
+    "translation": "orange (color)"
   },
   {
     "id": 635,
     "word": "보라색",
     "romanization": "borasaek",
-    "translation": "purple",
-    "pos": "noun"
+    "translation": "purple"
   },
   {
     "id": 636,
     "word": "갈색",
     "romanization": "galsaek",
-    "translation": "brown",
-    "pos": "noun"
+    "translation": "brown"
   },
   {
     "id": 637,
     "word": "동쪽",
     "romanization": "dongjjok",
-    "translation": "east",
-    "pos": "noun"
+    "translation": "east"
   },
   {
     "id": 638,
     "word": "서쪽",
     "romanization": "seojjok",
-    "translation": "west",
-    "pos": "noun"
+    "translation": "west"
   },
   {
     "id": 639,
     "word": "남쪽",
     "romanization": "namjjok",
-    "translation": "south",
-    "pos": "noun"
+    "translation": "south"
   },
   {
     "id": 640,
     "word": "북쪽",
     "romanization": "bukjjok",
-    "translation": "north",
-    "pos": "noun"
+    "translation": "north"
   },
   {
     "id": 641,
     "word": "오른쪽",
     "romanization": "oreunjjok",
-    "translation": "right side",
-    "pos": "noun"
+    "translation": "right side"
   },
   {
     "id": 642,
     "word": "왼쪽",
     "romanization": "oenjjok",
-    "translation": "left side",
-    "pos": "noun"
+    "translation": "left side"
   },
   {
     "id": 643,
     "word": "위쪽",
     "romanization": "wijjok",
-    "translation": "upper side",
-    "pos": "noun"
+    "translation": "upper side"
   },
   {
     "id": 644,
     "word": "아래쪽",
     "romanization": "araejjok",
-    "translation": "lower side",
-    "pos": "noun"
+    "translation": "lower side"
   },
   {
     "id": 645,
     "word": "그러면",
     "romanization": "geureomyeon",
-    "translation": "then / in that case",
-    "pos": "conj"
+    "translation": "then / in that case"
   },
   {
     "id": 646,
     "word": "그런데",
     "romanization": "geureonde",
-    "translation": "but / however / by the way",
-    "pos": "conj"
+    "translation": "but / however / by the way"
   },
   {
     "id": 647,
     "word": "그래도",
     "romanization": "geuraedo",
-    "translation": "still / nevertheless",
-    "pos": "conj"
+    "translation": "still / nevertheless"
   },
   {
     "id": 648,
     "word": "하지만",
     "romanization": "hajiman",
-    "translation": "but / however",
-    "pos": "conj"
+    "translation": "but / however"
   },
   {
     "id": 649,
     "word": "그렇지만",
     "romanization": "geureochiman",
-    "translation": "but / however",
-    "pos": "conj"
+    "translation": "but / however"
   },
   {
     "id": 650,
     "word": "또는",
     "romanization": "ttoneun",
-    "translation": "or",
-    "pos": "conj"
+    "translation": "or"
   },
   {
     "id": 651,
     "word": "혹은",
     "romanization": "hogeun",
-    "translation": "or / perhaps",
-    "pos": "conj"
+    "translation": "or / perhaps"
   },
   {
     "id": 652,
     "word": "왜냐하면",
     "romanization": "waenyahamyeon",
-    "translation": "because",
-    "pos": "conj"
+    "translation": "because"
   },
   {
     "id": 653,
     "word": "따라서",
     "romanization": "ttaraseo",
-    "translation": "therefore / accordingly",
-    "pos": "conj"
+    "translation": "therefore / accordingly"
   },
   {
     "id": 654,
     "word": "게다가",
     "romanization": "gedaga",
-    "translation": "moreover / besides",
-    "pos": "conj"
+    "translation": "moreover / besides"
   },
   {
     "id": 655,
     "word": "한편",
     "romanization": "hanpyeon",
-    "translation": "on the other hand / meanwhile",
-    "pos": "conj"
+    "translation": "on the other hand / meanwhile"
   },
   {
     "id": 656,
     "word": "즉",
     "romanization": "jeuk",
-    "translation": "that is / namely",
-    "pos": "conj"
+    "translation": "that is / namely"
   },
   {
     "id": 657,
     "word": "예를 들어",
     "romanization": "yereul deureo",
-    "translation": "for example",
-    "pos": "adv"
+    "translation": "for example"
   },
   {
     "id": 658,
     "word": "특히",
     "romanization": "teukhi",
-    "translation": "especially / particularly",
-    "pos": "adv"
+    "translation": "especially / particularly"
   },
   {
     "id": 659,
     "word": "주로",
     "romanization": "juro",
-    "translation": "mainly / mostly",
-    "pos": "adv"
+    "translation": "mainly / mostly"
   },
   {
     "id": 660,
     "word": "결국",
     "romanization": "gyeolguk",
-    "translation": "after all / in the end",
-    "pos": "adv"
+    "translation": "after all / in the end"
   },
   {
     "id": 661,
     "word": "마침내",
     "romanization": "machimnae",
-    "translation": "finally / at last",
-    "pos": "adv"
+    "translation": "finally / at last"
   },
   {
     "id": 662,
     "word": "심지어",
     "romanization": "simjieo",
-    "translation": "even / moreover",
-    "pos": "adv"
+    "translation": "even / moreover"
   },
   {
     "id": 663,
     "word": "오직",
     "romanization": "ojik",
-    "translation": "only / solely",
-    "pos": "adv"
+    "translation": "only / solely"
   },
   {
     "id": 664,
     "word": "단지",
     "romanization": "danji",
-    "translation": "merely / just",
-    "pos": "adv"
+    "translation": "merely / just"
   },
   {
     "id": 665,
     "word": "겨우",
     "romanization": "gyeou",
-    "translation": "barely / hardly",
-    "pos": "adv"
+    "translation": "barely / hardly"
   },
   {
     "id": 666,
     "word": "충분히",
     "romanization": "chungbunhi",
-    "translation": "sufficiently / enough",
-    "pos": "adv"
+    "translation": "sufficiently / enough"
   },
   {
     "id": 667,
     "word": "완전히",
     "romanization": "wanjeonhi",
-    "translation": "completely / entirely",
-    "pos": "adv"
+    "translation": "completely / entirely"
   },
   {
     "id": 668,
     "word": "확실히",
     "romanization": "hwaksilhi",
-    "translation": "certainly / surely",
-    "pos": "adv"
+    "translation": "certainly / surely"
   },
   {
     "id": 669,
     "word": "분명히",
     "romanization": "bunmyeonghi",
-    "translation": "clearly / obviously",
-    "pos": "adv"
+    "translation": "clearly / obviously"
   },
   {
     "id": 670,
     "word": "조용히",
     "romanization": "joyonghi",
-    "translation": "quietly",
-    "pos": "adv"
+    "translation": "quietly"
   },
   {
     "id": 671,
     "word": "크게",
     "romanization": "keuge",
-    "translation": "largely / loudly",
-    "pos": "adv"
+    "translation": "largely / loudly"
   },
   {
     "id": 672,
     "word": "작게",
     "romanization": "jakge",
-    "translation": "small / softly",
-    "pos": "adv"
+    "translation": "small / softly"
   },
   {
     "id": 673,
     "word": "높이",
     "romanization": "nopi",
-    "translation": "highly / height",
-    "pos": "adv"
+    "translation": "highly / height"
   },
   {
     "id": 674,
     "word": "깊이",
     "romanization": "gipi",
-    "translation": "deeply / depth",
-    "pos": "adv"
+    "translation": "deeply / depth"
   },
   {
     "id": 675,
     "word": "강하다",
     "romanization": "ganghada",
-    "translation": "to be strong",
-    "pos": "adj"
+    "translation": "to be strong"
   },
   {
     "id": 676,
     "word": "약하다",
     "romanization": "yakhada",
-    "translation": "to be weak",
-    "pos": "adj"
+    "translation": "to be weak"
   },
   {
     "id": 677,
     "word": "부드럽다",
     "romanization": "budeureопda",
-    "translation": "to be soft / gentle",
-    "pos": "adj"
+    "translation": "to be soft / gentle"
   },
   {
     "id": 678,
     "word": "딱딱하다",
     "romanization": "ttakttakhada",
-    "translation": "to be hard / stiff",
-    "pos": "adj"
+    "translation": "to be hard / stiff"
   },
   {
     "id": 679,
     "word": "날카롭다",
     "romanization": "nalkaropda",
-    "translation": "to be sharp",
-    "pos": "adj"
+    "translation": "to be sharp"
   },
   {
     "id": 680,
     "word": "둥글다",
     "romanization": "dunggeulda",
-    "translation": "to be round",
-    "pos": "adj"
+    "translation": "to be round"
   },
   {
     "id": 681,
     "word": "네모나다",
     "romanization": "nemonada",
-    "translation": "to be square",
-    "pos": "adj"
+    "translation": "to be square"
   },
   {
     "id": 682,
     "word": "평평하다",
     "romanization": "pyeongpyeonghada",
-    "translation": "to be flat",
-    "pos": "adj"
+    "translation": "to be flat"
   },
   {
     "id": 683,
     "word": "깨끗하다",
     "romanization": "kkaekkeuthada",
-    "translation": "to be clean",
-    "pos": "adj"
+    "translation": "to be clean"
   },
   {
     "id": 684,
     "word": "더럽다",
     "romanization": "deoreopda",
-    "translation": "to be dirty",
-    "pos": "adj"
+    "translation": "to be dirty"
   },
   {
     "id": 685,
     "word": "젖다",
     "romanization": "jeotda",
-    "translation": "to be wet",
-    "pos": "adj"
+    "translation": "to be wet"
   },
   {
     "id": 686,
     "word": "마르다",
     "romanization": "mareuda",
-    "translation": "to be dry / to be thin",
-    "pos": "adj"
+    "translation": "to be dry / to be thin"
   },
   {
     "id": 687,
     "word": "가득하다",
     "romanization": "gadeukada",
-    "translation": "to be full",
-    "pos": "adj"
+    "translation": "to be full"
   },
   {
     "id": 688,
     "word": "비다",
     "romanization": "bida",
-    "translation": "to be empty",
-    "pos": "verb"
+    "translation": "to be empty"
   },
   {
     "id": 689,
     "word": "바쁘다",
     "romanization": "bappeuda",
-    "translation": "to be busy",
-    "pos": "adj"
+    "translation": "to be busy"
   },
   {
     "id": 690,
     "word": "한가하다",
     "romanization": "hangahada",
-    "translation": "to be free / leisurely",
-    "pos": "adj"
+    "translation": "to be free / leisurely"
   },
   {
     "id": 691,
     "word": "피곤하다",
     "romanization": "pigonhada",
-    "translation": "to be tired",
-    "pos": "adj"
+    "translation": "to be tired"
   },
   {
     "id": 692,
     "word": "건강하다",
     "romanization": "geonganghada",
-    "translation": "to be healthy",
-    "pos": "adj"
+    "translation": "to be healthy"
   },
   {
     "id": 693,
     "word": "아프다",
     "romanization": "apeuda",
-    "translation": "to be sick / to hurt",
-    "pos": "adj"
+    "translation": "to be sick / to hurt"
   },
   {
     "id": 694,
     "word": "배고프다",
     "romanization": "baegopеuda",
-    "translation": "to be hungry",
-    "pos": "adj"
+    "translation": "to be hungry"
   },
   {
     "id": 695,
     "word": "부르다",
     "romanization": "bureuda",
-    "translation": "to be full (stomach)",
-    "pos": "verb"
+    "translation": "to be full (stomach)"
   },
   {
     "id": 696,
     "word": "목마르다",
     "romanization": "mongmareuda",
-    "translation": "to be thirsty",
-    "pos": "adj"
+    "translation": "to be thirsty"
   },
   {
     "id": 697,
     "word": "기쁘다",
     "romanization": "gippeuda",
-    "translation": "to be glad / happy",
-    "pos": "adj"
+    "translation": "to be glad / happy"
   },
   {
     "id": 698,
     "word": "슬프다",
     "romanization": "seulpeuda",
-    "translation": "to be sad",
-    "pos": "adj"
+    "translation": "to be sad"
   },
   {
     "id": 699,
     "word": "화나다",
     "romanization": "hwanada",
-    "translation": "to be angry",
-    "pos": "verb"
+    "translation": "to be angry"
   },
   {
     "id": 700,
     "word": "무섭다",
     "romanization": "museopda",
-    "translation": "to be scary / afraid",
-    "pos": "adj"
+    "translation": "to be scary / afraid"
   },
   {
     "id": 701,
     "word": "외롭다",
     "romanization": "oeropda",
-    "translation": "to be lonely",
-    "pos": "adj"
+    "translation": "to be lonely"
   },
   {
     "id": 702,
     "word": "부끄럽다",
     "romanization": "bukkeureopda",
-    "translation": "to be embarrassed / shy",
-    "pos": "adj"
+    "translation": "to be embarrassed / shy"
   },
   {
     "id": 703,
     "word": "자랑스럽다",
     "romanization": "jarangseureopda",
-    "translation": "to be proud",
-    "pos": "adj"
+    "translation": "to be proud"
   },
   {
     "id": 704,
     "word": "편하다",
     "romanization": "pyeonhada",
-    "translation": "to be comfortable",
-    "pos": "adj"
+    "translation": "to be comfortable"
   },
   {
     "id": 705,
     "word": "불편하다",
     "romanization": "bulpyeonhada",
-    "translation": "to be uncomfortable",
-    "pos": "adj"
+    "translation": "to be uncomfortable"
   },
   {
     "id": 706,
     "word": "안전하다",
     "romanization": "anjeonhada",
-    "translation": "to be safe",
-    "pos": "adj"
+    "translation": "to be safe"
   },
   {
     "id": 707,
     "word": "위험하다",
     "romanization": "wiheomhada",
-    "translation": "to be dangerous",
-    "pos": "adj"
+    "translation": "to be dangerous"
   },
   {
     "id": 708,
     "word": "유명하다",
     "romanization": "yumyeonghada",
-    "translation": "to be famous",
-    "pos": "adj"
+    "translation": "to be famous"
   },
   {
     "id": 709,
     "word": "인기",
     "romanization": "ingi",
-    "translation": "popularity",
-    "pos": "noun"
+    "translation": "popularity"
   },
   {
     "id": 710,
     "word": "전통",
     "romanization": "jeontong",
-    "translation": "tradition",
-    "pos": "noun"
+    "translation": "tradition"
   },
   {
     "id": 711,
     "word": "습관",
     "romanization": "seupgwan",
-    "translation": "habit / custom",
-    "pos": "noun"
+    "translation": "habit / custom"
   },
   {
     "id": 712,
     "word": "규칙",
     "romanization": "gyuchik",
-    "translation": "rule / regulation",
-    "pos": "noun"
+    "translation": "rule / regulation"
   },
   {
     "id": 713,
     "word": "예절",
     "romanization": "yejeol",
-    "translation": "etiquette / manners",
-    "pos": "noun"
+    "translation": "etiquette / manners"
   },
   {
     "id": 714,
     "word": "존경",
     "romanization": "jongyeong",
-    "translation": "respect",
-    "pos": "noun"
+    "translation": "respect"
   },
   {
     "id": 715,
     "word": "신뢰",
     "romanization": "silloe",
-    "translation": "trust / confidence",
-    "pos": "noun"
+    "translation": "trust / confidence"
   },
   {
     "id": 716,
     "word": "책임",
     "romanization": "chaegim",
-    "translation": "responsibility",
-    "pos": "noun"
+    "translation": "responsibility"
   },
   {
     "id": 717,
     "word": "의무",
     "romanization": "uimu",
-    "translation": "duty / obligation",
-    "pos": "noun"
+    "translation": "duty / obligation"
   },
   {
     "id": 718,
     "word": "권리",
     "romanization": "gwonri",
-    "translation": "right (legal)",
-    "pos": "noun"
+    "translation": "right (legal)"
   },
   {
     "id": 719,
     "word": "선거",
     "romanization": "seongeo",
-    "translation": "election",
-    "pos": "noun"
+    "translation": "election"
   },
   {
     "id": 720,
     "word": "투표",
     "romanization": "tupyo",
-    "translation": "vote / voting",
-    "pos": "noun"
+    "translation": "vote / voting"
   },
   {
     "id": 721,
     "word": "민주주의",
     "romanization": "minjujuui",
-    "translation": "democracy",
-    "pos": "noun"
+    "translation": "democracy"
   },
   {
     "id": 722,
     "word": "환경",
     "romanization": "hwangyeong",
-    "translation": "environment",
-    "pos": "noun"
+    "translation": "environment"
   },
   {
     "id": 723,
     "word": "오염",
     "romanization": "oyeom",
-    "translation": "pollution / contamination",
-    "pos": "noun"
+    "translation": "pollution / contamination"
   },
   {
     "id": 724,
     "word": "에너지",
     "romanization": "eneoji",
-    "translation": "energy",
-    "pos": "noun"
+    "translation": "energy"
   },
   {
     "id": 725,
     "word": "자원",
     "romanization": "jawon",
-    "translation": "resources",
-    "pos": "noun"
+    "translation": "resources"
   },
   {
     "id": 726,
     "word": "인구",
     "romanization": "ingu",
-    "translation": "population",
-    "pos": "noun"
+    "translation": "population"
   },
   {
     "id": 727,
     "word": "지역",
     "romanization": "jiyeok",
-    "translation": "region / area",
-    "pos": "noun"
+    "translation": "region / area"
   },
   {
     "id": 728,
     "word": "국가",
     "romanization": "gukga",
-    "translation": "nation / state",
-    "pos": "noun"
+    "translation": "nation / state"
   },
   {
     "id": 729,
     "word": "국제",
     "romanization": "gukje",
-    "translation": "international",
-    "pos": "noun"
+    "translation": "international"
   },
   {
     "id": 730,
     "word": "외국",
     "romanization": "oeguk",
-    "translation": "foreign country",
-    "pos": "noun"
+    "translation": "foreign country"
   },
   {
     "id": 731,
     "word": "외국인",
     "romanization": "oegugin",
-    "translation": "foreigner",
-    "pos": "noun"
+    "translation": "foreigner"
   },
   {
     "id": 732,
     "word": "여권",
     "romanization": "yeogwon",
-    "translation": "passport",
-    "pos": "noun"
+    "translation": "passport"
   },
   {
     "id": 733,
     "word": "비자",
     "romanization": "bija",
-    "translation": "visa",
-    "pos": "noun"
+    "translation": "visa"
   },
   {
     "id": 734,
     "word": "비행기",
     "romanization": "bihaenggi",
-    "translation": "airplane",
-    "pos": "noun"
+    "translation": "airplane"
   },
   {
     "id": 735,
     "word": "기차",
     "romanization": "gicha",
-    "translation": "train",
-    "pos": "noun"
+    "translation": "train"
   },
   {
     "id": 736,
     "word": "버스",
     "romanization": "beoseu",
-    "translation": "bus",
-    "pos": "noun"
+    "translation": "bus"
   },
   {
     "id": 737,
     "word": "택시",
     "romanization": "taeksi",
-    "translation": "taxi",
-    "pos": "noun"
+    "translation": "taxi"
   },
   {
     "id": 738,
     "word": "자전거",
     "romanization": "jajeongeo",
-    "translation": "bicycle",
-    "pos": "noun"
+    "translation": "bicycle"
   },
   {
     "id": 739,
     "word": "도로",
     "romanization": "doro",
-    "translation": "road / highway",
-    "pos": "noun"
+    "translation": "road / highway"
   },
   {
     "id": 740,
     "word": "교통",
     "romanization": "gyotong",
-    "translation": "traffic / transportation",
-    "pos": "noun"
+    "translation": "traffic / transportation"
   },
   {
     "id": 741,
     "word": "신호등",
     "romanization": "sinhodeung",
-    "translation": "traffic light",
-    "pos": "noun"
+    "translation": "traffic light"
   },
   {
     "id": 742,
     "word": "주소",
     "romanization": "juso",
-    "translation": "address",
-    "pos": "noun"
+    "translation": "address"
   },
   {
     "id": 743,
     "word": "지도",
     "romanization": "jido",
-    "translation": "map",
-    "pos": "noun"
+    "translation": "map"
   },
   {
     "id": 744,
     "word": "방향",
     "romanization": "banghyang",
-    "translation": "direction",
-    "pos": "noun"
+    "translation": "direction"
   },
   {
     "id": 745,
     "word": "무게",
     "romanization": "muge",
-    "translation": "weight",
-    "pos": "noun"
+    "translation": "weight"
   },
   {
     "id": 746,
     "word": "크기",
     "romanization": "keugi",
-    "translation": "size",
-    "pos": "noun"
+    "translation": "size"
   },
   {
     "id": 747,
     "word": "넓이",
     "romanization": "neolbi",
-    "translation": "width / area",
-    "pos": "noun"
+    "translation": "width / area"
   },
   {
     "id": 748,
     "word": "모양",
     "romanization": "moyang",
-    "translation": "shape / form",
-    "pos": "noun"
+    "translation": "shape / form"
   },
   {
     "id": 749,
     "word": "동그라미",
     "romanization": "donggeurami",
-    "translation": "circle",
-    "pos": "noun"
+    "translation": "circle"
   },
   {
     "id": 750,
     "word": "네모",
     "romanization": "nemo",
-    "translation": "square / rectangle",
-    "pos": "noun"
+    "translation": "square / rectangle"
   },
   {
     "id": 751,
     "word": "세모",
     "romanization": "semo",
-    "translation": "triangle",
-    "pos": "noun"
+    "translation": "triangle"
   },
   {
     "id": 752,
     "word": "줄",
     "romanization": "jul",
-    "translation": "line / row / string",
-    "pos": "noun"
+    "translation": "line / row / string"
   },
   {
     "id": 753,
     "word": "점",
     "romanization": "jeom",
-    "translation": "point / dot / score",
-    "pos": "noun"
+    "translation": "point / dot / score"
   },
   {
     "id": 754,
     "word": "숫자",
     "romanization": "sutja",
-    "translation": "number / digit",
-    "pos": "noun"
+    "translation": "number / digit"
   },
   {
     "id": 755,
     "word": "글자",
     "romanization": "geulja",
-    "translation": "letter / character",
-    "pos": "noun"
+    "translation": "letter / character"
   },
   {
     "id": 756,
     "word": "기호",
     "romanization": "giho",
-    "translation": "symbol / sign",
-    "pos": "noun"
+    "translation": "symbol / sign"
   },
   {
     "id": 757,
     "word": "표시",
     "romanization": "pyosi",
-    "translation": "mark / indication",
-    "pos": "noun"
+    "translation": "mark / indication"
   },
   {
     "id": 758,
     "word": "신호",
     "romanization": "sinho",
-    "translation": "signal",
-    "pos": "noun"
+    "translation": "signal"
   },
   {
     "id": 759,
     "word": "소식",
     "romanization": "sosik",
-    "translation": "news / tidings",
-    "pos": "noun"
+    "translation": "news / tidings"
   },
   {
     "id": 760,
     "word": "연락",
     "romanization": "yeollak",
-    "translation": "contact / communication",
-    "pos": "noun"
+    "translation": "contact / communication"
   },
   {
     "id": 761,
     "word": "대화",
     "romanization": "daehwa",
-    "translation": "conversation / dialogue",
-    "pos": "noun"
+    "translation": "conversation / dialogue"
   },
   {
     "id": 762,
     "word": "발표",
     "romanization": "balpyo",
-    "translation": "announcement / presentation",
-    "pos": "noun"
+    "translation": "announcement / presentation"
   },
   {
     "id": 763,
     "word": "광고",
     "romanization": "gwanggo",
-    "translation": "advertisement",
-    "pos": "noun"
+    "translation": "advertisement"
   },
   {
     "id": 764,
     "word": "방송",
     "romanization": "bangsong",
-    "translation": "broadcast",
-    "pos": "noun"
+    "translation": "broadcast"
   },
   {
     "id": 765,
     "word": "프로그램",
     "romanization": "peurogeuraem",
-    "translation": "program",
-    "pos": "noun"
+    "translation": "program"
   },
   {
     "id": 766,
     "word": "텔레비전",
     "romanization": "tellebijeon",
-    "translation": "television",
-    "pos": "noun"
+    "translation": "television"
   },
   {
     "id": 767,
     "word": "라디오",
     "romanization": "radio",
-    "translation": "radio",
-    "pos": "noun"
+    "translation": "radio"
   },
   {
     "id": 768,
     "word": "핸드폰",
     "romanization": "haendeupon",
-    "translation": "cell phone",
-    "pos": "noun"
+    "translation": "cell phone"
   },
   {
     "id": 769,
     "word": "메시지",
     "romanization": "mesiji",
-    "translation": "message",
-    "pos": "noun"
+    "translation": "message"
   },
   {
     "id": 770,
     "word": "이메일",
     "romanization": "imeil",
-    "translation": "email",
-    "pos": "noun"
+    "translation": "email"
   },
   {
     "id": 771,
     "word": "웹사이트",
     "romanization": "wepsaiteu",
-    "translation": "website",
-    "pos": "noun"
+    "translation": "website"
   },
   {
     "id": 772,
     "word": "검색",
     "romanization": "geomsaek",
-    "translation": "search",
-    "pos": "noun"
+    "translation": "search"
   },
   {
     "id": 773,
     "word": "다운로드",
     "romanization": "daunrodeu",
-    "translation": "download",
-    "pos": "noun"
+    "translation": "download"
   },
   {
     "id": 774,
     "word": "업로드",
     "romanization": "eопrodeu",
-    "translation": "upload",
-    "pos": "noun"
+    "translation": "upload"
   },
   {
     "id": 775,
     "word": "비밀번호",
     "romanization": "bimilbeonho",
-    "translation": "password",
-    "pos": "noun"
+    "translation": "password"
   },
   {
     "id": 776,
     "word": "계정",
     "romanization": "gyejeong",
-    "translation": "account",
-    "pos": "noun"
+    "translation": "account"
   },
   {
     "id": 777,
     "word": "안녕하세요",
     "romanization": "annyeonghaseyo",
-    "translation": "hello (polite)",
-    "pos": "interj"
+    "translation": "hello (polite)"
   },
   {
     "id": 778,
     "word": "감사합니다",
     "romanization": "gamsahamnida",
-    "translation": "thank you (formal)",
-    "pos": "interj"
+    "translation": "thank you (formal)"
   },
   {
     "id": 779,
     "word": "죄송합니다",
     "romanization": "joesonghamnida",
-    "translation": "I am sorry (formal)",
-    "pos": "interj"
+    "translation": "I am sorry (formal)"
   },
   {
     "id": 780,
     "word": "네",
     "romanization": "ne",
-    "translation": "yes",
-    "pos": "interj"
+    "translation": "yes"
   },
   {
     "id": 781,
     "word": "아니요",
     "romanization": "aniyo",
-    "translation": "no",
-    "pos": "interj"
+    "translation": "no"
   },
   {
     "id": 782,
     "word": "괜찮다",
     "romanization": "gwaenchanta",
-    "translation": "to be okay / to be fine",
-    "pos": "adj"
+    "translation": "to be okay / to be fine"
   },
   {
     "id": 783,
     "word": "미안하다",
     "romanization": "mianhada",
-    "translation": "to be sorry",
-    "pos": "adj"
+    "translation": "to be sorry"
   },
   {
     "id": 784,
     "word": "고맙다",
     "romanization": "gomapda",
-    "translation": "to be thankful",
-    "pos": "adj"
+    "translation": "to be thankful"
   },
   {
     "id": 785,
     "word": "반갑다",
     "romanization": "bangapda",
-    "translation": "to be glad (to meet)",
-    "pos": "adj"
+    "translation": "to be glad (to meet)"
   },
   {
     "id": 786,
     "word": "축하하다",
     "romanization": "chukhahada",
-    "translation": "to congratulate",
-    "pos": "verb"
+    "translation": "to congratulate"
   },
   {
     "id": 787,
     "word": "환영하다",
     "romanization": "hwanyeonghada",
-    "translation": "to welcome",
-    "pos": "verb"
+    "translation": "to welcome"
   },
   {
     "id": 788,
     "word": "실례하다",
     "romanization": "sillyehada",
-    "translation": "to be rude / excuse me",
-    "pos": "verb"
+    "translation": "to be rude / excuse me"
   },
   {
     "id": 789,
     "word": "부탁하다",
     "romanization": "butakhada",
-    "translation": "to request / to ask a favor",
-    "pos": "verb"
+    "translation": "to request / to ask a favor"
   },
   {
     "id": 790,
     "word": "약속하다",
     "romanization": "yaksokhada",
-    "translation": "to promise",
-    "pos": "verb"
+    "translation": "to promise"
   },
   {
     "id": 791,
     "word": "대답하다",
     "romanization": "daedaphada",
-    "translation": "to answer / to reply",
-    "pos": "verb"
+    "translation": "to answer / to reply"
   },
   {
     "id": 792,
     "word": "질문하다",
     "romanization": "jilmunhada",
-    "translation": "to ask a question",
-    "pos": "verb"
+    "translation": "to ask a question"
   },
   {
     "id": 793,
     "word": "인사하다",
     "romanization": "insahada",
-    "translation": "to greet",
-    "pos": "verb"
+    "translation": "to greet"
   },
   {
     "id": 794,
     "word": "소개하다",
     "romanization": "sogaehada",
-    "translation": "to introduce",
-    "pos": "verb"
+    "translation": "to introduce"
   },
   {
     "id": 795,
     "word": "신청하다",
     "romanization": "sincheonghada",
-    "translation": "to apply / to request",
-    "pos": "verb"
+    "translation": "to apply / to request"
   },
   {
     "id": 796,
     "word": "등록하다",
     "romanization": "deungrokhada",
-    "translation": "to register",
-    "pos": "verb"
+    "translation": "to register"
   },
   {
     "id": 797,
     "word": "취소하다",
     "romanization": "chwisohada",
-    "translation": "to cancel",
-    "pos": "verb"
+    "translation": "to cancel"
   },
   {
     "id": 798,
     "word": "예약하다",
     "romanization": "yeyakhada",
-    "translation": "to reserve / to book",
-    "pos": "verb"
+    "translation": "to reserve / to book"
   },
   {
     "id": 799,
     "word": "주문하다",
     "romanization": "jumunhada",
-    "translation": "to order",
-    "pos": "verb"
+    "translation": "to order"
   },
   {
     "id": 800,
     "word": "배달하다",
     "romanization": "baedalhada",
-    "translation": "to deliver",
-    "pos": "verb"
+    "translation": "to deliver"
   },
   {
     "id": 801,
     "word": "결제하다",
     "romanization": "gyeoljehada",
-    "translation": "to pay / to settle payment",
-    "pos": "verb"
+    "translation": "to pay / to settle payment"
   },
   {
     "id": 802,
     "word": "환불하다",
     "romanization": "hwanbulhada",
-    "translation": "to refund",
-    "pos": "verb"
+    "translation": "to refund"
   },
   {
     "id": 803,
     "word": "교환하다",
     "romanization": "gyohwanhada",
-    "translation": "to exchange",
-    "pos": "verb"
+    "translation": "to exchange"
   },
   {
     "id": 804,
     "word": "수리하다",
     "romanization": "surihada",
-    "translation": "to repair",
-    "pos": "verb"
+    "translation": "to repair"
   },
   {
     "id": 805,
     "word": "청소하다",
     "romanization": "cheongsohada",
-    "translation": "to clean",
-    "pos": "verb"
+    "translation": "to clean"
   },
   {
     "id": 806,
     "word": "정리하다",
     "romanization": "jeongnihada",
-    "translation": "to organize / to tidy",
-    "pos": "verb"
+    "translation": "to organize / to tidy"
   },
   {
     "id": 807,
     "word": "이사하다",
     "romanization": "isahada",
-    "translation": "to move (residence)",
-    "pos": "verb"
+    "translation": "to move (residence)"
   },
   {
     "id": 808,
     "word": "출근하다",
     "romanization": "chulgeunhada",
-    "translation": "to go to work",
-    "pos": "verb"
+    "translation": "to go to work"
   },
   {
     "id": 809,
     "word": "퇴근하다",
     "romanization": "toegeunhada",
-    "translation": "to leave work",
-    "pos": "verb"
+    "translation": "to leave work"
   },
   {
     "id": 810,
     "word": "출장",
     "romanization": "chuljang",
-    "translation": "business trip",
-    "pos": "noun"
+    "translation": "business trip"
   },
   {
     "id": 811,
     "word": "휴가",
     "romanization": "hyuga",
-    "translation": "vacation / holiday",
-    "pos": "noun"
+    "translation": "vacation / holiday"
   },
   {
     "id": 812,
     "word": "주말",
     "romanization": "jumal",
-    "translation": "weekend",
-    "pos": "noun"
+    "translation": "weekend"
   },
   {
     "id": 813,
     "word": "공휴일",
     "romanization": "gonghyuil",
-    "translation": "public holiday",
-    "pos": "noun"
+    "translation": "public holiday"
   },
   {
     "id": 814,
     "word": "명절",
     "romanization": "myeongjeol",
-    "translation": "traditional holiday",
-    "pos": "noun"
+    "translation": "traditional holiday"
   },
   {
     "id": 815,
     "word": "설날",
     "romanization": "seolnal",
-    "translation": "Lunar New Year",
-    "pos": "noun"
+    "translation": "Lunar New Year"
   },
   {
     "id": 816,
     "word": "추석",
     "romanization": "chuseok",
-    "translation": "Chuseok (harvest festival)",
-    "pos": "noun"
+    "translation": "Chuseok (harvest festival)"
   },
   {
     "id": 817,
     "word": "크리스마스",
     "romanization": "keuriseumaseu",
-    "translation": "Christmas",
-    "pos": "noun"
+    "translation": "Christmas"
   },
   {
     "id": 818,
     "word": "기념일",
     "romanization": "ginyeomil",
-    "translation": "anniversary",
-    "pos": "noun"
+    "translation": "anniversary"
   },
   {
     "id": 819,
     "word": "행사",
     "romanization": "haengsa",
-    "translation": "event / ceremony",
-    "pos": "noun"
+    "translation": "event / ceremony"
   },
   {
     "id": 820,
     "word": "파티",
     "romanization": "pati",
-    "translation": "party",
-    "pos": "noun"
+    "translation": "party"
   },
   {
     "id": 821,
     "word": "모임",
     "romanization": "moim",
-    "translation": "gathering / meeting",
-    "pos": "noun"
+    "translation": "gathering / meeting"
   },
   {
     "id": 822,
     "word": "동아리",
     "romanization": "dongari",
-    "translation": "club / group",
-    "pos": "noun"
+    "translation": "club / group"
   },
   {
     "id": 823,
     "word": "회원",
     "romanization": "hoewon",
-    "translation": "member",
-    "pos": "noun"
+    "translation": "member"
   },
   {
     "id": 824,
     "word": "대표",
     "romanization": "daepyo",
-    "translation": "representative",
-    "pos": "noun"
+    "translation": "representative"
   },
   {
     "id": 825,
     "word": "사장",
     "romanization": "sajang",
-    "translation": "company president / boss",
-    "pos": "noun"
+    "translation": "company president / boss"
   },
   {
     "id": 826,
     "word": "직원",
     "romanization": "jigwon",
-    "translation": "employee / staff",
-    "pos": "noun"
+    "translation": "employee / staff"
   },
   {
     "id": 827,
     "word": "동료",
     "romanization": "dongnyo",
-    "translation": "colleague",
-    "pos": "noun"
+    "translation": "colleague"
   },
   {
     "id": 828,
     "word": "손님",
     "romanization": "sonnim",
-    "translation": "guest / customer",
-    "pos": "noun"
+    "translation": "guest / customer"
   },
   {
     "id": 829,
     "word": "고객",
     "romanization": "gogaek",
-    "translation": "customer / client",
-    "pos": "noun"
+    "translation": "customer / client"
   },
   {
     "id": 830,
     "word": "서비스",
     "romanization": "seobiseu",
-    "translation": "service",
-    "pos": "noun"
+    "translation": "service"
   },
   {
     "id": 831,
     "word": "제품",
     "romanization": "jepum",
-    "translation": "product",
-    "pos": "noun"
+    "translation": "product"
   },
   {
     "id": 832,
     "word": "상품",
     "romanization": "sangpum",
-    "translation": "goods / merchandise",
-    "pos": "noun"
+    "translation": "goods / merchandise"
   },
   {
     "id": 833,
     "word": "가격",
     "romanization": "gagyeok",
-    "translation": "price",
-    "pos": "noun"
+    "translation": "price"
   },
   {
     "id": 834,
     "word": "할인",
     "romanization": "halin",
-    "translation": "discount",
-    "pos": "noun"
+    "translation": "discount"
   },
   {
     "id": 835,
     "word": "세일",
     "romanization": "seil",
-    "translation": "sale",
-    "pos": "noun"
+    "translation": "sale"
   },
   {
     "id": 836,
     "word": "영수증",
     "romanization": "yeongsujeung",
-    "translation": "receipt",
-    "pos": "noun"
+    "translation": "receipt"
   },
   {
     "id": 837,
     "word": "현금",
     "romanization": "hyeongeum",
-    "translation": "cash",
-    "pos": "noun"
+    "translation": "cash"
   },
   {
     "id": 838,
     "word": "카드",
     "romanization": "kadeu",
-    "translation": "card",
-    "pos": "noun"
+    "translation": "card"
   },
   {
     "id": 839,
     "word": "계좌",
     "romanization": "gyejwa",
-    "translation": "bank account",
-    "pos": "noun"
+    "translation": "bank account"
   },
   {
     "id": 840,
     "word": "저축",
     "romanization": "jeochuk",
-    "translation": "savings",
-    "pos": "noun"
+    "translation": "savings"
   },
   {
     "id": 841,
     "word": "투자",
     "romanization": "tuja",
-    "translation": "investment",
-    "pos": "noun"
+    "translation": "investment"
   },
   {
     "id": 842,
     "word": "보험",
     "romanization": "boheom",
-    "translation": "insurance",
-    "pos": "noun"
+    "translation": "insurance"
   },
   {
     "id": 843,
     "word": "세금",
     "romanization": "segeum",
-    "translation": "tax",
-    "pos": "noun"
+    "translation": "tax"
   },
   {
     "id": 844,
     "word": "월급",
     "romanization": "wolgeup",
-    "translation": "salary / monthly pay",
-    "pos": "noun"
+    "translation": "salary / monthly pay"
   },
   {
     "id": 845,
     "word": "수입",
     "romanization": "suip",
-    "translation": "income / import",
-    "pos": "noun"
+    "translation": "income / import"
   },
   {
     "id": 846,
     "word": "지출",
     "romanization": "jichul",
-    "translation": "expenditure / spending",
-    "pos": "noun"
+    "translation": "expenditure / spending"
   },
   {
     "id": 847,
     "word": "이익",
     "romanization": "iik",
-    "translation": "profit / benefit",
-    "pos": "noun"
+    "translation": "profit / benefit"
   },
   {
     "id": 848,
     "word": "손해",
     "romanization": "sonhae",
-    "translation": "loss / damage",
-    "pos": "noun"
+    "translation": "loss / damage"
   },
   {
     "id": 849,
     "word": "계약",
     "romanization": "gyeyak",
-    "translation": "contract / agreement",
-    "pos": "noun"
+    "translation": "contract / agreement"
   },
   {
     "id": 850,
     "word": "조건",
     "romanization": "jogeon",
-    "translation": "condition / terms",
-    "pos": "noun"
+    "translation": "condition / terms"
   },
   {
     "id": 851,
     "word": "기한",
     "romanization": "gihan",
-    "translation": "deadline / time limit",
-    "pos": "noun"
+    "translation": "deadline / time limit"
   },
   {
     "id": 852,
     "word": "마감",
     "romanization": "magam",
-    "translation": "deadline / closing",
-    "pos": "noun"
+    "translation": "deadline / closing"
   },
   {
     "id": 853,
     "word": "목표",
     "romanization": "mokpyo",
-    "translation": "goal / target",
-    "pos": "noun"
+    "translation": "goal / target"
   },
   {
     "id": 854,
     "word": "과정",
     "romanization": "gwajeong",
-    "translation": "process / course",
-    "pos": "noun"
+    "translation": "process / course"
   },
   {
     "id": 855,
     "word": "단계",
     "romanization": "dangye",
-    "translation": "stage / step",
-    "pos": "noun"
+    "translation": "stage / step"
   },
   {
     "id": 856,
     "word": "방식",
     "romanization": "bangsik",
-    "translation": "way / method / manner",
-    "pos": "noun"
+    "translation": "way / method / manner"
   },
   {
     "id": 857,
     "word": "종류",
     "romanization": "jongnyu",
-    "translation": "kind / type / sort",
-    "pos": "noun"
+    "translation": "kind / type / sort"
   },
   {
     "id": 858,
     "word": "분류",
     "romanization": "bullyu",
-    "translation": "classification / category",
-    "pos": "noun"
+    "translation": "classification / category"
   },
   {
     "id": 859,
     "word": "기준",
     "romanization": "gijun",
-    "translation": "standard / criterion",
-    "pos": "noun"
+    "translation": "standard / criterion"
   },
   {
     "id": 860,
     "word": "수준",
     "romanization": "sujun",
-    "translation": "level / standard",
-    "pos": "noun"
+    "translation": "level / standard"
   },
   {
     "id": 861,
     "word": "범위",
     "romanization": "beomwi",
-    "translation": "range / scope",
-    "pos": "noun"
+    "translation": "range / scope"
   },
   {
     "id": 862,
     "word": "한계",
     "romanization": "hangye",
-    "translation": "limit / boundary",
-    "pos": "noun"
+    "translation": "limit / boundary"
   },
   {
     "id": 863,
     "word": "가능성",
     "romanization": "ganeungseong",
-    "translation": "possibility",
-    "pos": "noun"
+    "translation": "possibility"
   },
   {
     "id": 864,
     "word": "확률",
     "romanization": "hwangnyul",
-    "translation": "probability",
-    "pos": "noun"
+    "translation": "probability"
   },
   {
     "id": 865,
     "word": "원인",
     "romanization": "wonin",
-    "translation": "cause / reason",
-    "pos": "noun"
+    "translation": "cause / reason"
   },
   {
     "id": 866,
     "word": "영향",
     "romanization": "yeonghyang",
-    "translation": "influence / effect",
-    "pos": "noun"
+    "translation": "influence / effect"
   },
   {
     "id": 867,
     "word": "효과",
     "romanization": "hyogwa",
-    "translation": "effect / effectiveness",
-    "pos": "noun"
+    "translation": "effect / effectiveness"
   },
   {
     "id": 868,
     "word": "해결",
     "romanization": "haegyeol",
-    "translation": "solution / resolution",
-    "pos": "noun"
+    "translation": "solution / resolution"
   },
   {
     "id": 869,
     "word": "답",
     "romanization": "dap",
-    "translation": "answer / solution",
-    "pos": "noun"
+    "translation": "answer / solution"
   },
   {
     "id": 870,
     "word": "증거",
     "romanization": "jeunggeo",
-    "translation": "evidence / proof",
-    "pos": "noun"
+    "translation": "evidence / proof"
   },
   {
     "id": 871,
     "word": "사실",
     "romanization": "sasil",
-    "translation": "fact / truth / actually",
-    "pos": "noun"
+    "translation": "fact / truth / actually"
   },
   {
     "id": 872,
     "word": "진실",
     "romanization": "jinsil",
-    "translation": "truth",
-    "pos": "noun"
+    "translation": "truth"
   },
   {
     "id": 873,
     "word": "거짓말",
     "romanization": "geojinmal",
-    "translation": "lie",
-    "pos": "noun"
+    "translation": "lie"
   },
   {
     "id": 874,
     "word": "비밀",
     "romanization": "bimil",
-    "translation": "secret",
-    "pos": "noun"
+    "translation": "secret"
   },
   {
     "id": 875,
     "word": "소문",
     "romanization": "somun",
-    "translation": "rumor",
-    "pos": "noun"
+    "translation": "rumor"
   },
   {
     "id": 876,
     "word": "상상",
     "romanization": "sangsang",
-    "translation": "imagination",
-    "pos": "noun"
+    "translation": "imagination"
   },
   {
     "id": 877,
     "word": "현실",
     "romanization": "hyeonsil",
-    "translation": "reality",
-    "pos": "noun"
+    "translation": "reality"
   },
   {
     "id": 878,
     "word": "이상",
     "romanization": "isang",
-    "translation": "ideal / abnormality / more than",
-    "pos": "noun"
+    "translation": "ideal / abnormality / more than"
   },
   {
     "id": 879,
     "word": "특별",
     "romanization": "teukbyeol",
-    "translation": "special",
-    "pos": "noun"
+    "translation": "special"
   },
   {
     "id": 880,
     "word": "차례",
     "romanization": "charye",
-    "translation": "turn / order / sequence",
-    "pos": "noun"
+    "translation": "turn / order / sequence"
   },
   {
     "id": 881,
     "word": "순서",
     "romanization": "sunseo",
-    "translation": "order / sequence",
-    "pos": "noun"
+    "translation": "order / sequence"
   },
   {
     "id": 882,
     "word": "위치",
     "romanization": "wichi",
-    "translation": "location / position",
-    "pos": "noun"
+    "translation": "location / position"
   },
   {
     "id": 883,
     "word": "장소",
     "romanization": "jangso",
-    "translation": "place / venue",
-    "pos": "noun"
+    "translation": "place / venue"
   },
   {
     "id": 884,
     "word": "공간",
     "romanization": "gonggan",
-    "translation": "space",
-    "pos": "noun"
+    "translation": "space"
   },
   {
     "id": 885,
     "word": "면적",
     "romanization": "myeonjeok",
-    "translation": "area (measurement)",
-    "pos": "noun"
+    "translation": "area (measurement)"
   },
   {
     "id": 886,
     "word": "부피",
     "romanization": "bupi",
-    "translation": "volume",
-    "pos": "noun"
+    "translation": "volume"
   },
   {
     "id": 887,
     "word": "온도",
     "romanization": "ondo",
-    "translation": "temperature",
-    "pos": "noun"
+    "translation": "temperature"
   },
   {
     "id": 888,
     "word": "속도",
     "romanization": "sokdo",
-    "translation": "speed",
-    "pos": "noun"
+    "translation": "speed"
   },
   {
     "id": 889,
     "word": "양",
     "romanization": "yang",
-    "translation": "amount / quantity",
-    "pos": "noun"
+    "translation": "amount / quantity"
   },
   {
     "id": 890,
     "word": "질",
     "romanization": "jil",
-    "translation": "quality",
-    "pos": "noun"
+    "translation": "quality"
   },
   {
     "id": 891,
     "word": "형태",
     "romanization": "hyeongtae",
-    "translation": "form / shape",
-    "pos": "noun"
+    "translation": "form / shape"
   },
   {
     "id": 892,
     "word": "구조",
     "romanization": "gujo",
-    "translation": "structure",
-    "pos": "noun"
+    "translation": "structure"
   },
   {
     "id": 893,
     "word": "체계",
     "romanization": "chegye",
-    "translation": "system",
-    "pos": "noun"
+    "translation": "system"
   },
   {
     "id": 894,
     "word": "조직",
     "romanization": "jojik",
-    "translation": "organization / tissue",
-    "pos": "noun"
+    "translation": "organization / tissue"
   },
   {
     "id": 895,
     "word": "기관",
     "romanization": "gigwan",
-    "translation": "institution / organ",
-    "pos": "noun"
+    "translation": "institution / organ"
   },
   {
     "id": 896,
     "word": "단체",
     "romanization": "danche",
-    "translation": "group / organization",
-    "pos": "noun"
+    "translation": "group / organization"
   },
   {
     "id": 897,
     "word": "팀",
     "romanization": "tim",
-    "translation": "team",
-    "pos": "noun"
+    "translation": "team"
   },
   {
     "id": 898,
     "word": "그룹",
     "romanization": "geurup",
-    "translation": "group",
-    "pos": "noun"
+    "translation": "group"
   },
   {
     "id": 899,
     "word": "개인",
     "romanization": "gaein",
-    "translation": "individual / personal",
-    "pos": "noun"
+    "translation": "individual / personal"
   },
   {
     "id": 900,
     "word": "집단",
     "romanization": "jipdan",
-    "translation": "group / collective",
-    "pos": "noun"
+    "translation": "group / collective"
   },
   {
     "id": 901,
     "word": "공동",
     "romanization": "gongdong",
-    "translation": "joint / communal",
-    "pos": "noun"
+    "translation": "joint / communal"
   },
   {
     "id": 902,
     "word": "협력",
     "romanization": "hyeomnyeok",
-    "translation": "cooperation",
-    "pos": "noun"
+    "translation": "cooperation"
   },
   {
     "id": 903,
     "word": "경쟁",
     "romanization": "gyeongjaeng",
-    "translation": "competition",
-    "pos": "noun"
+    "translation": "competition"
   },
   {
     "id": 904,
     "word": "갈등",
     "romanization": "galdeung",
-    "translation": "conflict",
-    "pos": "noun"
+    "translation": "conflict"
   },
   {
     "id": 905,
     "word": "타협",
     "romanization": "tahyeop",
-    "translation": "compromise",
-    "pos": "noun"
+    "translation": "compromise"
   },
   {
     "id": 906,
     "word": "합의",
     "romanization": "hapui",
-    "translation": "agreement / consensus",
-    "pos": "noun"
+    "translation": "agreement / consensus"
   },
   {
     "id": 907,
     "word": "소통",
     "romanization": "sotong",
-    "translation": "communication",
-    "pos": "noun"
+    "translation": "communication"
   },
   {
     "id": 908,
     "word": "교류",
     "romanization": "gyoryu",
-    "translation": "exchange / interchange",
-    "pos": "noun"
+    "translation": "exchange / interchange"
   },
   {
     "id": 909,
     "word": "번역하다",
     "romanization": "beonyeokhada",
-    "translation": "to translate",
-    "pos": "verb"
+    "translation": "to translate"
   },
   {
     "id": 910,
     "word": "발음하다",
     "romanization": "bareumhada",
-    "translation": "to pronounce",
-    "pos": "verb"
+    "translation": "to pronounce"
   },
   {
     "id": 911,
     "word": "의미하다",
     "romanization": "uimihada",
-    "translation": "to mean",
-    "pos": "verb"
+    "translation": "to mean"
   },
   {
     "id": 912,
     "word": "증가하다",
     "romanization": "jeunggahada",
-    "translation": "to increase",
-    "pos": "verb"
+    "translation": "to increase"
   },
   {
     "id": 913,
     "word": "감소하다",
     "romanization": "gamsohada",
-    "translation": "to decrease",
-    "pos": "verb"
+    "translation": "to decrease"
   },
   {
     "id": 914,
     "word": "발생하다",
     "romanization": "balsaenghada",
-    "translation": "to occur / to happen",
-    "pos": "verb"
+    "translation": "to occur / to happen"
   },
   {
     "id": 915,
     "word": "존재하다",
     "romanization": "jonjaehada",
-    "translation": "to exist",
-    "pos": "verb"
+    "translation": "to exist"
   },
   {
     "id": 916,
     "word": "속하다",
     "romanization": "sokhada",
-    "translation": "to belong to",
-    "pos": "verb"
+    "translation": "to belong to"
   },
   {
     "id": 917,
     "word": "관련되다",
     "romanization": "gwanlyeondoeda",
-    "translation": "to be related",
-    "pos": "verb"
+    "translation": "to be related"
   },
   {
     "id": 918,
     "word": "해당하다",
     "romanization": "haedanghada",
-    "translation": "to correspond / to apply",
-    "pos": "verb"
+    "translation": "to correspond / to apply"
   },
   {
     "id": 919,
     "word": "적용하다",
     "romanization": "jeogyonghada",
-    "translation": "to apply",
-    "pos": "verb"
+    "translation": "to apply"
   },
   {
     "id": 920,
     "word": "활용하다",
     "romanization": "hwaryonghada",
-    "translation": "to utilize",
-    "pos": "verb"
+    "translation": "to utilize"
   },
   {
     "id": 921,
     "word": "개발하다",
     "romanization": "gaebalhada",
-    "translation": "to develop",
-    "pos": "verb"
+    "translation": "to develop"
   },
   {
     "id": 922,
     "word": "생산하다",
     "romanization": "saengsanhada",
-    "translation": "to produce / to manufacture",
-    "pos": "verb"
+    "translation": "to produce / to manufacture"
   },
   {
     "id": 923,
     "word": "소비하다",
     "romanization": "sobihada",
-    "translation": "to consume",
-    "pos": "verb"
+    "translation": "to consume"
   },
   {
     "id": 924,
     "word": "수출하다",
     "romanization": "suchulhada",
-    "translation": "to export",
-    "pos": "verb"
+    "translation": "to export"
   },
   {
     "id": 925,
     "word": "수입하다",
     "romanization": "suiphada",
-    "translation": "to import",
-    "pos": "verb"
+    "translation": "to import"
   },
   {
     "id": 926,
     "word": "성장하다",
     "romanization": "seongjunghada",
-    "translation": "to grow",
-    "pos": "verb"
+    "translation": "to grow"
   },
   {
     "id": 927,
     "word": "감동하다",
     "romanization": "gamdonghada",
-    "translation": "to be moved / touched",
-    "pos": "verb"
+    "translation": "to be moved / touched"
   },
   {
     "id": 928,
     "word": "실망하다",
     "romanization": "silmanghada",
-    "translation": "to be disappointed",
-    "pos": "verb"
+    "translation": "to be disappointed"
   },
   {
     "id": 929,
     "word": "만족하다",
     "romanization": "manjokhada",
-    "translation": "to be satisfied",
-    "pos": "verb"
+    "translation": "to be satisfied"
   },
   {
     "id": 930,
     "word": "후회하다",
     "romanization": "huhoehada",
-    "translation": "to regret",
-    "pos": "verb"
+    "translation": "to regret"
   },
   {
     "id": 931,
     "word": "긴장하다",
     "romanization": "ginjanghada",
-    "translation": "to be nervous / tense",
-    "pos": "verb"
+    "translation": "to be nervous / tense"
   },
   {
     "id": 932,
     "word": "안심하다",
     "romanization": "ansimhada",
-    "translation": "to feel relieved",
-    "pos": "verb"
+    "translation": "to feel relieved"
   },
   {
     "id": 933,
     "word": "집중하다",
     "romanization": "jipjunghada",
-    "translation": "to concentrate",
-    "pos": "verb"
+    "translation": "to concentrate"
   },
   {
     "id": 934,
     "word": "포함되다",
     "romanization": "pohamdoeda",
-    "translation": "to be included",
-    "pos": "verb"
+    "translation": "to be included"
   },
   {
     "id": 935,
     "word": "제외하다",
     "romanization": "jeoehada",
-    "translation": "to exclude",
-    "pos": "verb"
+    "translation": "to exclude"
   },
   {
     "id": 936,
     "word": "구별하다",
     "romanization": "gubyeolhada",
-    "translation": "to distinguish",
-    "pos": "verb"
+    "translation": "to distinguish"
   },
   {
     "id": 937,
     "word": "판단하다",
     "romanization": "pandanhada",
-    "translation": "to judge / to determine",
-    "pos": "verb"
+    "translation": "to judge / to determine"
   },
   {
     "id": 938,
     "word": "측정하다",
     "romanization": "cheukjeonghada",
-    "translation": "to measure",
-    "pos": "verb"
+    "translation": "to measure"
   },
   {
     "id": 939,
     "word": "계산하다",
     "romanization": "gyesanhada",
-    "translation": "to calculate / to pay the bill",
-    "pos": "verb"
+    "translation": "to calculate / to pay the bill"
   },
   {
     "id": 940,
     "word": "기록하다",
     "romanization": "girokhada",
-    "translation": "to record",
-    "pos": "verb"
+    "translation": "to record"
   },
   {
     "id": 941,
     "word": "보존하다",
     "romanization": "bojonhada",
-    "translation": "to preserve / to conserve",
-    "pos": "verb"
+    "translation": "to preserve / to conserve"
   },
   {
     "id": 942,
     "word": "보호하다",
     "romanization": "bohohada",
-    "translation": "to protect",
-    "pos": "verb"
+    "translation": "to protect"
   },
   {
     "id": 943,
     "word": "파괴하다",
     "romanization": "pagwehada",
-    "translation": "to destroy",
-    "pos": "verb"
+    "translation": "to destroy"
   },
   {
     "id": 944,
     "word": "건설하다",
     "romanization": "geonseolhada",
-    "translation": "to construct / to build",
-    "pos": "verb"
+    "translation": "to construct / to build"
   },
   {
     "id": 945,
     "word": "설치하다",
     "romanization": "seolchihada",
-    "translation": "to install",
-    "pos": "verb"
+    "translation": "to install"
   },
   {
     "id": 946,
     "word": "제거하다",
     "romanization": "jegeohada",
-    "translation": "to remove / to eliminate",
-    "pos": "verb"
+    "translation": "to remove / to eliminate"
   },
   {
     "id": 947,
     "word": "교체하다",
     "romanization": "gyochehada",
-    "translation": "to replace",
-    "pos": "verb"
+    "translation": "to replace"
   },
   {
     "id": 948,
     "word": "수정하다",
     "romanization": "sujeonghada",
-    "translation": "to revise / to modify",
-    "pos": "verb"
+    "translation": "to revise / to modify"
   },
   {
     "id": 949,
     "word": "보완하다",
     "romanization": "bowanhada",
-    "translation": "to supplement / to complement",
-    "pos": "verb"
+    "translation": "to supplement / to complement"
   },
   {
     "id": 950,
     "word": "개선하다",
     "romanization": "gaeseonhada",
-    "translation": "to improve",
-    "pos": "verb"
+    "translation": "to improve"
   },
   {
     "id": 951,
     "word": "강조하다",
     "romanization": "gangjohada",
-    "translation": "to emphasize",
-    "pos": "verb"
+    "translation": "to emphasize"
   },
   {
     "id": 952,
     "word": "주장하다",
     "romanization": "jujanghada",
-    "translation": "to assert / to claim",
-    "pos": "verb"
+    "translation": "to assert / to claim"
   },
   {
     "id": 953,
     "word": "증명하다",
     "romanization": "jeungmyeonghada",
-    "translation": "to prove",
-    "pos": "verb"
+    "translation": "to prove"
   },
   {
     "id": 954,
     "word": "발견하다",
     "romanization": "balgyeonhada",
-    "translation": "to discover",
-    "pos": "verb"
+    "translation": "to discover"
   },
   {
     "id": 955,
     "word": "발명하다",
     "romanization": "balmyeonghada",
-    "translation": "to invent",
-    "pos": "verb"
+    "translation": "to invent"
   },
   {
     "id": 956,
     "word": "실험하다",
     "romanization": "silheomhada",
-    "translation": "to experiment",
-    "pos": "verb"
+    "translation": "to experiment"
   },
   {
     "id": 957,
     "word": "관찰하다",
     "romanization": "gwanchalhada",
-    "translation": "to observe",
-    "pos": "verb"
+    "translation": "to observe"
   },
   {
     "id": 958,
     "word": "분석하다",
     "romanization": "bunseokada",
-    "translation": "to analyze",
-    "pos": "verb"
+    "translation": "to analyze"
   },
   {
     "id": 959,
     "word": "평가하다",
     "romanization": "pyeonggahada",
-    "translation": "to evaluate",
-    "pos": "verb"
+    "translation": "to evaluate"
   },
   {
     "id": 960,
     "word": "예상하다",
     "romanization": "yesanghada",
-    "translation": "to expect / to predict",
-    "pos": "verb"
+    "translation": "to expect / to predict"
   },
   {
     "id": 961,
     "word": "예측하다",
     "romanization": "yechukhada",
-    "translation": "to forecast / to predict",
-    "pos": "verb"
+    "translation": "to forecast / to predict"
   },
   {
     "id": 962,
     "word": "추천하다",
     "romanization": "chucheonhada",
-    "translation": "to recommend",
-    "pos": "verb"
+    "translation": "to recommend"
   },
   {
     "id": 963,
     "word": "소개시키다",
     "romanization": "sogaesikida",
-    "translation": "to introduce (someone)",
-    "pos": "verb"
+    "translation": "to introduce (someone)"
   },
   {
     "id": 964,
     "word": "전하다",
     "romanization": "jeonhada",
-    "translation": "to convey / to deliver",
-    "pos": "verb"
+    "translation": "to convey / to deliver"
   },
   {
     "id": 965,
     "word": "알리다",
     "romanization": "allida",
-    "translation": "to inform / to notify",
-    "pos": "verb"
+    "translation": "to inform / to notify"
   },
   {
     "id": 966,
     "word": "공지하다",
     "romanization": "gongjihada",
-    "translation": "to announce",
-    "pos": "verb"
+    "translation": "to announce"
   },
   {
     "id": 967,
     "word": "선언하다",
     "romanization": "seoneonhada",
-    "translation": "to declare",
-    "pos": "verb"
+    "translation": "to declare"
   },
   {
     "id": 968,
     "word": "보고하다",
     "romanization": "bogohada",
-    "translation": "to report",
-    "pos": "verb"
+    "translation": "to report"
   },
   {
     "id": 969,
     "word": "기부하다",
     "romanization": "gibuhada",
-    "translation": "to donate",
-    "pos": "verb"
+    "translation": "to donate"
   },
   {
     "id": 970,
     "word": "봉사하다",
     "romanization": "bongsahada",
-    "translation": "to volunteer / to serve",
-    "pos": "verb"
+    "translation": "to volunteer / to serve"
   },
   {
     "id": 971,
     "word": "존중하다",
     "romanization": "jonjunghada",
-    "translation": "to respect",
-    "pos": "verb"
+    "translation": "to respect"
   },
   {
     "id": 972,
     "word": "차별하다",
     "romanization": "chabyeolhada",
-    "translation": "to discriminate",
-    "pos": "verb"
+    "translation": "to discriminate"
   },
   {
     "id": 973,
     "word": "격려하다",
     "romanization": "gyeongnyeohada",
-    "translation": "to encourage",
-    "pos": "verb"
+    "translation": "to encourage"
   },
   {
     "id": 974,
     "word": "위로하다",
     "romanization": "wirohada",
-    "translation": "to comfort / to console",
-    "pos": "verb"
+    "translation": "to comfort / to console"
   },
   {
     "id": 975,
     "word": "응원하다",
     "romanization": "eungwonhada",
-    "translation": "to cheer / to support",
-    "pos": "verb"
+    "translation": "to cheer / to support"
   },
   {
     "id": 976,
     "word": "축복하다",
     "romanization": "chukbokhada",
-    "translation": "to bless",
-    "pos": "verb"
+    "translation": "to bless"
   },
   {
     "id": 977,
     "word": "감사하다",
     "romanization": "gamsahada",
-    "translation": "to be grateful / to thank",
-    "pos": "verb"
+    "translation": "to be grateful / to thank"
   },
   {
     "id": 978,
     "word": "반성하다",
     "romanization": "banseonghada",
-    "translation": "to reflect / to repent",
-    "pos": "verb"
+    "translation": "to reflect / to repent"
   },
   {
     "id": 979,
     "word": "후원하다",
     "romanization": "huwonhada",
-    "translation": "to sponsor / to support",
-    "pos": "verb"
+    "translation": "to sponsor / to support"
   },
   {
     "id": 980,
     "word": "기대하다",
     "romanization": "gidaehada",
-    "translation": "to expect / to look forward to",
-    "pos": "verb"
+    "translation": "to expect / to look forward to"
   },
   {
     "id": 981,
     "word": "상상하다",
     "romanization": "sangsanghada",
-    "translation": "to imagine",
-    "pos": "verb"
+    "translation": "to imagine"
   },
   {
     "id": 982,
     "word": "창조하다",
     "romanization": "changjohada",
-    "translation": "to create",
-    "pos": "verb"
+    "translation": "to create"
   },
   {
     "id": 983,
     "word": "표현되다",
     "romanization": "pyohyeondoeda",
-    "translation": "to be expressed",
-    "pos": "verb"
+    "translation": "to be expressed"
   },
   {
     "id": 984,
     "word": "전달하다",
     "romanization": "jeondalhada",
-    "translation": "to deliver / to convey",
-    "pos": "verb"
+    "translation": "to deliver / to convey"
   },
   {
     "id": 985,
     "word": "공유하다",
     "romanization": "gongyuhada",
-    "translation": "to share",
-    "pos": "verb"
+    "translation": "to share"
   },
   {
     "id": 986,
     "word": "저장하다",
     "romanization": "jeojanghada",
-    "translation": "to save / to store",
-    "pos": "verb"
+    "translation": "to save / to store"
   },
   {
     "id": 987,
     "word": "삭제하다",
     "romanization": "sakjehada",
-    "translation": "to delete",
-    "pos": "verb"
+    "translation": "to delete"
   },
   {
     "id": 988,
     "word": "완료하다",
     "romanization": "wallyohada",
-    "translation": "to complete / to finish",
-    "pos": "verb"
+    "translation": "to complete / to finish"
   }
 ]

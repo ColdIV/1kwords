@@ -2,5797 +2,4831 @@
   {
     "id": 1,
     "word": "de",
-    "translation": "of / from",
-    "pos": "prep"
+    "translation": "of / from"
   },
   {
     "id": 2,
     "word": "la",
-    "translation": "the",
-    "pos": "det"
+    "translation": "the"
   },
   {
     "id": 3,
     "word": "que",
-    "translation": "that / which",
-    "pos": "conj"
+    "translation": "that / which"
   },
   {
     "id": 4,
     "word": "el",
-    "translation": "the",
-    "pos": "det"
+    "translation": "the"
   },
   {
     "id": 5,
     "word": "en",
-    "translation": "in / on",
-    "pos": "prep"
+    "translation": "in / on"
   },
   {
     "id": 6,
     "word": "y",
-    "translation": "and",
-    "pos": "conj"
+    "translation": "and"
   },
   {
     "id": 7,
     "word": "a",
-    "translation": "to / at",
-    "pos": "prep"
+    "translation": "to / at"
   },
   {
     "id": 8,
     "word": "los",
-    "translation": "the",
-    "pos": "det"
+    "translation": "the"
   },
   {
     "id": 9,
     "word": "se",
-    "translation": "oneself / itself",
-    "pos": "pron"
+    "translation": "oneself / itself"
   },
   {
     "id": 10,
     "word": "del",
-    "translation": "of the / from the",
-    "pos": "prep"
+    "translation": "of the / from the"
   },
   {
     "id": 11,
     "word": "las",
-    "translation": "the",
-    "pos": "det"
+    "translation": "the"
   },
   {
     "id": 12,
     "word": "un",
-    "translation": "a / an / one",
-    "pos": "det"
+    "translation": "a / an / one"
   },
   {
     "id": 13,
     "word": "por",
-    "translation": "for / by / through",
-    "pos": "prep"
+    "translation": "for / by / through"
   },
   {
     "id": 14,
     "word": "con",
-    "translation": "with",
-    "pos": "prep"
+    "translation": "with"
   },
   {
     "id": 15,
     "word": "no",
-    "translation": "no / not",
-    "pos": "adv"
+    "translation": "no / not"
   },
   {
     "id": 16,
     "word": "una",
-    "translation": "a / an / one",
-    "pos": "det"
+    "translation": "a / an / one"
   },
   {
     "id": 17,
     "word": "su",
-    "translation": "his / her / its / your",
-    "pos": "det"
+    "translation": "his / her / its / your"
   },
   {
     "id": 18,
     "word": "para",
-    "translation": "for / in order to",
-    "pos": "prep"
+    "translation": "for / in order to"
   },
   {
     "id": 19,
     "word": "es",
-    "translation": "is",
-    "pos": "verb"
+    "translation": "is"
   },
   {
     "id": 20,
     "word": "al",
-    "translation": "to the",
-    "pos": "prep"
+    "translation": "to the"
   },
   {
     "id": 21,
     "word": "lo",
-    "translation": "it / the",
-    "pos": "pron"
+    "translation": "it / the"
   },
   {
     "id": 22,
     "word": "como",
-    "translation": "like / as / how",
-    "pos": "conj"
+    "translation": "like / as / how"
   },
   {
     "id": 23,
     "word": "más",
-    "translation": "more / most",
-    "pos": "adv"
+    "translation": "more / most"
   },
   {
     "id": 24,
     "word": "pero",
-    "translation": "but",
-    "pos": "conj"
+    "translation": "but"
   },
   {
     "id": 25,
     "word": "sus",
-    "translation": "his / her / its / their",
-    "pos": "det"
+    "translation": "his / her / its / their"
   },
   {
     "id": 26,
     "word": "le",
-    "translation": "him / her / you",
-    "pos": "pron"
+    "translation": "him / her / you"
   },
   {
     "id": 27,
     "word": "ya",
-    "translation": "already / now",
-    "pos": "adv"
+    "translation": "already / now"
   },
   {
     "id": 28,
     "word": "o",
-    "translation": "or",
-    "pos": "conj"
+    "translation": "or"
   },
   {
     "id": 29,
     "word": "este",
-    "translation": "this",
-    "pos": "det"
+    "translation": "this"
   },
   {
     "id": 30,
     "word": "sí",
-    "translation": "yes / itself",
-    "pos": "adv"
+    "translation": "yes / itself"
   },
   {
     "id": 31,
     "word": "porque",
-    "translation": "because",
-    "pos": "conj"
+    "translation": "because"
   },
   {
     "id": 32,
     "word": "esta",
-    "translation": "this",
-    "pos": "det"
+    "translation": "this"
   },
   {
     "id": 33,
     "word": "entre",
-    "translation": "between / among",
-    "pos": "prep"
+    "translation": "between / among"
   },
   {
     "id": 34,
     "word": "cuando",
-    "translation": "when",
-    "pos": "conj"
+    "translation": "when"
   },
   {
     "id": 35,
     "word": "muy",
-    "translation": "very",
-    "pos": "adv"
+    "translation": "very"
   },
   {
     "id": 36,
     "word": "sin",
-    "translation": "without",
-    "pos": "prep"
+    "translation": "without"
   },
   {
     "id": 37,
     "word": "sobre",
-    "translation": "on / about / over",
-    "pos": "prep"
+    "translation": "on / about / over"
   },
   {
     "id": 38,
     "word": "también",
-    "translation": "also / too",
-    "pos": "adv"
+    "translation": "also / too"
   },
   {
     "id": 39,
     "word": "me",
-    "translation": "me / myself",
-    "pos": "pron"
+    "translation": "me / myself"
   },
   {
     "id": 40,
     "word": "hasta",
-    "translation": "until / up to",
-    "pos": "prep"
+    "translation": "until / up to"
   },
   {
     "id": 41,
     "word": "hay",
-    "translation": "there is / there are",
-    "pos": "verb"
+    "translation": "there is / there are"
   },
   {
     "id": 42,
     "word": "donde",
-    "translation": "where",
-    "pos": "adv"
+    "translation": "where"
   },
   {
     "id": 43,
     "word": "quien",
-    "translation": "who / whom",
-    "pos": "pron"
+    "translation": "who / whom"
   },
   {
     "id": 44,
     "word": "desde",
-    "translation": "from / since",
-    "pos": "prep"
+    "translation": "from / since"
   },
   {
     "id": 45,
     "word": "todo",
-    "translation": "all / everything",
-    "pos": "det"
+    "translation": "all / everything"
   },
   {
     "id": 46,
     "word": "nos",
-    "translation": "us / ourselves",
-    "pos": "pron"
+    "translation": "us / ourselves"
   },
   {
     "id": 47,
     "word": "durante",
-    "translation": "during",
-    "pos": "prep"
+    "translation": "during"
   },
   {
     "id": 48,
     "word": "todos",
-    "translation": "all / everyone",
-    "pos": "det"
+    "translation": "all / everyone"
   },
   {
     "id": 49,
     "word": "uno",
-    "translation": "one",
-    "pos": "num"
+    "translation": "one"
   },
   {
     "id": 50,
     "word": "les",
-    "translation": "them / you",
-    "pos": "pron"
+    "translation": "them / you"
   },
   {
     "id": 51,
     "word": "ni",
-    "translation": "neither / nor",
-    "pos": "conj"
+    "translation": "neither / nor"
   },
   {
     "id": 52,
     "word": "contra",
-    "translation": "against",
-    "pos": "prep"
+    "translation": "against"
   },
   {
     "id": 53,
     "word": "otros",
-    "translation": "others / other",
-    "pos": "det"
+    "translation": "others / other"
   },
   {
     "id": 54,
     "word": "ese",
-    "translation": "that",
-    "pos": "det"
+    "translation": "that"
   },
   {
     "id": 55,
     "word": "eso",
-    "translation": "that",
-    "pos": "pron"
+    "translation": "that"
   },
   {
     "id": 56,
     "word": "ante",
-    "translation": "before / in front of",
-    "pos": "prep"
+    "translation": "before / in front of"
   },
   {
     "id": 57,
     "word": "ellos",
-    "translation": "they / them",
-    "pos": "pron"
+    "translation": "they / them"
   },
   {
     "id": 58,
     "word": "e",
-    "translation": "and",
-    "pos": "conj"
+    "translation": "and"
   },
   {
     "id": 59,
     "word": "esto",
-    "translation": "this",
-    "pos": "pron"
+    "translation": "this"
   },
   {
     "id": 60,
     "word": "mí",
-    "translation": "me",
-    "pos": "pron"
+    "translation": "me"
   },
   {
     "id": 61,
     "word": "antes",
-    "translation": "before",
-    "pos": "adv"
+    "translation": "before"
   },
   {
     "id": 62,
     "word": "algunos",
-    "translation": "some",
-    "pos": "det"
+    "translation": "some"
   },
   {
     "id": 63,
     "word": "qué",
-    "translation": "what / which",
-    "pos": "pron"
+    "translation": "what / which"
   },
   {
     "id": 64,
     "word": "unos",
-    "translation": "some / a few",
-    "pos": "det"
+    "translation": "some / a few"
   },
   {
     "id": 65,
     "word": "yo",
-    "translation": "I",
-    "pos": "pron"
+    "translation": "I"
   },
   {
     "id": 66,
     "word": "otro",
-    "translation": "other / another",
-    "pos": "det"
+    "translation": "other / another"
   },
   {
     "id": 67,
     "word": "otras",
-    "translation": "other / others",
-    "pos": "det"
+    "translation": "other / others"
   },
   {
     "id": 68,
     "word": "otra",
-    "translation": "other / another",
-    "pos": "det"
+    "translation": "other / another"
   },
   {
     "id": 69,
     "word": "él",
-    "translation": "he / him",
-    "pos": "pron"
+    "translation": "he / him"
   },
   {
     "id": 70,
     "word": "tanto",
-    "translation": "so much / as much",
-    "pos": "adv"
+    "translation": "so much / as much"
   },
   {
     "id": 71,
     "word": "esa",
-    "translation": "that",
-    "pos": "det"
+    "translation": "that"
   },
   {
     "id": 72,
     "word": "estos",
-    "translation": "these",
-    "pos": "det"
+    "translation": "these"
   },
   {
     "id": 73,
     "word": "mucho",
-    "translation": "much / a lot",
-    "pos": "adv"
+    "translation": "much / a lot"
   },
   {
     "id": 74,
     "word": "quienes",
-    "translation": "who / whom",
-    "pos": "pron"
+    "translation": "who / whom"
   },
   {
     "id": 75,
     "word": "nada",
-    "translation": "nothing",
-    "pos": "pron"
+    "translation": "nothing"
   },
   {
     "id": 76,
     "word": "muchos",
-    "translation": "many / a lot of",
-    "pos": "det"
+    "translation": "many / a lot of"
   },
   {
     "id": 77,
     "word": "cual",
-    "translation": "which",
-    "pos": "pron"
+    "translation": "which"
   },
   {
     "id": 78,
     "word": "poco",
-    "translation": "little / few",
-    "pos": "adv"
+    "translation": "little / few"
   },
   {
     "id": 79,
     "word": "ella",
-    "translation": "she / her",
-    "pos": "pron"
+    "translation": "she / her"
   },
   {
     "id": 80,
     "word": "estar",
-    "translation": "to be",
-    "pos": "verb"
+    "translation": "to be"
   },
   {
     "id": 81,
     "word": "estas",
-    "translation": "these",
-    "pos": "det"
+    "translation": "these"
   },
   {
     "id": 82,
     "word": "algunas",
-    "translation": "some",
-    "pos": "det"
+    "translation": "some"
   },
   {
     "id": 83,
     "word": "algo",
-    "translation": "something",
-    "pos": "pron"
+    "translation": "something"
   },
   {
     "id": 84,
     "word": "nosotros",
-    "translation": "we / us",
-    "pos": "pron"
+    "translation": "we / us"
   },
   {
     "id": 85,
     "word": "mi",
-    "translation": "my",
-    "pos": "det"
+    "translation": "my"
   },
   {
     "id": 86,
     "word": "mis",
-    "translation": "my",
-    "pos": "det"
+    "translation": "my"
   },
   {
     "id": 87,
     "word": "tú",
-    "translation": "you",
-    "pos": "pron"
+    "translation": "you"
   },
   {
     "id": 88,
     "word": "te",
-    "translation": "you / yourself",
-    "pos": "pron"
+    "translation": "you / yourself"
   },
   {
     "id": 89,
     "word": "ti",
-    "translation": "you",
-    "pos": "pron"
+    "translation": "you"
   },
   {
     "id": 90,
     "word": "tu",
-    "translation": "your",
-    "pos": "det"
+    "translation": "your"
   },
   {
     "id": 91,
     "word": "tus",
-    "translation": "your",
-    "pos": "det"
+    "translation": "your"
   },
   {
     "id": 92,
     "word": "ellas",
-    "translation": "they / them",
-    "pos": "pron"
+    "translation": "they / them"
   },
   {
     "id": 93,
     "word": "usted",
-    "translation": "you",
-    "pos": "pron"
+    "translation": "you"
   },
   {
     "id": 94,
     "word": "ustedes",
-    "translation": "you all",
-    "pos": "pron"
+    "translation": "you all"
   },
   {
     "id": 95,
     "word": "ser",
-    "translation": "to be",
-    "pos": "verb"
+    "translation": "to be"
   },
   {
     "id": 96,
     "word": "haber",
-    "translation": "to have",
-    "pos": "verb"
+    "translation": "to have"
   },
   {
     "id": 97,
     "word": "tener",
-    "translation": "to have / to hold",
-    "pos": "verb"
+    "translation": "to have / to hold"
   },
   {
     "id": 98,
     "word": "hacer",
-    "translation": "to do / to make",
-    "pos": "verb"
+    "translation": "to do / to make"
   },
   {
     "id": 99,
     "word": "poder",
-    "translation": "to be able to / can",
-    "pos": "verb"
+    "translation": "to be able to / can"
   },
   {
     "id": 100,
     "word": "decir",
-    "translation": "to say / to tell",
-    "pos": "verb"
+    "translation": "to say / to tell"
   },
   {
     "id": 101,
     "word": "ir",
-    "translation": "to go",
-    "pos": "verb"
+    "translation": "to go"
   },
   {
     "id": 102,
     "word": "ver",
-    "translation": "to see",
-    "pos": "verb"
+    "translation": "to see"
   },
   {
     "id": 103,
     "word": "dar",
-    "translation": "to give",
-    "pos": "verb"
+    "translation": "to give"
   },
   {
     "id": 104,
     "word": "saber",
-    "translation": "to know",
-    "pos": "verb"
+    "translation": "to know"
   },
   {
     "id": 105,
     "word": "querer",
-    "translation": "to want / to love",
-    "pos": "verb"
+    "translation": "to want / to love"
   },
   {
     "id": 106,
     "word": "llegar",
-    "translation": "to arrive / to reach",
-    "pos": "verb"
+    "translation": "to arrive / to reach"
   },
   {
     "id": 107,
     "word": "pasar",
-    "translation": "to pass / to happen",
-    "pos": "verb"
+    "translation": "to pass / to happen"
   },
   {
     "id": 108,
     "word": "deber",
-    "translation": "to owe / must / should",
-    "pos": "verb"
+    "translation": "to owe / must / should"
   },
   {
     "id": 109,
     "word": "poner",
-    "translation": "to put / to place",
-    "pos": "verb"
+    "translation": "to put / to place"
   },
   {
     "id": 110,
     "word": "parecer",
-    "translation": "to seem / to appear",
-    "pos": "verb"
+    "translation": "to seem / to appear"
   },
   {
     "id": 111,
     "word": "quedar",
-    "translation": "to stay / to remain",
-    "pos": "verb"
+    "translation": "to stay / to remain"
   },
   {
     "id": 112,
     "word": "creer",
-    "translation": "to believe / to think",
-    "pos": "verb"
+    "translation": "to believe / to think"
   },
   {
     "id": 113,
     "word": "hablar",
-    "translation": "to speak / to talk",
-    "pos": "verb"
+    "translation": "to speak / to talk"
   },
   {
     "id": 114,
     "word": "llevar",
-    "translation": "to carry / to wear",
-    "pos": "verb"
+    "translation": "to carry / to wear"
   },
   {
     "id": 115,
     "word": "dejar",
-    "translation": "to leave / to let",
-    "pos": "verb"
+    "translation": "to leave / to let"
   },
   {
     "id": 116,
     "word": "seguir",
-    "translation": "to follow / to continue",
-    "pos": "verb"
+    "translation": "to follow / to continue"
   },
   {
     "id": 117,
     "word": "encontrar",
-    "translation": "to find / to meet",
-    "pos": "verb"
+    "translation": "to find / to meet"
   },
   {
     "id": 118,
     "word": "llamar",
-    "translation": "to call",
-    "pos": "verb"
+    "translation": "to call"
   },
   {
     "id": 119,
     "word": "venir",
-    "translation": "to come",
-    "pos": "verb"
+    "translation": "to come"
   },
   {
     "id": 120,
     "word": "pensar",
-    "translation": "to think",
-    "pos": "verb"
+    "translation": "to think"
   },
   {
     "id": 121,
     "word": "salir",
-    "translation": "to leave / to go out",
-    "pos": "verb"
+    "translation": "to leave / to go out"
   },
   {
     "id": 122,
     "word": "volver",
-    "translation": "to return / to come back",
-    "pos": "verb"
+    "translation": "to return / to come back"
   },
   {
     "id": 123,
     "word": "tomar",
-    "translation": "to take / to drink",
-    "pos": "verb"
+    "translation": "to take / to drink"
   },
   {
     "id": 124,
     "word": "conocer",
-    "translation": "to know / to meet",
-    "pos": "verb"
+    "translation": "to know / to meet"
   },
   {
     "id": 125,
     "word": "vivir",
-    "translation": "to live",
-    "pos": "verb"
+    "translation": "to live"
   },
   {
     "id": 126,
     "word": "sentir",
-    "translation": "to feel",
-    "pos": "verb"
+    "translation": "to feel"
   },
   {
     "id": 127,
     "word": "tratar",
-    "translation": "to try / to treat",
-    "pos": "verb"
+    "translation": "to try / to treat"
   },
   {
     "id": 128,
     "word": "mirar",
-    "translation": "to look / to watch",
-    "pos": "verb"
+    "translation": "to look / to watch"
   },
   {
     "id": 129,
     "word": "contar",
-    "translation": "to count / to tell",
-    "pos": "verb"
+    "translation": "to count / to tell"
   },
   {
     "id": 130,
     "word": "empezar",
-    "translation": "to begin / to start",
-    "pos": "verb"
+    "translation": "to begin / to start"
   },
   {
     "id": 131,
     "word": "esperar",
-    "translation": "to wait / to hope",
-    "pos": "verb"
+    "translation": "to wait / to hope"
   },
   {
     "id": 132,
     "word": "buscar",
-    "translation": "to search / to look for",
-    "pos": "verb"
+    "translation": "to search / to look for"
   },
   {
     "id": 133,
     "word": "existir",
-    "translation": "to exist",
-    "pos": "verb"
+    "translation": "to exist"
   },
   {
     "id": 134,
     "word": "entrar",
-    "translation": "to enter",
-    "pos": "verb"
+    "translation": "to enter"
   },
   {
     "id": 135,
     "word": "trabajar",
-    "translation": "to work",
-    "pos": "verb"
+    "translation": "to work"
   },
   {
     "id": 136,
     "word": "escribir",
-    "translation": "to write",
-    "pos": "verb"
+    "translation": "to write"
   },
   {
     "id": 137,
     "word": "perder",
-    "translation": "to lose",
-    "pos": "verb"
+    "translation": "to lose"
   },
   {
     "id": 138,
     "word": "producir",
-    "translation": "to produce",
-    "pos": "verb"
+    "translation": "to produce"
   },
   {
     "id": 139,
     "word": "ocurrir",
-    "translation": "to occur / to happen",
-    "pos": "verb"
+    "translation": "to occur / to happen"
   },
   {
     "id": 140,
     "word": "entender",
-    "translation": "to understand",
-    "pos": "verb"
+    "translation": "to understand"
   },
   {
     "id": 141,
     "word": "pedir",
-    "translation": "to ask for / to request",
-    "pos": "verb"
+    "translation": "to ask for / to request"
   },
   {
     "id": 142,
     "word": "recibir",
-    "translation": "to receive",
-    "pos": "verb"
+    "translation": "to receive"
   },
   {
     "id": 143,
     "word": "recordar",
-    "translation": "to remember",
-    "pos": "verb"
+    "translation": "to remember"
   },
   {
     "id": 144,
     "word": "terminar",
-    "translation": "to finish / to end",
-    "pos": "verb"
+    "translation": "to finish / to end"
   },
   {
     "id": 145,
     "word": "permitir",
-    "translation": "to allow / to permit",
-    "pos": "verb"
+    "translation": "to allow / to permit"
   },
   {
     "id": 146,
     "word": "aparecer",
-    "translation": "to appear",
-    "pos": "verb"
+    "translation": "to appear"
   },
   {
     "id": 147,
     "word": "conseguir",
-    "translation": "to get / to achieve",
-    "pos": "verb"
+    "translation": "to get / to achieve"
   },
   {
     "id": 148,
     "word": "comenzar",
-    "translation": "to begin / to start",
-    "pos": "verb"
+    "translation": "to begin / to start"
   },
   {
     "id": 149,
     "word": "servir",
-    "translation": "to serve",
-    "pos": "verb"
+    "translation": "to serve"
   },
   {
     "id": 150,
     "word": "sacar",
-    "translation": "to take out / to remove",
-    "pos": "verb"
+    "translation": "to take out / to remove"
   },
   {
     "id": 151,
     "word": "necesitar",
-    "translation": "to need",
-    "pos": "verb"
+    "translation": "to need"
   },
   {
     "id": 152,
     "word": "mantener",
-    "translation": "to maintain / to keep",
-    "pos": "verb"
+    "translation": "to maintain / to keep"
   },
   {
     "id": 153,
     "word": "resultar",
-    "translation": "to result / to turn out",
-    "pos": "verb"
+    "translation": "to result / to turn out"
   },
   {
     "id": 154,
     "word": "leer",
-    "translation": "to read",
-    "pos": "verb"
+    "translation": "to read"
   },
   {
     "id": 155,
     "word": "caer",
-    "translation": "to fall",
-    "pos": "verb"
+    "translation": "to fall"
   },
   {
     "id": 156,
     "word": "cambiar",
-    "translation": "to change",
-    "pos": "verb"
+    "translation": "to change"
   },
   {
     "id": 157,
     "word": "presentar",
-    "translation": "to present / to introduce",
-    "pos": "verb"
+    "translation": "to present / to introduce"
   },
   {
     "id": 158,
     "word": "crear",
-    "translation": "to create",
-    "pos": "verb"
+    "translation": "to create"
   },
   {
     "id": 159,
     "word": "abrir",
-    "translation": "to open",
-    "pos": "verb"
+    "translation": "to open"
   },
   {
     "id": 160,
     "word": "considerar",
-    "translation": "to consider",
-    "pos": "verb"
+    "translation": "to consider"
   },
   {
     "id": 161,
     "word": "oír",
-    "translation": "to hear",
-    "pos": "verb"
+    "translation": "to hear"
   },
   {
     "id": 162,
     "word": "acabar",
-    "translation": "to finish / to end",
-    "pos": "verb"
+    "translation": "to finish / to end"
   },
   {
     "id": 163,
     "word": "convertir",
-    "translation": "to convert / to turn into",
-    "pos": "verb"
+    "translation": "to convert / to turn into"
   },
   {
     "id": 164,
     "word": "ganar",
-    "translation": "to win / to earn",
-    "pos": "verb"
+    "translation": "to win / to earn"
   },
   {
     "id": 165,
     "word": "formar",
-    "translation": "to form / to shape",
-    "pos": "verb"
+    "translation": "to form / to shape"
   },
   {
     "id": 166,
     "word": "traer",
-    "translation": "to bring",
-    "pos": "verb"
+    "translation": "to bring"
   },
   {
     "id": 167,
     "word": "partir",
-    "translation": "to depart / to split",
-    "pos": "verb"
+    "translation": "to depart / to split"
   },
   {
     "id": 168,
     "word": "morir",
-    "translation": "to die",
-    "pos": "verb"
+    "translation": "to die"
   },
   {
     "id": 169,
     "word": "aceptar",
-    "translation": "to accept",
-    "pos": "verb"
+    "translation": "to accept"
   },
   {
     "id": 170,
     "word": "realizar",
-    "translation": "to carry out / to accomplish",
-    "pos": "verb"
+    "translation": "to carry out / to accomplish"
   },
   {
     "id": 171,
     "word": "suponer",
-    "translation": "to suppose / to assume",
-    "pos": "verb"
+    "translation": "to suppose / to assume"
   },
   {
     "id": 172,
     "word": "comprender",
-    "translation": "to understand / to comprehend",
-    "pos": "verb"
+    "translation": "to understand / to comprehend"
   },
   {
     "id": 173,
     "word": "lograr",
-    "translation": "to achieve / to manage",
-    "pos": "verb"
+    "translation": "to achieve / to manage"
   },
   {
     "id": 174,
     "word": "explicar",
-    "translation": "to explain",
-    "pos": "verb"
+    "translation": "to explain"
   },
   {
     "id": 175,
     "word": "preguntar",
-    "translation": "to ask / to question",
-    "pos": "verb"
+    "translation": "to ask / to question"
   },
   {
     "id": 176,
     "word": "tocar",
-    "translation": "to touch / to play",
-    "pos": "verb"
+    "translation": "to touch / to play"
   },
   {
     "id": 177,
     "word": "reconocer",
-    "translation": "to recognize",
-    "pos": "verb"
+    "translation": "to recognize"
   },
   {
     "id": 178,
     "word": "alcanzar",
-    "translation": "to reach / to achieve",
-    "pos": "verb"
+    "translation": "to reach / to achieve"
   },
   {
     "id": 179,
     "word": "nacer",
-    "translation": "to be born",
-    "pos": "verb"
+    "translation": "to be born"
   },
   {
     "id": 180,
     "word": "dirigir",
-    "translation": "to direct / to lead",
-    "pos": "verb"
+    "translation": "to direct / to lead"
   },
   {
     "id": 181,
     "word": "correr",
-    "translation": "to run",
-    "pos": "verb"
+    "translation": "to run"
   },
   {
     "id": 182,
     "word": "utilizar",
-    "translation": "to use / to utilize",
-    "pos": "verb"
+    "translation": "to use / to utilize"
   },
   {
     "id": 183,
     "word": "pagar",
-    "translation": "to pay",
-    "pos": "verb"
+    "translation": "to pay"
   },
   {
     "id": 184,
     "word": "ayudar",
-    "translation": "to help",
-    "pos": "verb"
+    "translation": "to help"
   },
   {
     "id": 185,
     "word": "gustar",
-    "translation": "to like / to please",
-    "pos": "verb"
+    "translation": "to like / to please"
   },
   {
     "id": 186,
     "word": "jugar",
-    "translation": "to play",
-    "pos": "verb"
+    "translation": "to play"
   },
   {
     "id": 187,
     "word": "escuchar",
-    "translation": "to listen",
-    "pos": "verb"
+    "translation": "to listen"
   },
   {
     "id": 188,
     "word": "cumplir",
-    "translation": "to fulfill / to accomplish",
-    "pos": "verb"
+    "translation": "to fulfill / to accomplish"
   },
   {
     "id": 189,
     "word": "ofrecer",
-    "translation": "to offer",
-    "pos": "verb"
+    "translation": "to offer"
   },
   {
     "id": 190,
     "word": "descubrir",
-    "translation": "to discover",
-    "pos": "verb"
+    "translation": "to discover"
   },
   {
     "id": 191,
     "word": "levantar",
-    "translation": "to lift / to raise",
-    "pos": "verb"
+    "translation": "to lift / to raise"
   },
   {
     "id": 192,
     "word": "intentar",
-    "translation": "to try / to attempt",
-    "pos": "verb"
+    "translation": "to try / to attempt"
   },
   {
     "id": 193,
     "word": "usar",
-    "translation": "to use",
-    "pos": "verb"
+    "translation": "to use"
   },
   {
     "id": 194,
     "word": "olvidar",
-    "translation": "to forget",
-    "pos": "verb"
+    "translation": "to forget"
   },
   {
     "id": 195,
     "word": "tiempo",
-    "translation": "time / weather",
-    "pos": "noun"
+    "translation": "time / weather"
   },
   {
     "id": 196,
     "word": "año",
-    "translation": "year",
-    "pos": "noun"
+    "translation": "year"
   },
   {
     "id": 197,
     "word": "día",
-    "translation": "day",
-    "pos": "noun"
+    "translation": "day"
   },
   {
     "id": 198,
     "word": "país",
-    "translation": "country",
-    "pos": "noun"
+    "translation": "country"
   },
   {
     "id": 199,
     "word": "mundo",
-    "translation": "world",
-    "pos": "noun"
+    "translation": "world"
   },
   {
     "id": 200,
     "word": "vida",
-    "translation": "life",
-    "pos": "noun"
+    "translation": "life"
   },
   {
     "id": 201,
     "word": "casa",
-    "translation": "house / home",
-    "pos": "noun"
+    "translation": "house / home"
   },
   {
     "id": 202,
     "word": "parte",
-    "translation": "part",
-    "pos": "noun"
+    "translation": "part"
   },
   {
     "id": 203,
     "word": "hombre",
-    "translation": "man",
-    "pos": "noun"
+    "translation": "man"
   },
   {
     "id": 204,
     "word": "momento",
-    "translation": "moment",
-    "pos": "noun"
+    "translation": "moment"
   },
   {
     "id": 205,
     "word": "forma",
-    "translation": "form / shape / way",
-    "pos": "noun"
+    "translation": "form / shape / way"
   },
   {
     "id": 206,
     "word": "gobierno",
-    "translation": "government",
-    "pos": "noun"
+    "translation": "government"
   },
   {
     "id": 207,
     "word": "mujer",
-    "translation": "woman / wife",
-    "pos": "noun"
+    "translation": "woman / wife"
   },
   {
     "id": 208,
     "word": "caso",
-    "translation": "case",
-    "pos": "noun"
+    "translation": "case"
   },
   {
     "id": 209,
     "word": "cosa",
-    "translation": "thing",
-    "pos": "noun"
+    "translation": "thing"
   },
   {
     "id": 210,
     "word": "grupo",
-    "translation": "group",
-    "pos": "noun"
+    "translation": "group"
   },
   {
     "id": 211,
     "word": "problema",
-    "translation": "problem",
-    "pos": "noun"
+    "translation": "problem"
   },
   {
     "id": 212,
     "word": "punto",
-    "translation": "point / dot",
-    "pos": "noun"
+    "translation": "point / dot"
   },
   {
     "id": 213,
     "word": "persona",
-    "translation": "person",
-    "pos": "noun"
+    "translation": "person"
   },
   {
     "id": 214,
     "word": "trabajo",
-    "translation": "work / job",
-    "pos": "noun"
+    "translation": "work / job"
   },
   {
     "id": 215,
     "word": "lugar",
-    "translation": "place",
-    "pos": "noun"
+    "translation": "place"
   },
   {
     "id": 216,
     "word": "estado",
-    "translation": "state / status",
-    "pos": "noun"
+    "translation": "state / status"
   },
   {
     "id": 217,
     "word": "ciudad",
-    "translation": "city",
-    "pos": "noun"
+    "translation": "city"
   },
   {
     "id": 218,
     "word": "manera",
-    "translation": "way / manner",
-    "pos": "noun"
+    "translation": "way / manner"
   },
   {
     "id": 219,
     "word": "presidente",
-    "translation": "president",
-    "pos": "noun"
+    "translation": "president"
   },
   {
     "id": 220,
     "word": "pueblo",
-    "translation": "town / people",
-    "pos": "noun"
+    "translation": "town / people"
   },
   {
     "id": 221,
     "word": "ejemplo",
-    "translation": "example",
-    "pos": "noun"
+    "translation": "example"
   },
   {
     "id": 222,
     "word": "agua",
-    "translation": "water",
-    "pos": "noun"
+    "translation": "water"
   },
   {
     "id": 223,
     "word": "historia",
-    "translation": "history / story",
-    "pos": "noun"
+    "translation": "history / story"
   },
   {
     "id": 224,
     "word": "nombre",
-    "translation": "name",
-    "pos": "noun"
+    "translation": "name"
   },
   {
     "id": 225,
     "word": "familia",
-    "translation": "family",
-    "pos": "noun"
+    "translation": "family"
   },
   {
     "id": 226,
     "word": "hijo",
-    "translation": "son / child",
-    "pos": "noun"
+    "translation": "son / child"
   },
   {
     "id": 227,
     "word": "cuenta",
-    "translation": "account / bill",
-    "pos": "noun"
+    "translation": "account / bill"
   },
   {
     "id": 228,
     "word": "razón",
-    "translation": "reason",
-    "pos": "noun"
+    "translation": "reason"
   },
   {
     "id": 229,
     "word": "noche",
-    "translation": "night",
-    "pos": "noun"
+    "translation": "night"
   },
   {
     "id": 230,
     "word": "cabeza",
-    "translation": "head",
-    "pos": "noun"
+    "translation": "head"
   },
   {
     "id": 231,
     "word": "padre",
-    "translation": "father",
-    "pos": "noun"
+    "translation": "father"
   },
   {
     "id": 232,
     "word": "niño",
-    "translation": "child / boy",
-    "pos": "noun"
+    "translation": "child / boy"
   },
   {
     "id": 233,
     "word": "tipo",
-    "translation": "type / kind",
-    "pos": "noun"
+    "translation": "type / kind"
   },
   {
     "id": 234,
     "word": "guerra",
-    "translation": "war",
-    "pos": "noun"
+    "translation": "war"
   },
   {
     "id": 235,
     "word": "idea",
-    "translation": "idea",
-    "pos": "noun"
+    "translation": "idea"
   },
   {
     "id": 236,
     "word": "relación",
-    "translation": "relationship / relation",
-    "pos": "noun"
+    "translation": "relationship / relation"
   },
   {
     "id": 237,
     "word": "palabra",
-    "translation": "word",
-    "pos": "noun"
+    "translation": "word"
   },
   {
     "id": 238,
     "word": "cuerpo",
-    "translation": "body",
-    "pos": "noun"
+    "translation": "body"
   },
   {
     "id": 239,
     "word": "medio",
-    "translation": "means / middle / half",
-    "pos": "noun"
+    "translation": "means / middle / half"
   },
   {
     "id": 240,
     "word": "libro",
-    "translation": "book",
-    "pos": "noun"
+    "translation": "book"
   },
   {
     "id": 241,
     "word": "lado",
-    "translation": "side",
-    "pos": "noun"
+    "translation": "side"
   },
   {
     "id": 242,
     "word": "muerte",
-    "translation": "death",
-    "pos": "noun"
+    "translation": "death"
   },
   {
     "id": 243,
     "word": "fuerza",
-    "translation": "force / strength",
-    "pos": "noun"
+    "translation": "force / strength"
   },
   {
     "id": 244,
     "word": "hecho",
-    "translation": "fact / event",
-    "pos": "noun"
+    "translation": "fact / event"
   },
   {
     "id": 245,
     "word": "mano",
-    "translation": "hand",
-    "pos": "noun"
+    "translation": "hand"
   },
   {
     "id": 246,
     "word": "programa",
-    "translation": "program",
-    "pos": "noun"
+    "translation": "program"
   },
   {
     "id": 247,
     "word": "empresa",
-    "translation": "company / business",
-    "pos": "noun"
+    "translation": "company / business"
   },
   {
     "id": 248,
     "word": "número",
-    "translation": "number",
-    "pos": "noun"
+    "translation": "number"
   },
   {
     "id": 249,
     "word": "ley",
-    "translation": "law",
-    "pos": "noun"
+    "translation": "law"
   },
   {
     "id": 250,
     "word": "mes",
-    "translation": "month",
-    "pos": "noun"
+    "translation": "month"
   },
   {
     "id": 251,
     "word": "calle",
-    "translation": "street",
-    "pos": "noun"
+    "translation": "street"
   },
   {
     "id": 252,
     "word": "proceso",
-    "translation": "process",
-    "pos": "noun"
+    "translation": "process"
   },
   {
     "id": 253,
     "word": "sistema",
-    "translation": "system",
-    "pos": "noun"
+    "translation": "system"
   },
   {
     "id": 254,
     "word": "tierra",
-    "translation": "earth / land",
-    "pos": "noun"
+    "translation": "earth / land"
   },
   {
     "id": 255,
     "word": "paso",
-    "translation": "step / pace",
-    "pos": "noun"
+    "translation": "step / pace"
   },
   {
     "id": 256,
     "word": "madre",
-    "translation": "mother",
-    "pos": "noun"
+    "translation": "mother"
   },
   {
     "id": 257,
     "word": "fin",
-    "translation": "end / purpose",
-    "pos": "noun"
+    "translation": "end / purpose"
   },
   {
     "id": 258,
     "word": "cambio",
-    "translation": "change",
-    "pos": "noun"
+    "translation": "change"
   },
   {
     "id": 259,
     "word": "nivel",
-    "translation": "level",
-    "pos": "noun"
+    "translation": "level"
   },
   {
     "id": 260,
     "word": "centro",
-    "translation": "center",
-    "pos": "noun"
+    "translation": "center"
   },
   {
     "id": 261,
     "word": "modo",
-    "translation": "mode / way",
-    "pos": "noun"
+    "translation": "mode / way"
   },
   {
     "id": 262,
     "word": "resultado",
-    "translation": "result",
-    "pos": "noun"
+    "translation": "result"
   },
   {
     "id": 263,
     "word": "camino",
-    "translation": "road / path / way",
-    "pos": "noun"
+    "translation": "road / path / way"
   },
   {
     "id": 264,
     "word": "señor",
-    "translation": "sir / mister / lord",
-    "pos": "noun"
+    "translation": "sir / mister / lord"
   },
   {
     "id": 265,
     "word": "juego",
-    "translation": "game / play",
-    "pos": "noun"
+    "translation": "game / play"
   },
   {
     "id": 266,
     "word": "campo",
-    "translation": "field / countryside",
-    "pos": "noun"
+    "translation": "field / countryside"
   },
   {
     "id": 267,
     "word": "derecho",
-    "translation": "right / law",
-    "pos": "noun"
+    "translation": "right / law"
   },
   {
     "id": 268,
     "word": "situación",
-    "translation": "situation",
-    "pos": "noun"
+    "translation": "situation"
   },
   {
     "id": 269,
     "word": "hora",
-    "translation": "hour / time",
-    "pos": "noun"
+    "translation": "hour / time"
   },
   {
     "id": 270,
     "word": "partido",
-    "translation": "party / match / game",
-    "pos": "noun"
+    "translation": "party / match / game"
   },
   {
     "id": 271,
     "word": "dinero",
-    "translation": "money",
-    "pos": "noun"
+    "translation": "money"
   },
   {
     "id": 272,
     "word": "acuerdo",
-    "translation": "agreement",
-    "pos": "noun"
+    "translation": "agreement"
   },
   {
     "id": 273,
     "word": "cuestión",
-    "translation": "question / matter",
-    "pos": "noun"
+    "translation": "question / matter"
   },
   {
     "id": 274,
     "word": "desarrollo",
-    "translation": "development",
-    "pos": "noun"
+    "translation": "development"
   },
   {
     "id": 275,
     "word": "interés",
-    "translation": "interest",
-    "pos": "noun"
+    "translation": "interest"
   },
   {
     "id": 276,
     "word": "información",
-    "translation": "information",
-    "pos": "noun"
+    "translation": "information"
   },
   {
     "id": 277,
     "word": "sociedad",
-    "translation": "society",
-    "pos": "noun"
+    "translation": "society"
   },
   {
     "id": 278,
     "word": "proyecto",
-    "translation": "project",
-    "pos": "noun"
+    "translation": "project"
   },
   {
     "id": 279,
     "word": "sentido",
-    "translation": "sense / meaning",
-    "pos": "noun"
+    "translation": "sense / meaning"
   },
   {
     "id": 280,
     "word": "serie",
-    "translation": "series",
-    "pos": "noun"
+    "translation": "series"
   },
   {
     "id": 281,
     "word": "efecto",
-    "translation": "effect",
-    "pos": "noun"
+    "translation": "effect"
   },
   {
     "id": 282,
     "word": "puerta",
-    "translation": "door",
-    "pos": "noun"
+    "translation": "door"
   },
   {
     "id": 283,
     "word": "clase",
-    "translation": "class / kind",
-    "pos": "noun"
+    "translation": "class / kind"
   },
   {
     "id": 284,
     "word": "verdad",
-    "translation": "truth",
-    "pos": "noun"
+    "translation": "truth"
   },
   {
     "id": 285,
     "word": "papel",
-    "translation": "paper / role",
-    "pos": "noun"
+    "translation": "paper / role"
   },
   {
     "id": 286,
     "word": "espacio",
-    "translation": "space",
-    "pos": "noun"
+    "translation": "space"
   },
   {
     "id": 287,
     "word": "actividad",
-    "translation": "activity",
-    "pos": "noun"
+    "translation": "activity"
   },
   {
     "id": 288,
     "word": "condición",
-    "translation": "condition",
-    "pos": "noun"
+    "translation": "condition"
   },
   {
     "id": 289,
     "word": "servicio",
-    "translation": "service",
-    "pos": "noun"
+    "translation": "service"
   },
   {
     "id": 290,
     "word": "miembro",
-    "translation": "member",
-    "pos": "noun"
+    "translation": "member"
   },
   {
     "id": 291,
     "word": "realidad",
-    "translation": "reality",
-    "pos": "noun"
+    "translation": "reality"
   },
   {
     "id": 292,
     "word": "educación",
-    "translation": "education",
-    "pos": "noun"
+    "translation": "education"
   },
   {
     "id": 293,
     "word": "uso",
-    "translation": "use",
-    "pos": "noun"
+    "translation": "use"
   },
   {
     "id": 294,
     "word": "amor",
-    "translation": "love",
-    "pos": "noun"
+    "translation": "love"
   },
   {
     "id": 295,
     "word": "cultura",
-    "translation": "culture",
-    "pos": "noun"
+    "translation": "culture"
   },
   {
     "id": 296,
     "word": "zona",
-    "translation": "zone / area",
-    "pos": "noun"
+    "translation": "zone / area"
   },
   {
     "id": 297,
     "word": "sector",
-    "translation": "sector",
-    "pos": "noun"
+    "translation": "sector"
   },
   {
     "id": 298,
     "word": "imagen",
-    "translation": "image",
-    "pos": "noun"
+    "translation": "image"
   },
   {
     "id": 299,
     "word": "política",
-    "translation": "politics / policy",
-    "pos": "noun"
+    "translation": "politics / policy"
   },
   {
     "id": 300,
     "word": "mercado",
-    "translation": "market",
-    "pos": "noun"
+    "translation": "market"
   },
   {
     "id": 301,
     "word": "valor",
-    "translation": "value / courage",
-    "pos": "noun"
+    "translation": "value / courage"
   },
   {
     "id": 302,
     "word": "período",
-    "translation": "period",
-    "pos": "noun"
+    "translation": "period"
   },
   {
     "id": 303,
     "word": "medida",
-    "translation": "measure",
-    "pos": "noun"
+    "translation": "measure"
   },
   {
     "id": 304,
     "word": "movimiento",
-    "translation": "movement",
-    "pos": "noun"
+    "translation": "movement"
   },
   {
     "id": 305,
     "word": "época",
-    "translation": "era / epoch / time",
-    "pos": "noun"
+    "translation": "era / epoch / time"
   },
   {
     "id": 306,
     "word": "objetivo",
-    "translation": "objective / goal",
-    "pos": "noun"
+    "translation": "objective / goal"
   },
   {
     "id": 307,
     "word": "experiencia",
-    "translation": "experience",
-    "pos": "noun"
+    "translation": "experience"
   },
   {
     "id": 308,
     "word": "equipo",
-    "translation": "team / equipment",
-    "pos": "noun"
+    "translation": "team / equipment"
   },
   {
     "id": 309,
     "word": "base",
-    "translation": "base / basis",
-    "pos": "noun"
+    "translation": "base / basis"
   },
   {
     "id": 310,
     "word": "producción",
-    "translation": "production",
-    "pos": "noun"
+    "translation": "production"
   },
   {
     "id": 311,
     "word": "seguridad",
-    "translation": "security / safety",
-    "pos": "noun"
+    "translation": "security / safety"
   },
   {
     "id": 312,
     "word": "posición",
-    "translation": "position",
-    "pos": "noun"
+    "translation": "position"
   },
   {
     "id": 313,
     "word": "obra",
-    "translation": "work / play / construction",
-    "pos": "noun"
+    "translation": "work / play / construction"
   },
   {
     "id": 314,
     "word": "respuesta",
-    "translation": "answer / response",
-    "pos": "noun"
+    "translation": "answer / response"
   },
   {
     "id": 315,
     "word": "ojos",
-    "translation": "eyes",
-    "pos": "noun"
+    "translation": "eyes"
   },
   {
     "id": 316,
     "word": "importancia",
-    "translation": "importance",
-    "pos": "noun"
+    "translation": "importance"
   },
   {
     "id": 317,
     "word": "salud",
-    "translation": "health",
-    "pos": "noun"
+    "translation": "health"
   },
   {
     "id": 318,
     "word": "decisión",
-    "translation": "decision",
-    "pos": "noun"
+    "translation": "decision"
   },
   {
     "id": 319,
     "word": "vuelta",
-    "translation": "return / turn",
-    "pos": "noun"
+    "translation": "return / turn"
   },
   {
     "id": 320,
     "word": "atención",
-    "translation": "attention",
-    "pos": "noun"
+    "translation": "attention"
   },
   {
     "id": 321,
     "word": "comida",
-    "translation": "food / meal",
-    "pos": "noun"
+    "translation": "food / meal"
   },
   {
     "id": 322,
     "word": "sol",
-    "translation": "sun",
-    "pos": "noun"
+    "translation": "sun"
   },
   {
     "id": 323,
     "word": "iglesia",
-    "translation": "church",
-    "pos": "noun"
+    "translation": "church"
   },
   {
     "id": 324,
     "word": "orden",
-    "translation": "order",
-    "pos": "noun"
+    "translation": "order"
   },
   {
     "id": 325,
     "word": "comunidad",
-    "translation": "community",
-    "pos": "noun"
+    "translation": "community"
   },
   {
     "id": 326,
     "word": "lengua",
-    "translation": "tongue / language",
-    "pos": "noun"
+    "translation": "tongue / language"
   },
   {
     "id": 327,
     "word": "acción",
-    "translation": "action",
-    "pos": "noun"
+    "translation": "action"
   },
   {
     "id": 328,
     "word": "futuro",
-    "translation": "future",
-    "pos": "noun"
+    "translation": "future"
   },
   {
     "id": 329,
     "word": "población",
-    "translation": "population",
-    "pos": "noun"
+    "translation": "population"
   },
   {
     "id": 330,
     "word": "hermano",
-    "translation": "brother",
-    "pos": "noun"
+    "translation": "brother"
   },
   {
     "id": 331,
     "word": "rey",
-    "translation": "king",
-    "pos": "noun"
+    "translation": "king"
   },
   {
     "id": 332,
     "word": "cara",
-    "translation": "face",
-    "pos": "noun"
+    "translation": "face"
   },
   {
     "id": 333,
     "word": "voz",
-    "translation": "voice",
-    "pos": "noun"
+    "translation": "voice"
   },
   {
     "id": 334,
     "word": "dato",
-    "translation": "data / fact",
-    "pos": "noun"
+    "translation": "data / fact"
   },
   {
     "id": 335,
     "word": "ojo",
-    "translation": "eye",
-    "pos": "noun"
+    "translation": "eye"
   },
   {
     "id": 336,
     "word": "peso",
-    "translation": "weight / currency",
-    "pos": "noun"
+    "translation": "weight / currency"
   },
   {
     "id": 337,
     "word": "opinión",
-    "translation": "opinion",
-    "pos": "noun"
+    "translation": "opinion"
   },
   {
     "id": 338,
     "word": "propuesta",
-    "translation": "proposal",
-    "pos": "noun"
+    "translation": "proposal"
   },
   {
     "id": 339,
     "word": "música",
-    "translation": "music",
-    "pos": "noun"
+    "translation": "music"
   },
   {
     "id": 340,
     "word": "control",
-    "translation": "control",
-    "pos": "noun"
+    "translation": "control"
   },
   {
     "id": 341,
     "word": "edad",
-    "translation": "age",
-    "pos": "noun"
+    "translation": "age"
   },
   {
     "id": 342,
     "word": "semana",
-    "translation": "week",
-    "pos": "noun"
+    "translation": "week"
   },
   {
     "id": 343,
     "word": "piso",
-    "translation": "floor / apartment",
-    "pos": "noun"
+    "translation": "floor / apartment"
   },
   {
     "id": 344,
     "word": "mesa",
-    "translation": "table",
-    "pos": "noun"
+    "translation": "table"
   },
   {
     "id": 345,
     "word": "material",
-    "translation": "material",
-    "pos": "noun"
+    "translation": "material"
   },
   {
     "id": 346,
     "word": "marido",
-    "translation": "husband",
-    "pos": "noun"
+    "translation": "husband"
   },
   {
     "id": 347,
     "word": "isla",
-    "translation": "island",
-    "pos": "noun"
+    "translation": "island"
   },
   {
     "id": 348,
     "word": "señora",
-    "translation": "lady / Mrs.",
-    "pos": "noun"
+    "translation": "lady / Mrs."
   },
   {
     "id": 349,
     "word": "director",
-    "translation": "director",
-    "pos": "noun"
+    "translation": "director"
   },
   {
     "id": 350,
     "word": "amigo",
-    "translation": "friend",
-    "pos": "noun"
+    "translation": "friend"
   },
   {
     "id": 351,
     "word": "arte",
-    "translation": "art",
-    "pos": "noun"
+    "translation": "art"
   },
   {
     "id": 352,
     "word": "miedo",
-    "translation": "fear",
-    "pos": "noun"
+    "translation": "fear"
   },
   {
     "id": 353,
     "word": "ciencia",
-    "translation": "science",
-    "pos": "noun"
+    "translation": "science"
   },
   {
     "id": 354,
     "word": "río",
-    "translation": "river",
-    "pos": "noun"
+    "translation": "river"
   },
   {
     "id": 355,
     "word": "función",
-    "translation": "function",
-    "pos": "noun"
+    "translation": "function"
   },
   {
     "id": 356,
     "word": "doctor",
-    "translation": "doctor",
-    "pos": "noun"
+    "translation": "doctor"
   },
   {
     "id": 357,
     "word": "color",
-    "translation": "color",
-    "pos": "noun"
+    "translation": "color"
   },
   {
     "id": 358,
     "word": "luz",
-    "translation": "light",
-    "pos": "noun"
+    "translation": "light"
   },
   {
     "id": 359,
     "word": "principio",
-    "translation": "beginning / principle",
-    "pos": "noun"
+    "translation": "beginning / principle"
   },
   {
     "id": 360,
     "word": "estructura",
-    "translation": "structure",
-    "pos": "noun"
+    "translation": "structure"
   },
   {
     "id": 361,
     "word": "natural",
-    "translation": "natural",
-    "pos": "adj"
+    "translation": "natural"
   },
   {
     "id": 362,
     "word": "viaje",
-    "translation": "trip / journey",
-    "pos": "noun"
+    "translation": "trip / journey"
   },
   {
     "id": 363,
     "word": "paz",
-    "translation": "peace",
-    "pos": "noun"
+    "translation": "peace"
   },
   {
     "id": 364,
     "word": "mayor",
-    "translation": "greater / older / main",
-    "pos": "adj"
+    "translation": "greater / older / main"
   },
   {
     "id": 365,
     "word": "mejor",
-    "translation": "better / best",
-    "pos": "adj"
+    "translation": "better / best"
   },
   {
     "id": 366,
     "word": "nuevo",
-    "translation": "new",
-    "pos": "adj"
+    "translation": "new"
   },
   {
     "id": 367,
     "word": "grande",
-    "translation": "big / large / great",
-    "pos": "adj"
+    "translation": "big / large / great"
   },
   {
     "id": 368,
     "word": "mismo",
-    "translation": "same / self",
-    "pos": "adj"
+    "translation": "same / self"
   },
   {
     "id": 369,
     "word": "primero",
-    "translation": "first",
-    "pos": "adj"
+    "translation": "first"
   },
   {
     "id": 370,
     "word": "último",
-    "translation": "last / latest",
-    "pos": "adj"
+    "translation": "last / latest"
   },
   {
     "id": 371,
     "word": "largo",
-    "translation": "long",
-    "pos": "adj"
+    "translation": "long"
   },
   {
     "id": 372,
     "word": "bueno",
-    "translation": "good",
-    "pos": "adj"
+    "translation": "good"
   },
   {
     "id": 373,
     "word": "propio",
-    "translation": "own / proper",
-    "pos": "adj"
+    "translation": "own / proper"
   },
   {
     "id": 374,
     "word": "pequeño",
-    "translation": "small / little",
-    "pos": "adj"
+    "translation": "small / little"
   },
   {
     "id": 375,
     "word": "político",
-    "translation": "political",
-    "pos": "adj"
+    "translation": "political"
   },
   {
     "id": 376,
     "word": "importante",
-    "translation": "important",
-    "pos": "adj"
+    "translation": "important"
   },
   {
     "id": 377,
     "word": "posible",
-    "translation": "possible",
-    "pos": "adj"
+    "translation": "possible"
   },
   {
     "id": 378,
     "word": "cierto",
-    "translation": "certain / true",
-    "pos": "adj"
+    "translation": "certain / true"
   },
   {
     "id": 379,
     "word": "viejo",
-    "translation": "old",
-    "pos": "adj"
+    "translation": "old"
   },
   {
     "id": 380,
     "word": "social",
-    "translation": "social",
-    "pos": "adj"
+    "translation": "social"
   },
   {
     "id": 381,
     "word": "malo",
-    "translation": "bad",
-    "pos": "adj"
+    "translation": "bad"
   },
   {
     "id": 382,
     "word": "diferente",
-    "translation": "different",
-    "pos": "adj"
+    "translation": "different"
   },
   {
     "id": 383,
     "word": "joven",
-    "translation": "young",
-    "pos": "adj"
+    "translation": "young"
   },
   {
     "id": 384,
     "word": "público",
-    "translation": "public",
-    "pos": "adj"
+    "translation": "public"
   },
   {
     "id": 385,
     "word": "alto",
-    "translation": "tall / high",
-    "pos": "adj"
+    "translation": "tall / high"
   },
   {
     "id": 386,
     "word": "necesario",
-    "translation": "necessary",
-    "pos": "adj"
+    "translation": "necessary"
   },
   {
     "id": 387,
     "word": "claro",
-    "translation": "clear / bright",
-    "pos": "adj"
+    "translation": "clear / bright"
   },
   {
     "id": 388,
     "word": "único",
-    "translation": "unique / only",
-    "pos": "adj"
+    "translation": "unique / only"
   },
   {
     "id": 389,
     "word": "general",
-    "translation": "general",
-    "pos": "adj"
+    "translation": "general"
   },
   {
     "id": 390,
     "word": "internacional",
-    "translation": "international",
-    "pos": "adj"
+    "translation": "international"
   },
   {
     "id": 391,
     "word": "actual",
-    "translation": "current / present",
-    "pos": "adj"
+    "translation": "current / present"
   },
   {
     "id": 392,
     "word": "libre",
-    "translation": "free",
-    "pos": "adj"
+    "translation": "free"
   },
   {
     "id": 393,
     "word": "fuerte",
-    "translation": "strong",
-    "pos": "adj"
+    "translation": "strong"
   },
   {
     "id": 394,
     "word": "anterior",
-    "translation": "previous / former",
-    "pos": "adj"
+    "translation": "previous / former"
   },
   {
     "id": 395,
     "word": "español",
-    "translation": "Spanish",
-    "pos": "adj"
+    "translation": "Spanish"
   },
   {
     "id": 396,
     "word": "difícil",
-    "translation": "difficult",
-    "pos": "adj"
+    "translation": "difficult"
   },
   {
     "id": 397,
     "word": "económico",
-    "translation": "economic",
-    "pos": "adj"
+    "translation": "economic"
   },
   {
     "id": 398,
     "word": "popular",
-    "translation": "popular",
-    "pos": "adj"
+    "translation": "popular"
   },
   {
     "id": 399,
     "word": "humano",
-    "translation": "human",
-    "pos": "adj"
+    "translation": "human"
   },
   {
     "id": 400,
     "word": "próximo",
-    "translation": "next / near",
-    "pos": "adj"
+    "translation": "next / near"
   },
   {
     "id": 401,
     "word": "solo",
-    "translation": "alone / only",
-    "pos": "adj"
+    "translation": "alone / only"
   },
   {
     "id": 402,
     "word": "particular",
-    "translation": "particular / private",
-    "pos": "adj"
+    "translation": "particular / private"
   },
   {
     "id": 403,
     "word": "real",
-    "translation": "real / royal",
-    "pos": "adj"
+    "translation": "real / royal"
   },
   {
     "id": 404,
     "word": "segundo",
-    "translation": "second",
-    "pos": "adj"
+    "translation": "second"
   },
   {
     "id": 405,
     "word": "tercero",
-    "translation": "third",
-    "pos": "adj"
+    "translation": "third"
   },
   {
     "id": 406,
     "word": "presente",
-    "translation": "present",
-    "pos": "adj"
+    "translation": "present"
   },
   {
     "id": 407,
     "word": "total",
-    "translation": "total",
-    "pos": "adj"
+    "translation": "total"
   },
   {
     "id": 408,
     "word": "europeo",
-    "translation": "European",
-    "pos": "adj"
+    "translation": "European"
   },
   {
     "id": 409,
     "word": "nacional",
-    "translation": "national",
-    "pos": "adj"
+    "translation": "national"
   },
   {
     "id": 410,
     "word": "especial",
-    "translation": "special",
-    "pos": "adj"
+    "translation": "special"
   },
   {
     "id": 411,
     "word": "capaz",
-    "translation": "capable",
-    "pos": "adj"
+    "translation": "capable"
   },
   {
     "id": 412,
     "word": "blanco",
-    "translation": "white",
-    "pos": "adj"
+    "translation": "white"
   },
   {
     "id": 413,
     "word": "negro",
-    "translation": "black",
-    "pos": "adj"
+    "translation": "black"
   },
   {
     "id": 414,
     "word": "rojo",
-    "translation": "red",
-    "pos": "adj"
+    "translation": "red"
   },
   {
     "id": 415,
     "word": "verde",
-    "translation": "green",
-    "pos": "adj"
+    "translation": "green"
   },
   {
     "id": 416,
     "word": "azul",
-    "translation": "blue",
-    "pos": "adj"
+    "translation": "blue"
   },
   {
     "id": 417,
     "word": "corto",
-    "translation": "short",
-    "pos": "adj"
+    "translation": "short"
   },
   {
     "id": 418,
     "word": "bajo",
-    "translation": "low / short",
-    "pos": "adj"
+    "translation": "low / short"
   },
   {
     "id": 419,
     "word": "entero",
-    "translation": "entire / whole",
-    "pos": "adj"
+    "translation": "entire / whole"
   },
   {
     "id": 420,
     "word": "privado",
-    "translation": "private",
-    "pos": "adj"
+    "translation": "private"
   },
   {
     "id": 421,
     "word": "militar",
-    "translation": "military",
-    "pos": "adj"
+    "translation": "military"
   },
   {
     "id": 422,
     "word": "central",
-    "translation": "central",
-    "pos": "adj"
+    "translation": "central"
   },
   {
     "id": 423,
     "word": "pobre",
-    "translation": "poor",
-    "pos": "adj"
+    "translation": "poor"
   },
   {
     "id": 424,
     "word": "rico",
-    "translation": "rich",
-    "pos": "adj"
+    "translation": "rich"
   },
   {
     "id": 425,
     "word": "feliz",
-    "translation": "happy",
-    "pos": "adj"
+    "translation": "happy"
   },
   {
     "id": 426,
     "word": "triste",
-    "translation": "sad",
-    "pos": "adj"
+    "translation": "sad"
   },
   {
     "id": 427,
     "word": "lleno",
-    "translation": "full",
-    "pos": "adj"
+    "translation": "full"
   },
   {
     "id": 428,
     "word": "junto",
-    "translation": "together / next to",
-    "pos": "adj"
+    "translation": "together / next to"
   },
   {
     "id": 429,
     "word": "abierto",
-    "translation": "open",
-    "pos": "adj"
+    "translation": "open"
   },
   {
     "id": 430,
     "word": "local",
-    "translation": "local",
-    "pos": "adj"
+    "translation": "local"
   },
   {
     "id": 431,
     "word": "grave",
-    "translation": "serious / grave",
-    "pos": "adj"
+    "translation": "serious / grave"
   },
   {
     "id": 432,
     "word": "profesional",
-    "translation": "professional",
-    "pos": "adj"
+    "translation": "professional"
   },
   {
     "id": 433,
     "word": "fácil",
-    "translation": "easy",
-    "pos": "adj"
+    "translation": "easy"
   },
   {
     "id": 434,
     "word": "fundamental",
-    "translation": "fundamental",
-    "pos": "adj"
+    "translation": "fundamental"
   },
   {
     "id": 435,
     "word": "personal",
-    "translation": "personal",
-    "pos": "adj"
+    "translation": "personal"
   },
   {
     "id": 436,
     "word": "principal",
-    "translation": "main / principal",
-    "pos": "adj"
+    "translation": "main / principal"
   },
   {
     "id": 437,
     "word": "igual",
-    "translation": "equal / same",
-    "pos": "adj"
+    "translation": "equal / same"
   },
   {
     "id": 438,
     "word": "vivo",
-    "translation": "alive / vivid",
-    "pos": "adj"
+    "translation": "alive / vivid"
   },
   {
     "id": 439,
     "word": "común",
-    "translation": "common",
-    "pos": "adj"
+    "translation": "common"
   },
   {
     "id": 440,
     "word": "frío",
-    "translation": "cold",
-    "pos": "adj"
+    "translation": "cold"
   },
   {
     "id": 441,
     "word": "caliente",
-    "translation": "hot / warm",
-    "pos": "adj"
+    "translation": "hot / warm"
   },
   {
     "id": 442,
     "word": "dulce",
-    "translation": "sweet",
-    "pos": "adj"
+    "translation": "sweet"
   },
   {
     "id": 443,
     "word": "perfecto",
-    "translation": "perfect",
-    "pos": "adj"
+    "translation": "perfect"
   },
   {
     "id": 444,
     "word": "izquierdo",
-    "translation": "left",
-    "pos": "adj"
+    "translation": "left"
   },
   {
     "id": 445,
     "word": "bien",
-    "translation": "well / good",
-    "pos": "adv"
+    "translation": "well / good"
   },
   {
     "id": 446,
     "word": "así",
-    "translation": "so / thus / like this",
-    "pos": "adv"
+    "translation": "so / thus / like this"
   },
   {
     "id": 447,
     "word": "después",
-    "translation": "after / later",
-    "pos": "adv"
+    "translation": "after / later"
   },
   {
     "id": 448,
     "word": "aquí",
-    "translation": "here",
-    "pos": "adv"
+    "translation": "here"
   },
   {
     "id": 449,
     "word": "entonces",
-    "translation": "then",
-    "pos": "adv"
+    "translation": "then"
   },
   {
     "id": 450,
     "word": "menos",
-    "translation": "less / fewer",
-    "pos": "adv"
+    "translation": "less / fewer"
   },
   {
     "id": 451,
     "word": "ahora",
-    "translation": "now",
-    "pos": "adv"
+    "translation": "now"
   },
   {
     "id": 452,
     "word": "siempre",
-    "translation": "always",
-    "pos": "adv"
+    "translation": "always"
   },
   {
     "id": 453,
     "word": "todavía",
-    "translation": "still / yet",
-    "pos": "adv"
+    "translation": "still / yet"
   },
   {
     "id": 454,
     "word": "nunca",
-    "translation": "never",
-    "pos": "adv"
+    "translation": "never"
   },
   {
     "id": 455,
     "word": "hoy",
-    "translation": "today",
-    "pos": "adv"
+    "translation": "today"
   },
   {
     "id": 456,
     "word": "apenas",
-    "translation": "barely / hardly",
-    "pos": "adv"
+    "translation": "barely / hardly"
   },
   {
     "id": 457,
     "word": "además",
-    "translation": "moreover / besides",
-    "pos": "adv"
+    "translation": "moreover / besides"
   },
   {
     "id": 458,
     "word": "sólo",
-    "translation": "only",
-    "pos": "adv"
+    "translation": "only"
   },
   {
     "id": 459,
     "word": "casi",
-    "translation": "almost",
-    "pos": "adv"
+    "translation": "almost"
   },
   {
     "id": 460,
     "word": "luego",
-    "translation": "then / later",
-    "pos": "adv"
+    "translation": "then / later"
   },
   {
     "id": 461,
     "word": "pronto",
-    "translation": "soon",
-    "pos": "adv"
+    "translation": "soon"
   },
   {
     "id": 462,
     "word": "allí",
-    "translation": "there",
-    "pos": "adv"
+    "translation": "there"
   },
   {
     "id": 463,
     "word": "bastante",
-    "translation": "enough / quite",
-    "pos": "adv"
+    "translation": "enough / quite"
   },
   {
     "id": 464,
     "word": "quizás",
-    "translation": "perhaps / maybe",
-    "pos": "adv"
+    "translation": "perhaps / maybe"
   },
   {
     "id": 465,
     "word": "lejos",
-    "translation": "far",
-    "pos": "adv"
+    "translation": "far"
   },
   {
     "id": 466,
     "word": "cerca",
-    "translation": "near / close",
-    "pos": "adv"
+    "translation": "near / close"
   },
   {
     "id": 467,
     "word": "arriba",
-    "translation": "up / above",
-    "pos": "adv"
+    "translation": "up / above"
   },
   {
     "id": 468,
     "word": "abajo",
-    "translation": "down / below",
-    "pos": "adv"
+    "translation": "down / below"
   },
   {
     "id": 469,
     "word": "dentro",
-    "translation": "inside",
-    "pos": "adv"
+    "translation": "inside"
   },
   {
     "id": 470,
     "word": "fuera",
-    "translation": "outside",
-    "pos": "adv"
+    "translation": "outside"
   },
   {
     "id": 471,
     "word": "tarde",
-    "translation": "late / afternoon",
-    "pos": "adv"
+    "translation": "late / afternoon"
   },
   {
     "id": 472,
     "word": "temprano",
-    "translation": "early",
-    "pos": "adv"
+    "translation": "early"
   },
   {
     "id": 473,
     "word": "rápido",
-    "translation": "fast / quickly",
-    "pos": "adv"
+    "translation": "fast / quickly"
   },
   {
     "id": 474,
     "word": "despacio",
-    "translation": "slowly",
-    "pos": "adv"
+    "translation": "slowly"
   },
   {
     "id": 475,
     "word": "mal",
-    "translation": "badly",
-    "pos": "adv"
+    "translation": "badly"
   },
   {
     "id": 476,
     "word": "realmente",
-    "translation": "really",
-    "pos": "adv"
+    "translation": "really"
   },
   {
     "id": 477,
     "word": "solamente",
-    "translation": "only",
-    "pos": "adv"
+    "translation": "only"
   },
   {
     "id": 478,
     "word": "especialmente",
-    "translation": "especially",
-    "pos": "adv"
+    "translation": "especially"
   },
   {
     "id": 479,
     "word": "normalmente",
-    "translation": "normally",
-    "pos": "adv"
+    "translation": "normally"
   },
   {
     "id": 480,
     "word": "exactamente",
-    "translation": "exactly",
-    "pos": "adv"
+    "translation": "exactly"
   },
   {
     "id": 481,
     "word": "finalmente",
-    "translation": "finally",
-    "pos": "adv"
+    "translation": "finally"
   },
   {
     "id": 482,
     "word": "tampoco",
-    "translation": "neither / not either",
-    "pos": "adv"
+    "translation": "neither / not either"
   },
   {
     "id": 483,
     "word": "mientras",
-    "translation": "while / meanwhile",
-    "pos": "conj"
+    "translation": "while / meanwhile"
   },
   {
     "id": 484,
     "word": "aunque",
-    "translation": "although / even though",
-    "pos": "conj"
+    "translation": "although / even though"
   },
   {
     "id": 485,
     "word": "sino",
-    "translation": "but rather",
-    "pos": "conj"
+    "translation": "but rather"
   },
   {
     "id": 486,
     "word": "pues",
-    "translation": "well / since / then",
-    "pos": "conj"
+    "translation": "well / since / then"
   },
   {
     "id": 487,
     "word": "según",
-    "translation": "according to",
-    "pos": "prep"
+    "translation": "according to"
   },
   {
     "id": 488,
     "word": "hacia",
-    "translation": "toward / towards",
-    "pos": "prep"
+    "translation": "toward / towards"
   },
   {
     "id": 489,
     "word": "tras",
-    "translation": "after / behind",
-    "pos": "prep"
+    "translation": "after / behind"
   },
   {
     "id": 490,
     "word": "mediante",
-    "translation": "by means of / through",
-    "pos": "prep"
+    "translation": "by means of / through"
   },
   {
     "id": 491,
     "word": "dos",
-    "translation": "two",
-    "pos": "num"
+    "translation": "two"
   },
   {
     "id": 492,
     "word": "tres",
-    "translation": "three",
-    "pos": "num"
+    "translation": "three"
   },
   {
     "id": 493,
     "word": "cuatro",
-    "translation": "four",
-    "pos": "num"
+    "translation": "four"
   },
   {
     "id": 494,
     "word": "cinco",
-    "translation": "five",
-    "pos": "num"
+    "translation": "five"
   },
   {
     "id": 495,
     "word": "seis",
-    "translation": "six",
-    "pos": "num"
+    "translation": "six"
   },
   {
     "id": 496,
     "word": "siete",
-    "translation": "seven",
-    "pos": "num"
+    "translation": "seven"
   },
   {
     "id": 497,
     "word": "ocho",
-    "translation": "eight",
-    "pos": "num"
+    "translation": "eight"
   },
   {
     "id": 498,
     "word": "nueve",
-    "translation": "nine",
-    "pos": "num"
+    "translation": "nine"
   },
   {
     "id": 499,
     "word": "diez",
-    "translation": "ten",
-    "pos": "num"
+    "translation": "ten"
   },
   {
     "id": 500,
     "word": "cien",
-    "translation": "one hundred",
-    "pos": "num"
+    "translation": "one hundred"
   },
   {
     "id": 501,
     "word": "mil",
-    "translation": "one thousand",
-    "pos": "num"
+    "translation": "one thousand"
   },
   {
     "id": 502,
     "word": "millón",
-    "translation": "million",
-    "pos": "num"
+    "translation": "million"
   },
   {
     "id": 503,
     "word": "mañana",
-    "translation": "morning / tomorrow",
-    "pos": "noun"
+    "translation": "morning / tomorrow"
   },
   {
     "id": 504,
     "word": "ayer",
-    "translation": "yesterday",
-    "pos": "adv"
+    "translation": "yesterday"
   },
   {
     "id": 505,
     "word": "noticias",
-    "translation": "news",
-    "pos": "noun"
+    "translation": "news"
   },
   {
     "id": 506,
     "word": "periódico",
-    "translation": "newspaper",
-    "pos": "noun"
+    "translation": "newspaper"
   },
   {
     "id": 507,
     "word": "carta",
-    "translation": "letter",
-    "pos": "noun"
+    "translation": "letter"
   },
   {
     "id": 508,
     "word": "cama",
-    "translation": "bed",
-    "pos": "noun"
+    "translation": "bed"
   },
   {
     "id": 509,
     "word": "ventana",
-    "translation": "window",
-    "pos": "noun"
+    "translation": "window"
   },
   {
     "id": 510,
     "word": "habitación",
-    "translation": "room",
-    "pos": "noun"
+    "translation": "room"
   },
   {
     "id": 511,
     "word": "coche",
-    "translation": "car",
-    "pos": "noun"
+    "translation": "car"
   },
   {
     "id": 512,
     "word": "perro",
-    "translation": "dog",
-    "pos": "noun"
+    "translation": "dog"
   },
   {
     "id": 513,
     "word": "gato",
-    "translation": "cat",
-    "pos": "noun"
+    "translation": "cat"
   },
   {
     "id": 514,
     "word": "árbol",
-    "translation": "tree",
-    "pos": "noun"
+    "translation": "tree"
   },
   {
     "id": 515,
     "word": "flor",
-    "translation": "flower",
-    "pos": "noun"
+    "translation": "flower"
   },
   {
     "id": 516,
     "word": "aire",
-    "translation": "air",
-    "pos": "noun"
+    "translation": "air"
   },
   {
     "id": 517,
     "word": "fuego",
-    "translation": "fire",
-    "pos": "noun"
+    "translation": "fire"
   },
   {
     "id": 518,
     "word": "piedra",
-    "translation": "stone / rock",
-    "pos": "noun"
+    "translation": "stone / rock"
   },
   {
     "id": 519,
     "word": "sangre",
-    "translation": "blood",
-    "pos": "noun"
+    "translation": "blood"
   },
   {
     "id": 520,
     "word": "pan",
-    "translation": "bread",
-    "pos": "noun"
+    "translation": "bread"
   },
   {
     "id": 521,
     "word": "vino",
-    "translation": "wine",
-    "pos": "noun"
+    "translation": "wine"
   },
   {
     "id": 522,
     "word": "leche",
-    "translation": "milk",
-    "pos": "noun"
+    "translation": "milk"
   },
   {
     "id": 523,
     "word": "pecho",
-    "translation": "chest / breast",
-    "pos": "noun"
+    "translation": "chest / breast"
   },
   {
     "id": 524,
     "word": "brazo",
-    "translation": "arm",
-    "pos": "noun"
+    "translation": "arm"
   },
   {
     "id": 525,
     "word": "pierna",
-    "translation": "leg",
-    "pos": "noun"
+    "translation": "leg"
   },
   {
     "id": 526,
     "word": "pie",
-    "translation": "foot",
-    "pos": "noun"
+    "translation": "foot"
   },
   {
     "id": 527,
     "word": "dedo",
-    "translation": "finger / toe",
-    "pos": "noun"
+    "translation": "finger / toe"
   },
   {
     "id": 528,
     "word": "espalda",
-    "translation": "back",
-    "pos": "noun"
+    "translation": "back"
   },
   {
     "id": 529,
     "word": "corazón",
-    "translation": "heart",
-    "pos": "noun"
+    "translation": "heart"
   },
   {
     "id": 530,
     "word": "boca",
-    "translation": "mouth",
-    "pos": "noun"
+    "translation": "mouth"
   },
   {
     "id": 531,
     "word": "pelo",
-    "translation": "hair",
-    "pos": "noun"
+    "translation": "hair"
   },
   {
     "id": 532,
     "word": "nariz",
-    "translation": "nose",
-    "pos": "noun"
+    "translation": "nose"
   },
   {
     "id": 533,
     "word": "oreja",
-    "translation": "ear",
-    "pos": "noun"
+    "translation": "ear"
   },
   {
     "id": 534,
     "word": "diente",
-    "translation": "tooth",
-    "pos": "noun"
+    "translation": "tooth"
   },
   {
     "id": 535,
     "word": "cuello",
-    "translation": "neck",
-    "pos": "noun"
+    "translation": "neck"
   },
   {
     "id": 536,
     "word": "hombro",
-    "translation": "shoulder",
-    "pos": "noun"
+    "translation": "shoulder"
   },
   {
     "id": 537,
     "word": "rodilla",
-    "translation": "knee",
-    "pos": "noun"
+    "translation": "knee"
   },
   {
     "id": 538,
     "word": "estómago",
-    "translation": "stomach",
-    "pos": "noun"
+    "translation": "stomach"
   },
   {
     "id": 539,
     "word": "piel",
-    "translation": "skin",
-    "pos": "noun"
+    "translation": "skin"
   },
   {
     "id": 540,
     "word": "hueso",
-    "translation": "bone",
-    "pos": "noun"
+    "translation": "bone"
   },
   {
     "id": 541,
     "word": "cerebro",
-    "translation": "brain",
-    "pos": "noun"
+    "translation": "brain"
   },
   {
     "id": 542,
     "word": "vestido",
-    "translation": "dress",
-    "pos": "noun"
+    "translation": "dress"
   },
   {
     "id": 543,
     "word": "camisa",
-    "translation": "shirt",
-    "pos": "noun"
+    "translation": "shirt"
   },
   {
     "id": 544,
     "word": "zapato",
-    "translation": "shoe",
-    "pos": "noun"
+    "translation": "shoe"
   },
   {
     "id": 545,
     "word": "sombrero",
-    "translation": "hat",
-    "pos": "noun"
+    "translation": "hat"
   },
   {
     "id": 546,
     "word": "bolsa",
-    "translation": "bag / purse",
-    "pos": "noun"
+    "translation": "bag / purse"
   },
   {
     "id": 547,
     "word": "llave",
-    "translation": "key",
-    "pos": "noun"
+    "translation": "key"
   },
   {
     "id": 548,
     "word": "reloj",
-    "translation": "clock / watch",
-    "pos": "noun"
+    "translation": "clock / watch"
   },
   {
     "id": 549,
     "word": "teléfono",
-    "translation": "telephone",
-    "pos": "noun"
+    "translation": "telephone"
   },
   {
     "id": 550,
     "word": "computadora",
-    "translation": "computer",
-    "pos": "noun"
+    "translation": "computer"
   },
   {
     "id": 551,
     "word": "escuela",
-    "translation": "school",
-    "pos": "noun"
+    "translation": "school"
   },
   {
     "id": 552,
     "word": "universidad",
-    "translation": "university",
-    "pos": "noun"
+    "translation": "university"
   },
   {
     "id": 553,
     "word": "hospital",
-    "translation": "hospital",
-    "pos": "noun"
+    "translation": "hospital"
   },
   {
     "id": 554,
     "word": "tienda",
-    "translation": "store / shop",
-    "pos": "noun"
+    "translation": "store / shop"
   },
   {
     "id": 555,
     "word": "restaurante",
-    "translation": "restaurant",
-    "pos": "noun"
+    "translation": "restaurant"
   },
   {
     "id": 556,
     "word": "banco",
-    "translation": "bank / bench",
-    "pos": "noun"
+    "translation": "bank / bench"
   },
   {
     "id": 557,
     "word": "hotel",
-    "translation": "hotel",
-    "pos": "noun"
+    "translation": "hotel"
   },
   {
     "id": 558,
     "word": "avión",
-    "translation": "airplane",
-    "pos": "noun"
+    "translation": "airplane"
   },
   {
     "id": 559,
     "word": "tren",
-    "translation": "train",
-    "pos": "noun"
+    "translation": "train"
   },
   {
     "id": 560,
     "word": "barco",
-    "translation": "boat / ship",
-    "pos": "noun"
+    "translation": "boat / ship"
   },
   {
     "id": 561,
     "word": "montaña",
-    "translation": "mountain",
-    "pos": "noun"
+    "translation": "mountain"
   },
   {
     "id": 562,
     "word": "mar",
-    "translation": "sea",
-    "pos": "noun"
+    "translation": "sea"
   },
   {
     "id": 563,
     "word": "playa",
-    "translation": "beach",
-    "pos": "noun"
+    "translation": "beach"
   },
   {
     "id": 564,
     "word": "bosque",
-    "translation": "forest",
-    "pos": "noun"
+    "translation": "forest"
   },
   {
     "id": 565,
     "word": "lluvia",
-    "translation": "rain",
-    "pos": "noun"
+    "translation": "rain"
   },
   {
     "id": 566,
     "word": "nieve",
-    "translation": "snow",
-    "pos": "noun"
+    "translation": "snow"
   },
   {
     "id": 567,
     "word": "viento",
-    "translation": "wind",
-    "pos": "noun"
+    "translation": "wind"
   },
   {
     "id": 568,
     "word": "cielo",
-    "translation": "sky / heaven",
-    "pos": "noun"
+    "translation": "sky / heaven"
   },
   {
     "id": 569,
     "word": "estrella",
-    "translation": "star",
-    "pos": "noun"
+    "translation": "star"
   },
   {
     "id": 570,
     "word": "luna",
-    "translation": "moon",
-    "pos": "noun"
+    "translation": "moon"
   },
   {
     "id": 571,
     "word": "nube",
-    "translation": "cloud",
-    "pos": "noun"
+    "translation": "cloud"
   },
   {
     "id": 572,
     "word": "oro",
-    "translation": "gold",
-    "pos": "noun"
+    "translation": "gold"
   },
   {
     "id": 573,
     "word": "plata",
-    "translation": "silver",
-    "pos": "noun"
+    "translation": "silver"
   },
   {
     "id": 574,
     "word": "hierro",
-    "translation": "iron",
-    "pos": "noun"
+    "translation": "iron"
   },
   {
     "id": 575,
     "word": "madera",
-    "translation": "wood",
-    "pos": "noun"
+    "translation": "wood"
   },
   {
     "id": 576,
     "word": "vidrio",
-    "translation": "glass",
-    "pos": "noun"
+    "translation": "glass"
   },
   {
     "id": 577,
     "word": "animal",
-    "translation": "animal",
-    "pos": "noun"
+    "translation": "animal"
   },
   {
     "id": 578,
     "word": "pájaro",
-    "translation": "bird",
-    "pos": "noun"
+    "translation": "bird"
   },
   {
     "id": 579,
     "word": "pez",
-    "translation": "fish",
-    "pos": "noun"
+    "translation": "fish"
   },
   {
     "id": 580,
     "word": "caballo",
-    "translation": "horse",
-    "pos": "noun"
+    "translation": "horse"
   },
   {
     "id": 581,
     "word": "vaca",
-    "translation": "cow",
-    "pos": "noun"
+    "translation": "cow"
   },
   {
     "id": 582,
     "word": "comedor",
-    "translation": "dining room",
-    "pos": "noun"
+    "translation": "dining room"
   },
   {
     "id": 583,
     "word": "cocina",
-    "translation": "kitchen / cooking",
-    "pos": "noun"
+    "translation": "kitchen / cooking"
   },
   {
     "id": 584,
     "word": "baño",
-    "translation": "bathroom",
-    "pos": "noun"
+    "translation": "bathroom"
   },
   {
     "id": 585,
     "word": "jardín",
-    "translation": "garden",
-    "pos": "noun"
+    "translation": "garden"
   },
   {
     "id": 586,
     "word": "puente",
-    "translation": "bridge",
-    "pos": "noun"
+    "translation": "bridge"
   },
   {
     "id": 587,
     "word": "plaza",
-    "translation": "square / plaza",
-    "pos": "noun"
+    "translation": "square / plaza"
   },
   {
     "id": 588,
     "word": "teatro",
-    "translation": "theater",
-    "pos": "noun"
+    "translation": "theater"
   },
   {
     "id": 589,
     "word": "cine",
-    "translation": "cinema / movies",
-    "pos": "noun"
+    "translation": "cinema / movies"
   },
   {
     "id": 590,
     "word": "película",
-    "translation": "film / movie",
-    "pos": "noun"
+    "translation": "film / movie"
   },
   {
     "id": 591,
     "word": "canción",
-    "translation": "song",
-    "pos": "noun"
+    "translation": "song"
   },
   {
     "id": 592,
     "word": "fiesta",
-    "translation": "party / celebration",
-    "pos": "noun"
+    "translation": "party / celebration"
   },
   {
     "id": 593,
     "word": "regalo",
-    "translation": "gift / present",
-    "pos": "noun"
+    "translation": "gift / present"
   },
   {
     "id": 594,
     "word": "pregunta",
-    "translation": "question",
-    "pos": "noun"
+    "translation": "question"
   },
   {
     "id": 595,
     "word": "error",
-    "translation": "error / mistake",
-    "pos": "noun"
+    "translation": "error / mistake"
   },
   {
     "id": 596,
     "word": "duda",
-    "translation": "doubt",
-    "pos": "noun"
+    "translation": "doubt"
   },
   {
     "id": 597,
     "word": "secreto",
-    "translation": "secret",
-    "pos": "noun"
+    "translation": "secret"
   },
   {
     "id": 598,
     "word": "peligro",
-    "translation": "danger",
-    "pos": "noun"
+    "translation": "danger"
   },
   {
     "id": 599,
     "word": "victoria",
-    "translation": "victory",
-    "pos": "noun"
+    "translation": "victory"
   },
   {
     "id": 600,
     "word": "éxito",
-    "translation": "success",
-    "pos": "noun"
+    "translation": "success"
   },
   {
     "id": 601,
     "word": "libertad",
-    "translation": "freedom / liberty",
-    "pos": "noun"
+    "translation": "freedom / liberty"
   },
   {
     "id": 602,
     "word": "justicia",
-    "translation": "justice",
-    "pos": "noun"
+    "translation": "justice"
   },
   {
     "id": 603,
     "word": "mentira",
-    "translation": "lie",
-    "pos": "noun"
+    "translation": "lie"
   },
   {
     "id": 604,
     "word": "sueño",
-    "translation": "dream / sleep",
-    "pos": "noun"
+    "translation": "dream / sleep"
   },
   {
     "id": 605,
     "word": "memoria",
-    "translation": "memory",
-    "pos": "noun"
+    "translation": "memory"
   },
   {
     "id": 606,
     "word": "dolor",
-    "translation": "pain",
-    "pos": "noun"
+    "translation": "pain"
   },
   {
     "id": 607,
     "word": "placer",
-    "translation": "pleasure",
-    "pos": "noun"
+    "translation": "pleasure"
   },
   {
     "id": 608,
     "word": "silencio",
-    "translation": "silence",
-    "pos": "noun"
+    "translation": "silence"
   },
   {
     "id": 609,
     "word": "ruido",
-    "translation": "noise",
-    "pos": "noun"
+    "translation": "noise"
   },
   {
     "id": 610,
     "word": "voluntad",
-    "translation": "will / willpower",
-    "pos": "noun"
+    "translation": "will / willpower"
   },
   {
     "id": 611,
     "word": "suerte",
-    "translation": "luck",
-    "pos": "noun"
+    "translation": "luck"
   },
   {
     "id": 612,
     "word": "fe",
-    "translation": "faith",
-    "pos": "noun"
+    "translation": "faith"
   },
   {
     "id": 613,
     "word": "esperanza",
-    "translation": "hope",
-    "pos": "noun"
+    "translation": "hope"
   },
   {
     "id": 614,
     "word": "destino",
-    "translation": "destiny / destination",
-    "pos": "noun"
+    "translation": "destiny / destination"
   },
   {
     "id": 615,
     "word": "confianza",
-    "translation": "confidence / trust",
-    "pos": "noun"
+    "translation": "confidence / trust"
   },
   {
     "id": 616,
     "word": "alegría",
-    "translation": "joy / happiness",
-    "pos": "noun"
+    "translation": "joy / happiness"
   },
   {
     "id": 617,
     "word": "tristeza",
-    "translation": "sadness",
-    "pos": "noun"
+    "translation": "sadness"
   },
   {
     "id": 618,
     "word": "entrada",
-    "translation": "entrance / ticket",
-    "pos": "noun"
+    "translation": "entrance / ticket"
   },
   {
     "id": 619,
     "word": "salida",
-    "translation": "exit / departure",
-    "pos": "noun"
+    "translation": "exit / departure"
   },
   {
     "id": 620,
     "word": "pared",
-    "translation": "wall",
-    "pos": "noun"
+    "translation": "wall"
   },
   {
     "id": 621,
     "word": "techo",
-    "translation": "roof / ceiling",
-    "pos": "noun"
+    "translation": "roof / ceiling"
   },
   {
     "id": 622,
     "word": "suelo",
-    "translation": "floor / ground",
-    "pos": "noun"
+    "translation": "floor / ground"
   },
   {
     "id": 623,
     "word": "escalera",
-    "translation": "stairs / ladder",
-    "pos": "noun"
+    "translation": "stairs / ladder"
   },
   {
     "id": 624,
     "word": "silla",
-    "translation": "chair",
-    "pos": "noun"
+    "translation": "chair"
   },
   {
     "id": 625,
     "word": "espejo",
-    "translation": "mirror",
-    "pos": "noun"
+    "translation": "mirror"
   },
   {
     "id": 626,
     "word": "cuadro",
-    "translation": "painting / picture",
-    "pos": "noun"
+    "translation": "painting / picture"
   },
   {
     "id": 627,
     "word": "foto",
-    "translation": "photo",
-    "pos": "noun"
+    "translation": "photo"
   },
   {
     "id": 628,
     "word": "mapa",
-    "translation": "map",
-    "pos": "noun"
+    "translation": "map"
   },
   {
     "id": 629,
     "word": "siglo",
-    "translation": "century",
-    "pos": "noun"
+    "translation": "century"
   },
   {
     "id": 630,
     "word": "minuto",
-    "translation": "minute",
-    "pos": "noun"
+    "translation": "minute"
   },
   {
     "id": 631,
     "word": "pasado",
-    "translation": "past",
-    "pos": "noun"
+    "translation": "past"
   },
   {
     "id": 632,
     "word": "verano",
-    "translation": "summer",
-    "pos": "noun"
+    "translation": "summer"
   },
   {
     "id": 633,
     "word": "invierno",
-    "translation": "winter",
-    "pos": "noun"
+    "translation": "winter"
   },
   {
     "id": 634,
     "word": "otoño",
-    "translation": "autumn / fall",
-    "pos": "noun"
+    "translation": "autumn / fall"
   },
   {
     "id": 635,
     "word": "primavera",
-    "translation": "spring",
-    "pos": "noun"
+    "translation": "spring"
   },
   {
     "id": 636,
     "word": "lunes",
-    "translation": "Monday",
-    "pos": "noun"
+    "translation": "Monday"
   },
   {
     "id": 637,
     "word": "martes",
-    "translation": "Tuesday",
-    "pos": "noun"
+    "translation": "Tuesday"
   },
   {
     "id": 638,
     "word": "miércoles",
-    "translation": "Wednesday",
-    "pos": "noun"
+    "translation": "Wednesday"
   },
   {
     "id": 639,
     "word": "jueves",
-    "translation": "Thursday",
-    "pos": "noun"
+    "translation": "Thursday"
   },
   {
     "id": 640,
     "word": "viernes",
-    "translation": "Friday",
-    "pos": "noun"
+    "translation": "Friday"
   },
   {
     "id": 641,
     "word": "sábado",
-    "translation": "Saturday",
-    "pos": "noun"
+    "translation": "Saturday"
   },
   {
     "id": 642,
     "word": "domingo",
-    "translation": "Sunday",
-    "pos": "noun"
+    "translation": "Sunday"
   },
   {
     "id": 643,
     "word": "enero",
-    "translation": "January",
-    "pos": "noun"
+    "translation": "January"
   },
   {
     "id": 644,
     "word": "febrero",
-    "translation": "February",
-    "pos": "noun"
+    "translation": "February"
   },
   {
     "id": 645,
     "word": "marzo",
-    "translation": "March",
-    "pos": "noun"
+    "translation": "March"
   },
   {
     "id": 646,
     "word": "abril",
-    "translation": "April",
-    "pos": "noun"
+    "translation": "April"
   },
   {
     "id": 647,
     "word": "mayo",
-    "translation": "May",
-    "pos": "noun"
+    "translation": "May"
   },
   {
     "id": 648,
     "word": "junio",
-    "translation": "June",
-    "pos": "noun"
+    "translation": "June"
   },
   {
     "id": 649,
     "word": "julio",
-    "translation": "July",
-    "pos": "noun"
+    "translation": "July"
   },
   {
     "id": 650,
     "word": "agosto",
-    "translation": "August",
-    "pos": "noun"
+    "translation": "August"
   },
   {
     "id": 651,
     "word": "septiembre",
-    "translation": "September",
-    "pos": "noun"
+    "translation": "September"
   },
   {
     "id": 652,
     "word": "octubre",
-    "translation": "October",
-    "pos": "noun"
+    "translation": "October"
   },
   {
     "id": 653,
     "word": "noviembre",
-    "translation": "November",
-    "pos": "noun"
+    "translation": "November"
   },
   {
     "id": 654,
     "word": "diciembre",
-    "translation": "December",
-    "pos": "noun"
+    "translation": "December"
   },
   {
     "id": 655,
     "word": "norte",
-    "translation": "north",
-    "pos": "noun"
+    "translation": "north"
   },
   {
     "id": 656,
     "word": "sur",
-    "translation": "south",
-    "pos": "noun"
+    "translation": "south"
   },
   {
     "id": 657,
     "word": "oeste",
-    "translation": "west",
-    "pos": "noun"
+    "translation": "west"
   },
   {
     "id": 658,
     "word": "comer",
-    "translation": "to eat",
-    "pos": "verb"
+    "translation": "to eat"
   },
   {
     "id": 659,
     "word": "beber",
-    "translation": "to drink",
-    "pos": "verb"
+    "translation": "to drink"
   },
   {
     "id": 660,
     "word": "dormir",
-    "translation": "to sleep",
-    "pos": "verb"
+    "translation": "to sleep"
   },
   {
     "id": 661,
     "word": "cortar",
-    "translation": "to cut",
-    "pos": "verb"
+    "translation": "to cut"
   },
   {
     "id": 662,
     "word": "comprar",
-    "translation": "to buy",
-    "pos": "verb"
+    "translation": "to buy"
   },
   {
     "id": 663,
     "word": "vender",
-    "translation": "to sell",
-    "pos": "verb"
+    "translation": "to sell"
   },
   {
     "id": 664,
     "word": "cerrar",
-    "translation": "to close",
-    "pos": "verb"
+    "translation": "to close"
   },
   {
     "id": 665,
     "word": "subir",
-    "translation": "to go up / to climb",
-    "pos": "verb"
+    "translation": "to go up / to climb"
   },
   {
     "id": 666,
     "word": "bajar",
-    "translation": "to go down / to lower",
-    "pos": "verb"
+    "translation": "to go down / to lower"
   },
   {
     "id": 667,
     "word": "tirar",
-    "translation": "to throw / to pull",
-    "pos": "verb"
+    "translation": "to throw / to pull"
   },
   {
     "id": 668,
     "word": "empujar",
-    "translation": "to push",
-    "pos": "verb"
+    "translation": "to push"
   },
   {
     "id": 669,
     "word": "caminar",
-    "translation": "to walk",
-    "pos": "verb"
+    "translation": "to walk"
   },
   {
     "id": 670,
     "word": "nadar",
-    "translation": "to swim",
-    "pos": "verb"
+    "translation": "to swim"
   },
   {
     "id": 671,
     "word": "volar",
-    "translation": "to fly",
-    "pos": "verb"
+    "translation": "to fly"
   },
   {
     "id": 672,
     "word": "cantar",
-    "translation": "to sing",
-    "pos": "verb"
+    "translation": "to sing"
   },
   {
     "id": 673,
     "word": "bailar",
-    "translation": "to dance",
-    "pos": "verb"
+    "translation": "to dance"
   },
   {
     "id": 674,
     "word": "cocinar",
-    "translation": "to cook",
-    "pos": "verb"
+    "translation": "to cook"
   },
   {
     "id": 675,
     "word": "limpiar",
-    "translation": "to clean",
-    "pos": "verb"
+    "translation": "to clean"
   },
   {
     "id": 676,
     "word": "lavar",
-    "translation": "to wash",
-    "pos": "verb"
+    "translation": "to wash"
   },
   {
     "id": 677,
     "word": "secar",
-    "translation": "to dry",
-    "pos": "verb"
+    "translation": "to dry"
   },
   {
     "id": 678,
     "word": "romper",
-    "translation": "to break",
-    "pos": "verb"
+    "translation": "to break"
   },
   {
     "id": 679,
     "word": "construir",
-    "translation": "to build / to construct",
-    "pos": "verb"
+    "translation": "to build / to construct"
   },
   {
     "id": 680,
     "word": "mover",
-    "translation": "to move",
-    "pos": "verb"
+    "translation": "to move"
   },
   {
     "id": 681,
     "word": "parar",
-    "translation": "to stop",
-    "pos": "verb"
+    "translation": "to stop"
   },
   {
     "id": 682,
     "word": "sentar",
-    "translation": "to sit",
-    "pos": "verb"
+    "translation": "to sit"
   },
   {
     "id": 683,
     "word": "aprender",
-    "translation": "to learn",
-    "pos": "verb"
+    "translation": "to learn"
   },
   {
     "id": 684,
     "word": "enseñar",
-    "translation": "to teach / to show",
-    "pos": "verb"
+    "translation": "to teach / to show"
   },
   {
     "id": 685,
     "word": "estudiar",
-    "translation": "to study",
-    "pos": "verb"
+    "translation": "to study"
   },
   {
     "id": 686,
     "word": "elegir",
-    "translation": "to choose / to elect",
-    "pos": "verb"
+    "translation": "to choose / to elect"
   },
   {
     "id": 687,
     "word": "decidir",
-    "translation": "to decide",
-    "pos": "verb"
+    "translation": "to decide"
   },
   {
     "id": 688,
     "word": "sugerir",
-    "translation": "to suggest",
-    "pos": "verb"
+    "translation": "to suggest"
   },
   {
     "id": 689,
     "word": "proponer",
-    "translation": "to propose",
-    "pos": "verb"
+    "translation": "to propose"
   },
   {
     "id": 690,
     "word": "indicar",
-    "translation": "to indicate",
-    "pos": "verb"
+    "translation": "to indicate"
   },
   {
     "id": 691,
     "word": "señalar",
-    "translation": "to point out / to signal",
-    "pos": "verb"
+    "translation": "to point out / to signal"
   },
   {
     "id": 692,
     "word": "mostrar",
-    "translation": "to show",
-    "pos": "verb"
+    "translation": "to show"
   },
   {
     "id": 693,
     "word": "notar",
-    "translation": "to notice",
-    "pos": "verb"
+    "translation": "to notice"
   },
   {
     "id": 694,
     "word": "observar",
-    "translation": "to observe",
-    "pos": "verb"
+    "translation": "to observe"
   },
   {
     "id": 695,
     "word": "imaginar",
-    "translation": "to imagine",
-    "pos": "verb"
+    "translation": "to imagine"
   },
   {
     "id": 696,
     "word": "desear",
-    "translation": "to wish / to desire",
-    "pos": "verb"
+    "translation": "to wish / to desire"
   },
   {
     "id": 697,
     "word": "preferir",
-    "translation": "to prefer",
-    "pos": "verb"
+    "translation": "to prefer"
   },
   {
     "id": 698,
     "word": "preparar",
-    "translation": "to prepare",
-    "pos": "verb"
+    "translation": "to prepare"
   },
   {
     "id": 699,
     "word": "cuidar",
-    "translation": "to take care of",
-    "pos": "verb"
+    "translation": "to take care of"
   },
   {
     "id": 700,
     "word": "proteger",
-    "translation": "to protect",
-    "pos": "verb"
+    "translation": "to protect"
   },
   {
     "id": 701,
     "word": "defender",
-    "translation": "to defend",
-    "pos": "verb"
+    "translation": "to defend"
   },
   {
     "id": 702,
     "word": "atacar",
-    "translation": "to attack",
-    "pos": "verb"
+    "translation": "to attack"
   },
   {
     "id": 703,
     "word": "luchar",
-    "translation": "to fight / to struggle",
-    "pos": "verb"
+    "translation": "to fight / to struggle"
   },
   {
     "id": 704,
     "word": "matar",
-    "translation": "to kill",
-    "pos": "verb"
+    "translation": "to kill"
   },
   {
     "id": 705,
     "word": "gritar",
-    "translation": "to shout / to scream",
-    "pos": "verb"
+    "translation": "to shout / to scream"
   },
   {
     "id": 706,
     "word": "llorar",
-    "translation": "to cry",
-    "pos": "verb"
+    "translation": "to cry"
   },
   {
     "id": 707,
     "word": "reír",
-    "translation": "to laugh",
-    "pos": "verb"
+    "translation": "to laugh"
   },
   {
     "id": 708,
     "word": "sonreír",
-    "translation": "to smile",
-    "pos": "verb"
+    "translation": "to smile"
   },
   {
     "id": 709,
     "word": "responder",
-    "translation": "to respond / to answer",
-    "pos": "verb"
+    "translation": "to respond / to answer"
   },
   {
     "id": 710,
     "word": "repetir",
-    "translation": "to repeat",
-    "pos": "verb"
+    "translation": "to repeat"
   },
   {
     "id": 711,
     "word": "insistir",
-    "translation": "to insist",
-    "pos": "verb"
+    "translation": "to insist"
   },
   {
     "id": 712,
     "word": "negar",
-    "translation": "to deny",
-    "pos": "verb"
+    "translation": "to deny"
   },
   {
     "id": 713,
     "word": "asegurar",
-    "translation": "to assure / to ensure",
-    "pos": "verb"
+    "translation": "to assure / to ensure"
   },
   {
     "id": 714,
     "word": "prometer",
-    "translation": "to promise",
-    "pos": "verb"
+    "translation": "to promise"
   },
   {
     "id": 715,
     "word": "añadir",
-    "translation": "to add",
-    "pos": "verb"
+    "translation": "to add"
   },
   {
     "id": 716,
     "word": "cubrir",
-    "translation": "to cover",
-    "pos": "verb"
+    "translation": "to cover"
   },
   {
     "id": 717,
     "word": "incluir",
-    "translation": "to include",
-    "pos": "verb"
+    "translation": "to include"
   },
   {
     "id": 718,
     "word": "impedir",
-    "translation": "to prevent / to hinder",
-    "pos": "verb"
+    "translation": "to prevent / to hinder"
   },
   {
     "id": 719,
     "word": "evitar",
-    "translation": "to avoid",
-    "pos": "verb"
+    "translation": "to avoid"
   },
   {
     "id": 720,
     "word": "compartir",
-    "translation": "to share",
-    "pos": "verb"
+    "translation": "to share"
   },
   {
     "id": 721,
     "word": "durar",
-    "translation": "to last",
-    "pos": "verb"
+    "translation": "to last"
   },
   {
     "id": 722,
     "word": "funcionar",
-    "translation": "to function / to work",
-    "pos": "verb"
+    "translation": "to function / to work"
   },
   {
     "id": 723,
     "word": "aplicar",
-    "translation": "to apply",
-    "pos": "verb"
+    "translation": "to apply"
   },
   {
     "id": 724,
     "word": "ocupar",
-    "translation": "to occupy",
-    "pos": "verb"
+    "translation": "to occupy"
   },
   {
     "id": 725,
     "word": "establecer",
-    "translation": "to establish",
-    "pos": "verb"
+    "translation": "to establish"
   },
   {
     "id": 726,
     "word": "reducir",
-    "translation": "to reduce",
-    "pos": "verb"
+    "translation": "to reduce"
   },
   {
     "id": 727,
     "word": "aumentar",
-    "translation": "to increase",
-    "pos": "verb"
+    "translation": "to increase"
   },
   {
     "id": 728,
     "word": "mejorar",
-    "translation": "to improve",
-    "pos": "verb"
+    "translation": "to improve"
   },
   {
     "id": 729,
     "word": "investigación",
-    "translation": "research / investigation",
-    "pos": "noun"
+    "translation": "research / investigation"
   },
   {
     "id": 730,
     "word": "reunión",
-    "translation": "meeting",
-    "pos": "noun"
+    "translation": "meeting"
   },
   {
     "id": 731,
     "word": "profesora",
-    "translation": "teacher",
-    "pos": "noun"
+    "translation": "teacher"
   },
   {
     "id": 732,
     "word": "maestro",
-    "translation": "teacher / master",
-    "pos": "noun"
+    "translation": "teacher / master"
   },
   {
     "id": 733,
     "word": "alumno",
-    "translation": "student / pupil",
-    "pos": "noun"
+    "translation": "student / pupil"
   },
   {
     "id": 734,
     "word": "médico",
-    "translation": "doctor / physician",
-    "pos": "noun"
+    "translation": "doctor / physician"
   },
   {
     "id": 735,
     "word": "enfermero",
-    "translation": "nurse",
-    "pos": "noun"
+    "translation": "nurse"
   },
   {
     "id": 736,
     "word": "abogado",
-    "translation": "lawyer",
-    "pos": "noun"
+    "translation": "lawyer"
   },
   {
     "id": 737,
     "word": "juez",
-    "translation": "judge",
-    "pos": "noun"
+    "translation": "judge"
   },
   {
     "id": 738,
     "word": "policía",
-    "translation": "police / police officer",
-    "pos": "noun"
+    "translation": "police / police officer"
   },
   {
     "id": 739,
     "word": "soldado",
-    "translation": "soldier",
-    "pos": "noun"
+    "translation": "soldier"
   },
   {
     "id": 740,
     "word": "vecino",
-    "translation": "neighbor",
-    "pos": "noun"
+    "translation": "neighbor"
   },
   {
     "id": 741,
     "word": "enemigo",
-    "translation": "enemy",
-    "pos": "noun"
+    "translation": "enemy"
   },
   {
     "id": 742,
     "word": "dios",
-    "translation": "god",
-    "pos": "noun"
+    "translation": "god"
   },
   {
     "id": 743,
     "word": "alma",
-    "translation": "soul",
-    "pos": "noun"
+    "translation": "soul"
   },
   {
     "id": 744,
     "word": "espíritu",
-    "translation": "spirit",
-    "pos": "noun"
+    "translation": "spirit"
   },
   {
     "id": 745,
     "word": "ropa",
-    "translation": "clothes / clothing",
-    "pos": "noun"
+    "translation": "clothes / clothing"
   },
   {
     "id": 746,
     "word": "pantalón",
-    "translation": "pants / trousers",
-    "pos": "noun"
+    "translation": "pants / trousers"
   },
   {
     "id": 747,
     "word": "falda",
-    "translation": "skirt",
-    "pos": "noun"
+    "translation": "skirt"
   },
   {
     "id": 748,
     "word": "chaqueta",
-    "translation": "jacket",
-    "pos": "noun"
+    "translation": "jacket"
   },
   {
     "id": 749,
     "word": "abrigo",
-    "translation": "coat",
-    "pos": "noun"
+    "translation": "coat"
   },
   {
     "id": 750,
     "word": "aceite",
-    "translation": "oil",
-    "pos": "noun"
+    "translation": "oil"
   },
   {
     "id": 751,
     "word": "azúcar",
-    "translation": "sugar",
-    "pos": "noun"
+    "translation": "sugar"
   },
   {
     "id": 752,
     "word": "sal",
-    "translation": "salt",
-    "pos": "noun"
+    "translation": "salt"
   },
   {
     "id": 753,
     "word": "carne",
-    "translation": "meat / flesh",
-    "pos": "noun"
+    "translation": "meat / flesh"
   },
   {
     "id": 754,
     "word": "fruta",
-    "translation": "fruit",
-    "pos": "noun"
+    "translation": "fruit"
   },
   {
     "id": 755,
     "word": "verdura",
-    "translation": "vegetable",
-    "pos": "noun"
+    "translation": "vegetable"
   },
   {
     "id": 756,
     "word": "arroz",
-    "translation": "rice",
-    "pos": "noun"
+    "translation": "rice"
   },
   {
     "id": 757,
     "word": "huevo",
-    "translation": "egg",
-    "pos": "noun"
+    "translation": "egg"
   },
   {
     "id": 758,
     "word": "queso",
-    "translation": "cheese",
-    "pos": "noun"
+    "translation": "cheese"
   },
   {
     "id": 759,
     "word": "café",
-    "translation": "coffee",
-    "pos": "noun"
+    "translation": "coffee"
   },
   {
     "id": 760,
     "word": "cerveza",
-    "translation": "beer",
-    "pos": "noun"
+    "translation": "beer"
   },
   {
     "id": 761,
     "word": "jugo",
-    "translation": "juice",
-    "pos": "noun"
+    "translation": "juice"
   },
   {
     "id": 762,
     "word": "plato",
-    "translation": "plate / dish",
-    "pos": "noun"
+    "translation": "plate / dish"
   },
   {
     "id": 763,
     "word": "cuchillo",
-    "translation": "knife",
-    "pos": "noun"
+    "translation": "knife"
   },
   {
     "id": 764,
     "word": "tenedor",
-    "translation": "fork",
-    "pos": "noun"
+    "translation": "fork"
   },
   {
     "id": 765,
     "word": "cuchara",
-    "translation": "spoon",
-    "pos": "noun"
+    "translation": "spoon"
   },
   {
     "id": 766,
     "word": "vaso",
-    "translation": "glass / cup",
-    "pos": "noun"
+    "translation": "glass / cup"
   },
   {
     "id": 767,
     "word": "taza",
-    "translation": "cup / mug",
-    "pos": "noun"
+    "translation": "cup / mug"
   },
   {
     "id": 768,
     "word": "botella",
-    "translation": "bottle",
-    "pos": "noun"
+    "translation": "bottle"
   },
   {
     "id": 769,
     "word": "nevera",
-    "translation": "refrigerator",
-    "pos": "noun"
+    "translation": "refrigerator"
   },
   {
     "id": 770,
     "word": "horno",
-    "translation": "oven",
-    "pos": "noun"
+    "translation": "oven"
   },
   {
     "id": 771,
     "word": "deporte",
-    "translation": "sport",
-    "pos": "noun"
+    "translation": "sport"
   },
   {
     "id": 772,
     "word": "fútbol",
-    "translation": "soccer / football",
-    "pos": "noun"
+    "translation": "soccer / football"
   },
   {
     "id": 773,
     "word": "jugador",
-    "translation": "player",
-    "pos": "noun"
+    "translation": "player"
   },
   {
     "id": 774,
     "word": "pelota",
-    "translation": "ball",
-    "pos": "noun"
+    "translation": "ball"
   },
   {
     "id": 775,
     "word": "premio",
-    "translation": "prize / award",
-    "pos": "noun"
+    "translation": "prize / award"
   },
   {
     "id": 776,
     "word": "internet",
-    "translation": "internet",
-    "pos": "noun"
+    "translation": "internet"
   },
   {
     "id": 777,
     "word": "página",
-    "translation": "page",
-    "pos": "noun"
+    "translation": "page"
   },
   {
     "id": 778,
     "word": "mensaje",
-    "translation": "message",
-    "pos": "noun"
+    "translation": "message"
   },
   {
     "id": 779,
     "word": "correo",
-    "translation": "mail / email",
-    "pos": "noun"
+    "translation": "mail / email"
   },
   {
     "id": 780,
     "word": "seguro",
-    "translation": "safe / sure / insurance",
-    "pos": "adj"
+    "translation": "safe / sure / insurance"
   },
   {
     "id": 781,
     "word": "hermoso",
-    "translation": "beautiful",
-    "pos": "adj"
+    "translation": "beautiful"
   },
   {
     "id": 782,
     "word": "feo",
-    "translation": "ugly",
-    "pos": "adj"
+    "translation": "ugly"
   },
   {
     "id": 783,
     "word": "gordo",
-    "translation": "fat",
-    "pos": "adj"
+    "translation": "fat"
   },
   {
     "id": 784,
     "word": "delgado",
-    "translation": "thin / slim",
-    "pos": "adj"
+    "translation": "thin / slim"
   },
   {
     "id": 785,
     "word": "ancho",
-    "translation": "wide",
-    "pos": "adj"
+    "translation": "wide"
   },
   {
     "id": 786,
     "word": "estrecho",
-    "translation": "narrow",
-    "pos": "adj"
+    "translation": "narrow"
   },
   {
     "id": 787,
     "word": "profundo",
-    "translation": "deep",
-    "pos": "adj"
+    "translation": "deep"
   },
   {
     "id": 788,
     "word": "ligero",
-    "translation": "light / slight",
-    "pos": "adj"
+    "translation": "light / slight"
   },
   {
     "id": 789,
     "word": "pesado",
-    "translation": "heavy",
-    "pos": "adj"
+    "translation": "heavy"
   },
   {
     "id": 790,
     "word": "suave",
-    "translation": "soft / smooth",
-    "pos": "adj"
+    "translation": "soft / smooth"
   },
   {
     "id": 791,
     "word": "duro",
-    "translation": "hard / tough",
-    "pos": "adj"
+    "translation": "hard / tough"
   },
   {
     "id": 792,
     "word": "seco",
-    "translation": "dry",
-    "pos": "adj"
+    "translation": "dry"
   },
   {
     "id": 793,
     "word": "mojado",
-    "translation": "wet",
-    "pos": "adj"
+    "translation": "wet"
   },
   {
     "id": 794,
     "word": "limpio",
-    "translation": "clean",
-    "pos": "adj"
+    "translation": "clean"
   },
   {
     "id": 795,
     "word": "sucio",
-    "translation": "dirty",
-    "pos": "adj"
+    "translation": "dirty"
   },
   {
     "id": 796,
     "word": "lento",
-    "translation": "slow",
-    "pos": "adj"
+    "translation": "slow"
   },
   {
     "id": 797,
     "word": "tranquilo",
-    "translation": "calm / quiet",
-    "pos": "adj"
+    "translation": "calm / quiet"
   },
   {
     "id": 798,
     "word": "enfermo",
-    "translation": "sick / ill",
-    "pos": "adj"
+    "translation": "sick / ill"
   },
   {
     "id": 799,
     "word": "sano",
-    "translation": "healthy",
-    "pos": "adj"
+    "translation": "healthy"
   },
   {
     "id": 800,
     "word": "extraño",
-    "translation": "strange / foreign",
-    "pos": "adj"
+    "translation": "strange / foreign"
   },
   {
     "id": 801,
     "word": "normal",
-    "translation": "normal",
-    "pos": "adj"
+    "translation": "normal"
   },
   {
     "id": 802,
     "word": "simple",
-    "translation": "simple",
-    "pos": "adj"
+    "translation": "simple"
   },
   {
     "id": 803,
     "word": "complejo",
-    "translation": "complex",
-    "pos": "adj"
+    "translation": "complex"
   },
   {
     "id": 804,
     "word": "antiguo",
-    "translation": "old / ancient",
-    "pos": "adj"
+    "translation": "old / ancient"
   },
   {
     "id": 805,
     "word": "moderno",
-    "translation": "modern",
-    "pos": "adj"
+    "translation": "modern"
   },
   {
     "id": 806,
     "word": "oscuro",
-    "translation": "dark",
-    "pos": "adj"
+    "translation": "dark"
   },
   {
     "id": 807,
     "word": "brillante",
-    "translation": "bright / brilliant",
-    "pos": "adj"
+    "translation": "bright / brilliant"
   },
   {
     "id": 808,
     "word": "enorme",
-    "translation": "enormous",
-    "pos": "adj"
+    "translation": "enormous"
   },
   {
     "id": 809,
     "word": "diminuto",
-    "translation": "tiny",
-    "pos": "adj"
+    "translation": "tiny"
   },
   {
     "id": 810,
     "word": "agradable",
-    "translation": "pleasant / nice",
-    "pos": "adj"
+    "translation": "pleasant / nice"
   },
   {
     "id": 811,
     "word": "horrible",
-    "translation": "horrible",
-    "pos": "adj"
+    "translation": "horrible"
   },
   {
     "id": 812,
     "word": "inteligente",
-    "translation": "intelligent",
-    "pos": "adj"
+    "translation": "intelligent"
   },
   {
     "id": 813,
     "word": "amable",
-    "translation": "kind / friendly",
-    "pos": "adj"
+    "translation": "kind / friendly"
   },
   {
     "id": 814,
     "word": "valiente",
-    "translation": "brave",
-    "pos": "adj"
+    "translation": "brave"
   },
   {
     "id": 815,
     "word": "cobarde",
-    "translation": "cowardly / coward",
-    "pos": "adj"
+    "translation": "cowardly / coward"
   },
   {
     "id": 816,
     "word": "orgulloso",
-    "translation": "proud",
-    "pos": "adj"
+    "translation": "proud"
   },
   {
     "id": 817,
     "word": "cansado",
-    "translation": "tired",
-    "pos": "adj"
+    "translation": "tired"
   },
   {
     "id": 818,
     "word": "ocupado",
-    "translation": "busy / occupied",
-    "pos": "adj"
+    "translation": "busy / occupied"
   },
   {
     "id": 819,
     "word": "listo",
-    "translation": "ready / clever",
-    "pos": "adj"
+    "translation": "ready / clever"
   },
   {
     "id": 820,
     "word": "quizá",
-    "translation": "perhaps / maybe",
-    "pos": "adv"
+    "translation": "perhaps / maybe"
   },
   {
     "id": 821,
     "word": "incluso",
-    "translation": "even / including",
-    "pos": "adv"
+    "translation": "even / including"
   },
   {
     "id": 822,
     "word": "aún",
-    "translation": "still / yet / even",
-    "pos": "adv"
+    "translation": "still / yet / even"
   },
   {
     "id": 823,
     "word": "jamás",
-    "translation": "never / ever",
-    "pos": "adv"
+    "translation": "never / ever"
   },
   {
     "id": 824,
     "word": "enseguida",
-    "translation": "right away",
-    "pos": "adv"
+    "translation": "right away"
   },
   {
     "id": 825,
     "word": "adelante",
-    "translation": "forward / ahead",
-    "pos": "adv"
+    "translation": "forward / ahead"
   },
   {
     "id": 826,
     "word": "atrás",
-    "translation": "back / behind",
-    "pos": "adv"
+    "translation": "back / behind"
   },
   {
     "id": 827,
     "word": "enfrente",
-    "translation": "in front / opposite",
-    "pos": "adv"
+    "translation": "in front / opposite"
   },
   {
     "id": 828,
     "word": "debajo",
-    "translation": "underneath / below",
-    "pos": "adv"
+    "translation": "underneath / below"
   },
   {
     "id": 829,
     "word": "encima",
-    "translation": "on top / above",
-    "pos": "adv"
+    "translation": "on top / above"
   },
   {
     "id": 830,
     "word": "detrás",
-    "translation": "behind",
-    "pos": "adv"
+    "translation": "behind"
   },
   {
     "id": 831,
     "word": "delante",
-    "translation": "in front",
-    "pos": "adv"
+    "translation": "in front"
   },
   {
     "id": 832,
     "word": "alrededor",
-    "translation": "around",
-    "pos": "adv"
+    "translation": "around"
   },
   {
     "id": 833,
     "word": "derecha",
-    "translation": "right",
-    "pos": "noun"
+    "translation": "right"
   },
   {
     "id": 834,
     "word": "izquierda",
-    "translation": "left",
-    "pos": "noun"
+    "translation": "left"
   },
   {
     "id": 835,
     "word": "hija",
-    "translation": "daughter",
-    "pos": "noun"
+    "translation": "daughter"
   },
   {
     "id": 836,
     "word": "hermana",
-    "translation": "sister",
-    "pos": "noun"
+    "translation": "sister"
   },
   {
     "id": 837,
     "word": "abuelo",
-    "translation": "grandfather",
-    "pos": "noun"
+    "translation": "grandfather"
   },
   {
     "id": 838,
     "word": "abuela",
-    "translation": "grandmother",
-    "pos": "noun"
+    "translation": "grandmother"
   },
   {
     "id": 839,
     "word": "tío",
-    "translation": "uncle",
-    "pos": "noun"
+    "translation": "uncle"
   },
   {
     "id": 840,
     "word": "tía",
-    "translation": "aunt",
-    "pos": "noun"
+    "translation": "aunt"
   },
   {
     "id": 841,
     "word": "primo",
-    "translation": "cousin",
-    "pos": "noun"
+    "translation": "cousin"
   },
   {
     "id": 842,
     "word": "sobrino",
-    "translation": "nephew",
-    "pos": "noun"
+    "translation": "nephew"
   },
   {
     "id": 843,
     "word": "esposo",
-    "translation": "husband / spouse",
-    "pos": "noun"
+    "translation": "husband / spouse"
   },
   {
     "id": 844,
     "word": "esposa",
-    "translation": "wife / spouse",
-    "pos": "noun"
+    "translation": "wife / spouse"
   },
   {
     "id": 845,
     "word": "pareja",
-    "translation": "partner / couple",
-    "pos": "noun"
+    "translation": "partner / couple"
   },
   {
     "id": 846,
     "word": "bebé",
-    "translation": "baby",
-    "pos": "noun"
+    "translation": "baby"
   },
   {
     "id": 847,
     "word": "abuelos",
-    "translation": "grandparents",
-    "pos": "noun"
+    "translation": "grandparents"
   },
   {
     "id": 848,
     "word": "padres",
-    "translation": "parents",
-    "pos": "noun"
+    "translation": "parents"
   },
   {
     "id": 849,
     "word": "hijos",
-    "translation": "children / sons",
-    "pos": "noun"
+    "translation": "children / sons"
   },
   {
     "id": 850,
     "word": "invitar",
-    "translation": "to invite",
-    "pos": "verb"
+    "translation": "to invite"
   },
   {
     "id": 851,
     "word": "celebrar",
-    "translation": "to celebrate",
-    "pos": "verb"
+    "translation": "to celebrate"
   },
   {
     "id": 852,
     "word": "acompañar",
-    "translation": "to accompany",
-    "pos": "verb"
+    "translation": "to accompany"
   },
   {
     "id": 853,
     "word": "faltar",
-    "translation": "to lack / to be missing",
-    "pos": "verb"
+    "translation": "to lack / to be missing"
   },
   {
     "id": 854,
     "word": "sobrar",
-    "translation": "to be left over",
-    "pos": "verb"
+    "translation": "to be left over"
   },
   {
     "id": 855,
     "word": "pertenecer",
-    "translation": "to belong",
-    "pos": "verb"
+    "translation": "to belong"
   },
   {
     "id": 856,
     "word": "depender",
-    "translation": "to depend",
-    "pos": "verb"
+    "translation": "to depend"
   },
   {
     "id": 857,
     "word": "referir",
-    "translation": "to refer",
-    "pos": "verb"
+    "translation": "to refer"
   },
   {
     "id": 858,
     "word": "representar",
-    "translation": "to represent",
-    "pos": "verb"
+    "translation": "to represent"
   },
   {
     "id": 859,
     "word": "expresar",
-    "translation": "to express",
-    "pos": "verb"
+    "translation": "to express"
   },
   {
     "id": 860,
     "word": "significar",
-    "translation": "to mean / to signify",
-    "pos": "verb"
+    "translation": "to mean / to signify"
   },
   {
     "id": 861,
     "word": "demostrar",
-    "translation": "to demonstrate / to prove",
-    "pos": "verb"
+    "translation": "to demonstrate / to prove"
   },
   {
     "id": 862,
     "word": "exigir",
-    "translation": "to demand / to require",
-    "pos": "verb"
+    "translation": "to demand / to require"
   },
   {
     "id": 863,
     "word": "obligar",
-    "translation": "to force / to oblige",
-    "pos": "verb"
+    "translation": "to force / to oblige"
   },
   {
     "id": 864,
     "word": "respetar",
-    "translation": "to respect",
-    "pos": "verb"
+    "translation": "to respect"
   },
   {
     "id": 865,
     "word": "apoyar",
-    "translation": "to support",
-    "pos": "verb"
+    "translation": "to support"
   },
   {
     "id": 866,
     "word": "aprobar",
-    "translation": "to approve / to pass",
-    "pos": "verb"
+    "translation": "to approve / to pass"
   },
   {
     "id": 867,
     "word": "rechazar",
-    "translation": "to reject",
-    "pos": "verb"
+    "translation": "to reject"
   },
   {
     "id": 868,
     "word": "soñar",
-    "translation": "to dream",
-    "pos": "verb"
+    "translation": "to dream"
   },
   {
     "id": 869,
     "word": "despertar",
-    "translation": "to wake up",
-    "pos": "verb"
+    "translation": "to wake up"
   },
   {
     "id": 870,
     "word": "vestir",
-    "translation": "to dress",
-    "pos": "verb"
+    "translation": "to dress"
   },
   {
     "id": 871,
     "word": "solución",
-    "translation": "solution",
-    "pos": "noun"
+    "translation": "solution"
   },
   {
     "id": 872,
     "word": "tecnología",
-    "translation": "technology",
-    "pos": "noun"
+    "translation": "technology"
   },
   {
     "id": 873,
     "word": "máquina",
-    "translation": "machine",
-    "pos": "noun"
+    "translation": "machine"
   },
   {
     "id": 874,
     "word": "herramienta",
-    "translation": "tool",
-    "pos": "noun"
+    "translation": "tool"
   },
   {
     "id": 875,
     "word": "recurso",
-    "translation": "resource",
-    "pos": "noun"
+    "translation": "resource"
   },
   {
     "id": 876,
     "word": "oportunidad",
-    "translation": "opportunity",
-    "pos": "noun"
+    "translation": "opportunity"
   },
   {
     "id": 877,
     "word": "capacidad",
-    "translation": "capacity / ability",
-    "pos": "noun"
+    "translation": "capacity / ability"
   },
   {
     "id": 878,
     "word": "responsabilidad",
-    "translation": "responsibility",
-    "pos": "noun"
+    "translation": "responsibility"
   },
   {
     "id": 879,
     "word": "necesidad",
-    "translation": "necessity / need",
-    "pos": "noun"
+    "translation": "necessity / need"
   },
   {
     "id": 880,
     "word": "posibilidad",
-    "translation": "possibility",
-    "pos": "noun"
+    "translation": "possibility"
   },
   {
     "id": 881,
     "word": "diferencia",
-    "translation": "difference",
-    "pos": "noun"
+    "translation": "difference"
   },
   {
     "id": 882,
     "word": "distancia",
-    "translation": "distance",
-    "pos": "noun"
+    "translation": "distance"
   },
   {
     "id": 883,
     "word": "cantidad",
-    "translation": "quantity / amount",
-    "pos": "noun"
+    "translation": "quantity / amount"
   },
   {
     "id": 884,
     "word": "calidad",
-    "translation": "quality",
-    "pos": "noun"
+    "translation": "quality"
   },
   {
     "id": 885,
     "word": "velocidad",
-    "translation": "speed / velocity",
-    "pos": "noun"
+    "translation": "speed / velocity"
   },
   {
     "id": 886,
     "word": "tamaño",
-    "translation": "size",
-    "pos": "noun"
+    "translation": "size"
   },
   {
     "id": 887,
     "word": "precio",
-    "translation": "price",
-    "pos": "noun"
+    "translation": "price"
   },
   {
     "id": 888,
     "word": "costo",
-    "translation": "cost",
-    "pos": "noun"
+    "translation": "cost"
   },
   {
     "id": 889,
     "word": "gasto",
-    "translation": "expense",
-    "pos": "noun"
+    "translation": "expense"
   },
   {
     "id": 890,
     "word": "negocio",
-    "translation": "business",
-    "pos": "noun"
+    "translation": "business"
   },
   {
     "id": 891,
     "word": "oficina",
-    "translation": "office",
-    "pos": "noun"
+    "translation": "office"
   },
   {
     "id": 892,
     "word": "fábrica",
-    "translation": "factory",
-    "pos": "noun"
+    "translation": "factory"
   },
   {
     "id": 893,
     "word": "industria",
-    "translation": "industry",
-    "pos": "noun"
+    "translation": "industry"
   },
   {
     "id": 894,
     "word": "comercio",
-    "translation": "commerce / trade",
-    "pos": "noun"
+    "translation": "commerce / trade"
   },
   {
     "id": 895,
     "word": "economía",
-    "translation": "economy",
-    "pos": "noun"
+    "translation": "economy"
   },
   {
     "id": 896,
     "word": "empleo",
-    "translation": "employment / job",
-    "pos": "noun"
+    "translation": "employment / job"
   },
   {
     "id": 897,
     "word": "sueldo",
-    "translation": "salary / wage",
-    "pos": "noun"
+    "translation": "salary / wage"
   },
   {
     "id": 898,
     "word": "jefe",
-    "translation": "boss / chief",
-    "pos": "noun"
+    "translation": "boss / chief"
   },
   {
     "id": 899,
     "word": "empleado",
-    "translation": "employee",
-    "pos": "noun"
+    "translation": "employee"
   },
   {
     "id": 900,
     "word": "cliente",
-    "translation": "client / customer",
-    "pos": "noun"
+    "translation": "client / customer"
   },
   {
     "id": 901,
     "word": "compañero",
-    "translation": "companion / colleague",
-    "pos": "noun"
+    "translation": "companion / colleague"
   },
   {
     "id": 902,
     "word": "escritor",
-    "translation": "writer",
-    "pos": "noun"
+    "translation": "writer"
   },
   {
     "id": 903,
     "word": "artista",
-    "translation": "artist",
-    "pos": "noun"
+    "translation": "artist"
   },
   {
     "id": 904,
     "word": "actor",
-    "translation": "actor",
-    "pos": "noun"
+    "translation": "actor"
   },
   {
     "id": 905,
     "word": "cantante",
-    "translation": "singer",
-    "pos": "noun"
+    "translation": "singer"
   },
   {
     "id": 906,
     "word": "periodista",
-    "translation": "journalist",
-    "pos": "noun"
+    "translation": "journalist"
   },
   {
     "id": 907,
     "word": "ingeniero",
-    "translation": "engineer",
-    "pos": "noun"
+    "translation": "engineer"
   },
   {
     "id": 908,
     "word": "científico",
-    "translation": "scientist",
-    "pos": "noun"
+    "translation": "scientist"
   },
   {
     "id": 909,
     "word": "traductor",
-    "translation": "translator",
-    "pos": "noun"
+    "translation": "translator"
   },
   {
     "id": 910,
     "word": "lección",
-    "translation": "lesson",
-    "pos": "noun"
+    "translation": "lesson"
   },
   {
     "id": 911,
     "word": "examen",
-    "translation": "exam / test",
-    "pos": "noun"
+    "translation": "exam / test"
   },
   {
     "id": 912,
     "word": "nota",
-    "translation": "grade / note",
-    "pos": "noun"
+    "translation": "grade / note"
   },
   {
     "id": 913,
     "word": "idioma",
-    "translation": "language",
-    "pos": "noun"
+    "translation": "language"
   },
   {
     "id": 914,
     "word": "frase",
-    "translation": "sentence / phrase",
-    "pos": "noun"
+    "translation": "sentence / phrase"
   },
   {
     "id": 915,
     "word": "letra",
-    "translation": "letter / lyrics",
-    "pos": "noun"
+    "translation": "letter / lyrics"
   },
   {
     "id": 916,
     "word": "sonido",
-    "translation": "sound",
-    "pos": "noun"
+    "translation": "sound"
   },
   {
     "id": 917,
     "word": "grito",
-    "translation": "shout / scream",
-    "pos": "noun"
+    "translation": "shout / scream"
   },
   {
     "id": 918,
     "word": "risa",
-    "translation": "laughter",
-    "pos": "noun"
+    "translation": "laughter"
   },
   {
     "id": 919,
     "word": "abrazo",
-    "translation": "hug / embrace",
-    "pos": "noun"
+    "translation": "hug / embrace"
   },
   {
     "id": 920,
     "word": "beso",
-    "translation": "kiss",
-    "pos": "noun"
+    "translation": "kiss"
   },
   {
     "id": 921,
     "word": "golpe",
-    "translation": "blow / hit",
-    "pos": "noun"
+    "translation": "blow / hit"
   },
   {
     "id": 922,
     "word": "vuelo",
-    "translation": "flight",
-    "pos": "noun"
+    "translation": "flight"
   },
   {
     "id": 923,
     "word": "vivienda",
-    "translation": "housing / dwelling",
-    "pos": "noun"
+    "translation": "housing / dwelling"
   },
   {
     "id": 924,
     "word": "edificio",
-    "translation": "building",
-    "pos": "noun"
+    "translation": "building"
   },
   {
     "id": 925,
     "word": "torre",
-    "translation": "tower",
-    "pos": "noun"
+    "translation": "tower"
   },
   {
     "id": 926,
     "word": "castillo",
-    "translation": "castle",
-    "pos": "noun"
+    "translation": "castle"
   },
   {
     "id": 927,
     "word": "museo",
-    "translation": "museum",
-    "pos": "noun"
+    "translation": "museum"
   },
   {
     "id": 928,
     "word": "biblioteca",
-    "translation": "library",
-    "pos": "noun"
+    "translation": "library"
   },
   {
     "id": 929,
     "word": "parque",
-    "translation": "park",
-    "pos": "noun"
+    "translation": "park"
   },
   {
     "id": 930,
     "word": "cárcel",
-    "translation": "prison / jail",
-    "pos": "noun"
+    "translation": "prison / jail"
   },
   {
     "id": 931,
     "word": "frontera",
-    "translation": "border / frontier",
-    "pos": "noun"
+    "translation": "border / frontier"
   },
   {
     "id": 932,
     "word": "territorio",
-    "translation": "territory",
-    "pos": "noun"
+    "translation": "territory"
   },
   {
     "id": 933,
     "word": "región",
-    "translation": "region",
-    "pos": "noun"
+    "translation": "region"
   },
   {
     "id": 934,
     "word": "provincia",
-    "translation": "province",
-    "pos": "noun"
+    "translation": "province"
   },
   {
     "id": 935,
     "word": "capital",
-    "translation": "capital",
-    "pos": "noun"
+    "translation": "capital"
   },
   {
     "id": 936,
     "word": "religión",
-    "translation": "religion",
-    "pos": "noun"
+    "translation": "religion"
   },
   {
     "id": 937,
     "word": "tradición",
-    "translation": "tradition",
-    "pos": "noun"
+    "translation": "tradition"
   },
   {
     "id": 938,
     "word": "costumbre",
-    "translation": "custom / habit",
-    "pos": "noun"
+    "translation": "custom / habit"
   },
   {
     "id": 939,
     "word": "ceremonia",
-    "translation": "ceremony",
-    "pos": "noun"
+    "translation": "ceremony"
   },
   {
     "id": 940,
     "word": "cargo",
-    "translation": "position / charge",
-    "pos": "noun"
+    "translation": "position / charge"
   },
   {
     "id": 941,
     "word": "elección",
-    "translation": "election / choice",
-    "pos": "noun"
+    "translation": "election / choice"
   },
   {
     "id": 942,
     "word": "discurso",
-    "translation": "speech / discourse",
-    "pos": "noun"
+    "translation": "speech / discourse"
   },
   {
     "id": 943,
     "word": "debate",
-    "translation": "debate",
-    "pos": "noun"
+    "translation": "debate"
   },
   {
     "id": 944,
     "word": "crisis",
-    "translation": "crisis",
-    "pos": "noun"
+    "translation": "crisis"
   },
   {
     "id": 945,
     "word": "conflicto",
-    "translation": "conflict",
-    "pos": "noun"
+    "translation": "conflict"
   },
   {
     "id": 946,
     "word": "tratado",
-    "translation": "treaty",
-    "pos": "noun"
+    "translation": "treaty"
   },
   {
     "id": 947,
     "word": "constitución",
-    "translation": "constitution",
-    "pos": "noun"
+    "translation": "constitution"
   },
   {
     "id": 948,
     "word": "democracia",
-    "translation": "democracy",
-    "pos": "noun"
+    "translation": "democracy"
   },
   {
     "id": 949,
     "word": "dictadura",
-    "translation": "dictatorship",
-    "pos": "noun"
+    "translation": "dictatorship"
   },
   {
     "id": 950,
     "word": "revolución",
-    "translation": "revolution",
-    "pos": "noun"
+    "translation": "revolution"
   },
   {
     "id": 951,
     "word": "independencia",
-    "translation": "independence",
-    "pos": "noun"
+    "translation": "independence"
   },
   {
     "id": 952,
     "word": "protesta",
-    "translation": "protest",
-    "pos": "noun"
+    "translation": "protest"
   },
   {
     "id": 953,
     "word": "huelga",
-    "translation": "strike",
-    "pos": "noun"
+    "translation": "strike"
   },
   {
     "id": 954,
     "word": "manifestación",
-    "translation": "demonstration / protest",
-    "pos": "noun"
+    "translation": "demonstration / protest"
   },
   {
     "id": 955,
     "word": "noticia",
-    "translation": "news / piece of news",
-    "pos": "noun"
+    "translation": "news / piece of news"
   },
   {
     "id": 956,
     "word": "artículo",
-    "translation": "article",
-    "pos": "noun"
+    "translation": "article"
   },
   {
     "id": 957,
     "word": "entrevista",
-    "translation": "interview",
-    "pos": "noun"
+    "translation": "interview"
   },
   {
     "id": 958,
     "word": "conversación",
-    "translation": "conversation",
-    "pos": "noun"
+    "translation": "conversation"
   },
   {
     "id": 959,
     "word": "comentario",
-    "translation": "comment",
-    "pos": "noun"
+    "translation": "comment"
   },
   {
     "id": 960,
     "word": "crítica",
-    "translation": "criticism / review",
-    "pos": "noun"
+    "translation": "criticism / review"
   },
   {
     "id": 961,
     "word": "solicitud",
-    "translation": "request / application",
-    "pos": "noun"
+    "translation": "request / application"
   },
   {
     "id": 962,
     "word": "contrato",
-    "translation": "contract",
-    "pos": "noun"
+    "translation": "contract"
   },
   {
     "id": 963,
     "word": "documento",
-    "translation": "document",
-    "pos": "noun"
+    "translation": "document"
   },
   {
     "id": 964,
     "word": "informe",
-    "translation": "report",
-    "pos": "noun"
+    "translation": "report"
   },
   {
     "id": 965,
     "word": "prueba",
-    "translation": "proof / test / evidence",
-    "pos": "noun"
+    "translation": "proof / test / evidence"
   },
   {
     "id": 966,
     "word": "respeto",
-    "translation": "respect",
-    "pos": "noun"
+    "translation": "respect"
   }
 ]
