@@ -78,6 +78,15 @@ main {
   padding-top: 1rem;
 }
 
+.current-language-banner {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin: 0 0 0.75rem;
+  text-align: center;
+}
+
 /* ===== App Header ===== */
 .app-header {
   display: flex;
