@@ -1,6 +1,6 @@
 <template>
   <div class="flashcard-container" @click="flip">
-    <div class="flashcard" :class="{ flipped }">
+    <div class="flashcard" :class="{ flipped, resetting }">
       <div class="flashcard-face flashcard-front">
         <span class="card-pos">{{ word.pos }}</span>
         <span class="card-word">{{ word.word }}</span>
@@ -26,6 +26,7 @@ const props = defineProps({
 
 const emit = defineEmits(['flipped'])
 const flipped = ref(false)
+const resetting = ref(false)
 
 function flip() {
   flipped.value = !flipped.value
@@ -33,6 +34,10 @@ function flip() {
 }
 
 watch(() => props.word, () => {
+  resetting.value = true
   flipped.value = false
+  requestAnimationFrame(() => {
+    resetting.value = false
+  })
 })
 </script>

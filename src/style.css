@@ -381,6 +381,10 @@ main {
   transform-style: preserve-3d;
 }
 
+.flashcard.resetting {
+  transition: none;
+}
+
 .flashcard.flipped {
   transform: rotateY(180deg);
 }
