@@ -39,10 +39,12 @@
 
 <script setup>
 import { computed, ref, onMounted, onUnmounted } from 'vue'
+import { useRouter } from 'vue-router'
 import { useSettings } from '../composables/useSettings.js'
 import { useStats } from '../composables/useStats.js'
 import { languages } from '../data/languages.js'
 
+const router = useRouter()
 const { settings } = useSettings()
 const { getStreak } = useStats()
 
@@ -62,8 +64,14 @@ function toggleDropdown() {
 }
 
 function selectLang(code) {
+  if (settings.sourceLang === code) {
+    dropdownOpen.value = false
+    return
+  }
   settings.sourceLang = code
   dropdownOpen.value = false
+  menuOpen.value = false
+  router.push('/')
 }
 
 function onClickOutside(e) {
